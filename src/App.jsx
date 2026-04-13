@@ -154,7 +154,7 @@ function SupportPanel({ card, revealAll }) {
   )
 }
 
-function ResultBox({ result, onNext }) {
+function ResultBox({ result, onNext, canAdvance }) {
   if (!result) return null
 
   const levelState = result.new_level === result.old_level
@@ -175,7 +175,7 @@ function ResultBox({ result, onNext }) {
           <h3>{result.headline || 'Kết quả'}</h3>
           <p>{result.note || ''}</p>
         </div>
-        <button className="btn btn-primary" onClick={onNext}>Space / Enter / → / ↑ · Câu tiếp theo</button>
+        <button type="button" className="btn btn-primary" disabled={!canAdvance} onClick={onNext}>Space / Enter / → / ↑ · Câu tiếp theo</button>
       </div>
 
       {typoCallout}
@@ -501,10 +501,12 @@ function CatalogScreen({ catalogData, onStartStudy, busyName, collectionTitle })
 function App() {
   const drawerRef = useRef(null)
   const didBootstrapRef = useRef(false)
+  const submitLockRef = useRef(false)
   const [screen, setScreen] = useState('catalog')
   const [session, setSession] = useState(null)
   const [currentCard, setCurrentCard] = useState(null)
   const [result, setResult] = useState(null)
+  const [canAdvanceResult, setCanAdvanceResult] = useState(false)
   const [answerValue, setAnswerValue] = useState('')
   const [catalogData, setCatalogData] = useState(null)
   const [vocabSets, setVocabSets] = useState([])
@@ -602,10 +604,29 @@ function App() {
   }, [vocabProgressOpen, vocabProgressData])
 
   useEffect(() => {
+    if (!result) {
+      setCanAdvanceResult(false)
+      return undefined
+    }
+
+    setCanAdvanceResult(false)
+    const timer = window.setTimeout(() => {
+      setCanAdvanceResult(true)
+    }, 280)
+
+    return () => window.clearTimeout(timer)
+  }, [result])
+
+  useEffect(() => {
     const onKeyDown = (event) => {
       const hasResult = Boolean(result)
+      const shortcutKey = event.code === 'Space' ? 'Space' : event.key
 
-      if (hasResult && ['Space', 'Enter', 'ArrowRight', 'ArrowUp'].includes(event.code === 'Space' ? 'Space' : event.key)) {
+      if (hasResult && ['Space', 'Enter', 'ArrowRight', 'ArrowUp'].includes(shortcutKey)) {
+        if (event.repeat || !canAdvanceResult) {
+          event.preventDefault()
+          return
+        }
         event.preventDefault()
         loadCard().catch((error) => setErrorMessage(error.message || 'Không tải được câu tiếp theo.'))
         return
@@ -627,7 +648,7 @@ function App() {
 
     window.addEventListener('keydown', onKeyDown)
     return () => window.removeEventListener('keydown', onKeyDown)
-  }, [currentCard, isSubmitting, loadCard, result])
+  }, [canAdvanceResult, currentCard, isSubmitting, loadCard, result])
 
   const stats = useMemo(() => {
     const progress = session?.progress
@@ -657,7 +678,8 @@ function App() {
   }, [result])
 
   async function submitAnswer(payload) {
-    if (!currentCard || isSubmitting) return
+    if (!currentCard || isSubmitting || submitLockRef.current) return
+    submitLockRef.current = true
     setIsSubmitting(true)
 
     try {
@@ -677,6 +699,7 @@ function App() {
       setIsSubmitting(false)
       await loadCard()
     } finally {
+      submitLockRef.current = false
       setIsSubmitting(false)
     }
   }
@@ -1055,11 +1078,13 @@ function App() {
                           onChange={(event) => setAnswerValue(event.target.value)}
                           onKeyDown={(event) => {
                             if (event.key === 'Enter' && !result) {
+                              event.preventDefault()
+                              if (event.repeat) return
                               submitTextAnswer()
                             }
                           }}
                         />
-                        <button className="btn btn-primary" id="submitAnswerBtn" disabled={isSubmitting || Boolean(result)} onClick={submitTextAnswer}>
+                        <button type="button" className="btn btn-primary" id="submitAnswerBtn" disabled={isSubmitting || Boolean(result)} onClick={submitTextAnswer}>
                           {currentCard.mode === 'intro' ? 'Xác nhận' : 'Kiểm tra'}
                         </button>
                       </div>
@@ -1075,7 +1100,7 @@ function App() {
                   )}
                 </div>
 
-                <ResultBox result={result} onNext={() => loadCard().catch((error) => setErrorMessage(error.message || 'Không tải được câu tiếp theo.'))} />
+                <ResultBox canAdvance={canAdvanceResult} result={result} onNext={() => loadCard().catch((error) => setErrorMessage(error.message || 'Không tải được câu tiếp theo.'))} />
               </section>
 
               <SupportPanel card={currentCard} revealAll={Boolean(result)} />
