@@ -502,11 +502,13 @@ function App() {
   const drawerRef = useRef(null)
   const didBootstrapRef = useRef(false)
   const submitLockRef = useRef(false)
+  const autoSpeakRef = useRef('')
   const [screen, setScreen] = useState('catalog')
   const [session, setSession] = useState(null)
   const [currentCard, setCurrentCard] = useState(null)
   const [result, setResult] = useState(null)
   const [canAdvanceResult, setCanAdvanceResult] = useState(false)
+  const [isSpeaking, setIsSpeaking] = useState(false)
   const [answerValue, setAnswerValue] = useState('')
   const [catalogData, setCatalogData] = useState(null)
   const [vocabSets, setVocabSets] = useState([])
@@ -535,6 +537,35 @@ function App() {
       setModeBalance(nextSession.mode_balance)
       setModeRatioDraft(nextSession.mode_balance.vi_to_en_ratio)
     }
+  }, [])
+
+  const stopSpeaking = useCallback(() => {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window)) return
+    window.speechSynthesis.cancel()
+    setIsSpeaking(false)
+  }, [])
+
+  const speakWord = useCallback((word) => {
+    const text = String(word || '').trim()
+    if (!text || typeof window === 'undefined' || !('speechSynthesis' in window) || typeof window.SpeechSynthesisUtterance === 'undefined') return
+
+    const synth = window.speechSynthesis
+    synth.cancel()
+
+    const utterance = new window.SpeechSynthesisUtterance(text)
+    utterance.lang = 'en-US'
+    utterance.rate = 0.92
+    utterance.pitch = 1
+
+    const englishVoice = synth.getVoices().find((voice) => /^en(-|_)/i.test(voice.lang))
+    if (englishVoice) utterance.voice = englishVoice
+
+    utterance.onstart = () => setIsSpeaking(true)
+    utterance.onend = () => setIsSpeaking(false)
+    utterance.onerror = () => setIsSpeaking(false)
+
+    setIsSpeaking(true)
+    synth.speak(utterance)
   }, [])
 
   const loadVocabProgress = useCallback(async () => {
@@ -592,6 +623,44 @@ function App() {
     didBootstrapRef.current = true
     bootstrap()
   }, [bootstrap])
+
+  useEffect(() => {
+    stopSpeaking()
+  }, [currentCard?.wid, stopSpeaking])
+
+  useEffect(() => {
+    if (!currentCard?.wid || !currentCard?.word) {
+      autoSpeakRef.current = ''
+      return
+    }
+
+    let shouldAutoSpeak = false
+
+    if (currentCard.mode === 'intro') {
+      shouldAutoSpeak = true
+    } else if (currentCard.mode === 'en_to_vi') {
+      shouldAutoSpeak = true
+    } else if (currentCard.mode === 'vi_to_en' && result) {
+      shouldAutoSpeak = true
+    }
+
+    if (!shouldAutoSpeak) {
+      if (currentCard.mode === 'vi_to_en' && !result) {
+        autoSpeakRef.current = ''
+      }
+      return
+    }
+
+    const speakKey = `${currentCard.wid}:${currentCard.mode}:${result ? 'result' : 'prompt'}`
+    if (autoSpeakRef.current === speakKey) return
+    autoSpeakRef.current = speakKey
+
+    const timer = window.setTimeout(() => {
+      speakWord(currentCard.word)
+    }, 220)
+
+    return () => window.clearTimeout(timer)
+  }, [currentCard, result, speakWord])
 
   useEffect(() => {
     if (!vocabProgressOpen) return
@@ -676,6 +745,13 @@ function App() {
     if (result.status === 'wrong') return 'answered-wrong'
     return ''
   }, [result])
+
+  const speechSupported = typeof window !== 'undefined'
+    && 'speechSynthesis' in window
+    && typeof window.SpeechSynthesisUtterance !== 'undefined'
+
+  const canSpeakCurrentWord = Boolean(currentCard?.word)
+    && (currentCard?.mode !== 'vi_to_en' || Boolean(result))
 
   async function submitAnswer(payload) {
     if (!currentCard || isSubmitting || submitLockRef.current) return
@@ -1034,12 +1110,33 @@ function App() {
                           ? 'Tự nhớ đáp án rồi trả lời thật dứt khoát để hệ thống cập nhật bậc chính xác hơn.'
                           : 'Tự nhớ nghĩa tiếng Việt trước, sau đó tự đánh giá mức độ nhớ để cập nhật bậc phù hợp.'}
                     </p>
-                    <div className="prompt-panel">
-                      {currentCard.mode === 'intro'
-                        ? `${currentCard.word} = ${currentCard.meaning_vi || ''}`
-                        : currentCard.mode === 'vi_to_en'
-                          ? currentCard.prompt_vi
-                          : currentCard.word}
+
+                    <div className={`prompt-panel ${canSpeakCurrentWord ? 'has-audio' : ''}`}>
+                      <div className="prompt-panel-text">
+                        {currentCard.mode === 'intro'
+                          ? `${currentCard.word} = ${currentCard.meaning_vi || ''}`
+                          : currentCard.mode === 'vi_to_en'
+                            ? currentCard.prompt_vi
+                            : currentCard.word}
+                      </div>
+
+                      {canSpeakCurrentWord ? (
+                        <button
+                          type="button"
+                          className={`btn speak-btn prompt-speak-btn ${isSpeaking ? 'active' : ''}`}
+                          onClick={() => {
+                            if (isSpeaking) {
+                              stopSpeaking()
+                              return
+                            }
+                            speakWord(currentCard.word)
+                          }}
+                          disabled={!speechSupported}
+                        >
+                          <span className="speak-btn-icon" aria-hidden="true">{isSpeaking ? '🔊' : '🔈'}</span>
+                          <span>{isSpeaking ? 'Dừng phát âm' : 'Nghe phát âm'}</span>
+                        </button>
+                      ) : null}
                     </div>
                   </div>
 
