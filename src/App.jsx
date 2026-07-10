@@ -505,6 +505,7 @@ function App() {
   const didBootstrapRef = useRef(false)
   const submitLockRef = useRef(false)
   const autoSpeakRef = useRef('')
+  const answerInputRef = useRef(null)
   const [screen, setScreen] = useState('catalog')
   const [session, setSession] = useState(null)
   const [currentCard, setCurrentCard] = useState(null)
@@ -629,6 +630,12 @@ function App() {
   useEffect(() => {
     stopSpeaking()
   }, [currentCard?.wid, stopSpeaking])
+
+  useEffect(() => {
+    if (currentCard && !result && currentCard.mode !== 'en_to_vi') {
+      answerInputRef.current?.focus()
+    }
+  }, [currentCard, result])
 
   useEffect(() => {
     if (!currentCard?.wid || !currentCard?.word) {
@@ -1173,6 +1180,7 @@ function App() {
                       <div className="answer-row">
                         <input
                           id="answerInput"
+                          ref={answerInputRef}
                           className={answerInputClass}
                           type="text"
                           placeholder={currentCard.mode === 'intro' ? 'Nhập lại từ tiếng Anh' : 'Nhập từ tiếng Anh'}
