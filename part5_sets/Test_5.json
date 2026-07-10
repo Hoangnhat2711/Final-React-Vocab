@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 5",
+  "title": "TOEIC Part 5 · Test 5 · Collocations & Word Forms Mastery",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The company offers a generous _________ package that includes health insurance and retirement benefits.",
+      "options": [
+        "compensate",
+        "compensation",
+        "compensatory",
+        "compensating"
+      ],
+      "answer": 1,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau TTSH+Adj",
+      "explanation": "TTSH 'a generous' + ___ → N. Compensation = tiền đền bù, lương thưởng. Dịch: Công ty cung cấp gói đãi ngộ hậu hĩnh bao gồm bảo hiểm y tế và lương hưu.",
+      "tip": "Adj + ___ → N. Compensate(V) → compensation(N). 'Compensation package' = collocation."
+    },
+    {
+      "id": 2,
+      "question": "The sales team exceeded their annual _________ by more than thirty percent.",
+      "options": [
+        "targets",
+        "target",
+        "targeting",
+        "targeted"
+      ],
+      "answer": 0,
+      "type": "noun_plural",
+      "type_label": "Dạng từ — N số nhiều",
+      "explanation": "Annual targets = mục tiêu hàng năm. Số nhiều vì đề cập nhiều mục tiêu. Dịch: Đội bán hàng vượt mục tiêu hàng năm hơn 30%.",
+      "tip": "Exceed targets = vượt mục tiêu. Target(N) → targets(N số nhiều)."
+    },
+    {
+      "id": 3,
+      "question": "_________ the lack of funding, the research team continued their experiments.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Whereas"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the lack of funding' là cụm N. Dịch: Mặc dù thiếu vốn, đội nghiên cứu vẫn tiếp tục thí nghiệm.",
+      "tip": "Despite/In spite of + N. Although + S + V. Lack of N = thiếu N."
+    },
+    {
+      "id": 4,
+      "question": "The new airport terminal is designed to _________ up to fifty million passengers annually.",
+      "options": [
+        "handle",
+        "handling",
+        "handled",
+        "handler"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Handle = xử lý, tiếp nhận. Dịch: Nhà ga sân bay mới được thiết kế để tiếp nhận tới 50 triệu hành khách mỗi năm.",
+      "tip": "To + Vo (mục đích). Handle(V) → handler(N người). 'Handle passengers' = tiếp nhận khách."
+    },
+    {
+      "id": 5,
+      "question": "The product recall was initiated _________ reports of safety concerns from several customers.",
+      "options": [
+        "due to",
+        "because",
+        "since",
+        "as"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — due to + N",
+      "explanation": "Due to + N = do. 'reports of safety concerns' là cụm N. Dịch: Thu hồi sản phẩm được khởi xướng do các báo cáo lo ngại an toàn từ nhiều khách hàng.",
+      "tip": "Due to / Because of + N. Because / Since / As + S + V."
+    },
+    {
+      "id": 6,
+      "question": "All employees are entitled _________ paid vacation time after their probationary period.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — entitled to",
+      "explanation": "Be entitled to + N/Ving = có quyền được. Collocation cố định. Dịch: Tất cả nhân viên có quyền được nghỉ phép có lương sau thời gian thử việc.",
+      "tip": "Entitled TO sth = có quyền được. Entitle(V) → entitlement(N). 'Be entitled to' = collocation."
+    },
+    {
+      "id": 7,
+      "question": "The manager spoke _________ about the team's accomplishments during the annual review.",
+      "options": [
+        "proudly",
+        "proud",
+        "pride",
+        "proudly"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv sau V",
+      "explanation": "V 'spoke' + ___ → Adv. Proudly = một cách tự hào. Dịch: Quản lý nói tự hào về thành tích của đội trong buổi đánh giá hàng năm.",
+      "tip": "V + ___ → Adv. Proud(Adj) → proudly(Adv). Pride(N). Speak proudly = nói tự hào."
+    },
+    {
+      "id": 8,
+      "question": "The proposal was _________ rejected by the board due to insufficient data.",
+      "options": [
+        "unanimously",
+        "unanimous",
+        "unanimity",
+        "unanimous"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Bị động: was + Ved (rejected). Adv ở giữa. Unanimously = nhất trí toàn thể. Dịch: Đề xuất bị bác bỏ nhất trí bởi hội đồng do dữ liệu không đủ.",
+      "tip": "Was/were + Adv + Ved/c3. Unanimous(Adj) → unanimously(Adv). Unanimously rejected = bác bỏ nhất trí."
+    },
+    {
+      "id": 9,
+      "question": "The customer's complaint was handled _________ and professionally by the support team.",
+      "options": [
+        "promptly",
+        "prompt",
+        "prompting",
+        "promptness"
+      ],
+      "answer": 0,
+      "type": "adverb_conjunction",
+      "type_label": "Dạng từ — Adv trước and",
+      "explanation": "___ và professionally (Adv) → cần Adv song song. Promptly = nhanh chóng. Dịch: Khiếu nại khách hàng được xử lý nhanh chóng và chuyên nghiệp bởi đội hỗ trợ.",
+      "tip": "Cấu trúc song song: Adv and Adv. Promptly and professionally. Prompt(Adj) → promptly(Adv)."
+    },
+    {
+      "id": 10,
+      "question": "The festival attracted visitors from _________ the country.",
+      "options": [
+        "all over",
+        "all",
+        "many",
+        "several"
+      ],
+      "answer": 0,
+      "type": "preposition_phrase",
+      "type_label": "Cụm giới từ — all over",
+      "explanation": "All over = khắp. 'all over the country' = khắp cả nước. Dịch: Lễ hội thu hút du khách từ khắp cả nước.",
+      "tip": "All over the country/world = khắp cả nước/thế giới. All + N (không có over) cũng đúng nhưng khác cấu trúc."
+    },
+    {
+      "id": 11,
+      "question": "The company's commitment to environmental _________ has earned it numerous awards.",
+      "options": [
+        "sustainability",
+        "sustain",
+        "sustained",
+        "sustaining"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau giới từ",
+      "explanation": "Sau giới từ 'to' → N. Sustainability = tính bền vững. Dịch: Cam kết về tính bền vững môi trường đã giúp công ty giành nhiều giải thưởng.",
+      "tip": "Preposition + ___ → N. Sustain(V) → sustainability(N). 'Commitment to' + N/Ving."
+    },
+    {
+      "id": 12,
+      "question": "The seminar will cover a wide _________ of topics related to digital marketing.",
+      "options": [
+        "range",
+        "ranging",
+        "ranged",
+        "ranges"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N trong collocation",
+      "explanation": "A wide range of = một phạm vi rộng (collocation). Range = phạm vi, dải. Dịch: Hội thảo sẽ bao phủ nhiều chủ đề liên quan đến marketing kỹ thuật số.",
+      "tip": "A wide/broad RANGE of N = nhiều, đa dạng. Collocation cố định. Không dùng ranges (số ít sau 'a')."
+    },
+    {
+      "id": 13,
+      "question": "The IT department resolved the network issue _________ within thirty minutes of the report.",
+      "options": [
+        "efficiently",
+        "efficient",
+        "efficiency",
+        "efficiently"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv bổ nghĩa V",
+      "explanation": "V 'resolved' + ___ → Adv. Efficiently = một cách hiệu quả. Dịch: Phòng IT giải quyết sự cố mạng hiệu quả trong vòng 30 phút sau báo cáo.",
+      "tip": "V + ___ → Adv. Efficient(Adj) → efficiently(Adv). Efficiency(N) = hiệu suất."
+    },
+    {
+      "id": 14,
+      "question": "The new regulations will come into _________ at the beginning of next year.",
+      "options": [
+        "effect",
+        "affect",
+        "effective",
+        "effectively"
+      ],
+      "answer": 0,
+      "type": "vocabulary",
+      "type_label": "Từ vựng — come into effect",
+      "explanation": "Come into effect = có hiệu lực. Collocation cố định. Dịch: Quy định mới sẽ có hiệu lực từ đầu năm sau.",
+      "tip": "Come into/take effect = có hiệu lực. Effect(N) ≠ affect(V) = ảnh hưởng. Rất hay nhầm!"
+    },
+    {
+      "id": 15,
+      "question": "The HR department is responsible _________ recruiting and training new employees.",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "to"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — responsible for",
+      "explanation": "Be responsible for + N/Ving = chịu trách nhiệm về. Dịch: Phòng nhân sự chịu trách nhiệm tuyển dụng và đào tạo nhân viên mới.",
+      "tip": "Responsible FOR (không phải of/with/to). Collocation phải nhớ."
+    },
+    {
+      "id": 16,
+      "question": "The board approved the budget _________ a majority vote of seven to two.",
+      "options": [
+        "by",
+        "with",
+        "through",
+        "in"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — by (phương thức)",
+      "explanation": "By + N = bằng cách, thông qua (phương thức). 'By a majority vote' = bằng đa số phiếu. Dịch: Hội đồng phê duyệt ngân sách bằng đa số phiếu 7-2.",
+      "tip": "By = bằng phương thức (by vote, by email, by phone). By + cách thức."
+    },
+    {
+      "id": 17,
+      "question": "The company attributed its success _________ the dedication of its employees.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — attribute to",
+      "explanation": "Attribute sth TO sth = quy cho, gán cho. Dịch: Công ty gán thành công của mình cho sự tận tâm của nhân viên.",
+      "tip": "Attribute sth TO sth = gán cái gì cho cái gì. Contribute TO sth = đóng góp cho. Nhớ 'TO'."
+    },
+    {
+      "id": 18,
+      "question": "The new policy requires that all employees _________ annual cybersecurity training.",
+      "options": [
+        "complete",
+        "completes",
+        "completed",
+        "completing"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — require that + Vo",
+      "explanation": "Sau require + that → S + Vo. Complete = nguyên thể. Dịch: Chính sách mới yêu cầu tất cả nhân viên hoàn thành đào tạo an ninh mạng hàng năm.",
+      "tip": "Require/Suggest/Demand/Insist + that + S + Vo. Complete (không completes)."
+    },
+    {
+      "id": 19,
+      "question": "The report indicated a _________ improvement in customer satisfaction scores.",
+      "options": [
+        "significant",
+        "significantly",
+        "significance",
+        "signify"
+      ],
+      "answer": 0,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'improvement' → Adj. Significant = đáng kể. Dịch: Báo cáo cho thấy sự cải thiện đáng kể trong điểm hài lòng khách hàng.",
+      "tip": "___ + N → Adj. Significance(N) → significant(Adj) → significantly(Adv)."
+    },
+    {
+      "id": 20,
+      "question": "The purchasing department is _________ seeking new suppliers to reduce costs.",
+      "options": [
+        "actively",
+        "active",
+        "activity",
+        "activate"
+      ],
+      "answer": 0,
+      "type": "adverb_progressive",
+      "type_label": "Dạng từ — Adv trong HT tiếp diễn",
+      "explanation": "Tobe 'is' + Adv + Ving. Actively = một cách tích cực. Dịch: Bộ phận mua hàng đang tích cực tìm nhà cung cấp mới để giảm chi phí.",
+      "tip": "Is/Are + Adv + Ving. Active(Adj) → actively(Adv). 'Actively seeking' = collocation."
+    },
+    {
+      "id": 21,
+      "question": "The company decided to _________ its partnership with the overseas distributor.",
+      "options": [
+        "terminate",
+        "terminating",
+        "termination",
+        "terminator"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Terminate = chấm dứt. Dịch: Công ty quyết định chấm dứt đối tác với nhà phân phối nước ngoài.",
+      "tip": "To + Vo. Decide to + Vo. Terminate(V) → termination(N). Terminate a contract/partnership."
+    },
+    {
+      "id": 22,
+      "question": "_________ the financial difficulties, the startup managed to launch its product on time.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the financial difficulties' là cụm N. Dịch: Mặc dù khó khăn tài chính, startup vẫn ra mắt sản phẩm đúng hạn.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 23,
+      "question": "The board members voted _________ the proposed changes to the company's bylaws.",
+      "options": [
+        "against",
+        "again",
+        "oppose",
+        "opposite"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — vote against",
+      "explanation": "Vote against = bỏ phiếu chống. Collocation cố định. Dịch: Thành viên hội đồng bỏ phiếu chống các thay đổi đề xuất đối với điều lệ công ty.",
+      "tip": "Vote FOR = bỏ phiếu thuận. Vote AGAINST = bỏ phiếu chống. Against là giới từ."
+    },
+    {
+      "id": 24,
+      "question": "The HR manager emphasized the _________ of maintaining a healthy work-life balance.",
+      "options": [
+        "importance",
+        "important",
+        "importantly",
+        "import"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau mạo từ",
+      "explanation": "The + ___ + of → N. Importance = tầm quan trọng. Dịch: Quản lý nhân sự nhấn mạnh tầm quan trọng của việc duy trì cân bằng công việc-cuộc sống.",
+      "tip": "The + ___ + of → N. Important(Adj) → importance(N). 'The importance of' = collocation."
+    },
+    {
+      "id": 25,
+      "question": "The _________ edition of the magazine features an exclusive interview with the CEO.",
+      "options": [
+        "latest",
+        "late",
+        "lately",
+        "later"
+      ],
+      "answer": 0,
+      "type": "adjective",
+      "type_label": "Dạng từ — Adj trong cụm N",
+      "explanation": "___ + N 'edition' → Adj. Latest = mới nhất. Dịch: Tấn bản mới nhất của tạp chí có bài phỏng vấn độc quyền CEO.",
+      "tip": "Latest = mới nhất (Adj). Late = muộn. Lately = gần đây (Adv). Later = sau đó. Phân biệt kỹ 4 từ này."
+    },
+    {
+      "id": 26,
+      "question": "The company's stock price dropped _________ after the announcement of poor quarterly earnings.",
+      "options": [
+        "sharply",
+        "sharp",
+        "sharpness",
+        "sharpen"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv sau V",
+      "explanation": "V 'dropped' + ___ → Adv. Sharply = một cách đột ngột. Dịch: Giá cổ phiếu công ty giảm đột ngột sau thông báo lợi nhuận quý kém.",
+      "tip": "V + ___ → Adv. Sharp(Adj) → sharply(Adv). 'Drop sharply' = giảm mạnh (collocation tài chính)."
+    },
+    {
+      "id": 27,
+      "question": "The engineering team is capable _________ solving complex technical problems.",
+      "options": [
+        "of",
+        "for",
+        "to",
+        "with"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — capable of",
+      "explanation": "Be capable OF + N/Ving = có khả năng. Collocation cố định. Dịch: Đội kỹ sư có khả năng giải quyết vấn đề kỹ thuật phức tạp.",
+      "tip": "Capable OF + N/Ving. (Không phải capable to/for/with). ≠ able TO + Vo."
+    },
+    {
+      "id": 28,
+      "question": "The new employee was _________ impressed by the company's modern facilities.",
+      "options": [
+        "particularly",
+        "particular",
+        "particulars",
+        "particularity"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Bị động: was + Ved (impressed). Adv ở giữa. Particularly = đặc biệt. Dịch: Nhân viên mới đặc biệt ấn tượng với cơ sở vật chất hiện đại của công ty.",
+      "tip": "Was/were + Adv + Ved/c3. Particular(Adj) → particularly(Adv) = đặc biệt."
+    },
+    {
+      "id": 29,
+      "question": "The supervisor demanded that the report _________ on his desk by nine o'clock.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — demand that + Vo",
+      "explanation": "Sau demand + that → S + Vo. Be = nguyên thể. Dịch: Giám sát yêu cầu báo cáo phải ở trên bàn anh ấy lúc 9 giờ.",
+      "tip": "Demand/Insist/Request + that + S + Vo. Be (không to be, không is/was)."
+    },
+    {
+      "id": 30,
+      "question": "The company has invested _________ in renewable energy projects over the past five years.",
+      "options": [
+        "heavily",
+        "heavy",
+        "heaviness",
+        "heavier"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv sau V",
+      "explanation": "V 'invested' + ___ → Adv. Heavily = nhiều, đáng kể. Dịch: Công ty đã đầu tư đáng kể vào dự án năng lượng tái tạo trong 5 năm qua.",
+      "tip": "V + ___ → Adv. 'Invest heavily in' = collocation = đầu tư mạnh vào. Heavy(Adj) → heavily(Adv)."
+    }
+  ]
+}

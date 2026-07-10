@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 3",
+  "title": "TOEIC Part 5 · Test 3 · Vocabulary, Collocations & Conditionals",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The company's new advertising _________ has generated significant interest among younger consumers.",
+      "options": [
+        "strategy",
+        "strategic",
+        "strategically",
+        "strategist"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau TTSH+N",
+      "explanation": "TTSH 'company's new' + Adj 'advertising' + ___ → cần N. Strategy = chiến lược. Dịch: Chiến lược quảng cáo mới của công ty đã thu hút sự quan tâm lớn từ người tiêu dùng trẻ.",
+      "tip": "Adj + ___ → N. Strategy(N) → strategic(Adj) → strategically(Adv)."
+    },
+    {
+      "id": 2,
+      "question": "Ms. Chen has been _________ recognized as one of the top engineers in her field.",
+      "options": [
+        "wide",
+        "widely",
+        "width",
+        "widen"
+      ],
+      "answer": 1,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Bị động: has been + Ved (recognized). Adv ở giữa. Widely = một cách rộng rãi. Dịch: Cô Chen được công nhận rộng rãi là một trong những kỹ sư hàng đầu.",
+      "tip": "Has been + Adv + Ved/c3. Wide(Adj) → widely(Adv). 'Widely recognized' = collocation hay gặp."
+    },
+    {
+      "id": 3,
+      "question": "All staff members are expected to _________ to the company's code of conduct.",
+      "options": [
+        "adhere",
+        "attend",
+        "agree",
+        "approach"
+      ],
+      "answer": 0,
+      "type": "vocabulary",
+      "type_label": "Từ vựng — adhere to (tuân thủ)",
+      "explanation": "Adhere to = tuân thủ (= comply with). Dịch: Tất cả nhân viên được kỳ vọng tuân thủ quy tắc ứng xử của công ty.",
+      "tip": "Adhere TO = comply WITH = conform TO = tuân thủ. Nhớ giới từ đi kèm."
+    },
+    {
+      "id": 4,
+      "question": "_________ the low turnout, the organizers considered the fundraiser a success.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the low turnout' là N → Despite. Dịch: Mặc dù ít người tham dự, ban tổ chức vẫn coi buổi gây quỹ là thành công.",
+      "tip": "Despite/In spite of + N. Although + S + V. Turnout = số người tham dự."
+    },
+    {
+      "id": 5,
+      "question": "The documents must be signed _________ the contract can be finalized.",
+      "options": [
+        "before",
+        "after",
+        "while",
+        "during"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Liên từ — before",
+      "explanation": "Before + S + V = trước khi. Thứ tự logic: ký trước → hoàn tất sau. Dịch: Tài liệu phải được ký trước khi hợp đồng có thể hoàn tất.",
+      "tip": "Before/After + S + V. During + N. While + S + V (đồng thời)."
+    },
+    {
+      "id": 6,
+      "question": "The restaurant's reputation for _________ has attracted food critics from around the world.",
+      "options": [
+        "excel",
+        "excellence",
+        "excellent",
+        "excellently"
+      ],
+      "answer": 1,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau giới từ",
+      "explanation": "Sau giới từ 'for' → N. Excellence = sự xuất sắc. Dịch: Danh tiếng về sự xuất sắc của nhà hàng đã thu hút các nhà phê bình ẩm thực từ khắp nơi.",
+      "tip": "Preposition + ___ → N. Excel(V) → excellence(N) → excellent(Adj) → excellently(Adv)."
+    },
+    {
+      "id": 7,
+      "question": "Employees _________ wish to participate in the wellness program should register by Friday.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — who",
+      "explanation": "N chỉ người 'employees' + cần chủ ngữ + V 'wish' → who. Dịch: Nhân viên ai muốn tham gia chương trình sức khỏe nên đăng ký trước thứ Sáu.",
+      "tip": "N chỉ người + ___ + V → who. Không có dấu phẩy trước who ở đây (mệnh đề xác định)."
+    },
+    {
+      "id": 8,
+      "question": "The supplier delivered the materials three days _________ schedule.",
+      "options": [
+        "ahead of",
+        "in front",
+        "before of",
+        "advance"
+      ],
+      "answer": 0,
+      "type": "preposition_phrase",
+      "type_label": "Cụm giới từ — ahead of",
+      "explanation": "Ahead of schedule = trước tiến độ. Collocation cố định. Dịch: Nhà cung cấp giao vật liệu trước tiến độ 3 ngày.",
+      "tip": "Ahead of schedule = trước tiến độ. Behind schedule = chậm tiến độ. On schedule = đúng tiến độ."
+    },
+    {
+      "id": 9,
+      "question": "The hotel guarantees that every guest will receive _________ service during their stay.",
+      "options": [
+        "exceptional",
+        "exception",
+        "exceptionally",
+        "exceptions"
+      ],
+      "answer": 0,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'service' → Adj. Exceptional = ngoại lệ, xuất sắc. Dịch: Khách sạn đảm bảo mỗi khách sẽ nhận dịch vụ xuất sắc trong thời gian lưu trú.",
+      "tip": "___ + N → Adj. Exception(N) → exceptional(Adj) = xuất sắc, khác biệt."
+    },
+    {
+      "id": 10,
+      "question": "_________ the recent economic downturn, several startups managed to secure funding.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Whereas"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the recent economic downturn' là cụm N. Dịch: Mặc dù suy thoái kinh tế gần đây, một số startup vẫn đảm bảo được vốn.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V. Downturn = suy thoái."
+    },
+    {
+      "id": 11,
+      "question": "The board requested that all department heads _________ present at the quarterly review.",
+      "options": [
+        "are",
+        "be",
+        "will be",
+        "were"
+      ],
+      "answer": 1,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — request that + S + Vo",
+      "explanation": "Sau request/suggest/demand/insist + that → S + Vo. Be = nguyên thể. Dịch: Hội đồng yêu cầu tất cả trưởng phòng có mặt tại buổi đánh giá hàng quý.",
+      "tip": "Request/Suggest/Demand/Insist/Recommend + that + S + Vo (to be → be). Thức giả định."
+    },
+    {
+      "id": 12,
+      "question": "The new software allows users to _________ data more efficiently than the previous version.",
+      "options": [
+        "analyze",
+        "analysis",
+        "analytical",
+        "analyst"
+      ],
+      "answer": 0,
+      "type": "verb_base",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Analyze = phân tích. Dịch: Phần mềm mới cho phép người dùng phân tích dữ liệu hiệu quả hơn phiên bản cũ.",
+      "tip": "To + Vo (nguyên thể không to). Analyze(V) → analysis(N) → analytical(Adj) → analyst(N người)."
+    },
+    {
+      "id": 13,
+      "question": "The company will not proceed with the merger _________ all regulatory approvals are obtained.",
+      "options": [
+        "unless",
+        "if",
+        "because",
+        "since"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Liên từ — unless (trừ khi)",
+      "explanation": "Unless = if...not = trừ khi. Dịch: Công ty sẽ không tiến hành sáp nhập trừ khi tất cả phê duyệt được cấp.",
+      "tip": "Unless = if...not. Phủ định trong vế chính → unless khẳng định ở vế if."
+    },
+    {
+      "id": 14,
+      "question": "Mr. Silva has _________ expressed interest in transferring to the Singapore office.",
+      "options": [
+        "repeatedly",
+        "repeated",
+        "repeat",
+        "repetition"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trước V",
+      "explanation": "___ trước V 'expressed' → Adv. Repeatedly = nhiều lần, lặp đi lặp lại. Dịch: Ông Silva đã nhiều lần bày tỏ quan tâm chuyển sang văn phòng Singapore.",
+      "tip": "___ + V → Adv. Repeat(V) → repeatedly(Adv) = lặp đi lặp lại."
+    },
+    {
+      "id": 15,
+      "question": "The _________ of the new policy will be discussed at next week's staff meeting.",
+      "options": [
+        "implementation",
+        "implement",
+        "implemented",
+        "implementing"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Implementation = sự triển khai. Dịch: Việc triển khai chính sách mới sẽ được thảo luận trong buổi họp tuần tới.",
+      "tip": "The + ___ + of + N → N. Implement(V) → implementation(N)."
+    },
+    {
+      "id": 16,
+      "question": "The conference room can _________ up to two hundred attendees.",
+      "options": [
+        "accommodate",
+        "accommodation",
+        "accommodating",
+        "accommodated"
+      ],
+      "answer": 0,
+      "type": "verb_base",
+      "type_label": "Dạng V — Vo sau can",
+      "explanation": "Can + Vo. Accommodate = chứa đựng, đáp ứng sức chứa. Dịch: Phòng họp có thể chứa tới 200 người tham dự.",
+      "tip": "Can/Must/Should/Would + Vo. Accommodate(V) → accommodation(N = chỗ ở)."
+    },
+    {
+      "id": 17,
+      "question": "_________ you have any questions about the new procedures, please contact HR.",
+      "options": [
+        "If",
+        "Unless",
+        "Despite",
+        "Although"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Liên từ — If",
+      "explanation": "If + S + V = nếu. Câu điều kiện loại 1. Dịch: Nếu bạn có câu hỏi về quy trình mới, vui lòng liên hệ phòng nhân sự.",
+      "tip": "If + HTĐ, mệnh đề chính + will/can/may. Unless = if not (phủ định)."
+    },
+    {
+      "id": 18,
+      "question": "The audit revealed several _________ in the company's accounting procedures.",
+      "options": [
+        "discrepancies",
+        "discrepancy",
+        "discrepant",
+        "discrepancy"
+      ],
+      "answer": 0,
+      "type": "noun_plural",
+      "type_label": "Dạng từ — N số nhiều sau several",
+      "explanation": "Several + N số nhiều → discrepancies. Discrepancy = sự sai lệch,不一致. Dịch: Kiểm toán phát hiện một số sai lệch trong quy trình kế toán.",
+      "tip": "Several/Many/Few + N số nhiều. Discrepancy → discrepancies (số nhiều)."
+    },
+    {
+      "id": 19,
+      "question": "Ms. Johnson was promoted to senior manager _________ her outstanding leadership skills.",
+      "options": [
+        "because of",
+        "because",
+        "since",
+        "as"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — because of + N",
+      "explanation": "Because of + N = vì. 'her outstanding leadership skills' là cụm N. Dịch: Cô Johnson được thăng chức quản lý cấp cao vì kỹ năng lãnh đạo xuất sắc.",
+      "tip": "Because of / Due to / Owing to + N. Because / Since / As + S + V."
+    },
+    {
+      "id": 20,
+      "question": "The research team is currently _________ new methods to reduce waste.",
+      "options": [
+        "developing",
+        "develop",
+        "development",
+        "developed"
+      ],
+      "answer": 0,
+      "type": "verb_progressive",
+      "type_label": "Dạng V — V-ing sau tobe",
+      "explanation": "Tobe 'is' + Ving → đang phát triển. Dấu hiệu 'currently' = hiện tại. Dịch: Đội nghiên cứu đang phát triển phương pháp mới để giảm rác thải.",
+      "tip": "Is/Are + Ving = hiện tại tiếp diễn. Currently/Now → V-ing."
+    },
+    {
+      "id": 21,
+      "question": "The new policy will take _________ on the first day of next month.",
+      "options": [
+        "effect",
+        "affect",
+        "effective",
+        "effectively"
+      ],
+      "answer": 0,
+      "type": "vocabulary",
+      "type_label": "Từ vựng — take effect (có hiệu lực)",
+      "explanation": "Take effect = có hiệu lực. Collocation cố định. Dịch: Chính sách mới sẽ có hiệu lực vào ngày đầu tiên của tháng tới.",
+      "tip": "Take effect = có hiệu lực. Effect(N) ≠ affect(V). Effective(Adj) = hiệu quả."
+    },
+    {
+      "id": 22,
+      "question": "The committee members were _________ divided on the issue of remote work.",
+      "options": [
+        "sharply",
+        "sharp",
+        "sharpness",
+        "sharpen"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Bị động: were + Ved (divided). Adv ở giữa. Sharply = một cách gay gắt. Dịch: Thành viên ủy ban chia rẽ gay gắt về vấn đề làm việc từ xa.",
+      "tip": "Were/was + Adv + Ved/c3. Sharp(Adj) → sharply(Adv). Sharply divided = chia rẽ sâu sắc."
+    },
+    {
+      "id": 23,
+      "question": "The company decided to _________ its operations to three new countries in Asia.",
+      "options": [
+        "expand",
+        "expansion",
+        "expansive",
+        "expanding"
+      ],
+      "answer": 0,
+      "type": "verb_base",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Expand = mở rộng. Dịch: Công ty quyết định mở rộng hoạt động sang 3 quốc gia mới ở châu Á.",
+      "tip": "To + Vo (chỉ mục đích/kết quả). Expand(V) → expansion(N). Expand INTO a market = mở rộng sang thị trường."
+    },
+    {
+      "id": 24,
+      "question": "_________ the deadline is approaching rapidly, the team is working overtime.",
+      "options": [
+        "Because",
+        "Despite",
+        "Although",
+        "Unless"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Liên từ — Because",
+      "explanation": "Because + S + V = bởi vì. Dịch: Bởi vì hạn chót đang đến gần nhanh chóng, đội đang làm thêm giờ.",
+      "tip": "Because/Since/As + S + V (lý do). Since cũng có nghĩa 'bởi vì' khi đứng đầu câu."
+    },
+    {
+      "id": 25,
+      "question": "The customer service department received numerous _________ about the billing error.",
+      "options": [
+        "complaints",
+        "complaint",
+        "complain",
+        "complaining"
+      ],
+      "answer": 0,
+      "type": "noun_plural",
+      "type_label": "Dạng từ — N số nhiều sau numerous",
+      "explanation": "Numerous + N số nhiều → complaints. Dịch: Bộ phận CSKH nhận được nhiều khiếu nại về lỗi tính phí.",
+      "tip": "Numerous/Many/Several + N số nhiều. Complain(V) → complaint(N) → complaints(N số nhiều)."
+    },
+    {
+      "id": 26,
+      "question": "The warehouse supervisor insisted that all safety protocols _________ followed at all times.",
+      "options": [
+        "are",
+        "be",
+        "were",
+        "will be"
+      ],
+      "answer": 1,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + S + Vo",
+      "explanation": "Sau insist + that → S + Vo. Be = nguyên thể. Dịch: Giám sát kho kiên quyết rằng tất cả quy trình an toàn phải được tuân thủ mọi lúc.",
+      "tip": "Insist/Suggest/Demand + that + S + Vo. Be (không to be, không is/are)."
+    },
+    {
+      "id": 27,
+      "question": "The annual sales figures were _________ better than the management had predicted.",
+      "options": [
+        "significantly",
+        "significant",
+        "significance",
+        "signify"
+      ],
+      "answer": 0,
+      "type": "adverb_comparative",
+      "type_label": "Dạng từ — Adv trước so sánh hơn",
+      "explanation": "Adv +Adj-so sánh hơn. Significantly better = tốt hơn đáng kể. Dịch: Doanh số năm tốt hơn đáng kể so với dự đoán của ban quản lý.",
+      "tip": "Adv + Adj/Adv-so sánh hơn. Significantly/Considerably/Much + better/more."
+    },
+    {
+      "id": 28,
+      "question": "The company provides employees _________ a comprehensive health insurance package.",
+      "options": [
+        "with",
+        "for",
+        "to",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — provide with",
+      "explanation": "Provide sb WITH sth = cung cấp cho ai cái gì. Dịch: Công ty cung cấp cho nhân viên gói bảo hiểm sức khỏe toàn diện.",
+      "tip": "Provide sb WITH sth. Provide sth FOR sb. Cả hai đều đúng nhưng giới từ khác nhau."
+    },
+    {
+      "id": 29,
+      "question": "The _________ of the new mobile app exceeded two million downloads within the first week.",
+      "options": [
+        "popularity",
+        "popular",
+        "popularly",
+        "populate"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ làm S cho V 'exceeded'. Popularity = sự phổ biến. Dịch: Sự phổ biến của ứng dụng di động mới vượt 2 triệu lượt tải trong tuần đầu.",
+      "tip": "The + ___ + of + N → N. Popular(Adj) → popularity(N)."
+    },
+    {
+      "id": 30,
+      "question": "Employees are reminded that personal phone calls should be kept to a _________ during working hours.",
+      "options": [
+        "minimum",
+        "minimize",
+        "minimal",
+        "minimally"
+      ],
+      "answer": 0,
+      "type": "vocabulary",
+      "type_label": "Từ vựng — keep to a minimum",
+      "explanation": "Keep sth to a minimum = giữ ở mức tối thiểu. Collocation cố định. Dịch: Nhân viên được nhắc rằng cuộc gọi cá nhân nên giữ ở mức tối thiểu trong giờ làm.",
+      "tip": "Keep to a minimum = giữ tối thiểu. Minimum(N) ≠ minimize(V) ≠ minimal(Adj)."
+    }
+  ]
+}

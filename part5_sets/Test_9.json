@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 9",
+  "title": "TOEIC Part 5 · Test 9 · Full Mixed Practice",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The company's new policy will take _________ at the beginning of the next fiscal year.",
+      "options": [
+        "effect",
+        "affect",
+        "effective",
+        "effectively"
+      ],
+      "answer": 0,
+      "type": "vocabulary",
+      "type_label": "Từ vựng — take effect",
+      "explanation": "Take effect = có hiệu lực. Dịch: Chính sách mới sẽ có hiệu lực từ đầu năm tài chính tiếp theo.",
+      "tip": "Take/come into effect = có hiệu lực. Effect(N) ≠ affect(V) = ảnh hưởng. Rất hay nhầm!"
+    },
+    {
+      "id": 2,
+      "question": "The employees were _________ informed of the changes to the health insurance plan.",
+      "options": [
+        "promptly",
+        "prompt",
+        "prompting",
+        "promptness"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Were + Adv + Ved (informed). Promptly = nhanh chóng. Dịch: Nhân viên được thông báo nhanh chóng về thay đổi bảo hiểm y tế.",
+      "tip": "Were + Adv + Ved/c3. Prompt(Adj) → promptly(Adv). 'Promptly informed' = collocation."
+    },
+    {
+      "id": 3,
+      "question": "The proposal was _________ rejected because it lacked sufficient supporting evidence.",
+      "options": [
+        "unanimously",
+        "unanimous",
+        "unanimity",
+        "unanimous"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Was + Adv + Ved (rejected). Unanimously = nhất trí. Dịch: Đề xuất bị bác nhất trí vì thiếu bằng chứng hỗ trợ đủ.",
+      "tip": "Was + Adv + Ved/c3. Unanimous(Adj) → unanimously(Adv). 'Unanimously rejected' = collocation."
+    },
+    {
+      "id": 4,
+      "question": "All employees are entitled _________ a fifteen-minute break for every four hours of work.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — entitled to",
+      "explanation": "Be entitled to + N = có quyền được. Dịch: Tất cả nhân viên có quyền được nghỉ 15 phút cho mỗi 4 giờ làm việc.",
+      "tip": "Entitled TO + N = có quyền được. Entitlement(N) = quyền lợi. Collocation."
+    },
+    {
+      "id": 5,
+      "question": "The board recommended that the training program _________ expanded to include all departments.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — recommend that + Vo",
+      "explanation": "Sau recommend + that → S + Vo. Be = nguyên thể. Dịch: Hội đồng khuyến nghị chương trình đào tạo mở rộng cho tất cả phòng ban.",
+      "tip": "Recommend + that + S + Vo. Be (không is/was). Rất hay gặp trong Part 5."
+    },
+    {
+      "id": 6,
+      "question": "The company attributed its record profits _________ the successful launch of three new products.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — attribute to",
+      "explanation": "Attribute sth TO sth = gán cho. Dịch: Công ty gán lợi nhuận kỷ lục cho việc ra mắt thành công 3 sản phẩm mới.",
+      "tip": "Attribute sth TO sth = quy cho, gán cho. Contribute TO sth = đóng góp cho. Nhớ 'TO'."
+    },
+    {
+      "id": 7,
+      "question": "_________ the limited budget, the team managed to deliver a high-quality product.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the limited budget' là cụm N. Dịch: Mặc dù ngân sách hạn hẹp, đội vẫn giao sản phẩm chất lượng cao.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 8,
+      "question": "The _________ of the new trade agreement will open up significant opportunities for exporters.",
+      "options": [
+        "ratification",
+        "ratify",
+        "ratified",
+        "ratifying"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Ratification = sự phê chuẩn. Dịch: Việc phê chuẩn thỏa thuận thương mại mới sẽ mở cơ hội lớn cho nhà xuất khẩu.",
+      "tip": "The + ___ + of + N → N. Ratify(V) → ratification(N). 'Ratification of' = collocation pháp lý."
+    },
+    {
+      "id": 9,
+      "question": "The company has been _________ recognized as an industry leader in innovation.",
+      "options": [
+        "widely",
+        "wide",
+        "width",
+        "widen"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Has been + Adv + Ved (recognized). Widely = rộng rãi. Dịch: Công ty được công nhận rộng rãi là doanh nghiệp dẫn đầu về đổi mới.",
+      "tip": "Has been + Adv + Ved/c3. Wide(Adj) → widely(Adv). 'Widely recognized' = collocation."
+    },
+    {
+      "id": 10,
+      "question": "The new employee handbook provides _________ information about company policies and procedures.",
+      "options": [
+        "detailed",
+        "detail",
+        "details",
+        "detailing"
+      ],
+      "answer": 0,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'information' → Adj. Detailed = chi tiết. Dịch: Sổ tay nhân viên mới cung cấp thông tin chi tiết về chính sách và quy trình công ty.",
+      "tip": "___ + N → Adj. Detail(N/V) → detailed(Adj). 'Detailed information' = collocation."
+    },
+    {
+      "id": 11,
+      "question": "The manager congratulated the team _________ winning the industry excellence award.",
+      "options": [
+        "on",
+        "for",
+        "about",
+        "with"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — congratulate on",
+      "explanation": "Congratulate sb ON sth = chúc mừng về. Dịch: Quản lý chúc mừng đội vì giành giải thưởng xuất sắc ngành.",
+      "tip": "Congratulate sb ON sth (không phải for/about). 'Winning' = Ving làm N."
+    },
+    {
+      "id": 12,
+      "question": "The company's commitment to environmental sustainability has earned it numerous _________.",
+      "options": [
+        "awards",
+        "award",
+        "awarding",
+        "awarded"
+      ],
+      "answer": 0,
+      "type": "noun_plural",
+      "type_label": "Dạng từ — N số nhiều",
+      "explanation": "Numerous + N số nhiều → awards. Dịch: Cam kết về bền vững môi trường đã giúp công ty giành nhiều giải thưởng.",
+      "tip": "Numerous/Many/Several + N số nhiều. Award(N) → awards. 'Earn awards' = giành giải."
+    },
+    {
+      "id": 13,
+      "question": "_________ the difficulties faced during the merger, the company emerged stronger than before.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the difficulties' là N. Dịch: Mặc dù gặp khó khăn trong sáp nhập, công ty vươn lên mạnh hơn trước.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V. 'Emerge stronger' = vươn lên mạnh hơn."
+    },
+    {
+      "id": 14,
+      "question": "The supplier guaranteed that all products would _________ the highest quality standards.",
+      "options": [
+        "meet",
+        "meeting",
+        "to meet",
+        "met"
+      ],
+      "answer": 0,
+      "type": "verb_base",
+      "type_label": "Dạng V — Vo sau would",
+      "explanation": "Would + Vo. Meet = đáp ứng. Dịch: Nhà cung cấp đảm bảo tất cả sản phẩm sẽ đáp ứng tiêu chuẩn chất lượng cao nhất.",
+      "tip": "Would/Will/Can/Must + Vo. Meet standards = đáp ứng tiêu chuẩn. Collocation."
+    },
+    {
+      "id": 15,
+      "question": "The company has _________ expanded its operations to include three new international markets.",
+      "options": [
+        "successfully",
+        "successful",
+        "success",
+        "succeed"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trước V",
+      "explanation": "Has + Adv + Ved (expanded). Successfully = thành công. Dịch: Công ty đã mở rộng hoạt động thành công sang 3 thị trường quốc tế mới.",
+      "tip": "Has + Adv + Ved/c3. Success(N) → successful(Adj) → successfully(Adv). 'Successfully expanded' = collocation."
+    },
+    {
+      "id": 16,
+      "question": "The board insisted that the new safety protocol _________ implemented without delay.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + Vo",
+      "explanation": "Sau insist + that → S + Vo. Be = nguyên thể. Dịch: Hội đồng kiên quyết giao thức an toàn mới phải được triển khai không chậm trễ.",
+      "tip": "Insist + that + S + Vo. Be (không is/was). 'Without delay' = không chậm trễ."
+    },
+    {
+      "id": 17,
+      "question": "The company was forced to _________ production due to a shortage of raw materials.",
+      "options": [
+        "halt",
+        "halting",
+        "halted",
+        "halts"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Halt = dừng lại. Dịch: Công ty buộc phải dừng sản xuất do thiếu nguyên liệu.",
+      "tip": "To + Vo. Forced to + Vo. Halt(V) = stop, dừng. 'Halt production' = collocation."
+    },
+    {
+      "id": 18,
+      "question": "The _________ results of the clinical trial exceeded all expectations.",
+      "options": [
+        "preliminary",
+        "preliminarily",
+        "preliminary",
+        "preliminaries"
+      ],
+      "answer": 0,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'results' → Adj. Preliminary = sơ bộ, ban đầu. Dịch: Kết quả sơ bộ của thử nghiệm lâm sàng vượt mọi kỳ vọng.",
+      "tip": "___ + N → Adj. Preliminary(Adj) = sơ bộ. 'Preliminary results' = collocation y tế/khoa học."
+    },
+    {
+      "id": 19,
+      "question": "The report emphasized the need _________ immediate action to address the supply chain disruption.",
+      "options": [
+        "for",
+        "of",
+        "to",
+        "with"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — need for",
+      "explanation": "The need FOR + N = nhu cầu về. Dịch: Báo cáo nhấn mạnh nhu cầu hành động ngay để giải quyết gián đoạn chuỗi cung ứng.",
+      "tip": "The need FOR sth = nhu cầu về. (Không phải of/to). Collocation."
+    },
+    {
+      "id": 20,
+      "question": "The company's quarterly earnings were _________ affected by the global economic slowdown.",
+      "options": [
+        "negatively",
+        "negative",
+        "negativity",
+        "negate"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Were + Adv + Ved (affected). Negatively = một cách tiêu cực. Dịch: Lợi nhuận hàng quý bị ảnh hưởng tiêu cực bởi suy thoái kinh tế toàn cầu.",
+      "tip": "Were + Adv + Ved/c3. Negative(Adj) → negatively(Adv). 'Negatively affected' = collocation."
+    },
+    {
+      "id": 21,
+      "question": "All employees are reminded that company resources should be used _________ for business purposes.",
+      "options": [
+        "solely",
+        "sole",
+        "solely",
+        "solo"
+      ],
+      "answer": 0,
+      "type": "adverb",
+      "type_label": "Dạng từ — Adv bổ nghĩa câu",
+      "explanation": "Used + Adv → solely. Solely = chỉ, duy nhất. Dịch: Nhân viên được nhắc rằng tài nguyên công ty chỉ nên dùng cho mục đích công việc.",
+      "tip": "Used + Adv. Sole(Adj) → solely(Adv) = chỉ, duy nhất. 'Solely for' = collocation."
+    },
+    {
+      "id": 22,
+      "question": "The new facility is designed to _________ up to five hundred employees comfortably.",
+      "options": [
+        "accommodate",
+        "accommodation",
+        "accommodating",
+        "accommodated"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Accommodate = chứa đựng, chỗ cho. Dịch: Cơ sở mới được thiết kế để chứa 500 nhân viên thoải mái.",
+      "tip": "To + Vo. Designed to + Vo. Accommodate(V) → accommodation(N) = chỗ ở. ≠ accommodate(N)."
+    },
+    {
+      "id": 23,
+      "question": "The company's reputation for _________ has attracted top talent from across the industry.",
+      "options": [
+        "excellence",
+        "excellent",
+        "excel",
+        "excellently"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau giới từ",
+      "explanation": "For + N → excellence. Dịch: Danh tiếng về sự xuất sắc đã thu hút nhân tài hàng đầu từ khắp ngành.",
+      "tip": "For/preposition + ___ → N. Excel(V) → excellence(N) → excellent(Adj)."
+    },
+    {
+      "id": 24,
+      "question": "_________ the ongoing economic uncertainty, the company plans to hire additional staff.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the ongoing economic uncertainty' là cụm N. Dịch: Mặc dù bất định kinh tế tiếp diễn, công ty lên kế hoạch tuyển thêm nhân viên.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 25,
+      "question": "The board recommended that the company _________ its focus on emerging markets.",
+      "options": [
+        "shift",
+        "shifts",
+        "shifted",
+        "shifting"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — recommend that + Vo",
+      "explanation": "Sau recommend + that → S + Vo. Shift = nguyên thể. Dịch: Hội đồng khuyến nghị công ty chuyển trọng tâm sang thị trường mới nổi.",
+      "tip": "Recommend + that + S + Vo. Shift (không shifts). Shift focus TO = chuyển trọng tâm sang."
+    },
+    {
+      "id": 26,
+      "question": "The supplier has _________ delivered all ordered materials ahead of the agreed schedule.",
+      "options": [
+        "already",
+        "yet",
+        "still",
+        "recently"
+      ],
+      "answer": 0,
+      "type": "adverb_present_perfect",
+      "type_label": "Trạng từ — already trong HTHT",
+      "explanation": "Has + already + Ved (delivered). Already = đã rồi (khẳng định). Dịch: Nhà cung cấp đã giao tất cả vật liệu đặt trước lịch thỏa thuận.",
+      "tip": "Has/Have + ALREADY + Ved/c3 (khẳng định). Has NOT + YET + Ved/c3 (phủ định). 'Already' rất hay gặp."
+    },
+    {
+      "id": 27,
+      "question": "The new software system will _________ employees to collaborate more effectively across departments.",
+      "options": [
+        "enable",
+        "enabling",
+        "enabled",
+        "enables"
+      ],
+      "answer": 0,
+      "type": "verb_base",
+      "type_label": "Dạng V — Vo sau will",
+      "explanation": "Will + Vo. Enable = cho phép. Dịch: Hệ thống phần mềm mới sẽ cho phép nhân viên hợp tác hiệu quả hơn giữa các phòng ban.",
+      "tip": "Will + Vo. Enable sb TO + Vo = cho phép ai làm gì. ≠ able TO + Vo."
+    },
+    {
+      "id": 28,
+      "question": "The company provides _________ training to help employees adapt to new technologies.",
+      "options": [
+        "comprehensive",
+        "comprehensively",
+        "comprehension",
+        "comprehend"
+      ],
+      "answer": 0,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'training' → Adj. Comprehensive = toàn diện. Dịch: Công ty cung cấp đào tạo toàn diện giúp nhân viên thích nghi với công nghệ mới.",
+      "tip": "___ + N → Adj. Comprehend(V) → comprehension(N) → comprehensive(Adj). 'Comprehensive training' = collocation."
+    },
+    {
+      "id": 29,
+      "question": "The marketing campaign resulted _________ a significant increase in brand awareness.",
+      "options": [
+        "in",
+        "from",
+        "of",
+        "with"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — result in",
+      "explanation": "Result IN = dẫn đến (kết quả). Dịch: Chiến dịch marketing dẫn đến tăng đáng kể nhận diện thương hiệu.",
+      "tip": "Result IN sth = dẫn đến (kết quả tốt/xấu). Result FROM sth = do, bắt nguồn từ. Phân biệt chiều."
+    },
+    {
+      "id": 30,
+      "question": "The board members were _________ impressed by the candidate's presentation during the final interview.",
+      "options": [
+        "particularly",
+        "particular",
+        "particulars",
+        "particularity"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Were + Adv + Ved (impressed). Particularly = đặc biệt. Dịch: Thành viên hội đồng đặc biệt ấn tượng với bài thuyết trình của ứng viên trong vòng phỏng vấn cuối.",
+      "tip": "Were + Adv + Ved/c3. Particular(Adj) → particularly(Adv) = đặc biệt. 'Particularly impressed' = collocation."
+    }
+  ]
+}

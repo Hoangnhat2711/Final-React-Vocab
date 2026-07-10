@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 8",
+  "title": "TOEIC Part 5 · Test 8 · Prepositions, Conditionals & Inversions",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "_________ had the new policy been announced than employees began expressing concerns.",
+      "options": [
+        "No sooner",
+        "Hardly",
+        "Scarcely",
+        "Barely"
+      ],
+      "answer": 0,
+      "type": "inversion",
+      "type_label": "Đảo ngữ — No sooner...than",
+      "explanation": "No sooner + had + S + Ved/c3 + THAN. Dịch: Chính sách mới vừa được công bố thì nhân viên đã bắt đầu bày tỏ lo ngại.",
+      "tip": "No sooner...THAN. Hardly/Scarcely...WHEN. Nhớ cặp liên từ đi kèm."
+    },
+    {
+      "id": 2,
+      "question": "The company has been operating _________ a significant loss for the past three quarters.",
+      "options": [
+        "at",
+        "in",
+        "with",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — at a loss",
+      "explanation": "Operate at a loss = hoạt động thua lỗ. 'At' + N. Dịch: Công ty hoạt động thua lỗ đáng kể trong 3 quý qua.",
+      "tip": "At a loss = thua lỗ. ≠ in a loss/with a loss. Collocation tài chính."
+    },
+    {
+      "id": 3,
+      "question": "The manager suggested that the deadline _________ extended to allow more time for revision.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — suggest that + Vo",
+      "explanation": "Sau suggest + that → S + Vo. Be = nguyên thể. Dịch: Quản lý gợi ý gia hạn để có thêm thời gian sửa đổi.",
+      "tip": "Suggest + that + S + Vo. Be (không is/was). Thức giả định."
+    },
+    {
+      "id": 4,
+      "question": "_________ for the timely intervention of the security team, the breach would have been catastrophic.",
+      "options": [
+        "Had it not been",
+        "If it not been",
+        "Were it not",
+        "Unless it was"
+      ],
+      "answer": 0,
+      "type": "inversion_conditional",
+      "type_label": "Đảo ngữ điều kiện loại 3",
+      "explanation": "Đảo ngữ If loại 3: Had + S + not + Ved/c3. = If + S + had not + Ved/c3. Dịch: Nếu không có sự can thiệp đúng lúc của đội an ninh, vi phạm sẽ thảm khốc.",
+      "tip": "If loại 3 đảo: Had + S + Ved... → bỏ If, đưa Had lên đầu. Had it not been = If it had not been."
+    },
+    {
+      "id": 5,
+      "question": "The board members were _________ unanimous in their support for the new initiative.",
+      "options": [
+        "remarkably",
+        "remarkable",
+        "remark",
+        "remarkably"
+      ],
+      "answer": 0,
+      "type": "adverb_adjective",
+      "type_label": "Dạng từ — Adv bổ nghĩa Adj",
+      "explanation": "Were + Adv + Adj (unanimous). Remarkably = một cách đáng chú ý. Dịch: Thành viên hội đồng đáng chú ý là nhất trí ủng hộ sáng kiến mới.",
+      "tip": "Tobe + Adv + Adj. Remarkable(Adj) → remarkably(Adv). 'Remarkably unanimous' = collocation."
+    },
+    {
+      "id": 6,
+      "question": "All employees must comply _________ the updated safety regulations effective immediately.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — comply with",
+      "explanation": "Comply with = tuân thủ. Dịch: Tất cả nhân viên phải tuân thủ quy định an toàn cập nhật có hiệu lực ngay.",
+      "tip": "Comply WITH / adhere TO / conform TO = tuân thủ. 'Effective immediately' = có hiệu lực ngay lập tức."
+    },
+    {
+      "id": 7,
+      "question": "The company's investment in artificial intelligence is expected to _________ substantial returns.",
+      "options": [
+        "yield",
+        "yielding",
+        "yielded",
+        "yields"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Yield = tạo ra, mang lại. Dịch: Đầu tư vào AI của công ty được kỳ vọng mang lại lợi nhuận đáng kể.",
+      "tip": "To + Vo. Expected to + Vo. Yield returns = tạo lợi nhuận. Yield(V) ≠ yield(N = sản lượng)."
+    },
+    {
+      "id": 8,
+      "question": "The new branch office, _________ opened last month, has already exceeded its first-year targets.",
+      "options": [
+        "which",
+        "that",
+        "who",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — which (sau dấu phẩy)",
+      "explanation": "Which thay cho 'the new branch office'. Sau dấu phẩy → WHICH (không THAT). Dịch: Văn phòng chi nhánh mới, cái mà mở tháng trước, đã vượt mục tiêu năm đầu.",
+      "tip": "Sau dấu phẩy → WHICH, không dùng THAT. Which = thay N chỉ vật/sự việc."
+    },
+    {
+      "id": 9,
+      "question": "The _________ of the new regulation has caused confusion among many small business owners.",
+      "options": [
+        "implementation",
+        "implement",
+        "implemented",
+        "implementing"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Implementation = sự thực thi. Dịch: Việc thực thi quy định mới gây nhầm lẫn cho nhiều chủ doanh nghiệp nhỏ.",
+      "tip": "The + ___ + of + N → N. Implement(V) → implementation(N)."
+    },
+    {
+      "id": 10,
+      "question": "The supplier agreed to deliver the materials _________ advance of the agreed-upon deadline.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — in advance of",
+      "explanation": "In advance of + N = trước. Dịch: Nhà cung cấp đồng ý giao vật liệu trước hạn đã thỏa thuận.",
+      "tip": "In advance of = before/prior to = trước. 'In advance' = trước, sớm."
+    },
+    {
+      "id": 11,
+      "question": "_________ the challenging market conditions, the company maintained its market leadership position.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the challenging market conditions' là cụm N. Dịch: Mặc dù điều kiện thị trường khó khăn, công ty duy trì vị trí dẫn đầu thị trường.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 12,
+      "question": "The report _________ that employee productivity has improved significantly since the introduction of flexible schedules.",
+      "options": [
+        "indicates",
+        "indication",
+        "indicative",
+        "indicating"
+      ],
+      "answer": 0,
+      "type": "verb_conjugated",
+      "type_label": "Dạng V — V chia thì",
+      "explanation": "S 'report' (số ít) + V-s → indicates. Dịch: Báo cáo chỉ ra rằng năng suất nhân viên cải thiện đáng kể từ khi áp dụng lịch linh hoạt.",
+      "tip": "S số ít (the report) + V-s. Indicate(V) → indication(N) → indicative(Adj)."
+    },
+    {
+      "id": 13,
+      "question": "The new security protocol requires that all passwords _________ changed every ninety days.",
+      "options": [
+        "be",
+        "are",
+        "is",
+        "were"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — require that + Vo",
+      "explanation": "Sau require + that → S + Vo. Be = nguyên thể. Dịch: Giao thức an ninh mới yêu cầu tất cả mật khẩu phải thay đổi mỗi 90 ngày.",
+      "tip": "Require/Suggest/Demand/Insist + that + S + Vo. Be (không are/is)."
+    },
+    {
+      "id": 14,
+      "question": "The company has invested heavily _________ research and development to stay competitive.",
+      "options": [
+        "in",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — invest in",
+      "explanation": "Invest in = đầu tư vào. Dịch: Công ty đầu tư mạnh vào R&D để duy trì cạnh tranh.",
+      "tip": "Invest IN sth = đầu tư vào. Spend ON sth = chi cho. Focus ON sth = tập trung vào."
+    },
+    {
+      "id": 15,
+      "question": "The board recommended that the company _________ a comprehensive review of its cybersecurity measures.",
+      "options": [
+        "conduct",
+        "conducts",
+        "conducted",
+        "conducting"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — recommend that + Vo",
+      "explanation": "Sau recommend + that → S + Vo. Conduct = nguyên thể. Dịch: Hội đồng khuyến nghị công ty tiến hành đánh giá toàn diện biện pháp an ninh mạng.",
+      "tip": "Recommend + that + S + Vo. Conduct (không conducts). Conduct a review = tiến hành đánh giá."
+    },
+    {
+      "id": 16,
+      "question": "The employee was _________ unaware of the changes to the vacation policy.",
+      "options": [
+        "apparently",
+        "apparent",
+        "appearance",
+        "appear"
+      ],
+      "answer": 0,
+      "type": "adverb_adjective",
+      "type_label": "Dạng từ — Adv bổ nghĩa Adj",
+      "explanation": "Was + Adv + Adj (unaware). Apparently = rõ ràng là, có vẻ. Dịch: Nhân viên có vẻ không biết về thay đổi chính sách nghỉ phép.",
+      "tip": "Was/were + Adv + Adj. Apparent(Adj) → apparently(Adv). Apparently = có vẻ như, rõ ràng là."
+    },
+    {
+      "id": 17,
+      "question": "The project was completed _________ budget and ahead of schedule.",
+      "options": [
+        "under",
+        "below",
+        "beneath",
+        "down"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — under budget",
+      "explanation": "Under budget = dưới ngân sách (tiết kiệm). Dịch: Dự án hoàn thành dưới ngân sách và trước tiến độ.",
+      "tip": "Under budget = dưới ngân sách. Over budget = vượt ngân sách. On budget = đúng ngân sách. Collocation."
+    },
+    {
+      "id": 18,
+      "question": "All applications must be submitted _________ to be considered for the scholarship program.",
+      "options": [
+        "electronically",
+        "electronic",
+        "electronics",
+        "electron"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Be submitted + Adv → electronically. Dịch: Tất cả đơn phải được nộp điện tử để được xem xét cho chương trình học bổng.",
+      "tip": "Be + Ved + Adv. Electronic(Adj) → electronically(Adv). 'Submitted electronically' = nộp qua mạng."
+    },
+    {
+      "id": 19,
+      "question": "The committee _________ of five senior managers will review all proposals next week.",
+      "options": [
+        "consisting",
+        "consists",
+        "consisted",
+        "consistent"
+      ],
+      "answer": 0,
+      "type": "reduced_relative",
+      "type_label": "Phân từ rút gọn — Ving",
+      "explanation": "Rút gọn mệnh đề quan hệ: which consists of → consisting of. Dịch: Ủy ban gồm 5 quản lý cấp cao sẽ xem xét tất cả đề xuất tuần tới.",
+      "tip": "Mệnh đề quan hệ chủ động rút gọn → Ving. Which consists of → consisting of. Consistent(Adj) = nhất quán (khác từ)."
+    },
+    {
+      "id": 20,
+      "question": "The company's commitment to quality is _________ in every product it manufactures.",
+      "options": [
+        "evident",
+        "evidence",
+        "evidently",
+        "evidencing"
+      ],
+      "answer": 0,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau tobe",
+      "explanation": "Is + Adj. Evident = rõ ràng, hiển nhiên. Dịch: Cam kết chất lượng của công ty thể hiện rõ trong mỗi sản phẩm.",
+      "tip": "Is/was + ___ → Adj. Evidence(N) → evident(Adj). Evidently(Adv) = rõ ràng là."
+    },
+    {
+      "id": 21,
+      "question": "The manager emphasized the _________ of meeting all regulatory requirements.",
+      "options": [
+        "importance",
+        "important",
+        "importantly",
+        "import"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau mạo từ",
+      "explanation": "The + ___ + of → N. Importance = tầm quan trọng. Dịch: Quản lý nhấn mạnh tầm quan trọng của việc đáp ứng tất cả yêu cầu pháp lý.",
+      "tip": "The + ___ + of → N. Important(Adj) → importance(N). 'The importance of' = collocation."
+    },
+    {
+      "id": 22,
+      "question": "The company provides employees _________ opportunities for professional growth and advancement.",
+      "options": [
+        "with",
+        "for",
+        "to",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — provide with",
+      "explanation": "Provide sb WITH sth = cung cấp cho ai cái gì. Dịch: Công ty cung cấp cho nhân viên cơ hội phát triển và thăng tiến chuyên môn.",
+      "tip": "Provide sb WITH sth. ≠ provide sth TO sb (cũng đúng nhưng khác cấu trúc)."
+    },
+    {
+      "id": 23,
+      "question": "_________ the rising costs of raw materials, the company decided to increase its product prices.",
+      "options": [
+        "Due to",
+        "Because",
+        "Since",
+        "As"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — due to + N",
+      "explanation": "Due to + N = do. 'the rising costs' là cụm N. Dịch: Do chi phí nguyên liệu tăng, công ty quyết định tăng giá sản phẩm.",
+      "tip": "Due to / Because of + N. Because / Since / As + S + V. 'Due to' rất hay gặp."
+    },
+    {
+      "id": 24,
+      "question": "The new manufacturing technique is _________ more efficient than the traditional method.",
+      "options": [
+        "significantly",
+        "significant",
+        "significance",
+        "signify"
+      ],
+      "answer": 0,
+      "type": "adverb_comparative",
+      "type_label": "Dạng từ — Adv trước so sánh hơn",
+      "explanation": "Adv + Adj-so sánh hơn (more efficient). Significantly = đáng kể. Dịch: Kỹ thuật sản xuất mới hiệu quả hơn đáng kể so với phương pháp truyền thống.",
+      "tip": "Adv + more + Adj. Significantly/Considerably/Substantially + more + Adj."
+    },
+    {
+      "id": 25,
+      "question": "The HR department insisted that all performance reviews _________ completed by the end of the month.",
+      "options": [
+        "be",
+        "are",
+        "were",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + Vo",
+      "explanation": "Sau insist + that → S + Vo. Be = nguyên thể. Dịch: Phòng nhân sự kiên quyết tất cả đánh giá hiệu suất hoàn thành trước cuối tháng.",
+      "tip": "Insist + that + S + Vo. Be (không are/were). Thức giả định."
+    },
+    {
+      "id": 26,
+      "question": "The annual report, _________ was distributed to all shareholders, contained detailed financial statements.",
+      "options": [
+        "which",
+        "that",
+        "who",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — which (sau dấu phẩy)",
+      "explanation": "Which thay cho 'the annual report'. Sau dấu phẩy → WHICH. Dịch: Báo cáo thường niên, cái mà được phát cho tất cả cổ đông, chứa báo cáo tài chính chi tiết.",
+      "tip": "Sau dấu phẩy → WHICH, không THAT. Which = thay N chỉ vật. Mệnh đề quan hệ KHÔNG xác định."
+    },
+    {
+      "id": 27,
+      "question": "The company's decision was influenced _________ the findings of the market research study.",
+      "options": [
+        "by",
+        "from",
+        "with",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — influenced by",
+      "explanation": "Influenced by = bị ảnh hưởng bởi. Câu bị động. Dịch: Quyết định của công ty bị ảnh hưởng bởi phát hiện nghiên cứu thị trường.",
+      "tip": "Influence BY (bị động). Influence sb TO do sth (chủ động). Collocation."
+    },
+    {
+      "id": 28,
+      "question": "The team leader was _________ for the successful completion of the project ahead of schedule.",
+      "options": [
+        "responsibility",
+        "responsible",
+        "responsibly",
+        "response"
+      ],
+      "answer": 1,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau tobe",
+      "explanation": "Was + Adj. Responsible FOR sth = có trách nhiệm về. Dịch: Trưởng nhóm có trách nhiệm về việc hoàn thành dự án trước tiến độ.",
+      "tip": "Was + ___ → Adj. Responsible FOR = chịu trách nhiệm. Responsibility(N) ≠ responsible(Adj)."
+    },
+    {
+      "id": 29,
+      "question": "The company plans to phase _________ the old software system over the next six months.",
+      "options": [
+        "out",
+        "off",
+        "down",
+        "away"
+      ],
+      "answer": 0,
+      "type": "phrasal_verb",
+      "type_label": "Phrasal verb — phase out",
+      "explanation": "Phase out = loại bỏ dần. Dịch: Công ty lên kế hoạch loại bỏ dần hệ thống phần mềm cũ trong 6 tháng tới.",
+      "tip": "Phase OUT = loại bỏ dần. Phase IN = đưa vào dần. Phrasal verb phải nhớ."
+    },
+    {
+      "id": 30,
+      "question": "The board voted unanimously _________ favor of the proposed acquisition.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — in favor of",
+      "explanation": "In favor of = ủng hộ. Vote in favor of = bỏ phiếu thuận. Dịch: Hội đồng bỏ phiếu nhất trí thuận việc mua lại đề xuất.",
+      "tip": "Vote IN favor of = bỏ phiếu thuận. Vote AGAINST = bỏ phiếu chống. 'Unanimously' = nhất trí toàn thể."
+    }
+  ]
+}

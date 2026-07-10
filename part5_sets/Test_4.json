@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 4",
+  "title": "TOEIC Part 5 · Test 4 · Passive Voice, Tenses & Advanced Grammar",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The financial statements _________ by an independent auditing firm before being submitted to shareholders.",
+      "options": [
+        "must verify",
+        "must be verified",
+        "must verifying",
+        "must to verify"
+      ],
+      "answer": 1,
+      "type": "passive_voice",
+      "type_label": "Bị động — must + be + Ved/c3",
+      "explanation": "Must + be + Ved/c3 (bị động). Dấu hiệu: by + tác nhân (auditing firm). Dịch: Báo cáo tài chính phải được kiểm tra bởi công ty kiểm toán độc lập.",
+      "tip": "Must/Should/Can + BE + Ved/c3 = bị động. Nhìn 'by' → bị động."
+    },
+    {
+      "id": 2,
+      "question": "The damaged equipment _________ to the manufacturer for repair yesterday.",
+      "options": [
+        "was sent",
+        "sent",
+        "is sent",
+        "sends"
+      ],
+      "answer": 0,
+      "type": "passive_past",
+      "type_label": "Bị động quá khứ — was + Ved/c3",
+      "explanation": "Dấu hiệu 'yesterday' → quá khứ. Bị động: was + Ved. Sent (V-ed/c3 của send). Dịch: Thiết bị hỏng được gửi đến nhà sản xuất để sửa hôm qua.",
+      "tip": "Yesterday/Last week → quá khứ. Bị động: was/were + Ved/c3."
+    },
+    {
+      "id": 3,
+      "question": "By next December, the construction company _________ the new shopping mall.",
+      "options": [
+        "will complete",
+        "will have completed",
+        "completes",
+        "has completed"
+      ],
+      "answer": 1,
+      "type": "future_perfect",
+      "type_label": "Thì — Tương lai hoàn thành",
+      "explanation": "'By next December' → will have + Ved/c3. Dịch: Đến tháng 12 tới, công ty xây dựng sẽ đã hoàn thành trung tâm thương mại mới.",
+      "tip": "By + thời điểm tương lai → WILL HAVE + Ved/c3."
+    },
+    {
+      "id": 4,
+      "question": "The new hiring policy _________ by the HR department since last March.",
+      "options": [
+        "has been developed",
+        "was developed",
+        "is developing",
+        "develops"
+      ],
+      "answer": 0,
+      "type": "present_perfect_passive",
+      "type_label": "Hiện tại hoàn thành bị động",
+      "explanation": "Dấu hiệu 'since last March' → HTHT. Bị động: has been + Ved. Dịch: Chính sách tuyển dụng mới đã được phòng nhân sự phát triển từ tháng 3 năm ngoái.",
+      "tip": "Since/For → HTHT. Has been/Have been + Ved/c3 = HTHT bị động."
+    },
+    {
+      "id": 5,
+      "question": "_________ had the CEO finished speaking when the audience erupted in applause.",
+      "options": [
+        "No sooner",
+        "Hardly",
+        "Scarcely",
+        "Barely"
+      ],
+      "answer": 1,
+      "type": "inversion",
+      "type_label": "Đảo ngữ — Hardly...when",
+      "explanation": "Hardly + had + S + Ved/c3 + when... = vừa mới...thì đã. Dịch: CEO vừa nói xong thì khán giả đã vỗ tay rần rần.",
+      "tip": "Hardly/Scarcely + had + S + Ved/c3 + WHEN. No sooner + had + S + Ved/c3 + THAN. Cấu trúc đảo ngữ."
+    },
+    {
+      "id": 6,
+      "question": "The board recommended that the budget proposal _________ revised before final approval.",
+      "options": [
+        "is",
+        "be",
+        "was",
+        "will be"
+      ],
+      "answer": 1,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — recommend that + Vo",
+      "explanation": "Sau recommend + that → S + Vo. Be = nguyên thể. Dịch: Hội đồng khuyến nghị đề xuất ngân sách được sửa trước khi phê duyệt cuối.",
+      "tip": "Recommend/Suggest/Insist/Demand/Request + that + S + Vo."
+    },
+    {
+      "id": 7,
+      "question": "The supplier's inability to deliver on time resulted _________ significant production delays.",
+      "options": [
+        "from",
+        "in",
+        "of",
+        "with"
+      ],
+      "answer": 1,
+      "type": "preposition",
+      "type_label": "Giới từ — result in",
+      "explanation": "Result IN = dẫn đến (kết quả). Result FROM = bắt nguồn từ. Dịch: Việc nhà cung cấp không giao đúng hạn đã dẫn đến chậm trễ sản xuất đáng kể.",
+      "tip": "Result IN sth = dẫn đến. Result FROM sth = do, bắt nguồn từ. Phân biệt chiều因果关系."
+    },
+    {
+      "id": 8,
+      "question": "_________ the proposal carefully, the committee identified several areas for improvement.",
+      "options": [
+        "Having reviewed",
+        "To review",
+        "Reviewing",
+        "Reviewed"
+      ],
+      "answer": 0,
+      "type": "perfect_participle",
+      "type_label": "Phân từ hoàn thành — Having + Ved",
+      "explanation": "Having reviewed = sau khi đã xem xét. Hành động xảy ra TRƯỚC. Dịch: Sau khi đã xem xét kỹ, ủy ban phát hiện một số điểm cần cải thiện.",
+      "tip": "Having + Ved/c3 = chỉ hành động xong trước hành động chính. Khác V-ing (đồng thời)."
+    },
+    {
+      "id": 9,
+      "question": "The new software system is expected to _________ productivity by at least twenty percent.",
+      "options": [
+        "increase",
+        "increasing",
+        "increased",
+        "increases"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Increase = tăng. Dịch: Hệ thống phần mềm mới được kỳ vọng tăng năng suất ít nhất 20%.",
+      "tip": "To + Vo (nguyên thể). Be expected to + Vo = được kỳ vọng làm gì."
+    },
+    {
+      "id": 10,
+      "question": "The job _________ requires candidates to have at least five years of management experience.",
+      "options": [
+        "description",
+        "descriptive",
+        "describe",
+        "describing"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N bổ nghĩa cho N",
+      "explanation": "Job description = mô tả công việc (collocation). N + N. Dịch: Mô tả công việc yêu cầu ứng viên có ít nhất 5 năm kinh nghiệm quản lý.",
+      "tip": "N + N: job description, job application, job interview. Description(N) ≠ descriptive(Adj)."
+    },
+    {
+      "id": 11,
+      "question": "Not until the investigation was complete _________ the full extent of the fraud.",
+      "options": [
+        "did anyone realize",
+        "anyone realized",
+        "realized anyone",
+        "anyone did realize"
+      ],
+      "answer": 0,
+      "type": "inversion",
+      "type_label": "Đảo ngữ — Not until + đảo ngữ",
+      "explanation": "Not until + clause + did + S + Vo. Đảo ngữ với trợ động từ. Dịch: Mãi đến khi điều tra hoàn tất, người ta mới nhận ra toàn bộ mức độ lừa đảo.",
+      "tip": "Not until/Never/Seldom/ Rarely ở đầu câu → đảo ngữ: did/does/do + S + Vo."
+    },
+    {
+      "id": 12,
+      "question": "All applications must be received _________ May 15 to be considered for the position.",
+      "options": [
+        "by",
+        "until",
+        "at",
+        "from"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — by (trước)",
+      "explanation": "By = trước (deadline). 'Must be received by May 15' = phải nhận trước 15/5. Dịch: Tất cả đơn phải được nhận trước 15/5 để được xem xét.",
+      "tip": "By = trước deadline. Until = cho đến khi (khác!). By May 15 ≠ until May 15."
+    },
+    {
+      "id": 13,
+      "question": "The company's decision to expand overseas was _________ influenced by market research data.",
+      "options": [
+        "heavily",
+        "heavy",
+        "heaviness",
+        "heavier"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Bị động: was + Ved (influenced). Adv ở giữa. Heavily = một cách nặng nề/đáng kể. Dịch: Quyết định mở rộng ra nước ngoài bị ảnh hưởng đáng kể bởi dữ liệu nghiên cứu thị trường.",
+      "tip": "Was/were + Adv + Ved/c3. Heavy(Adj) → heavily(Adv). Heavily influenced = ảnh hưởng mạnh."
+    },
+    {
+      "id": 14,
+      "question": "The manager suggested that the team _________ the project deadline by one week.",
+      "options": [
+        "extends",
+        "extend",
+        "extended",
+        "extending"
+      ],
+      "answer": 1,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — suggest that + Vo",
+      "explanation": "Sau suggest + that → S + Vo. Extend = nguyên thể. Dịch: Quản lý gợi ý đội kéo dài hạn dự án thêm 1 tuần.",
+      "tip": "Suggest + that + S + Vo. Không chia thì, không thêm s. Extend (không extends)."
+    },
+    {
+      "id": 15,
+      "question": "The committee reached a unanimous _________ to increase the research budget.",
+      "options": [
+        "decision",
+        "decide",
+        "decisive",
+        "decisively"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau tính từ + mạo từ",
+      "explanation": "A + Adj (unanimous) + ___ → N. Decision = quyết định. Unanimous decision = quyết định nhất trí toàn thể. Dịch: Ủy ban đạt quyết định nhất trí tăng ngân sách nghiên cứu.",
+      "tip": "Adj + ___ → N. Reach a decision = đưa ra quyết định. Unanimous = nhất trí toàn thể."
+    },
+    {
+      "id": 16,
+      "question": "The prototype was _________ tested before being approved for mass production.",
+      "options": [
+        "rigorously",
+        "rigorous",
+        "rigor",
+        "rigorousness"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Bị động: was + Ved (tested). Adv ở giữa. Rigorously = một cách nghiêm ngặt. Dịch: Nguyên mẫu được kiểm tra nghiêm ngặt trước khi phê duyệt sản xuất hàng loạt.",
+      "tip": "Was/were + Adv + Ved/c3. Rigorous(Adj) → rigorously(Adv)."
+    },
+    {
+      "id": 17,
+      "question": "The security breach was discovered _________ a routine system check.",
+      "options": [
+        "during",
+        "while",
+        "among",
+        "between"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — during + N",
+      "explanation": "During + N = trong suốt. 'a routine system check' là cụm N. Dịch: Vi phạm bảo mật được phát hiện trong một lần kiểm tra hệ thống định kỳ.",
+      "tip": "During + N. While + S + V. 'A routine check' là N → during."
+    },
+    {
+      "id": 18,
+      "question": "Ms. Rodriguez will assume the role of CEO _________ Mr. Thompson retires next month.",
+      "options": [
+        "when",
+        "during",
+        "while",
+        "since"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Liên từ — when",
+      "explanation": "When + S + V = khi. 'Mr. Thompson retires' là mệnh đề. Dịch: Cô Rodriguez sẽ đảm nhận vai trò CEO khi ông Thompson nghỉ hưu tháng tới.",
+      "tip": "When/Before/After + S + V. During/Since + N. Nhìn sau chỗ trống: mệnh đề hay N?"
+    },
+    {
+      "id": 19,
+      "question": "The _________ of the new immigration policy remains uncertain despite lengthy negotiations.",
+      "options": [
+        "outcome",
+        "outcomes",
+        "outcoming",
+        "outcomes"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ làm S cho V 'remains'. Outcome = kết quả. Dịch: Kết quả của chính sách nhập cư mới vẫn chưa chắc chắn dù đàm phán kéo dài.",
+      "tip": "The + ___ + of + N → N. Outcome = kết quả (N)."
+    },
+    {
+      "id": 20,
+      "question": "The consultant's report highlighted the _________ for immediate action to address the declining sales.",
+      "options": [
+        "need",
+        "needs",
+        "needing",
+        "needed"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau mạo từ + adj",
+      "explanation": "The + Adj (immediate → place after N) → 'the need for'. Need = nhu cầu. Dịch: Báo cáo của chuyên gia nhấn mạnh nhu cầu hành động ngay để giải quyết doanh số giảm.",
+      "tip": "The + ___ + for + N → N. The need for = nhu cầu về. Need(V) vs need(N)."
+    },
+    {
+      "id": 21,
+      "question": "_________ the extensive market research, the product launch was postponed indefinitely.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the extensive market research' là cụm N. Dịch: Mặc dù nghiên cứu thị trường mở rộng, việc ra mắt sản phẩm bị hoãn vô thời hạn.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 22,
+      "question": "All employees _________ have completed the safety training will receive a certificate.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — who",
+      "explanation": "N chỉ người 'employees' + ___ + V (have completed) → who. Dịch: Tất cả nhân viên người mà đã hoàn thành đào tạo an toàn sẽ nhận chứng nhận.",
+      "tip": "N chỉ người + who + V. Mệnh đề quan hệ xác định (không dấu phẩy)."
+    },
+    {
+      "id": 23,
+      "question": "The company is committed to _________ sustainable business practices across all operations.",
+      "options": [
+        "adopting",
+        "adopt",
+        "adoption",
+        "adopted"
+      ],
+      "answer": 0,
+      "type": "gerund",
+      "type_label": "Dạng V — V-ing sau giới từ",
+      "explanation": "To (giới từ) + Ving. Committed to + Ving = cam kết làm gì. Dịch: Công ty cam kết áp dụng phương pháp kinh doanh bền vững trên tất cả hoạt động.",
+      "tip": "'Committed to' → 'to' là GIỚI TỪ (không phải to-V). Giới từ + V-ing. Phân biệt to-V và to+Ving."
+    },
+    {
+      "id": 24,
+      "question": "The marketing department's budget was cut _________ fifteen percent this fiscal year.",
+      "options": [
+        "by",
+        "to",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — by (mức giảm)",
+      "explanation": "Cut by + số = cắt giảm (mức). Cut TO + số = cắt xuống còn. Dịch: Ngân sách phòng marketing bị cắt giảm 15% năm tài chính này.",
+      "tip": "Reduce/cut BY X% = giảm X%. Reduce/cut TO X% = giảm xuống còn X%. Phân biệt kỹ."
+    },
+    {
+      "id": 25,
+      "question": "The investigation committee is _________ looking into the cause of the data breach.",
+      "options": [
+        "currently",
+        "current",
+        "currency",
+        "currents"
+      ],
+      "answer": 0,
+      "type": "adverb_progressive",
+      "type_label": "Dạng từ — Adv trong hiện tại tiếp diễn",
+      "explanation": "Tobe 'is' + Adv + Ving. Currently = hiện tại. Dịch: Ủy ban điều tra hiện đang xem xét nguyên nhân vi phạm dữ liệu.",
+      "tip": "Is/Are + Adv + Ving. Current(Adj) → currently(Adv). Currency(N) = tiền tệ (khác từ!)."
+    },
+    {
+      "id": 26,
+      "question": "The project manager insisted that every team member _________ weekly progress reports.",
+      "options": [
+        "submit",
+        "submits",
+        "submitted",
+        "submitting"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + Vo",
+      "explanation": "Sau insist + that → S + Vo. Submit = nguyên thể. Dịch: Quản lý dự án kiên quyết mỗi thành viên nộp báo cáo tiến độ hàng tuần.",
+      "tip": "Insist + that + S + Vo. Không thêm s, không chia thì. Submit (không submits)."
+    },
+    {
+      "id": 27,
+      "question": "The new factory will be _________ operational by the end of next quarter.",
+      "options": [
+        "fully",
+        "full",
+        "fullness",
+        "filling"
+      ],
+      "answer": 0,
+      "type": "adverb_adjective",
+      "type_label": "Dạng từ — Adv bổ nghĩa Adj",
+      "explanation": "Adv + Adj (operational). Fully = hoàn toàn. Dịch: Nhà máy mới sẽ hoàn toàn hoạt động vào cuối quý tới.",
+      "tip": "Adv + Adj. Full(Adj) → fully(Adv). Fully operational = hoạt động toàn phần."
+    },
+    {
+      "id": 28,
+      "question": "Customers _________ are dissatisfied with the service may request a full refund.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — who",
+      "explanation": "N chỉ người 'customers' + be (are) → who. Dịch: Khách hàng ai không hài lòng với dịch vụ có thể yêu cầu hoàn tiền đầy đủ.",
+      "tip": "N chỉ người + who + V. 'Who are' = mệnh đề quan hệ xác định."
+    },
+    {
+      "id": 29,
+      "question": "The board voted _________ favor of the proposed merger with the rival company.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — in favor of",
+      "explanation": "In favor of = ủng hộ, thuận. Collocation cố định. Dịch: Hội đồng bỏ phiếu thuận việc sáp nhập với công ty đối thủ.",
+      "tip": "Vote IN favor of = bỏ phiếu thuận. Vote AGAINST = bỏ phiếu chống. Nhớ giới từ."
+    },
+    {
+      "id": 30,
+      "question": "The recent changes in tax regulations will _________ affect small businesses across the country.",
+      "options": [
+        "adversely",
+        "adverse",
+        "adversity",
+        "adversaries"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trước V",
+      "explanation": "___ trước V 'affect' → Adv. Adversely = một cách bất lợi. Dịch: Thay đổi gần đây về quy định thuế sẽ ảnh hưởng bất lợi đến doanh nghiệp nhỏ trên cả nước.",
+      "tip": "___ + V → Adv. Adverse(Adj) → adversely(Adv) = bất lợi. Adversity(N) = nghịch cảnh."
+    }
+  ]
+}

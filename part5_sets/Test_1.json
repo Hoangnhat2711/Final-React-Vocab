@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 1",
+  "title": "TOEIC Part 5 · Test 1 · Word Form & Grammar Basics",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "_________ all department heads must submit their quarterly budget reports by March 15.",
+      "options": [
+        "Requirement",
+        "Require",
+        "Required",
+        "Requires"
+      ],
+      "answer": 0,
+      "type": "noun_subject",
+      "type_label": "Dạng từ — Danh từ làm chủ ngữ",
+      "explanation": "Dấu ___ đứng đầu câu làm chủ ngữ cho động từ 'must submit'. Cần N làm S. Requirement = yêu cầu. Dịch: Việc yêu cầu tất cả trưởng phòng phải nộp báo cáo ngân sách... Loại B,C,D vì là động từ, không đứng đầu câu làm S được.",
+      "tip": "Dấu ___ ở đầu câu + sau nó có V chia thì → vị trí cần N làm S."
+    },
+    {
+      "id": 2,
+      "question": "The newly renovated conference room is _________ equipped with state-of-the-art technology.",
+      "options": [
+        "beautiful",
+        "beautifully",
+        "beauty",
+        "beautify"
+      ],
+      "answer": 1,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Trạng từ bổ nghĩa V",
+      "explanation": "Câu có cấu trúc bị động tobe + Ved: 'is equipped'. Giữa tobe và V, chọn Adv bổ nghĩa cho V. Beautifully = một cách đẹp đẽ. Dịch: phòng họp mới tân trang được trang bị đẹp đẽ...",
+      "tip": "Tobe + Adv + Ved/c3 → Adv đứng giữa bổ nghĩa cho V trong câu bị động."
+    },
+    {
+      "id": 3,
+      "question": "Ms. Tanaka was _________ impressed by the candidate's portfolio during the interview.",
+      "options": [
+        "thorough",
+        "thoroughly",
+        "thoroughness",
+        "(option 4)"
+      ],
+      "answer": 1,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Trạng từ trong câu bị động",
+      "explanation": "Cấu trúc bị động: was + Ved (impressed). Thêm Adv ở giữa bổ nghĩa. Thoroughly = một cách kỹ lưỡng. Dịch: cô Tanaka bị ấn tượng kỹ lưỡng...",
+      "tip": "Tobe + Adv + Ved/c3 → luôn chọn Adv (-ly) khi có tobe + V-ed/c3."
+    },
+    {
+      "id": 4,
+      "question": "_________ the proposal carefully, the board members voted unanimously to approve the project.",
+      "options": [
+        "Review",
+        "To review",
+        "Having reviewed",
+        "Reviewed"
+      ],
+      "answer": 2,
+      "type": "perfect_participle",
+      "type_label": "Dạng từ — Phân từ hoàn thành",
+      "explanation": "Hành động 'review' xảy ra TRƯỚC hành động 'voted'. Dùng Having + Ved/c3 để chỉ việc đã hoàn thành trước. Dịch: Sau khi đã xem xét kỹ提案, hội đồng đã biểu quyết...",
+      "tip": "Having + Ved/c3 = chỉ hành động đã xong trước hành động chính. Khác V-ing (đồng thời)."
+    },
+    {
+      "id": 5,
+      "question": "All employees are required to wear _________ gear when entering the construction site.",
+      "options": [
+        "protect",
+        "protection",
+        "protective",
+        "protectively"
+      ],
+      "answer": 2,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Tính từ trước N",
+      "explanation": "Dấu ___ đứng trước N 'gear' → chọn Adj bổ nghĩa. Protective = bảo hộ. Dịch: tất cả nhân viên phải mặc đồ bảo hộ...",
+      "tip": "___ + N → chọn Adj. Bỏ -ly lấy gốc adj, hoặc thêm -ive/-al/-ful."
+    },
+    {
+      "id": 6,
+      "question": "The marketing team's _________ to launch the campaign ahead of schedule surprised everyone.",
+      "options": [
+        "decide",
+        "decision",
+        "decisive",
+        "decisively"
+      ],
+      "answer": 1,
+      "type": "noun_after_possessive",
+      "type_label": "Dạng từ — Danh từ sau sở hữu cách",
+      "explanation": "Sau sở hữu cách 'team's' + mạo từ 'the' → cần N. Decision = quyết định. Dịch: Quyết định của đội marketing ra mắt chiến dịch sớm...",
+      "tip": "Sở hữu cách (N's / of N) + ___ → chọn N."
+    },
+    {
+      "id": 7,
+      "question": "Customers can return any _________ item within thirty days for a full refund.",
+      "options": [
+        "satisfy",
+        "satisfaction",
+        "satisfactory",
+        "dissatisfied"
+      ],
+      "answer": 2,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Tính từ trước N",
+      "explanation": "___ đứng trước N 'item' → Adj. Satisfactory = làm hài lòng, thỏa đáng. Dịch: khách hàng có thể trả lại bất kỳ món hàng nào thỏa đáng...",
+      "tip": "Lưu ý: satisfactory (adj) ≠ satisfied (V-ed). Satisfactory = chất lượng tốt; satisfied = cảm thấy hài lòng."
+    },
+    {
+      "id": 8,
+      "question": "_________ the high cost of raw materials, the company managed to maintain its profit margins.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_phrase",
+      "type_label": "Liên từ — Despite + N",
+      "explanation": "Despite + N/Ving = mặc dù. 'the high cost' là cụm N → dùng Despite. Although + mệnh đề (S+V). Dịch: Mặc dù chi phí nguyên liệu cao, công ty vẫn duy trì được biên lợi nhuận.",
+      "tip": "Despite/In spite of + N/Ving. Although/Even though + S + V. Phân biệt bằng việc nhìn sau chỗ trống là N hay mệnh đề."
+    },
+    {
+      "id": 9,
+      "question": "The auditor will _________ examine the financial records to ensure compliance with regulations.",
+      "options": [
+        "careful",
+        "carefully",
+        "carefulness",
+        "care"
+      ],
+      "answer": 1,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Trạng từ trước V",
+      "explanation": "Trước V 'examine' → chọn Adv. Carefully = một cách cẩn thận. Dịch: Kiểm toán viên sẽ kiểm tra cẩn thận hồ sơ tài chính...",
+      "tip": "___ + V → chọn Adv. Adv bổ nghĩa cho V (cách thực hiện hành động)."
+    },
+    {
+      "id": 10,
+      "question": "Mr. Patel has been _________ for the regional sales manager position.",
+      "options": [
+        "consider",
+        "considering",
+        "considered",
+        "consideration"
+      ],
+      "answer": 2,
+      "type": "passive_verb",
+      "type_label": "Dạng từ — Bị động",
+      "explanation": "Cấu trúc bị động: has been + Ved/c3. Considered = được xem xét. Dấu hiệu 'for the position' → bị động. Dịch: Ông Patel đã được xem xét cho vị trí quản lý...",
+      "tip": "has been/have been/was/were + ___ → chọn Ved/c3 (bị động)."
+    },
+    {
+      "id": 11,
+      "question": "_________ of the agreement must be signed by both parties before the end of the month.",
+      "options": [
+        "Sign",
+        "Signed",
+        "Signatures",
+        "Signing"
+      ],
+      "answer": 2,
+      "type": "noun_subject",
+      "type_label": "Dạng từ — Danh từ làm chủ ngữ",
+      "explanation": "___ of the agreement → cần N làm S cho 'must be signed'. Signatures = chữ ký. Dịch: Chữ ký của thỏa thuận phải được ký...",
+      "tip": "___ + of + N + V → vị trí cần N làm S."
+    },
+    {
+      "id": 12,
+      "question": "The hotel offers complimentary breakfast _________ all guests staying in executive suites.",
+      "options": [
+        "for",
+        "to",
+        "with",
+        "at"
+      ],
+      "answer": 1,
+      "type": "preposition",
+      "type_label": "Giới từ — offer to",
+      "explanation": "Offer sth to sb = cung cấp cái gì cho ai. Dịch: Khách sạn cung cấp bữa sáng miễn phí cho tất cả khách...",
+      "tip": "Offer + sth + TO + sb. Collocation cố định trong TOEIC."
+    },
+    {
+      "id": 13,
+      "question": "Only applicants _________ meet the minimum qualifications will be contacted for an interview.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — who (chỉ người)",
+      "explanation": "'applicants' là N chỉ người, sau đó cần chủ ngữ + V 'meet' → dùng who. Dịch: Chỉ những ứng viên người mà đáp ứng tiêu chuẩn tối thiểu...",
+      "tip": "N chỉ người + ___ + V → who. N chỉ vật/việc + ___ + V → which."
+    },
+    {
+      "id": 14,
+      "question": "The software update is _________ scheduled for release next Monday but may be delayed.",
+      "options": [
+        "tentatively",
+        "tentative",
+        "tentativeness",
+        "(option 4)"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Trạng từ trong bị động",
+      "explanation": "Câu bị động: is + Ved (scheduled). Thêm Adv ở giữa. Tentatively = một cách dự kiến. Dịch: Bản cập nhật dự kiến được phát hành vào thứ Hai...",
+      "tip": "Tobe + Adv + Ved/c3 → Adv (-ly). Tentatively = dự kiến, chưa chắc chắn."
+    },
+    {
+      "id": 15,
+      "question": "_________ the weather improves, the outdoor concert will proceed as planned.",
+      "options": [
+        "Unless",
+        "Provided that",
+        "Even though",
+        "Despite"
+      ],
+      "answer": 1,
+      "type": "conjunction",
+      "type_label": "Liên từ — Provided that (miễn là/nếu)",
+      "explanation": "Provided that + S + V = miễn là/nếu. Câu dịch: Nếu thời tiết cải thiện, buổi hòa nhạc ngoài trời sẽ diễn ra như kế hoạch. 'Unless' = trừ khi (nghĩa phủ định, không phù hợp).",
+      "tip": "Provided that = as long as = nếu mà. Đi kèm mệnh đề S+V."
+    },
+    {
+      "id": 16,
+      "question": "Ms. Rodriguez prides _________ on delivering high-quality work on time, every time.",
+      "options": [
+        "her",
+        "herself",
+        "hers",
+        "she"
+      ],
+      "answer": 1,
+      "type": "reflexive_pronoun",
+      "type_label": "Đại từ — Phản thân",
+      "explanation": "Pride oneself on = tự hào về. Chủ ngữ 'Ms. Rodriguez' (cô ấy) → herself. Dịch: Cô Rodriguez tự hào về việc giao việc chất lượng đúng hạn.",
+      "tip": "Pride oneself on = tự hào về. Đại từ phản thân trùng với chủ ngữ."
+    },
+    {
+      "id": 17,
+      "question": "The committee reached a _________ after deliberating for over three hours.",
+      "options": [
+        "consent",
+        "consensus",
+        "(option 3)",
+        "(option 4)"
+      ],
+      "answer": 1,
+      "type": "vocabulary",
+      "type_label": "Từ vựng — Collocation: reach a consensus",
+      "explanation": "Reach a consensus = đạt được sự nhất trí. Collocation cố định. Dịch: Ủy ban đạt được sự nhất trí sau khi thảo luận hơn 3 tiếng.",
+      "tip": "Reach a consensus/decision/agreement = đạt được sự nhất trí/quyết định/thỏa thuận."
+    },
+    {
+      "id": 18,
+      "question": "By the time the audit is completed, the firm _________ over five thousand documents.",
+      "options": [
+        "will review",
+        "will have reviewed",
+        "reviews",
+        "has reviewed"
+      ],
+      "answer": 1,
+      "type": "verb_tense",
+      "type_label": "Thì — Tương lai hoàn thành",
+      "explanation": "Dấu hiệu 'By the time + hiện tại' → vế chính chia tương lai hoàn thành: will have + Ved/c3. Dịch: Đến khi kiểm toán xong, công ty sẽ đã xem xét hơn 5000 tài liệu.",
+      "tip": "By the time + HTĐ → WILL HAVE + Ved/c3. Chỉ hành động sẽ xong trước một thời điểm trong tương lai."
+    },
+    {
+      "id": 19,
+      "question": "The new branch office is conveniently located _________ the central train station.",
+      "options": [
+        "opposite",
+        "between",
+        "among",
+        "throughout"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — opposite (đối diện)",
+      "explanation": "Oppposite = đối diện với. Giữa 2 vị trí (văn phòng và ga tàu). Dịch: Văn phòng chi nhánh mới nằm đối diện nhà ga trung tâm.",
+      "tip": "Oppposite = across from = đối diện. Between A and B = giữa A và B (cần 2 N)."
+    },
+    {
+      "id": 20,
+      "question": "Investors were pleased with the company's _________ growth over the past fiscal year.",
+      "options": [
+        "steadily",
+        "steady",
+        "steadiness",
+        "steadied"
+      ],
+      "answer": 1,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Tính từ trước N",
+      "explanation": "___ đứng trước N 'growth' → Adj. Steady = ổn định, đều đặn. Dịch: Nhà đầu tư hài lòng với sự tăng trưởng ổn định...",
+      "tip": "___ + N → Adj. Steady (adj) ≠ steadily (adv)."
+    },
+    {
+      "id": 21,
+      "question": "_________ his extensive experience, Mr. Kim was selected to lead the merger negotiations.",
+      "options": [
+        "Due to",
+        "Because",
+        "Owing to",
+        "Since"
+      ],
+      "answer": 2,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Owing to + N",
+      "explanation": "Owing to + N = nhờ vào, bởi vì (cụm N). 'his extensive experience' là cụm N → dùng Owing to / Due to. Dịch: Nhờ kinh nghiệm phong phú, ông Kim được chọn dẫn dắt đàm phán sáp nhập.",
+      "tip": "Due to / Owing to + N. Because / Since / As + S + V. Nhìn sau chỗ trống: N hay mệnh đề?"
+    },
+    {
+      "id": 22,
+      "question": "The _________ results of the customer satisfaction survey will be published next week.",
+      "options": [
+        "finalize",
+        "final",
+        "finally",
+        "finality"
+      ],
+      "answer": 1,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Tính từ trước N",
+      "explanation": "___ đứng trước N 'results' → Adj. Final = cuối cùng. Dịch: Kết quả cuối cùng của khảo sát...",
+      "tip": "___ + N → Adj. Loại -ize (V), -ly (adv), -ity (N)."
+    },
+    {
+      "id": 23,
+      "question": "_________ you have submitted your application, you will receive a confirmation email within 48 hours.",
+      "options": [
+        "Unless",
+        "Once",
+        "Despite",
+        "However"
+      ],
+      "answer": 1,
+      "type": "conjunction",
+      "type_label": "Liên từ — Once (một khi)",
+      "explanation": "Once + S + V = một khi. Dịch: Một khi bạn đã nộp đơn, bạn sẽ nhận email xác nhận trong 48 giờ.",
+      "tip": "Once = as soon as = một khi/ngay khi. Theo sau là mệnh đề S+V."
+    },
+    {
+      "id": 24,
+      "question": "The shipping department is responsible _________ ensuring all packages are delivered on schedule.",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "to"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — responsible for",
+      "explanation": "Be responsible for + N/Ving = chịu trách nhiệm về. Collocation cố định. Dịch: Bộ phận vận chuyển chịu trách nhiệm đảm bảo tất cả gói hàng giao đúng lịch.",
+      "tip": "Responsible FOR (không phải of/with/to). Collocation phải nhớ."
+    },
+    {
+      "id": 25,
+      "question": "Neither the manager _________ the assistant was aware of the policy change.",
+      "options": [
+        "or",
+        "nor",
+        "and",
+        "but"
+      ],
+      "answer": 1,
+      "type": "conjunction",
+      "type_label": "Liên từ — Neither...nor",
+      "explanation": "Neither A nor B = không A cũng không B. Cấu trúc song song. Dịch: Cả quản lý lẫn trợ lý đều không biết về thay đổi chính sách.",
+      "tip": "Neither...nor (không...cũng không). Either...or (hoặc...hoặc). Both...and (cả...lẫn)."
+    },
+    {
+      "id": 26,
+      "question": "The presentation was so _________ that several clients immediately signed contracts.",
+      "options": [
+        "compel",
+        "compelling",
+        "compelled",
+        "compellingly"
+      ],
+      "answer": 1,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Tính từ sau tobe",
+      "explanation": "Tobe 'was' + Adj. 'so + Adj + that' = quá...đến nỗi. Compelling = hấp dẫn, thuyết phục. Dịch: Bài thuyết trình quá thuyết phục đến nỗi nhiều khách hàng ký hợp đồng ngay.",
+      "tip": "So + Adj/Adv + that... = quá...đến nỗi. Tobe + ___ → Adj."
+    },
+    {
+      "id": 27,
+      "question": "All _________ documents must be filed electronically before the deadline.",
+      "options": [
+        "relevance",
+        "relevant",
+        "relevancy",
+        "relevantly"
+      ],
+      "answer": 1,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Tính từ trước N",
+      "explanation": "___ đứng trước N 'documents' → Adj. Relevant = liên quan, có liên hệ. Dịch: Tất cả tài liệu có liên quan phải được nộp điện tử trước hạn.",
+      "tip": "___ + N → Adj. All + Adj + N (số nhiều)."
+    },
+    {
+      "id": 28,
+      "question": "_________ the delays in shipping, the company offered customers a twenty percent discount.",
+      "options": [
+        "Although",
+        "In spite of",
+        "Because",
+        "When"
+      ],
+      "answer": 1,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — In spite of + N",
+      "explanation": "In spite of + N = mặc dù. 'the delays' là cụm N → In spite of / Despite. Dịch: Mặc dù chậm trễ vận chuyển, công ty giảm giá 20% cho khách.",
+      "tip": "In spite of / Despite + N. Although / Even though + S+V."
+    },
+    {
+      "id": 29,
+      "question": "Mr. O'Brien has worked at the firm for over twenty years, _________ is longer than any other employee.",
+      "options": [
+        "that",
+        "which",
+        "who",
+        "whose"
+      ],
+      "answer": 1,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — which (chỉ cả vế trước)",
+      "explanation": "'Which' thay cho cả vế trước nó ('worked for over 20 years'). Dịch: Ông O'Brien đã làm việc hơn 20 năm, điều đó lâu hơn bất kỳ nhân viên nào.",
+      "tip": "Which có thể thay cho CẢ VẾ trước nó (không chỉ N). That không dùng sau dấu phẩy."
+    },
+    {
+      "id": 30,
+      "question": "The board insisted that the proposal _________ revised before any further discussion.",
+      "options": [
+        "is",
+        "be",
+        "was",
+        "will be"
+      ],
+      "answer": 1,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + S + Vo",
+      "explanation": "Sau insist/suggest/demand/recommend + that → S + Vo (nguyên thể không to). Be = nguyên thể của 'to be'. Dịch: Hội đồng kiên quyết rằng đề xuất phải được sửa đổi...",
+      "tip": "Insist/Suggest/Demand/Recommend + that + S + Vo (to be → be, to do → do). Thức giả định (subjunctive)."
+    }
+  ]
+}

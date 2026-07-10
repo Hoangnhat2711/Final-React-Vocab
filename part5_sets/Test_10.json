@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 10",
+  "title": "TOEIC Part 5 · Test 10 · Mastery Level",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Seldom _________ such a rapid transformation in corporate culture within a single organization.",
+      "options": [
+        "has been witnessed",
+        "has witnessed",
+        "witnessed has",
+        "witnessed"
+      ],
+      "answer": 0,
+      "type": "inversion",
+      "type_label": "Đảo ngữ — Seldom + đảo",
+      "explanation": "Seldom/never/rarely ở đầu → đảo ngữ: has + S + been + Ved. Dịch: Hiếm khi chứng kiến sự chuyển đổi nhanh như vậy trong văn hóa doanh nghiệp.",
+      "tip": "Seldom/Never/Rarely/Scarcely ở đầu câu → đảo ngữ: aux + S + Ved. Trợ động từ lên trước S."
+    },
+    {
+      "id": 2,
+      "question": "The board demanded that the CEO _________ a detailed explanation for the budget overrun.",
+      "options": [
+        "provide",
+        "provides",
+        "provided",
+        "providing"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — demand that + Vo",
+      "explanation": "Sau demand + that → S + Vo. Provide = nguyên thể. Dịch: Hội đồng yêu cầu CEO cung cấp giải thích chi tiết về vượt ngân sách.",
+      "tip": "Demand + that + S + Vo. Provide (không provides). Thức giả định."
+    },
+    {
+      "id": 3,
+      "question": "_________ the financial risks involved, the board approved the expansion plan.",
+      "options": [
+        "Notwithstanding",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Notwithstanding + N",
+      "explanation": "Notwithstanding + N = mặc dù (= despite). Cao cấp. 'the financial risks' là N. Dịch: Mặc dù rủi ro tài chính, hội đồng phê duyệt kế hoạch mở rộng.",
+      "tip": "Notwithstanding = despite = in spite of. Từ nâng cao, hay gặp TOEIC Part 5 cao cấp."
+    },
+    {
+      "id": 4,
+      "question": "The company's investment in employee development has _________ yielded substantial returns.",
+      "options": [
+        "consistently",
+        "consistent",
+        "consistency",
+        "consist"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trong HTHT",
+      "explanation": "Has + Adv + Ved (yielded). Consistently = một cách nhất quán. Dịch: Đầu tư vào phát triển nhân viên đã mang lại lợi nhuận đáng kể một cách nhất quán.",
+      "tip": "Has + Adv + Ved/c3. Consistent(Adj) → consistently(Adv). 'Consistently yielded' = collocation."
+    },
+    {
+      "id": 5,
+      "question": "The new regulations are _________ to all businesses operating within the European Union.",
+      "options": [
+        "applicable",
+        "apply",
+        "application",
+        "applied"
+      ],
+      "answer": 0,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau tobe",
+      "explanation": "Are + Adj. Applicable = có thể áp dụng. 'Applicable to' = áp dụng được cho. Dịch: Quy định mới áp dụng cho tất cả doanh nghiệp hoạt động trong EU.",
+      "tip": "Are/were + ___ → Adj. Apply(V) → applicable(Adj). 'Applicable TO' = áp dụng được cho."
+    },
+    {
+      "id": 6,
+      "question": "The committee voted in _________ of postponing the product launch until further testing is completed.",
+      "options": [
+        "favor",
+        "favorite",
+        "favorable",
+        "favorably"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N trong collocation",
+      "explanation": "In favor OF = ủng hộ. Favor = sự ủng hộ. Dịch: Ủy ban bỏ phiếu thuận hoãn ra mắt sản phẩm cho đến khi thử nghiệm thêm hoàn tất.",
+      "tip": "In favor OF = ủng hộ. Vote in favor of = bỏ phiếu thuận. Favor(N) → favorable(Adj) → favorably(Adv)."
+    },
+    {
+      "id": 7,
+      "question": "_________ for the timely intervention of the legal team, the company would have faced severe penalties.",
+      "options": [
+        "Had it not been",
+        "If it not been",
+        "Were it not",
+        "Unless"
+      ],
+      "answer": 0,
+      "type": "inversion_conditional",
+      "type_label": "Đảo ngữ điều kiện loại 3",
+      "explanation": "Đảo ngữ If loại 3: Had + S + not + been. = If it had not been for. Dịch: Nếu không có sự can thiệp đúng lúc của đội pháp lý, công ty sẽ đối mặt án phạt nghiêm khắc.",
+      "tip": "If loại 3 đảo: Had it not been for = If it had not been for. Bỏ If, đưa Had lên đầu."
+    },
+    {
+      "id": 8,
+      "question": "The company is _________ seeking strategic partnerships to expand its global footprint.",
+      "options": [
+        "actively",
+        "active",
+        "activity",
+        "activate"
+      ],
+      "answer": 0,
+      "type": "adverb_progressive",
+      "type_label": "Dạng từ — Adv trong HT tiếp diễn",
+      "explanation": "Is + Adv + Ving (seeking). Actively = tích cực. Dịch: Công ty đang tích cực tìm kiếm đối tác chiến lược để mở rộng hiện diện toàn cầu.",
+      "tip": "Is + Adv + Ving. Active(Adj) → actively(Adv). 'Actively seeking' = collocation."
+    },
+    {
+      "id": 9,
+      "question": "All employees must adhere _________ the company's data protection policy at all times.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — adhere to",
+      "explanation": "Adhere to = tuân thủ. Dịch: Tất cả nhân viên phải tuân thủ chính sách bảo vệ dữ liệu của công ty mọi lúc.",
+      "tip": "Adhere TO = comply WITH = conform TO = tuân thủ. Nhớ giới từ đi kèm."
+    },
+    {
+      "id": 10,
+      "question": "The _________ of the new technology has revolutionized the way the company conducts business.",
+      "options": [
+        "adoption",
+        "adopt",
+        "adopted",
+        "adopting"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Adoption = sự áp dụng. Dịch: Việc áp dụng công nghệ mới đã cách mạng hóa cách công ty kinh doanh.",
+      "tip": "The + ___ + of + N → N. Adopt(V) → adoption(N). 'Adoption of' = collocation."
+    },
+    {
+      "id": 11,
+      "question": "The manager suggested that the team _________ a different approach to solving the problem.",
+      "options": [
+        "try",
+        "tries",
+        "tried",
+        "trying"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — suggest that + Vo",
+      "explanation": "Sau suggest + that → S + Vo. Try = nguyên thể. Dịch: Quản lý gợi ý đội thử cách tiếp cận khác để giải quyết vấn đề.",
+      "tip": "Suggest + that + S + Vo. Try (không tries). 'Approach to + Ving' = cách tiếp cận việc gì."
+    },
+    {
+      "id": 12,
+      "question": "The company's decision to downsize was met with _________ from the labor union.",
+      "options": [
+        "opposition",
+        "oppose",
+        "opposed",
+        "opposing"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau giới từ",
+      "explanation": "With + N → opposition. Dịch: Quyết định thu hẹp quy mô của công ty vấp phải sự phản đối từ công đoàn.",
+      "tip": "With + ___ → N. Oppose(V) → opposition(N) = sự phản đối. 'Meet with opposition' = collocation."
+    },
+    {
+      "id": 13,
+      "question": "The _________ growth of the e-commerce sector has created unprecedented opportunities for retailers.",
+      "options": [
+        "exponential",
+        "exponentially",
+        "exponent",
+        "exponents"
+      ],
+      "answer": 0,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'growth' → Adj. Exponential = theo cấp số nhân. Dịch: Sự tăng trưởng cấp số nhân của ngành thương mại điện tử tạo cơ hội chưa từng có cho nhà bán lẻ.",
+      "tip": "___ + N → Adj. Exponential(Adj) = cấp số nhân, tăng vọt. Từ nâng cao, hay gặp TOEIC Part 5 cao cấp."
+    },
+    {
+      "id": 14,
+      "question": "The supplier's failure to deliver on time resulted _________ significant production delays.",
+      "options": [
+        "in",
+        "from",
+        "of",
+        "with"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — result in",
+      "explanation": "Result IN = dẫn đến (kết quả). Dịch: Việc nhà cung cấp giao chậm dẫn đến chậm trễ sản xuất đáng kể.",
+      "tip": "Result IN sth = dẫn đến. Result FROM sth = do, bắt nguồn từ. Phân biệt chiều nguyên nhân-kết quả."
+    },
+    {
+      "id": 15,
+      "question": "The new employee was _________ surprised by the level of support provided by the team.",
+      "options": [
+        "pleasantly",
+        "pleasant",
+        "pleasure",
+        "pleased"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Was + Adv + Ved (surprised). Pleasantly = một cách dễ chịu. Dịch: Nhân viên mới vui vẻ ngạc nhiên trước mức độ hỗ trợ của đội.",
+      "tip": "Was + Adv + Ved/c3. Pleasant(Adj) → pleasantly(Adv). 'Pleasantly surprised' = collocation = ngạc nhiên vui."
+    },
+    {
+      "id": 16,
+      "question": "The company has been _________ criticized for its handling of the environmental crisis.",
+      "options": [
+        "widely",
+        "wide",
+        "width",
+        "widen"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Has been + Adv + Ved (criticized). Widely = rộng rãi. Dịch: Công ty bị chỉ trích rộng rãi vì cách xử lý khủng hoảng môi trường.",
+      "tip": "Has been + Adv + Ved/c3. Wide(Adj) → widely(Adv). 'Widely criticized' = collocation."
+    },
+    {
+      "id": 17,
+      "question": "The board recommended that the company _________ its cybersecurity infrastructure immediately.",
+      "options": [
+        "upgrade",
+        "upgrades",
+        "upgraded",
+        "upgrading"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — recommend that + Vo",
+      "explanation": "Sau recommend + that → S + Vo. Upgrade = nguyên thể. Dịch: Hội đồng khuyến nghị công ty nâng cấp hạ tầng an ninh mạng ngay lập tức.",
+      "tip": "Recommend + that + S + Vo. Upgrade (không upgrades). 'Cybersecurity infrastructure' = collocation công nghệ."
+    },
+    {
+      "id": 18,
+      "question": "The project was _________ completed, meeting all requirements and exceeding quality expectations.",
+      "options": [
+        "successfully",
+        "successful",
+        "success",
+        "succeed"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Was + Adv + Ved (completed). Successfully = thành công. Dịch: Dự án hoàn thành thành công, đáp ứng tất cả yêu cầu và vượt kỳ vọng chất lượng.",
+      "tip": "Was + Adv + Ved/c3. Success(N) → successful(Adj) → successfully(Adv). 'Successfully completed' = collocation."
+    },
+    {
+      "id": 19,
+      "question": "_________ the competitive market conditions, the startup managed to secure substantial funding.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the competitive market conditions' là cụm N. Dịch: Mặc dù điều kiện thị trường cạnh tranh, startup vẫn đảm bảo được vốn lớn.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 20,
+      "question": "The company provides comprehensive health benefits _________ all full-time employees.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — provide to",
+      "explanation": "Provide sth TO sb = cung cấp cho. Dịch: Công ty cung cấp lợi ích sức khỏe toàn diện cho tất cả nhân viên toàn thời gian.",
+      "tip": "Provide sth TO sb. Provide sb WITH sth. Cả hai đúng nhưng khác cấu trúc."
+    },
+    {
+      "id": 21,
+      "question": "The annual report indicated that the company's market share had _________ increased.",
+      "options": [
+        "substantially",
+        "substantial",
+        "substance",
+        "substantiate"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trước V",
+      "explanation": "Had + Adv + Ved (increased). Substantially = đáng kể. Dịch: Báo cáo thường niên cho thấy thị phần công ty tăng đáng kể.",
+      "tip": "Had + Adv + Ved/c3 (QKHT). Substance(N) → substantial(Adj) → substantially(Adv)."
+    },
+    {
+      "id": 22,
+      "question": "The _________ of the new employee training program will be assessed at the end of the quarter.",
+      "options": [
+        "effectiveness",
+        "effective",
+        "effectively",
+        "effect"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Effectiveness = tính hiệu quả. Dịch: Hiệu quả của chương trình đào tạo nhân viên mới sẽ được đánh giá vào cuối quý.",
+      "tip": "The + ___ + of + N → N. Effect(N) → effective(Adj) → effectiveness(N)."
+    },
+    {
+      "id": 23,
+      "question": "The board insisted that the compliance report _________ submitted by the end of the week.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + Vo",
+      "explanation": "Sau insist + that → S + Vo. Be = nguyên thể. Dịch: Hội đồng kiên quyết báo cáo tuân thủ phải nộp trước cuối tuần.",
+      "tip": "Insist + that + S + Vo. Be (không is/was). Thức giả định."
+    },
+    {
+      "id": 24,
+      "question": "The company has _________ invested in cutting-edge technology to maintain its competitive edge.",
+      "options": [
+        "heavily",
+        "heavy",
+        "heaviness",
+        "heavier"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv sau V",
+      "explanation": "Has + Adv + Ved (invested). Heavily = đáng kể. Dịch: Công ty đã đầu tư đáng kể vào công nghệ tiên tiến để duy trì lợi thế cạnh tranh.",
+      "tip": "Has + Adv + Ved/c3. Heavy(Adj) → heavily(Adv). 'Invest heavily in' = collocation = đầu tư mạnh."
+    },
+    {
+      "id": 25,
+      "question": "The new policy applies _________ to all employees, regardless of seniority or position.",
+      "options": [
+        "equally",
+        "equal",
+        "equality",
+        "equate"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv bổ nghĩa V",
+      "explanation": "Applies + Adv → equally. Dịch: Chính sách mới áp dụng đồng đều cho tất cả nhân viên, bất kể thâm niên hay vị trí.",
+      "tip": "V + Adv. Equal(Adj) → equally(Adv). 'Applies equally' = collocation. 'Regardless of' = bất kể."
+    },
+    {
+      "id": 26,
+      "question": "The committee's decision was _________ influenced by the findings of the independent audit.",
+      "options": [
+        "heavily",
+        "heavy",
+        "heaviness",
+        "heavier"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Was + Adv + Ved (influenced). Heavily = đáng kể. Dịch: Quyết định của ủy ban bị ảnh hưởng đáng kể bởi phát hiện kiểm toán độc lập.",
+      "tip": "Was + Adv + Ved/c3. Heavy(Adj) → heavily(Adv). 'Heavily influenced' = collocation."
+    },
+    {
+      "id": 27,
+      "question": "The company was held _________ for the environmental damage caused by its operations.",
+      "options": [
+        "accountable",
+        "account",
+        "accountability",
+        "accounting"
+      ],
+      "answer": 0,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau tobe bị động",
+      "explanation": "Held + Adj → accountable. 'Hold accountable for' = bắt chịu trách nhiệm. Dịch: Công ty bị bắt chịu trách nhiệm về thiệt hại môi trường do hoạt động của nó.",
+      "tip": "Hold sb accountable FOR sth = bắt chịu trách nhiệm. Account(N) → accountable(Adj) = có trách nhiệm giải trình."
+    },
+    {
+      "id": 28,
+      "question": "The _________ of the acquisition deal exceeded everyone's expectations.",
+      "options": [
+        "success",
+        "successful",
+        "successfully",
+        "succeed"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Success = sự thành công. Dịch: Sự thành công của thỏa thuận mua lại vượt kỳ vọng mọi người.",
+      "tip": "The + ___ + of + N → N. Succeed(V) → success(N) → successful(Adj) → successfully(Adv)."
+    },
+    {
+      "id": 29,
+      "question": "The board requested that all departments _________ their budget proposals by Friday.",
+      "options": [
+        "submit",
+        "submits",
+        "submitted",
+        "submitting"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — request that + Vo",
+      "explanation": "Sau request + that → S + Vo. Submit = nguyên thể. Dịch: Hội đồng yêu cầu tất cả phòng ban nộp đề xuất ngân sách trước thứ Sáu.",
+      "tip": "Request/Suggest/Demand/Insist + that + S + Vo. Submit (không submits). Thức giả định."
+    },
+    {
+      "id": 30,
+      "question": "The company attributed its remarkable recovery _________ the dedication and hard work of its employees.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — attribute to",
+      "explanation": "Attribute sth TO sth = gán cho, quy cho. Dịch: Công ty gán sự phục hồi đáng kinh ngạc cho sự tận tâm và chăm chỉ của nhân viên.",
+      "tip": "Attribute sth TO sth = quy thành công cho. Contribute TO sth = đóng góp cho. Nhớ 'TO'."
+    }
+  ]
+}

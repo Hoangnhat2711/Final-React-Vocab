@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 7",
+  "title": "TOEIC Part 5 · Test 7 · Comprehensive Mixed Review",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The company's decision to restructure was met with _________ from the employees.",
+      "options": [
+        "resistance",
+        "resist",
+        "resistant",
+        "resisting"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N sau giới từ",
+      "explanation": "With + N → resistance. Dịch: Quyết định tái cấu trúc của công ty vấp phải sự kháng cự từ nhân viên.",
+      "tip": "With/preposition + ___ → N. Resist(V) → resistance(N). 'Meet with resistance' = vấp phải kháng cự."
+    },
+    {
+      "id": 2,
+      "question": "The new factory is scheduled to become fully _________ by the end of the fiscal year.",
+      "options": [
+        "operational",
+        "operate",
+        "operation",
+        "operator"
+      ],
+      "answer": 0,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau become",
+      "explanation": "Become + Adj. Operational = hoạt động, vận hành được. Dịch: Nhà máy mới dự kiến hoạt động toàn phần vào cuối năm tài chính.",
+      "tip": "Become + Adj. Operate(V) → operational(Adj). 'Fully operational' = collocation = vận hành toàn phần."
+    },
+    {
+      "id": 3,
+      "question": "All department heads are required to _________ in the strategic planning session next week.",
+      "options": [
+        "participate",
+        "participating",
+        "participation",
+        "participant"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Participate = tham gia. Dịch: Tất cả trưởng phòng phải tham gia buổi lập kế hoạch chiến lược tuần tới.",
+      "tip": "To + Vo. Participate IN sth = tham gia vào. Participate(V) → participation(N) → participant(N người)."
+    },
+    {
+      "id": 4,
+      "question": "The customer's _________ with the service was clearly documented in the survey responses.",
+      "options": [
+        "dissatisfaction",
+        "dissatisfy",
+        "dissatisfied",
+        "dissatisfying"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + with + N → N. Dissatisfaction = sự không hài lòng. Dịch: Sự không hài lòng của khách hàng với dịch vụ được ghi rõ trong phản hồi khảo sát.",
+      "tip": "TTSH + ___ + with → N. Dissatisfy(V) → dissatisfaction(N). Satisfied ≠ dissatisfied (trái nghĩa)."
+    },
+    {
+      "id": 5,
+      "question": "_________ the extensive training provided, some employees still struggled with the new system.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the extensive training provided' là cụm N. Dịch: Mặc dù được đào tạo mở rộng, một số nhân viên vẫn gặp khó khăn với hệ thống mới.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 6,
+      "question": "The marketing campaign was _________ successful, generating three times the expected revenue.",
+      "options": [
+        "overwhelmingly",
+        "overwhelming",
+        "overwhelm",
+        "overwhelmed"
+      ],
+      "answer": 0,
+      "type": "adverb_adjective",
+      "type_label": "Dạng từ — Adv bổ nghĩa Adj",
+      "explanation": "Adv + Adj (successful). Overwhelmingly = áp đảo, vượt trội. Dịch: Chiến dịch marketing thành công vượt trội, tạo ra doanh thu gấp 3 lần kỳ vọng.",
+      "tip": "Adv + Adj. Overwhelming(Adj) → overwhelmingly(Adv). 'Overwhelmingly successful' = thành công áp đảo."
+    },
+    {
+      "id": 7,
+      "question": "The board agreed to _________ the current CEO's contract for an additional three years.",
+      "options": [
+        "renew",
+        "renewal",
+        "renewing",
+        "renewed"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Renew = gia hạn. Dịch: Hội đồng đồng ý gia hạn hợp đồng CEO hiện tại thêm 3 năm.",
+      "tip": "To + Vo. Agree to + Vo. Renew(V) → renewal(N). Renew a contract = gia hạn hợp đồng."
+    },
+    {
+      "id": 8,
+      "question": "The supplier assured the company that all deliveries would arrive _________ schedule.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — on schedule",
+      "explanation": "On schedule = đúng tiến độ. Dịch: Nhà cung cấp đảm bảo tất cả giao hàng sẽ đến đúng tiến độ.",
+      "tip": "On schedule = đúng tiến độ. Ahead of schedule = trước tiến độ. Behind schedule = chậm tiến độ."
+    },
+    {
+      "id": 9,
+      "question": "The _________ of the new tax law will significantly impact small businesses.",
+      "options": [
+        "implementation",
+        "implement",
+        "implemented",
+        "implementing"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Implementation = sự thực thi. Dịch: Việc thực thi luật thuế mới sẽ tác động đáng kể đến doanh nghiệp nhỏ.",
+      "tip": "The + ___ + of + N → N. Implement(V) → implementation(N)."
+    },
+    {
+      "id": 10,
+      "question": "Ms. Park has been _________ involved in community outreach programs for over a decade.",
+      "options": [
+        "actively",
+        "active",
+        "activity",
+        "activate"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Has been + Adv + Ved (involved). Actively = một cách tích cực. Dịch: Cô Park đã tích cực tham gia chương trình cộng đồng hơn 10 năm.",
+      "tip": "Has been + Adv + Ved/c3. Active(Adj) → actively(Adv). 'Actively involved' = collocation."
+    },
+    {
+      "id": 11,
+      "question": "The company's sustainability initiatives have been _________ praised by environmental groups.",
+      "options": [
+        "widely",
+        "wide",
+        "width",
+        "widen"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Have been + Adv + Ved (praised). Widely = một cách rộng rãi. Dịch: Sáng kiến bền vững của công ty được các nhóm môi trường khen ngợi rộng rãi.",
+      "tip": "Have been + Adv + Ved/c3. Wide(Adj) → widely(Adv). 'Widely praised' = collocation."
+    },
+    {
+      "id": 12,
+      "question": "The new policy applies equally _________ all employees, regardless of their position.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — apply to",
+      "explanation": "Apply to + N = áp dụng cho. Dịch: Chính sách mới áp dụng đồng đều cho tất cả nhân viên, bất kể vị trí.",
+      "tip": "Apply TO sb/sth = áp dụng cho. 'Regardless of' = bất kể. Collocation phải nhớ."
+    },
+    {
+      "id": 13,
+      "question": "The report indicates that sales have _________ increased for the fifth consecutive month.",
+      "options": [
+        "steadily",
+        "steady",
+        "steadiness",
+        "steadied"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trước V",
+      "explanation": "___ trước V 'increased' → Adv. Steadily = một cách ổn định. Dịch: Báo cáo cho thấy doanh số tăng ổn định tháng liên tiếp thứ 5.",
+      "tip": "___ + V → Adv. Steady(Adj) → steadily(Adv). Consecutive = liên tiếp."
+    },
+    {
+      "id": 14,
+      "question": "The company has been _________ recognized as a leader in sustainable technology.",
+      "options": [
+        "internationally",
+        "international",
+        "internationally",
+        "internationalize"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Has been + Adv + Ved (recognized). Internationally = ở cấp quốc tế. Dịch: Công ty được công nhận quốc tế là nhà lãnh đạo trong công nghệ bền vững.",
+      "tip": "Has been + Adv + Ved/c3. International(Adj) → internationally(Adv). 'Internationally recognized' = collocation."
+    },
+    {
+      "id": 15,
+      "question": "The manager requested that all team members _________ their reports by Thursday afternoon.",
+      "options": [
+        "submit",
+        "submits",
+        "submitted",
+        "submitting"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — request that + Vo",
+      "explanation": "Sau request + that → S + Vo. Submit = nguyên thể. Dịch: Quản lý yêu cầu tất cả thành viên nộp báo cáo trước chiều thứ Năm.",
+      "tip": "Request/Suggest/Demand/Insist + that + S + Vo. Submit (không submits). Thức giả định."
+    },
+    {
+      "id": 16,
+      "question": "The _________ of the new policy will require extensive employee training.",
+      "options": [
+        "introduction",
+        "introduce",
+        "introduced",
+        "introducing"
+      ],
+      "answer": 0,
+      "type": "noun",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ + of + N → N làm S. Introduction = sự giới thiệu, đưa vào. Dịch: Việc đưa vào chính sách mới sẽ cần đào tạo nhân viên mở rộng.",
+      "tip": "The + ___ + of + N → N. Introduce(V) → introduction(N)."
+    },
+    {
+      "id": 17,
+      "question": "The committee voted to _________ the contract with the current supplier for another year.",
+      "options": [
+        "extend",
+        "extension",
+        "extending",
+        "extended"
+      ],
+      "answer": 0,
+      "type": "verb_infinitive",
+      "type_label": "Dạng V — Vo sau to",
+      "explanation": "To + Vo. Extend = kéo dài, gia hạn. Dịch: Ủy ban bỏ phiếu gia hạn hợp đồng với nhà cung cấp hiện tại thêm 1 năm.",
+      "tip": "To + Vo. Vote to + Vo. Extend(V) → extension(N). Extend a contract/deadline = gia hạn."
+    },
+    {
+      "id": 18,
+      "question": "_________ the benefits offered by the new system, some employees preferred the old one.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the benefits offered' là cụm N. Dịch: Mặc dù hệ thống mới có lợi ích, một số nhân viên vẫn thích hệ thống cũ.",
+      "tip": "Despite/In spite of + N. Although/Even though + S + V."
+    },
+    {
+      "id": 19,
+      "question": "The company is committed _________ reducing its carbon footprint by fifty percent within five years.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — committed to + Ving",
+      "explanation": "Committed to + N/Ving = cam kết. 'to' là giới từ (không phải to-V). Dịch: Công ty cam kết giảm lượng khí thải carbon 50% trong 5 năm.",
+      "tip": "Committed TO + N/Ving (to = giới từ). ≠ able TO + Vo (to = to-V). Phân biệt kỹ."
+    },
+    {
+      "id": 20,
+      "question": "The new office building is _________ located near public transportation and major highways.",
+      "options": [
+        "conveniently",
+        "convenient",
+        "convenience",
+        "conveniences"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Is + Adv + Ved (located). Conveniently = một cách thuận tiện. Dịch: Tòa nhà văn phòng mới nằm thuận tiện gần giao thông công cộng và đường cao tốc.",
+      "tip": "Is/was + Adv + Ved/c3. Convenient(Adj) → conveniently(Adv). 'Conveniently located' = collocation."
+    },
+    {
+      "id": 21,
+      "question": "The board insisted that all financial records _________ available for inspection at any time.",
+      "options": [
+        "be",
+        "is",
+        "are",
+        "will be"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — insist that + Vo",
+      "explanation": "Sau insist + that → S + Vo. Be = nguyên thể. Dịch: Hội đồng kiên quyết tất cả hồ sơ tài chính phải có sẵn để kiểm tra bất cứ lúc nào.",
+      "tip": "Insist + that + S + Vo. Be (không is/are). Thức giả định."
+    },
+    {
+      "id": 22,
+      "question": "The company attributed the decline in sales _________ increased competition in the market.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — attribute to",
+      "explanation": "Attribute sth TO sth = gán cho, do. Dịch: Công ty cho rằng giảm doanh số là do cạnh tranh gia tăng trên thị trường.",
+      "tip": "Attribute sth TO sth = gán cho. 'Attribute decline to competition' = quy giảm cho cạnh tranh."
+    },
+    {
+      "id": 23,
+      "question": "The software developer was _________ praised for creating an innovative solution to the problem.",
+      "options": [
+        "highly",
+        "high",
+        "higher",
+        "height"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Was + Adv + Ved (praised). Highly = rất, cao độ. Dịch: Lập trình viên được khen ngợi cao vì tạo giải pháp đổi mới cho vấn đề.",
+      "tip": "Was/were + Adv + Ved/c3. High(Adj) → highly(Adv). 'Highly praised' = collocation = khen ngợi cao."
+    },
+    {
+      "id": 24,
+      "question": "The project team was able to complete the assignment _________ of the tight deadline.",
+      "options": [
+        "regardless",
+        "despite",
+        "although",
+        "because"
+      ],
+      "answer": 0,
+      "type": "preposition_phrase",
+      "type_label": "Cụm giới từ — regardless of",
+      "explanation": "Regardless of + N = bất kể. 'the tight deadline' là cụm N. Dịch: Đội dự án hoàn thành nhiệm vụ bất kể hạn chót eo hẹp.",
+      "tip": "Regardless OF + N = bất kể. (Không phải regardless about/with). ≠ despite + N."
+    },
+    {
+      "id": 25,
+      "question": "The new employee quickly adapted _________ the company's fast-paced work environment.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — adapt to",
+      "explanation": "Adapt to + N = thích nghi với. Dịch: Nhân viên mới nhanh chóng thích nghi với môi trường làm việc nhịp độ nhanh của công ty.",
+      "tip": "Adapt TO sth = thích nghi với. ≠ adapt FOR (sai). 'Fast-paced' = nhịp độ nhanh."
+    },
+    {
+      "id": 26,
+      "question": "The manager congratulated the sales team _________ exceeding their quarterly targets.",
+      "options": [
+        "on",
+        "for",
+        "about",
+        "with"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — congratulate on",
+      "explanation": "Congratulate sb ON sth = chúc mừng ai về. Dịch: Quản lý chúc mừng đội bán hàng vì vượt mục tiêu hàng quý.",
+      "tip": "Congratulate sb ON sth. (Không phải for/about). Exceed targets = vượt mục tiêu."
+    },
+    {
+      "id": 27,
+      "question": "The company's efforts to improve customer service have _________ yielded positive results.",
+      "options": [
+        "already",
+        "yet",
+        "still",
+        "recently"
+      ],
+      "answer": 0,
+      "type": "adverb_present_perfect",
+      "type_label": "Trạng từ — already trong HTHT",
+      "explanation": "Have + already + Ved/c3. Dấu hiệu HTHT. Already = đã rồi. Dịch: Nỗ lực cải thiện CSKH của công ty đã mang lại kết quả tích cực.",
+      "tip": "Have/Has + ALREADY + Ved/c3 (khẳng định). Have/Has NOT + YET + Ved/c3 (phủ định)."
+    },
+    {
+      "id": 28,
+      "question": "The factory's production capacity has been _________ increased to meet growing demand.",
+      "options": [
+        "significantly",
+        "significant",
+        "significance",
+        "signify"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Has been + Adv + Ved (increased). Significantly = đáng kể. Dịch: Năng lực sản xuất của nhà máy đã được tăng đáng kể để đáp ứng nhu cầu tăng.",
+      "tip": "Has been + Adv + Ved/c3. Significant(Adj) → significantly(Adv). 'Significantly increased' = collocation."
+    },
+    {
+      "id": 29,
+      "question": "The report concluded that the company was _________ for the data breach.",
+      "options": [
+        "responsibility",
+        "responsible",
+        "responsibly",
+        "response"
+      ],
+      "answer": 1,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau tobe",
+      "explanation": "Was + Adj. Responsible = có trách nhiệm. Dịch: Báo cáo kết luận công ty có trách nhiệm về vi phạm dữ liệu.",
+      "tip": "Was/were + ___ → Adj. Responsible FOR sth = có trách nhiệm về. Responsibility(N) ≠ responsible(Adj)."
+    },
+    {
+      "id": 30,
+      "question": "The board recommended that the company _________ investing in emerging technologies.",
+      "options": [
+        "continue",
+        "continues",
+        "continued",
+        "continuing"
+      ],
+      "answer": 0,
+      "type": "subjunctive",
+      "type_label": "Thức giả định — recommend that + Vo",
+      "explanation": "Sau recommend + that → S + Vo. Continue = nguyên thể. Dịch: Hội đồng khuyến nghị công ty tiếp tục đầu tư vào công nghệ mới nổi.",
+      "tip": "Recommend + that + S + Vo. Continue (không continues). Continue + Ving = tiếp tục làm gì."
+    }
+  ]
+}

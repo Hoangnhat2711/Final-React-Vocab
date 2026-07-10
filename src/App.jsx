@@ -12,6 +12,7 @@ import {
   updateModeBalance as updateModeBalanceLocal,
 } from './lib/srsStore'
 import QuizScreen from './components/QuizScreen'
+import Part5Screen from './components/Part5Screen'
 import './App.css'
 
 const STATS_META = [
@@ -331,7 +332,7 @@ function EmptyState({ message }) {
   )
 }
 
-function CatalogScreen({ catalogData, onStartStudy, onStartQuiz, busyName, collectionTitle }) {
+function CatalogScreen({ catalogData, onStartStudy, onStartQuiz, onStartPart5, busyName, collectionTitle }) {
   const items = catalogData?.items || []
   const collectionGroups = Object.values(items.reduce((groups, item) => {
     const title = item.collection_title || collectionTitle
@@ -378,6 +379,7 @@ function CatalogScreen({ catalogData, onStartStudy, onStartQuiz, busyName, colle
         <div className="catalog-hero-actions">
           <div className="catalog-hero-note">Mỗi bộ gồm nhiều test. Chọn test phù hợp để bắt đầu hoặc tiếp tục học.</div>
           <button className="btn btn-primary" onClick={onStartQuiz}>Trắc nghiệm từ vựng →</button>
+          <button className="btn btn-secondary" onClick={onStartPart5}>Luyện thi Part 5 →</button>
         </div>
       </div>
 
@@ -979,6 +981,7 @@ function App() {
           catalogData={catalogData}
           onStartStudy={startStudyFromCatalog}
           onStartQuiz={() => setScreen('quiz')}
+          onStartPart5={() => setScreen('part5')}
           busyName={busyCatalogName}
           collectionTitle={collectionTitle}
         />
@@ -986,6 +989,10 @@ function App() {
 
       {screen === 'quiz' ? (
         <QuizScreen onExit={() => setScreen('catalog')} />
+      ) : null}
+
+      {screen === 'part5' ? (
+        <Part5Screen onExit={() => setScreen('catalog')} />
       ) : null}
 
       {screen === 'study' ? <section className={`overview ${overviewCollapsed ? 'collapsed' : ''}`}>

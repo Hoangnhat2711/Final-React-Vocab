@@ -1,0 +1,457 @@
+{
+  "test": "Part 5 - Test 2",
+  "title": "TOEIC Part 5 · Test 2 · Prepositions, Pronouns & Tenses",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The interview panel was particularly interested in the candidate's _________ approach to problem-solving.",
+      "options": [
+        "innovate",
+        "innovation",
+        "innovative",
+        "innovatively"
+      ],
+      "answer": 2,
+      "type": "adj_before_noun",
+      "type_label": "Dạng từ — Adj trước N",
+      "explanation": "___ trước N 'approach' → Adj. Innovative = đổi mới, sáng tạo. Dịch: Hội đồng phỏng vấn đặc biệt quan tâm đến cách tiếp cận đổi mới của ứng viên.",
+      "tip": "___ + N → chọn Adj. Innovate(V) → innovation(N) → innovative(Adj) → innovatively(Adv)."
+    },
+    {
+      "id": 2,
+      "question": "_________ submitted before 5 p.m. will be reviewed by the hiring committee.",
+      "options": [
+        "Application",
+        "Applications",
+        "Applying",
+        "Applied"
+      ],
+      "answer": 1,
+      "type": "noun_subject_plural",
+      "type_label": "Dạng từ — N số nhiều làm S",
+      "explanation": "___ ở đầu câu làm S, sau nó là 'will be reviewed' (V số nhiều). Không có mạo từ trước → N số nhiều. Applications = các đơn ứng tuyển. Dịch: Các đơn nộp trước 5h chiều sẽ được hội đồng tuyển dụng xem xét.",
+      "tip": "N số ít không đứng một mình (cần mạo từ/TTSH). N số nhiều có thể đứng độc lập làm S."
+    },
+    {
+      "id": 3,
+      "question": "All employees must comply _________ the company's safety regulations at all times.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": 1,
+      "type": "preposition",
+      "type_label": "Giới từ — comply with",
+      "explanation": "Comply with = tuân thủ. Collocation cố định. Dịch: Tất cả nhân viên phải tuân thủ quy định an toàn của công ty mọi lúc.",
+      "tip": "Comply WITH / adhere TO / conform TO = tuân thủ. Phải nhớ giới từ đi kèm."
+    },
+    {
+      "id": 4,
+      "question": "The revenue figures for this quarter exceeded _________ of the same period last year.",
+      "options": [
+        "that",
+        "those",
+        "them",
+        "these"
+      ],
+      "answer": 1,
+      "type": "pronoun",
+      "type_label": "Đại từ — those (thay N số nhiều)",
+      "explanation": "'those' thay cho 'the revenue figures' (N số nhiều). Dịch: Doanh thu quý này vượt số liệu của cùng kỳ năm ngoái.",
+      "tip": "That = thay N số ít. Those = thay N số nhiều. This/These = chỉ gần; That/Those = chỉ xa/so sánh."
+    },
+    {
+      "id": 5,
+      "question": "By the time the new system is implemented, the IT department _________ over six months preparing it.",
+      "options": [
+        "spends",
+        "will spend",
+        "will have spent",
+        "has spent"
+      ],
+      "answer": 2,
+      "type": "verb_tense",
+      "type_label": "Thì — Tương lai hoàn thành",
+      "explanation": "Dấu hiệu 'By the time + hiện tại' → will have + Ved/c3. Dịch: Đến khi hệ thống mới áp dụng, phòng IT sẽ đã dành hơn 6 tháng chuẩn bị.",
+      "tip": "By the time + HTĐ → WILL HAVE + Ved/c3. Nhớ kỹ cấu trúc này, rất hay gặp."
+    },
+    {
+      "id": 6,
+      "question": "_________ the high volume of orders, deliveries may take up to five business days.",
+      "options": [
+        "Because",
+        "Since",
+        "Due to",
+        "As"
+      ],
+      "answer": 2,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Due to + N",
+      "explanation": "Due to + N = do, vì. 'the high volume' là cụm N → Due to. Because/Since/As + S+V. Dịch: Do lượng đơn hàng cao, việc giao hàng có thể mất đến 5 ngày làm việc.",
+      "tip": "Due to / Because of / Owing to + N. Because / Since / As + S + V."
+    },
+    {
+      "id": 7,
+      "question": "Ms. Larsson's promotion was announced _________ the weekly staff meeting.",
+      "options": [
+        "during",
+        "while",
+        "among",
+        "between"
+      ],
+      "answer": 0,
+      "type": "preposition",
+      "type_label": "Giới từ — during + N",
+      "explanation": "During + N = trong suốt (khoảng thời gian). While + S+V. Dịch: Việc thăng chức của cô Larsson được thông báo trong buổi họp nhân viên hàng tuần.",
+      "tip": "During + N (thời gian). While + S + V. Among + N (3+). Between A and B."
+    },
+    {
+      "id": 8,
+      "question": "The consultant advised the company to invest more heavily _________ employee training programs.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "for"
+      ],
+      "answer": 1,
+      "type": "preposition",
+      "type_label": "Giới từ — invest in",
+      "explanation": "Invest in = đầu tư vào. Collocation cố định. Dịch: Chuyên gia tư vấn khuyên công ty đầu tư nhiều hơn vào chương trình đào tạo nhân viên.",
+      "tip": "Invest IN sth = đầu tư vào. Spend ON sth = chi tiêu cho. Focus ON sth = tập trung vào."
+    },
+    {
+      "id": 9,
+      "question": "_________ his busy schedule, Dr. Nguyen always finds time to mentor junior researchers.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because",
+        "Nevertheless"
+      ],
+      "answer": 0,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'his busy schedule' là cụm N → Despite. Dịch: Mặc dù lịch trình bận rộn, bác sĩ Nguyen luôn dành thời gian hướng dẫn nghiên cứu viên trẻ.",
+      "tip": "Despite / In spite of + N. Although / Even though + S + V."
+    },
+    {
+      "id": 10,
+      "question": "The factory's production capacity has _________ doubled since the expansion last year.",
+      "options": [
+        "more",
+        "nearly",
+        "most",
+        "much"
+      ],
+      "answer": 1,
+      "type": "adverb_degree",
+      "type_label": "Trạng từ mức độ — nearly",
+      "explanation": "Nearly = gần như. Bổ nghĩa cho V 'doubled'. Dịch: Năng lực sản xuất của nhà máy gần như tăng gấp đôi từ khi mở rộng năm ngoái.",
+      "tip": "Nearly / Almost = gần như. Nearly + V/Adj/Number. Không dùng 'more/most/much' trước V."
+    },
+    {
+      "id": 11,
+      "question": "The new policy applies to _________ permanent and temporary staff members.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "all"
+      ],
+      "answer": 0,
+      "type": "quantifier",
+      "type_label": "Quantifier — both A and B",
+      "explanation": "Both A and B = cả A lẫn B. Câu có 'and' nối 'permanent and temporary'. Dịch: Chính sách mới áp dụng cho cả nhân viên chính thức và tạm thời.",
+      "tip": "Both...and (cả...lẫn). Either...or (hoặc...hoặc). Neither...nor (không...cũng không)."
+    },
+    {
+      "id": 12,
+      "question": "Ms. Kim was the only candidate _________ met all the requirements for the position.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — who",
+      "explanation": "'candidate' là N chỉ người, sau cần chủ ngữ + V 'met' → who. Dịch: Cô Kim là ứng viên duy nhất người mà đáp ứng tất cả yêu cầu.",
+      "tip": "N chỉ người + ___ + V → who. The only/first/last + N + who/that."
+    },
+    {
+      "id": 13,
+      "question": "Customers who are not fully _________ with their purchase can return it within sixty days.",
+      "options": [
+        "satisfy",
+        "satisfied",
+        "satisfying",
+        "satisfaction"
+      ],
+      "answer": 1,
+      "type": "adjective_after_be",
+      "type_label": "Dạng từ — Adj sau tobe",
+      "explanation": "Tobe 'are' + Adj. 'be satisfied with' = hài lòng với. Dịch: Khách hàng không hoàn toàn hài lòng với mua hàng có thể trả lại trong 60 ngày.",
+      "tip": "Be satisfied WITH sth = hài lòng với (N). Satisfactory (Adj) = chất lượng tốt. Khác nhau!"
+    },
+    {
+      "id": 14,
+      "question": "The annual report must be submitted to the board _________ the end of this month.",
+      "options": [
+        "until",
+        "by",
+        "at",
+        "in"
+      ],
+      "answer": 1,
+      "type": "preposition",
+      "type_label": "Giới từ — by (trước)",
+      "explanation": "By = trước/trong lúc (deadline). 'by the end of' = trước cuối. Dịch: Báo cáo thường niên phải nộp cho hội đồng trước cuối tháng này.",
+      "tip": "By the end of + tháng/năm = trước cuối. Until + thời điểm = cho đến khi (khác nghĩa!)."
+    },
+    {
+      "id": 15,
+      "question": "_________ the printer malfunctions again, please contact the IT help desk immediately.",
+      "options": [
+        "Unless",
+        "If",
+        "Despite",
+        "Whether"
+      ],
+      "answer": 1,
+      "type": "conjunction",
+      "type_label": "Liên từ — If (điều kiện)",
+      "explanation": "If + S + V = nếu. Câu điều kiện loại 1. Dịch: Nếu máy in lại hỏng, vui lòng liên hệ bộ phận IT ngay.",
+      "tip": "If = nếu. Unless = nếu không (= if...not). Phân biệt rõ nghĩa."
+    },
+    {
+      "id": 16,
+      "question": "The marketing campaign was _________ successful that sales increased by fifty percent.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Cấu trúc — so...that",
+      "explanation": "So + Adj/Adv + that = quá...đến nỗi. 'successful' là Adj → so. Such + N + that. Dịch: Chiến dịch marketing quá thành công đến nỗi doanh số tăng 50%.",
+      "tip": "So + Adj/Adv + that. Such + (a/an) + Adj + N + that. Nhìn sau chỗ trống: Adj → so; N → such."
+    },
+    {
+      "id": 17,
+      "question": "All flight _________ must present a valid photo ID before boarding the aircraft.",
+      "options": [
+        "passengers",
+        "passenger",
+        "passenger's",
+        "passengers'"
+      ],
+      "answer": 0,
+      "type": "noun_plural",
+      "type_label": "Dạng từ — N số nhiều",
+      "explanation": "'All' + N số nhiều → passengers. Dịch: Tất cả hành khách phải xuất trình giấy tờ có ảnh hợp lệ trước khi lên máy bay.",
+      "tip": "All + N số nhiều (đếm được). All passengerS, all employeeS, all customerS."
+    },
+    {
+      "id": 18,
+      "question": "The committee voted in favor of the proposal, _________ was a surprise to many observers.",
+      "options": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "answer": 1,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — which (sau dấu phẩy)",
+      "explanation": "Which thay cho cả vế trước nó (việc hội đồng bỏ phiếu thuận). Sau dấu phẩy KHÔNG dùng 'that'. Dịch: Ủy đồng bỏ phiếu thuận đề xuất, điều đó khiến nhiều người ngạc nhiên.",
+      "tip": "Sau dấu phẩy → dùng WHICH, không dùng THAT. Which có thể thay cả vế trước nó."
+    },
+    {
+      "id": 19,
+      "question": "Mr. Foster has _________ been appointed as the new director of operations.",
+      "options": [
+        "officially",
+        "official",
+        "officially",
+        "office"
+      ],
+      "answer": 0,
+      "type": "adverb_passive",
+      "type_label": "Dạng từ — Adv trong bị động",
+      "explanation": "Câu bị động: has been + Ved (appointed). Thêm Adv. Officially = một cách chính thức. Dịch: Ông Foster vừa được bổ nhiệm làm giám đốc vận hành mới.",
+      "tip": "Has been/have been + Adv + Ved/c3. Official(Adj) → officially(Adv) ≠ office(N)."
+    },
+    {
+      "id": 20,
+      "question": "The project was completed _________ schedule and under budget.",
+      "options": [
+        "ahead of",
+        "in front of",
+        "before",
+        "prior"
+      ],
+      "answer": 0,
+      "type": "preposition_phrase",
+      "type_label": "Cụm giới từ — ahead of schedule",
+      "explanation": "Ahead of schedule = trước tiến độ. Collocation cố định. Dịch: Dự án hoàn thành trước tiến độ và dưới ngân sách.",
+      "tip": "Ahead of schedule = trước tiến độ. On schedule = đúng tiến độ. Behind schedule = chậm tiến độ."
+    },
+    {
+      "id": 21,
+      "question": "_________ the difficulties encountered during development, the product launched successfully.",
+      "options": [
+        "Although",
+        "Despite",
+        "Because",
+        "While"
+      ],
+      "answer": 1,
+      "type": "preposition_conjunction",
+      "type_label": "Liên từ/Giới từ — Despite + N",
+      "explanation": "Despite + N = mặc dù. 'the difficulties' là N → Despite. Although + S+V. Dịch: Mặc dù gặp khó khăn trong quá trình phát triển, sản phẩm vẫn ra mắt thành công.",
+      "tip": "Despite/In spite of + N/Ving. Although/Even though + S + V."
+    },
+    {
+      "id": 22,
+      "question": "Employees are encouraged to submit _________ suggestions for improving workplace safety.",
+      "options": [
+        "their",
+        "theirs",
+        "them",
+        "they"
+      ],
+      "answer": 0,
+      "type": "possessive_adjective",
+      "type_label": "Đại từ — TTSH trước N",
+      "explanation": "___ trước N 'suggestions' → TTSH. Their = của họ. Dịch: Nhân viên được khuyến khích nộp đề xuất của họ...",
+      "tip": "___ + N → TTSH (my/your/his/her/its/our/their). TheirS = thay N (không có N sau)."
+    },
+    {
+      "id": 23,
+      "question": "The supplier guaranteed that all materials would _________ quality standards.",
+      "options": [
+        "meet",
+        "meeting",
+        "to meet",
+        "met"
+      ],
+      "answer": 0,
+      "type": "verb_base",
+      "type_label": "Dạng V — Vo sau would",
+      "explanation": "Would + Vo (nguyên thể). Meet = đáp ứng. 'meet standards' = đáp ứng tiêu chuẩn. Dịch: Nhà cung cấp đảm bảo tất cả vật liệu sẽ đáp ứng tiêu chuẩn chất lượng.",
+      "tip": "Would/Will/Can/Must/Should + Vo (nguyên thể, không to). Meet standards = đáp ứng tiêu chuẩn."
+    },
+    {
+      "id": 24,
+      "question": "The training seminar was _________ informative that several attendees requested additional sessions.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Cấu trúc — so...that",
+      "explanation": "So + Adj + that = quá...đến nỗi. 'Informative' là Adj → so. Dịch: Buổi hội thảo đào tạo quá hữu ích đến nỗi nhiều người yêu cầu thêm buổi.",
+      "tip": "So + Adj/Adv + that. Very/Too không có 'that' theo sau. Such + N."
+    },
+    {
+      "id": 25,
+      "question": "_________ the weather forecast predicts rain, the outdoor event will be moved indoors.",
+      "options": [
+        "Unless",
+        "If",
+        "Although",
+        "Despite"
+      ],
+      "answer": 1,
+      "type": "conjunction",
+      "type_label": "Liên từ — If",
+      "explanation": "If + S + V = nếu. Câu điều kiện. Dịch: Nếu dự báo thời tiết có mưa, sự kiện ngoài trời sẽ chuyển vào trong nhà.",
+      "tip": "If = nếu (câu điều kiện loại 1: If + HTĐ, will + Vo)."
+    },
+    {
+      "id": 26,
+      "question": "The _________ of the new smartphone exceeded all expectations, selling over one million units.",
+      "options": [
+        "launching",
+        "launch",
+        "launched",
+        "launches"
+      ],
+      "answer": 1,
+      "type": "noun_subject",
+      "type_label": "Dạng từ — N làm S",
+      "explanation": "___ làm S cho V 'exceeded'. Cần N. Launch = sự ra mắt. Dịch: Việc ra mắt điện thoại mới vượt mọi kỳ vọng, bán hơn 1 triệu chiếc.",
+      "tip": "___ + of + N + V → vị trí cần N làm S. The + N + of..."
+    },
+    {
+      "id": 27,
+      "question": "Any employee _________ violates the code of conduct will face disciplinary action.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "type": "relative_pronoun",
+      "type_label": "Đại từ quan hệ — who",
+      "explanation": "'employee' là N chỉ người + cần chủ ngữ cho V 'violates' → who. Dịch: Bất kỳ nhân viên nào vi phạm quy tắc ứng xử sẽ bị kỷ luật.",
+      "tip": "N chỉ người + ___ + V → who. N chỉ vật + ___ + V → which."
+    },
+    {
+      "id": 28,
+      "question": "The management team decided to postpone the meeting _________ the CEO's sudden illness.",
+      "options": [
+        "because",
+        "due to",
+        "since",
+        "as"
+      ],
+      "answer": 1,
+      "type": "preposition_conjunction",
+      "type_label": "Giới từ — due to + N",
+      "explanation": "Due to + N = do. 'the CEO's sudden illness' là cụm N → Due to. Dịch: Ban quản lý quyết định hoãn cuộc họp do CEO đột ngột ốm.",
+      "tip": "Due to / Because of + N. Because / Since / As + S + V."
+    },
+    {
+      "id": 29,
+      "question": "The company's profits have _________ increased for the third consecutive quarter.",
+      "options": [
+        "steadily",
+        "steady",
+        "steadiness",
+        "steadied"
+      ],
+      "answer": 0,
+      "type": "adverb_verb",
+      "type_label": "Dạng từ — Adv trước V",
+      "explanation": "___ trước V 'increased' → Adv. Steadily = một cách ổn định. Dịch: Lợi nhuận công ty đã tăng ổn định trong quý liên tiếp thứ 3.",
+      "tip": "___ + V → Adv. Steady(Adj) → steadily(Adv). Consecutive = liên tiếp."
+    },
+    {
+      "id": 30,
+      "question": "_________ Mr. Park has extensive experience in international trade, he was chosen to negotiate the overseas contract.",
+      "options": [
+        "Because",
+        "Although",
+        "Despite",
+        "While"
+      ],
+      "answer": 0,
+      "type": "conjunction",
+      "type_label": "Liên từ — Because",
+      "explanation": "Because + S + V = bởi vì. Dịch: Bởi vì ông Park có kinh nghiệm phong phú về thương mại quốc tế, ông được chọn đàm phán hợp đồng nước ngoài.",
+      "tip": "Because/Since/As + S + V. Phân biệt: Because (lý do) ≠ Although (nhượng bộ)."
+    }
+  ]
+}
