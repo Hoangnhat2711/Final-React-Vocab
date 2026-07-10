@@ -1,0 +1,1287 @@
+{
+  "skill": "listening",
+  "test": "Test 7",
+  "title": "ETS Listening 2026 - Test 7",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Itinerary' co nghia la gi?",
+      "options": [
+        "lich trinh chuyến đi",
+        "hoa đơn",
+        "hợp đồng",
+        "biên lai"
+      ],
+      "answer": 0,
+      "explanation": "Itinerary = lich trinh chuyen đi"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Distracting' la:",
+      "options": [
+        "gay xao nhang",
+        "tap trung",
+        "thu gian",
+        "vui ve"
+      ],
+      "answer": 0,
+      "explanation": "Distracting = gay xao nhang; mat tap trung"
+    },
+    {
+      "type": "meaning",
+      "question": "'Expertise' mang y nghia nao?",
+      "options": [
+        "chuyen mon; kien thuc chuyen sau",
+        "sự ngoai đạo",
+        "thiếu kinh nghiệm",
+        "sự 业余"
+      ],
+      "answer": 0,
+      "explanation": "Expertise = chuyen mon; kien thuc chuyen sau"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Extension':",
+      "options": [
+        "su gia han; phan mo rong",
+        "su rut ngan",
+        "su giam bot",
+        "su ket thuc"
+      ],
+      "answer": 0,
+      "explanation": "Extension = su gia han; phan mo rong; so may nhanh"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Exchange' đuoc hieu la:",
+      "options": [
+        "trao đổi; đổi",
+        "mua ban",
+        "thue",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Exchange = trao đổi; đổi"
+    },
+    {
+      "type": "meaning",
+      "question": "'Ancient' co nghia la gi?",
+      "options": [
+        "co xua",
+        "moi",
+        "hien đai",
+        "vua nay"
+      ],
+      "answer": 0,
+      "explanation": "Ancient = co xưa"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Civilization'?",
+      "options": [
+        "nen van minh",
+        "su suy đoi",
+        "su phat trien",
+        "su tho lai"
+      ],
+      "answer": 0,
+      "explanation": "Civilization = nen van minh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Demolition' mang y nghia:",
+      "options": [
+        "su pha do",
+        "su xay dựng",
+        "su cai tao",
+        "su bao tri"
+      ],
+      "answer": 0,
+      "explanation": "Demolition = su pha do"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Substantial' la:",
+      "options": [
+        "đang ke; lon",
+        "nho be",
+        "it oi",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Substantial = đang ke; lon"
+    },
+    {
+      "type": "meaning",
+      "question": "'Partial' đuoc hieu nhu the nao?",
+      "options": [
+        "mot phan; khong hoan toan",
+        "hoan toan",
+        "toan bo",
+        "đay đu"
+      ],
+      "answer": 0,
+      "explanation": "Partial = mot phan; khong hoan toan"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Reassurance' co nghia la:",
+      "options": [
+        "su tran an",
+        "su lo lang",
+        "su hoang mang",
+        "sự tức giận"
+      ],
+      "answer": 0,
+      "explanation": "Reassurance = su tran an"
+    },
+    {
+      "type": "meaning",
+      "question": "'Misunderstanding' mang y nghia nao?",
+      "options": [
+        "su hieu lam",
+        "su hieu biet",
+        "su thong cam",
+        "sự đồng ý"
+      ],
+      "answer": 0,
+      "explanation": "Misunderstanding = su hieu lam"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Guideline' la:",
+      "options": [
+        "huong dan; nguyen tac",
+        "loi ich",
+        "quyen loi",
+        "trách nhiem"
+      ],
+      "answer": 0,
+      "explanation": "Guideline = huong dan; nguyen tac chi đan"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Disposal':",
+      "options": [
+        "su vet bo; xu ly",
+        "su bao ton",
+        "su thu thap",
+        "su tich luy"
+      ],
+      "answer": 0,
+      "explanation": "Disposal = su vet bo; xu ly"
+    },
+    {
+      "type": "meaning",
+      "question": "'Protective' co nghia la gi?",
+      "options": [
+        "bao ve; phong ho",
+        "tan cong",
+        "phá hủy",
+        "bo đi"
+      ],
+      "answer": 0,
+      "explanation": "Protective = bao ve; phong ho"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'lịch trình chuyến đi'?",
+      "options": [
+        "Itinerary",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Itinerary = lich trinh chuyen đi"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'gây xao nhãng'?",
+      "options": [
+        "Distracting",
+        "Focusing",
+        "Relaxing",
+        "Pleasing"
+      ],
+      "answer": 0,
+      "explanation": "Distracting = gay xao nhang"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'chuyên môn':",
+      "options": [
+        "Expertise",
+        "Amateur",
+        "Inexperience",
+        "Novice"
+      ],
+      "answer": 0,
+      "explanation": "Expertise = chuyen mon"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'trao đổi; đổi'?",
+      "options": [
+        "Exchange",
+        "Buy",
+        "Rent",
+        "Give"
+      ],
+      "answer": 0,
+      "explanation": "Exchange = trao đổi"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'cổ xưa':",
+      "options": [
+        "Ancient",
+        "Modern",
+        "New",
+        "Recent"
+      ],
+      "answer": 0,
+      "explanation": "Ancient = co xưa"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'nền văn minh'?",
+      "options": [
+        "Civilization",
+        "Decline",
+        "Development",
+        "Primitive"
+      ],
+      "answer": 0,
+      "explanation": "Civilization = nen van minh"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'sự phá dỡ':",
+      "options": [
+        "Demolition",
+        "Construction",
+        "Renovation",
+        "Maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Demolition = su pha do"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'đáng kể; lớn'?",
+      "options": [
+        "Substantial",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Substantial = đang ke"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'một phần' tuong ung voi tu nao?",
+      "options": [
+        "Partial",
+        "Complete",
+        "Full",
+        "Total"
+      ],
+      "answer": 0,
+      "explanation": "Partial = mot phan"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'sự trấn an' la:",
+      "options": [
+        "Reassurance",
+        "Anxiety",
+        "Confusion",
+        "Anger"
+      ],
+      "answer": 0,
+      "explanation": "Reassurance = su tran an"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'sự hiểu lầm'?",
+      "options": [
+        "Misunderstanding",
+        "Understanding",
+        "Agreement",
+        "Consent"
+      ],
+      "answer": 0,
+      "explanation": "Misunderstanding = su hieu lam"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'hướng dẫn; nguyên tắc':",
+      "options": [
+        "Guideline",
+        "Benefit",
+        "Privilege",
+        "Duty"
+      ],
+      "answer": 0,
+      "explanation": "Guideline = huong dan"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'bảo vệ; phòng hộ'?",
+      "options": [
+        "Protective",
+        "Aggressive",
+        "Destructive",
+        "Abandoning"
+      ],
+      "answer": 0,
+      "explanation": "Protective = bao ve"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'sự vứt bỏ; xử lý' tuong ung tu nao?",
+      "options": [
+        "Disposal",
+        "Preservation",
+        "Collection",
+        "Accumulation"
+      ],
+      "answer": 0,
+      "explanation": "Disposal = su vet bo"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đại diện; tượng trưng'?",
+      "options": [
+        "Represent",
+        "Hide",
+        "Miss",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Represent = đai dien"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nPlease review the travel _____ before departure.",
+      "options": [
+        "Itinerary",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Itinerary = lich trinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe noise outside was very _____.",
+      "options": [
+        "Distracting",
+        "Focusing",
+        "Relaxing",
+        "Pleasing"
+      ],
+      "answer": 0,
+      "explanation": "Distracting = gay xao nhang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nHer technical _____ helped solve the issue.",
+      "options": [
+        "Expertise",
+        "Amateur",
+        "Inexperience",
+        "Novice"
+      ],
+      "answer": 0,
+      "explanation": "Expertise = chuyen mon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nWe requested a deadline _____.",
+      "options": [
+        "Extension",
+        "Shortening",
+        "Reduction",
+        "Cancellation"
+      ],
+      "answer": 0,
+      "explanation": "Extension = su gia han."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nYou can _____ this item within seven days.",
+      "options": [
+        "Exchange",
+        "Buy",
+        "Rent",
+        "Give"
+      ],
+      "answer": 0,
+      "explanation": "Exchange = trao đổi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe museum displays _____ tools and pottery.",
+      "options": [
+        "Ancient",
+        "Modern",
+        "New",
+        "Recent"
+      ],
+      "answer": 0,
+      "explanation": "Ancient = co xưa."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe exhibit focuses on early Egyptian _____.",
+      "options": [
+        "Civilization",
+        "Decline",
+        "Development",
+        "Primitive"
+      ],
+      "answer": 0,
+      "explanation": "Civilization = nen van minh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe old warehouse is scheduled for _____.",
+      "options": [
+        "Demolition",
+        "Construction",
+        "Renovation",
+        "Maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Demolition = su pha do."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe company made a _____ profit this quarter.",
+      "options": [
+        "Substantial",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Substantial = đang ke."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nWe received only a _____ payment.",
+      "options": [
+        "Partial",
+        "Complete",
+        "Full",
+        "Total"
+      ],
+      "answer": 0,
+      "explanation": "Partial = mot phan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nCustomers need _____ about product safety.",
+      "options": [
+        "Reassurance",
+        "Anxiety",
+        "Confusion",
+        "Anger"
+      ],
+      "answer": 0,
+      "explanation": "Reassurance = su tran an."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe issue was caused by a simple _____.",
+      "options": [
+        "Misunderstanding",
+        "Understanding",
+        "Agreement",
+        "Consent"
+      ],
+      "answer": 0,
+      "explanation": "Misunderstanding = su hieu lam."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nFollow the safety _____ carefully.",
+      "options": [
+        "Guidelines",
+        "Benefits",
+        "Privileges",
+        "Duties"
+      ],
+      "answer": 0,
+      "explanation": "Guideline = huong dan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nProper waste _____ is important for the environment.",
+      "options": [
+        "Disposal",
+        "Preservation",
+        "Collection",
+        "Accumulation"
+      ],
+      "answer": 0,
+      "explanation": "Disposal = su vet bo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nWorkers must wear _____ gloves.",
+      "options": [
+        "Protective",
+        "Aggressive",
+        "Destructive",
+        "Abandoning"
+      ],
+      "answer": 0,
+      "explanation": "Protective = bao ve."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nShe will _____ our branch at the conference.",
+      "options": [
+        "Represent",
+        "Hide",
+        "Miss",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Represent = đai dien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nA customer _____ the help desk with a complaint.",
+      "options": [
+        "Approached",
+        "Ignored",
+        "Avoided",
+        "Left"
+      ],
+      "answer": 0,
+      "explanation": "Approach = tiep can."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nDrivers must _____ to pedestrians at the crosswalk.",
+      "options": [
+        "Yield",
+        "Ignore",
+        "Refuse",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Yield = nhuong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe machine is ready for final _____.",
+      "options": [
+        "Assembly",
+        "Disassembly",
+        "Scattering",
+        "Dispersal"
+      ],
+      "answer": 0,
+      "explanation": "Assembly = su lap rap."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe store operates on a small profit _____.",
+      "options": [
+        "Margin",
+        "Benefit",
+        "Advantage",
+        "Bonus"
+      ],
+      "answer": 0,
+      "explanation": "Margin = le; bien đo."
+    },
+    {
+      "type": "pos",
+      "question": "'Itinerary' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Itinerary la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Distracting' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Distracting la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Ancient':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Ancient la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Demolition' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Demolition la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Substantial' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Substantial la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Partial' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Partial la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Protective' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Protective la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Misunderstanding' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Misunderstanding la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Exchange' thuoc tu loai nao?",
+      "options": [
+        "Co the la danh tu hoac đong tu",
+        "Chi la danh tu",
+        "Chi la đong tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Exchange co the la ca danh tu va đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Guideline' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Guideline la danh tu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'a plan of a journey with details'?",
+      "options": [
+        "Itinerary",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Itinerary = lich trinh"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'causing someone to lose attention' mo ta tu nao?",
+      "options": [
+        "Distracting",
+        "Focusing",
+        "Relaxing",
+        "Pleasing"
+      ],
+      "answer": 0,
+      "explanation": "Distracting = gay xao nhang"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'special skill or knowledge in a field', tu đo la:",
+      "options": [
+        "Expertise",
+        "Amateur",
+        "Inexperience",
+        "Novice"
+      ],
+      "answer": 0,
+      "explanation": "Expertise = chuyen mon"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'very old, from a long time ago'?",
+      "options": [
+        "Ancient",
+        "Modern",
+        "New",
+        "Recent"
+      ],
+      "answer": 0,
+      "explanation": "Ancient = co xưa"
+    },
+    {
+      "type": "definition",
+      "question": "'a developed human society with culture' chi tu:",
+      "options": [
+        "Civilization",
+        "Decline",
+        "Development",
+        "Primitive"
+      ],
+      "answer": 0,
+      "explanation": "Civilization = nen van minh"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'the act of destroying a building'?",
+      "options": [
+        "Demolition",
+        "Construction",
+        "Renovation",
+        "Maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Demolition = su pha do"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'large in amount or importance' chi tu:",
+      "options": [
+        "Substantial",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Substantial = đang ke"
+    },
+    {
+      "type": "definition",
+      "question": "'not complete, only part' mo ta tu:",
+      "options": [
+        "Partial",
+        "Complete",
+        "Full",
+        "Total"
+      ],
+      "answer": 0,
+      "explanation": "Partial = mot phan"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'words that make someone feel less worried'?",
+      "options": [
+        "Reassurance",
+        "Anxiety",
+        "Confusion",
+        "Anger"
+      ],
+      "answer": 0,
+      "explanation": "Reassurance = su tran an"
+    },
+    {
+      "type": "definition",
+      "question": "'a failure to understand correctly' mo ta tu nao?",
+      "options": [
+        "Misunderstanding",
+        "Understanding",
+        "Agreement",
+        "Consent"
+      ],
+      "answer": 0,
+      "explanation": "Misunderstanding = su hieu lam"
+    },
+    {
+      "type": "definition",
+      "question": "'intended to keep someone safe' mo ta tu nao?",
+      "options": [
+        "Protective",
+        "Aggressive",
+        "Destructive",
+        "Abandoning"
+      ],
+      "answer": 0,
+      "explanation": "Protective = bao ve"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Exchange' chinh xac nhat?",
+      "options": [
+        "trao đổi",
+        "mua ban",
+        "thue",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Exchange = trao đổi; đổi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Distracting' la:",
+      "options": [
+        "gay xao nhang",
+        "tap trung",
+        "thu gian",
+        "vui ve"
+      ],
+      "answer": 0,
+      "explanation": "Distracting = gay xao nhang"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Partial' gan voi y nao nhat?",
+      "options": [
+        "mot phan",
+        "hoan toan",
+        "toan bo",
+        "đay đu"
+      ],
+      "answer": 0,
+      "explanation": "Partial = mot phan; khong hoan toan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Substantial' la gi?",
+      "options": [
+        "đang ke",
+        "nho be",
+        "it oi",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Substantial = đang ke; lon"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Ancient' la:",
+      "options": [
+        "co xưa",
+        "moi",
+        "hien đai",
+        "vua nay"
+      ],
+      "answer": 0,
+      "explanation": "Ancient = co xưa; rat cu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Expertise' co nghia gan voi:",
+      "options": [
+        "chuyen mon",
+        "sự ngoai đạo",
+        "thiếu kinh nghiệm",
+        "sự 业余"
+      ],
+      "answer": 0,
+      "explanation": "Expertise = chuyen mon; kien thuc chuyen sau"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Misunderstanding' la gi?",
+      "options": [
+        "su hieu lam",
+        "su hieu biet",
+        "su thong cam",
+        "sự đồng ý"
+      ],
+      "answer": 0,
+      "explanation": "Misunderstanding = su hieu lam"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Demolition' mang y nao gan nhat?",
+      "options": [
+        "su pha do",
+        "su xay dựng",
+        "su cai tao",
+        "su bao tri"
+      ],
+      "answer": 0,
+      "explanation": "Demolition = su pha do"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Reassurance' mang y nao gan nhat?",
+      "options": [
+        "su tran an",
+        "su lo lang",
+        "su hoang mang",
+        "sự tức giận"
+      ],
+      "answer": 0,
+      "explanation": "Reassurance = su tran an"
+    },
+    {
+      "type": "collocation",
+      "question": "''Itinerary' thuong ket hop voi tu nao?",
+      "options": [
+        "Travel itinerary",
+        "Tasty itinerary",
+        "Cold itinerary",
+        "Dark itinerary"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: travel itinerary, detailed itinerary"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Expertise'?",
+      "options": [
+        "Technical expertise",
+        "Tasty expertise",
+        "Cold expertise",
+        "Dark expertise"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: technical expertise, area of expertise"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Exchange' thuong đi cung cum nao?",
+      "options": [
+        "Exchange rate",
+        "Tasty exchange",
+        "Cold exchange",
+        "Dark exchange"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: exchange rate, currency exchange"
+    },
+    {
+      "type": "collocation",
+      "question": "''Misunderstanding' thuong xuat hien trong cum nao?",
+      "options": [
+        "Clear up a misunderstanding",
+        "Tasty misunderstanding",
+        "Cold misunderstanding",
+        "Dark misunderstanding"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: clear up a misunderstanding, resolve a misunderstanding"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Guideline':",
+      "options": [
+        "Safety guidelines",
+        "Tasty guidelines",
+        "Cold guidelines",
+        "Dark guidelines"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: safety guidelines, company guidelines"
+    },
+    {
+      "type": "collocation",
+      "question": "''Protective' đi cung voi tu nao?",
+      "options": [
+        "Protective gear",
+        "Tasty protective",
+        "Cold protective",
+        "Dark protective"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: protective gear, protective layer"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Disposal'?",
+      "options": [
+        "Waste disposal",
+        "Tasty disposal",
+        "Cold disposal",
+        "Dark disposal"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: waste disposal, disposal method"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Itinerary' lien quan đên ngucanh nao?",
+      "options": [
+        "Du lich, van chuyen",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Itinerary = lich trinh chuyen đi"
+    },
+    {
+      "type": "context",
+      "question": "''Civilization' thuoc linh vuc nao?",
+      "options": [
+        "Lich su, van hoa",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Civilization = nen van minh"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Demolition' lien quan chinh đên gi?",
+      "options": [
+        "Xay dựng, nha cửa",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Demolition = su pha do"
+    },
+    {
+      "type": "context",
+      "question": "''Protective' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "An toan, bao ho",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Protective = bao ve; phong ho"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Waste disposal' lien quan đên linhvuc nao?",
+      "options": [
+        "Moi truong, ve sinh",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Disposal = su vet bo, ngucanh moi truong"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Exchange",
+        "Represent",
+        "Approach",
+        "Itinerary"
+      ],
+      "answer": 3,
+      "explanation": "Itinerary la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Distracting",
+        "Ancient",
+        "Substantial",
+        "Exchange"
+      ],
+      "answer": 3,
+      "explanation": "Exchange la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Itinerary",
+        "Civilization",
+        "Demolition",
+        "Partial"
+      ],
+      "answer": 3,
+      "explanation": "Partial la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Misunderstanding",
+        "Guideline",
+        "Expertise",
+        "Protective"
+      ],
+      "answer": 3,
+      "explanation": "Protective la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Distracting",
+        "Ancient",
+        "Substantial",
+        "Disposal"
+      ],
+      "answer": 3,
+      "explanation": "Disposal la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Exchange' đung?",
+      "options": [
+        "You can exchange this item within seven days.",
+        "She exchange very beautiful today.",
+        "They exchange sunny weather.",
+        "He exchange the red color."
+      ],
+      "answer": 0,
+      "explanation": "Exchange = trao đổi, đung voi mat hàng"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Represent' đung?",
+      "options": [
+        "She will represent our branch at the conference.",
+        "She represent very tired today.",
+        "They represent sunny weather.",
+        "He represent the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Represent = đai dien, đung voi chi nhanh, cong ty"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Yield':",
+      "options": [
+        "Drivers must yield to pedestrians at the crosswalk.",
+        "The weather yield warm tomorrow.",
+        "She yield very tired today.",
+        "They yield the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Yield = nhuong, đung voi nguoi đi bo"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Approach' phu hop?",
+      "options": [
+        "A customer approached the help desk with a complaint.",
+        "She approach very beautiful dress.",
+        "They approach sunny weather today.",
+        "He approach the red color."
+      ],
+      "answer": 0,
+      "explanation": "Approach = tiep can, đung voi quầy ho tro"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Demonstrate':",
+      "options": [
+        "The technician will demonstrate how to use the software.",
+        "She demonstrate very beautiful today.",
+        "They demonstrate the sweet taste.",
+        "He demonstrate quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Demonstrate = trinh bay, đung voi phan mem, san pham"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Ancient'?",
+      "options": [
+        "Modern",
+        "Old",
+        "Historical",
+        "Antique"
+      ],
+      "answer": 0,
+      "explanation": "Ancient (co xưa) trai nghia voi Modern (hien đai)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Partial'?",
+      "options": [
+        "Complete",
+        "Incomplete",
+        "Fractional",
+        "Sectional"
+      ],
+      "answer": 0,
+      "explanation": "Partial (mot phan) trai nghia voi Complete (hoan toan). Notes ghi: Opposite: complete"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Expertise'?",
+      "options": [
+        "Knowledge",
+        "Ignorance",
+        "Inexperience",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Expertise ~ Knowledge/Skill"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The noise outside was very distracting', tu 'distracting' gan nghia voi?",
+      "options": [
+        "Disruptive",
+        "Calming",
+        "Soothing",
+        "Relaxing"
+      ],
+      "answer": 0,
+      "explanation": "Distracting ~ Disruptive (gay xao nhang)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company made a substantial profit', tu nao thay đuoc 'substantial'?",
+      "options": [
+        "Considerable",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Substantial ~ Considerable (đang ke)"
+    }
+  ]
+}

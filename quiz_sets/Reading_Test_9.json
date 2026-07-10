@@ -1,0 +1,1275 @@
+{
+  "skill": "reading",
+  "test": "Test 9",
+  "title": "ETS Reading 2026 - Test 9",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Allocate' co nghia la gi?",
+      "options": [
+        "phan bo; cấp phát",
+        "thu hoi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo; cap phat (nguon luc, tien)"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Obstacle' la:",
+      "options": [
+        "rào can; vat can",
+        "co hoi",
+        "loi the",
+        "điem manh"
+      ],
+      "answer": 0,
+      "explanation": "Obstacle = rào can; vat can"
+    },
+    {
+      "type": "meaning",
+      "question": "'Negotiate' mang y nghia nao?",
+      "options": [
+        "đam phan",
+        "huy bo",
+        "tu choi",
+        "ep buoc"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Consensus':",
+      "options": [
+        "su nhat trí",
+        "su bat đong",
+        "su phan đoi",
+        "su tranh chap"
+      ],
+      "answer": 0,
+      "explanation": "Consensus = su nhat trí"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Endorse' đuoc hieu la:",
+      "options": [
+        "ung ho; đong y",
+        "phản đoi",
+        "tu choi",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Endorse = ung ho; đong y"
+    },
+    {
+      "type": "meaning",
+      "question": "'Scrutinize' co nghia la gi?",
+      "options": [
+        "xem xet ky",
+        "bo qua",
+        "nhin nhanh",
+        "đoc leo"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize = xem xet ky; kiem tra chi tiet"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Viable'?",
+      "options": [
+        "kha thi; co the thuc hien",
+        "khong kha thi",
+        "vo dung",
+        "bat kha thi"
+      ],
+      "answer": 0,
+      "explanation": "Viable = kha thi; co the thuc hien"
+    },
+    {
+      "type": "meaning",
+      "question": "'Deteriorate' mang y nghia:",
+      "options": [
+        "xau đi; suy giam",
+        "cai thien",
+        "phat trien",
+        "nang cao"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate = xau đi; suy giam"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Retain' la:",
+      "options": [
+        "giu lai; duy tri",
+        "mat đi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Retain = giu lai; duy tri"
+    },
+    {
+      "type": "meaning",
+      "question": "'Fluctuate' đuoc hieu nhu the nao?",
+      "options": [
+        "bien đong; dao đong",
+        "on đinh",
+        "co đinh",
+        "khong đoi"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuate = bien đong; dao đong"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Subsidize' co nghia la:",
+      "options": [
+        "bao cap; tro cap",
+        "thu hoi",
+        "phạt",
+        "đanh thue"
+      ],
+      "answer": 0,
+      "explanation": "Subsidize = bao cap; tro cap"
+    },
+    {
+      "type": "meaning",
+      "question": "'Allocate' vs 'Endorse' - 'Allocate' mang nghia nao?",
+      "options": [
+        "phan bo",
+        "ung ho",
+        "huy bo",
+        "tu choi"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Endeavor' la:",
+      "options": [
+        "no luc; co gang",
+        "bo cuoc",
+        "huy bo",
+        "tu bo"
+      ],
+      "answer": 0,
+      "explanation": "Endeavor = no luc; co gang"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Impair':",
+      "options": [
+        "lam suy yeu; gay ton hai",
+        "cai thien",
+        "nang cao",
+        "phat trien"
+      ],
+      "answer": 0,
+      "explanation": "Impair = lam suy yeu; gay ton hai"
+    },
+    {
+      "type": "meaning",
+      "question": "'Veto' co nghia la gi?",
+      "options": [
+        "phu quyet; tu choi",
+        "phê duyệt",
+        "ung ho",
+        "đồng ý"
+      ],
+      "answer": 0,
+      "explanation": "Veto = phu quyet; tu choi"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'phân bổ'?",
+      "options": [
+        "Allocate",
+        "Collect",
+        "Return",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'rào cản; vật cản'?",
+      "options": [
+        "Obstacle",
+        "Opportunity",
+        "Advantage",
+        "Benefit"
+      ],
+      "answer": 0,
+      "explanation": "Obstacle = rào can"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'đàm phán':",
+      "options": [
+        "Negotiate",
+        "Fight",
+        "Argue",
+        "Surrender"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'sự nhất trí'?",
+      "options": [
+        "Consensus",
+        "Disagreement",
+        "Conflict",
+        "Dispute"
+      ],
+      "answer": 0,
+      "explanation": "Consensus = su nhat trí"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'khả thi':",
+      "options": [
+        "Viable",
+        "Impossible",
+        "Unfeasible",
+        "Impractical"
+      ],
+      "answer": 0,
+      "explanation": "Viable = kha thi"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'ủng hộ; đồng ý'?",
+      "options": [
+        "Endorse",
+        "Oppose",
+        "Reject",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Endorse = ung ho"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'xem xét kỹ':",
+      "options": [
+        "Scrutinize",
+        "Skim",
+        "Ignore",
+        "Glance"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize = xem xet ky"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'xấu đi; suy giảm'?",
+      "options": [
+        "Deteriorate",
+        "Improve",
+        "Enhance",
+        "Upgrade"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate = xau đi"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'biến động' tuong ung voi tu nao?",
+      "options": [
+        "Fluctuate",
+        "Stabilize",
+        "Remain",
+        "Stay"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuate = bien đong"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'làm suy yếu' la:",
+      "options": [
+        "Impair",
+        "Strengthen",
+        "Boost",
+        "Enhance"
+      ],
+      "answer": 0,
+      "explanation": "Impair = lam suy yeu"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'phủ quyết'?",
+      "options": [
+        "Veto",
+        "Approve",
+        "Endorse",
+        "Support"
+      ],
+      "answer": 0,
+      "explanation": "Veto = phu quyet"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hợp với 'nỗ lực; cố gắng':",
+      "options": [
+        "Endeavor",
+        "Surrender",
+        "Quit",
+        "Give up"
+      ],
+      "answer": 0,
+      "explanation": "Endeavor = no luc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'bảo cấp; trợ cấp'?",
+      "options": [
+        "Subsidize",
+        "Tax",
+        "Fine",
+        "Charge"
+      ],
+      "answer": 0,
+      "explanation": "Subsidize = bao cap; tro cap"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'giữ lại' tuong ung tu nao?",
+      "options": [
+        "Retain",
+        "Release",
+        "Let go",
+        "Drop"
+      ],
+      "answer": 0,
+      "explanation": "Retain = giu lai"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'hạn chế; giới hạn'?",
+      "options": [
+        "Restrict",
+        "Expand",
+        "Increase",
+        "Enlarge"
+      ],
+      "answer": 0,
+      "explanation": "Restrict = han che"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company will _____ additional funds to the research department.",
+      "options": [
+        "Allocate",
+        "Collect",
+        "Return",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nBudget constraints are the main _____ to the project.",
+      "options": [
+        "Obstacle",
+        "Opportunity",
+        "Advantage",
+        "Benefit"
+      ],
+      "answer": 0,
+      "explanation": "Obstacle = vat can."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe two companies will _____ the terms of the agreement.",
+      "options": [
+        "Negotiate",
+        "Fight",
+        "Ignore",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe committee reached a _____ on the new policy.",
+      "options": [
+        "Consensus",
+        "Disagreement",
+        "Conflict",
+        "Dispute"
+      ],
+      "answer": 0,
+      "explanation": "Consensus = su nhat trí."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe board decided to _____ the new strategic plan.",
+      "options": [
+        "Endorse",
+        "Oppose",
+        "Reject",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Endorse = ung ho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe auditor will _____ the financial records carefully.",
+      "options": [
+        "Scrutinize",
+        "Skim",
+        "Ignore",
+        "Glance"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize = xem xet ky."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nWe need to determine whether the plan is _____.",
+      "options": [
+        "Viable",
+        "Impossible",
+        "Unfeasible",
+        "Impractical"
+      ],
+      "answer": 0,
+      "explanation": "Viable = kha thi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nIf maintenance is ignored, the equipment will _____.",
+      "options": [
+        "Deteriorate",
+        "Improve",
+        "Enhance",
+        "Upgrade"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate = xau đi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe company hopes to _____ skilled employees.",
+      "options": [
+        "Retain",
+        "Release",
+        "Drop",
+        "Let go"
+      ],
+      "answer": 0,
+      "explanation": "Retain = giu lai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nExchange rates _____ throughout the trading day.",
+      "options": [
+        "Fluctuate",
+        "Stabilize",
+        "Remain",
+        "Stay"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuate = bien đong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe government will _____ small businesses affected by the crisis.",
+      "options": [
+        "Subsidize",
+        "Tax",
+        "Fine",
+        "Charge"
+      ],
+      "answer": 0,
+      "explanation": "Subsidize = tro cap."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nWe must _____ our best in this project.",
+      "options": [
+        "Endeavor",
+        "Surrender",
+        "Quit",
+        "Give up"
+      ],
+      "answer": 0,
+      "explanation": "Endeavor = no luc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nLack of sleep can _____ your ability to concentrate.",
+      "options": [
+        "Impair",
+        "Strengthen",
+        "Boost",
+        "Enhance"
+      ],
+      "answer": 0,
+      "explanation": "Impair = lam suy yeu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe president can _____ a bill passed by the legislature.",
+      "options": [
+        "Veto",
+        "Approve",
+        "Endorse",
+        "Support"
+      ],
+      "answer": 0,
+      "explanation": "Veto = phu quyet."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nPlease _____ access to the server to authorized users only.",
+      "options": [
+        "Restrict",
+        "Expand",
+        "Increase",
+        "Enlarge"
+      ],
+      "answer": 0,
+      "explanation": "Restrict = han che."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe project team must _____ resources efficiently.",
+      "options": [
+        "Allocate",
+        "Waste",
+        "Lose",
+        "Discard"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nDespite the _____, the team completed the project on time.",
+      "options": [
+        "Obstacle",
+        "Opportunity",
+        "Advantage",
+        "Benefit"
+      ],
+      "answer": 0,
+      "explanation": "Obstacle = vat can."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThey _____ for hours before reaching an agreement.",
+      "options": [
+        "Negotiated",
+        "Fought",
+        "Argued",
+        "Ignored"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nCustomer satisfaction continues to _____ due to poor service.",
+      "options": [
+        "Deteriorate",
+        "Improve",
+        "Enhance",
+        "Upgrade"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate = xau đi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe proposal is _____ and ready for implementation.",
+      "options": [
+        "Viable",
+        "Impossible",
+        "Unfeasible",
+        "Impractical"
+      ],
+      "answer": 0,
+      "explanation": "Viable = kha thi."
+    },
+    {
+      "type": "pos",
+      "question": "'Allocate' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Allocate la đong tu (phan bo)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Obstacle' la gi ve tu loai?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Obstacle la danh tu (vat can)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Negotiate':",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate la đong tu (đam phan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Consensus' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Consensus la danh tu (su nhat trí)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Viable' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Viable la tinh tu (kha thi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Endorse' la đong tu hay danh tu?",
+      "options": [
+        "Đong tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Endorse la đong tu (ung ho)"
+    },
+    {
+      "type": "pos",
+      "question": "'Scrutinize' thuoc loai tu nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize la đong tu (xem xet ky)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Deteriorate' la danh tu hay đong tu?",
+      "options": [
+        "Đong tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate la đong tu (xau đi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Fluctuate' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuate la đong tu (bien đong)"
+    },
+    {
+      "type": "pos",
+      "question": "'Impair' la gi?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Impair la đong tu (lam suy yeu)"
+    },
+    {
+      "type": "pos",
+      "question": "'Veto' thuoc loai tu nao?",
+      "options": [
+        "Co the la đong tu hoac danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Veto co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to distribute resources or assign to a purpose'?",
+      "options": [
+        "Allocate",
+        "Collect",
+        "Return",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'something that blocks progress' mo ta tu nao?",
+      "options": [
+        "Obstacle",
+        "Opportunity",
+        "Advantage",
+        "Benefit"
+      ],
+      "answer": 0,
+      "explanation": "Obstacle = vat can"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'to discuss something to reach an agreement', tu đo la:",
+      "options": [
+        "Negotiate",
+        "Fight",
+        "Ignore",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'general agreement among a group'?",
+      "options": [
+        "Consensus",
+        "Disagreement",
+        "Conflict",
+        "Dispute"
+      ],
+      "answer": 0,
+      "explanation": "Consensus = su nhat trí"
+    },
+    {
+      "type": "definition",
+      "question": "'capable of working successfully' chi tu:",
+      "options": [
+        "Viable",
+        "Impossible",
+        "Unfeasible",
+        "Impractical"
+      ],
+      "answer": 0,
+      "explanation": "Viable = kha thi"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'to become progressively worse'?",
+      "options": [
+        "Deteriorate",
+        "Improve",
+        "Enhance",
+        "Upgrade"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate = xau đi"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to continue to have or keep something' chi tu:",
+      "options": [
+        "Retain",
+        "Release",
+        "Drop",
+        "Let go"
+      ],
+      "answer": 0,
+      "explanation": "Retain = giu lai"
+    },
+    {
+      "type": "definition",
+      "question": "'to rise and fall irregularly' mo ta tu:",
+      "options": [
+        "Fluctuate",
+        "Stabilize",
+        "Remain",
+        "Stay"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuate = bien đong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'to damage or weaken'?",
+      "options": [
+        "Impair",
+        "Strengthen",
+        "Boost",
+        "Enhance"
+      ],
+      "answer": 0,
+      "explanation": "Impair = lam suy yeu"
+    },
+    {
+      "type": "definition",
+      "question": "'to refuse to accept or allow' mo ta tu nao?",
+      "options": [
+        "Veto",
+        "Approve",
+        "Endorse",
+        "Support"
+      ],
+      "answer": 0,
+      "explanation": "Veto = phu quyet"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Scrutinize' chinh xac nhat?",
+      "options": [
+        "xem xet ky",
+        "nhin nhanh",
+        "bo qua",
+        "đoc leo"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize = xem xet ky; kiem tra chi tiet"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Endorse' la:",
+      "options": [
+        "ung ho",
+        "phan đoi",
+        "tu choi",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Endorse = ung ho; đong y"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Allocate' gan voi y nao nhat?",
+      "options": [
+        "phan bo",
+        "thu hoi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo; cap phat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Viable' la gi?",
+      "options": [
+        "kha thi",
+        "bat kha thi",
+        "vo dung",
+        "khong thuc hien đuoc"
+      ],
+      "answer": 0,
+      "explanation": "Viable = kha thi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Subsidize' la:",
+      "options": [
+        "tro cap",
+        "đanh thue",
+        "phat",
+        "thu hoi"
+      ],
+      "answer": 0,
+      "explanation": "Subsidize = bao cap; tro cap"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Deteriorate' co nghia gan voi:",
+      "options": [
+        "xau đi",
+        "cai thien",
+        "phat trien",
+        "nang cao"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate = xau đi; suy giam"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Impair' la gi?",
+      "options": [
+        "lam suy yeu",
+        "nang cao",
+        "cai thien",
+        "phat trien"
+      ],
+      "answer": 0,
+      "explanation": "Impair = lam suy yeu; gay ton hai"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Veto' mang y nao gan nhat?",
+      "options": [
+        "phu quyet",
+        "phê duyệt",
+        "ung ho",
+        "đồng ý"
+      ],
+      "answer": 0,
+      "explanation": "Veto = phu quyet; tu choi"
+    },
+    {
+      "type": "collocation",
+      "question": "'Allocate' thuong ket hop voi tu nao?",
+      "options": [
+        "Allocate funds",
+        "Tasty funds",
+        "Cold funds",
+        "Dark funds"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: allocate funds, allocate resources"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Obstacle'?",
+      "options": [
+        "Overcome obstacles",
+        "Tasty obstacles",
+        "Cold obstacles",
+        "Dark obstacles"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: overcome obstacles, main obstacle"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Consensus' thuong đi cung cum nao?",
+      "options": [
+        "Reach consensus",
+        "Tasty consensus",
+        "Cold consensus",
+        "Dark consensus"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: reach consensus, general consensus"
+    },
+    {
+      "type": "collocation",
+      "question": "'Negotiate' thuong xuat hien trong cum nao?",
+      "options": [
+        "Negotiate terms",
+        "Tasty negotiate",
+        "Cold negotiate",
+        "Dark negotiate"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: negotiate terms, negotiate agreement"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Scrutinize':",
+      "options": [
+        "Scrutinize carefully",
+        "Tasty scrutinize",
+        "Cold scrutinize",
+        "Dark scrutinize"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: scrutinize carefully, scrutinize records"
+    },
+    {
+      "type": "collocation",
+      "question": "'Exchange' đi cung voi tu nao?",
+      "options": [
+        "Exchange rate",
+        "Tasty exchange",
+        "Cold exchange",
+        "Dark exchange"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: exchange rate, exchange program"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Restrict'?",
+      "options": [
+        "Restrict access",
+        "Tasty restrict",
+        "Cold restrict",
+        "Dark restrict"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: restrict access, restrict movement"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Negotiate' lien quan đên ngucanh nao?",
+      "options": [
+        "Kinh doanh, hop đong",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan, ngucanh kinh doanh"
+    },
+    {
+      "type": "context",
+      "question": "'Subsidize' thuoc linh vuc nao?",
+      "options": [
+        "Chinh phu, tai chinh",
+        "Y te",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Subsidize = tro cap, ngucanh chinh phu"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Veto' lien quan chinh đên gi?",
+      "options": [
+        "Chinh tri, lap phap",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Veto = phu quyet, ngucanh chinh tri"
+    },
+    {
+      "type": "context",
+      "question": "'Fluctuate' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Tai chinh, thi truong",
+        "Y te",
+        "The thao",
+        "Am nhac"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuate = bien đong, ngucanh tai chinh"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Allocate' lien quan đên linhvuc nao?",
+      "options": [
+        "Quan ly nguon luc",
+        "Y te",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo, ngucanh quan ly nguon luc"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Allocate",
+        "Negotiate",
+        "Scrutinize",
+        "Obstacle"
+      ],
+      "answer": 3,
+      "explanation": "Obstacle la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Viable",
+        "Endorse",
+        "Deteriorate",
+        "Impair"
+      ],
+      "answer": 0,
+      "explanation": "Viable la tinh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Allocate",
+        "Negotiate",
+        "Endorse",
+        "Consensus"
+      ],
+      "answer": 3,
+      "explanation": "Consensus la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Obstacle",
+        "Consensus",
+        "Fluctuate",
+        "Endeavor"
+      ],
+      "answer": 2,
+      "explanation": "Fluctuate la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Viable",
+        "Fluctuate",
+        "Deteriorate",
+        "Scrutinize"
+      ],
+      "answer": 0,
+      "explanation": "Viable la tinh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Allocate' đung?",
+      "options": [
+        "The company will allocate additional funds to the research department.",
+        "She allocate very beautiful today.",
+        "They allocate sunny weather.",
+        "He allocate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Allocate = phan bo, đung voi tien, nguon luc"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Negotiate' đung?",
+      "options": [
+        "The two companies will negotiate the terms of the agreement.",
+        "She negotiate very tired today.",
+        "They negotiate sunny weather.",
+        "He negotiate the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Negotiate = đam phan, đung voi đieu khoan, hop đong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Retain':",
+      "options": [
+        "The company hopes to retain skilled employees.",
+        "The weather retain warm tomorrow.",
+        "She retain very tired today.",
+        "They retain the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Retain = giu lai, đung voi nhan vien, thong tin"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Scrutinize' phu hop?",
+      "options": [
+        "The auditor will scrutinize the financial records carefully.",
+        "She scrutinize very beautiful dress.",
+        "They scrutinize sunny weather today.",
+        "He scrutinize the red color."
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize = xem xet ky, đung voi tai chinh, ho so"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Endorse':",
+      "options": [
+        "The board decided to endorse the new strategic plan.",
+        "She endorse very beautiful today.",
+        "They endorse the sweet taste.",
+        "He endorse quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Endorse = ung ho, đung voi ke hoach, san pham"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Viable'?",
+      "options": [
+        "Impossible",
+        "Feasible",
+        "Practical",
+        "Workable"
+      ],
+      "answer": 0,
+      "explanation": "Viable (kha thi) trai nghia voi Impossible (bat kha thi)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Scrutinize'?",
+      "options": [
+        "Examine",
+        "Skim",
+        "Ignore",
+        "Glance"
+      ],
+      "answer": 0,
+      "explanation": "Scrutinize ~ Examine (xem xet ky)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Endorse'?",
+      "options": [
+        "Oppose",
+        "Support",
+        "Approve",
+        "Back"
+      ],
+      "answer": 0,
+      "explanation": "Endorse (ung ho) trai nghia voi Oppose (phan đoi)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company will allocate funds to research', tu 'allocate' gan nghia voi?",
+      "options": [
+        "Distribute",
+        "Collect",
+        "Return",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Allocate ~ Distribute (phan bo)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Equipment will deteriorate without maintenance', tu nao thay đuoc 'deteriorate'?",
+      "options": [
+        "Worsen",
+        "Improve",
+        "Enhance",
+        "Upgrade"
+      ],
+      "answer": 0,
+      "explanation": "Deteriorate ~ Worsen (xau đi)"
+    }
+  ]
+}

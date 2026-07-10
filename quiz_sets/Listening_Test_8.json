@@ -1,0 +1,1289 @@
+{
+  "skill": "listening",
+  "test": "Test 8",
+  "title": "ETS Listening 2026 - Test 8",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Flowerpot' co nghia la gi?",
+      "options": [
+        "chau hoa",
+        "chau nuoc",
+        "chau cat",
+        "chau đat"
+      ],
+      "answer": 0,
+      "explanation": "Flowerpot = chau hoa"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Rug' la:",
+      "options": [
+        "them nho",
+        "san nha",
+        "cua so",
+        "ban ghe"
+      ],
+      "answer": 0,
+      "explanation": "Rug = them nho"
+    },
+    {
+      "type": "meaning",
+      "question": "'Patio' mang y nghia nao?",
+      "options": [
+        "san hien; san trong",
+        "nha bep",
+        "phong ngu",
+        "nha ve sinh"
+      ],
+      "answer": 0,
+      "explanation": "Patio = san hien; san trong"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Intersection':",
+      "options": [
+        "nga tu; giao lo",
+        "đuong thang",
+        "đuong cong",
+        "đuong nho"
+      ],
+      "answer": 0,
+      "explanation": "Intersection = nga tu; giao lo"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Ceiling' đuoc hieu la:",
+      "options": [
+        "tran nha",
+        "san nha",
+        "tuong nha",
+        "mai nha"
+      ],
+      "answer": 0,
+      "explanation": "Ceiling = tran nha"
+    },
+    {
+      "type": "meaning",
+      "question": "'Unload' co nghia la gi?",
+      "options": [
+        "do hang; thao xuong",
+        "xe hang",
+        "đem đi",
+        "chua hang"
+      ],
+      "answer": 0,
+      "explanation": "Unload = do hang; thao xuong"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Rake'?",
+      "options": [
+        "cai cao; cao",
+        "cai xeng",
+        "cai rom",
+        "cai xuc"
+      ],
+      "answer": 0,
+      "explanation": "Rake = cai cao; cao (dung cu lam vuon)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Assignment' mang y nghia:",
+      "options": [
+        "nhiem vu; bai tap đuoc giao",
+        "su nghien ngoi",
+        "su nghi huu",
+        "su thang chuc"
+      ],
+      "answer": 0,
+      "explanation": "Assignment = nhiem vu; bai tap đuoc giao"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Productive' la:",
+      "options": [
+        "hieu qua; nang suat",
+        "kem hieu qua",
+        "cham chap",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Productive = hieu qua; nang suat"
+    },
+    {
+      "type": "meaning",
+      "question": "'Laboratory' đuoc hieu nhu the nao?",
+      "options": [
+        "phong thi nghiem",
+        "nha xuong",
+        "van phong",
+        "nha kho"
+      ],
+      "answer": 0,
+      "explanation": "Laboratory = phong thi nghiem"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Monitor' (đong tu) co nghia la:",
+      "options": [
+        "theo doi",
+        "bo qua",
+        "lam thay",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Monitor = theo doi; giam sat"
+    },
+    {
+      "type": "meaning",
+      "question": "'Insufficient' mang y nghia nao?",
+      "options": [
+        "khong đu; thieu",
+        "đu",
+        "đay đu",
+        "dồi dao"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient = khong đu; thieu"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Rare' la:",
+      "options": [
+        "hiem; it gap",
+        "thuong gap",
+        "pho bien",
+        "binh thuong"
+      ],
+      "answer": 0,
+      "explanation": "Rare = hiem; it gap"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Publicity':",
+      "options": [
+        "su quang ba; su chu y cua cong chung",
+        "su an gia",
+        "su bi mat",
+        "su phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Publicity = su quang ba; su chu y cua cong chung"
+    },
+    {
+      "type": "meaning",
+      "question": "'Construction' co nghia la gi?",
+      "options": [
+        "su xay dung",
+        "su pha do",
+        "su cai tao",
+        "su bao tri"
+      ],
+      "answer": 0,
+      "explanation": "Construction = su xay dung; cong trinh xay dựng"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'chậu hoa'?",
+      "options": [
+        "Flowerpot",
+        "Waterpot",
+        "Sandpot",
+        "Soilpot"
+      ],
+      "answer": 0,
+      "explanation": "Flowerpot = chau hoa"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'thảm nhỏ'?",
+      "options": [
+        "Rug",
+        "Floor",
+        "Window",
+        "Furniture"
+      ],
+      "answer": 0,
+      "explanation": "Rug = them nho"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'sân hiên; sân trong':",
+      "options": [
+        "Patio",
+        "Kitchen",
+        "Bedroom",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Patio = san hien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'ngã tư; giao lộ'?",
+      "options": [
+        "Intersection",
+        "Straight road",
+        "Curved road",
+        "Small road"
+      ],
+      "answer": 0,
+      "explanation": "Intersection = nga tu"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'trần nhà':",
+      "options": [
+        "Ceiling",
+        "Floor",
+        "Wall",
+        "Roof"
+      ],
+      "answer": 0,
+      "explanation": "Ceiling = tran nha"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'dỡ hàng; tháo xuống'?",
+      "options": [
+        "Unload",
+        "Load",
+        "Carry",
+        "Store"
+      ],
+      "answer": 0,
+      "explanation": "Unload = do hang"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'nhiệm vụ; bài tập được giao':",
+      "options": [
+        "Assignment",
+        "Rest",
+        "Retirement",
+        "Promotion"
+      ],
+      "answer": 0,
+      "explanation": "Assignment = nhiem vu"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'hiệu quả; năng suất'?",
+      "options": [
+        "Productive",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Productive = hieu qua"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'phòng thí nghiệm' tuong ung voi tu nao?",
+      "options": [
+        "Laboratory",
+        "Factory",
+        "Office",
+        "Warehouse"
+      ],
+      "answer": 0,
+      "explanation": "Laboratory = phong thi nghiem"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'theo dõi' la:",
+      "options": [
+        "Monitor",
+        "Ignore",
+        "Replace",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Monitor = theo doi"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'không đủ; thiếu'?",
+      "options": [
+        "Insufficient",
+        "Enough",
+        "Plentiful",
+        "Abundant"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient = khong đu"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'hiếm; ít gặp':",
+      "options": [
+        "Rare",
+        "Common",
+        "Frequent",
+        "Usual"
+      ],
+      "answer": 0,
+      "explanation": "Rare = hiem"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'sự quảng bá'?",
+      "options": [
+        "Publicity",
+        "Privacy",
+        "Secrecy",
+        "Denial"
+      ],
+      "answer": 0,
+      "explanation": "Publicity = su quang ba"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'sự xây dựng' tuong ung tu nao?",
+      "options": [
+        "Construction",
+        "Demolition",
+        "Renovation",
+        "Maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Construction = su xay dựng"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'tò mò; hiếu kỳ'?",
+      "options": [
+        "Curious",
+        "Bored",
+        "Indifferent",
+        "Apathetic"
+      ],
+      "answer": 0,
+      "explanation": "Curious = to mo; hieu ky"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nShe placed a small _____ on the windowsill.",
+      "options": [
+        "Flowerpot",
+        "Waterpot",
+        "Sandpot",
+        "Soilpot"
+      ],
+      "answer": 0,
+      "explanation": "Flowerpot = chau hoa."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe receptionist cleaned the _____ in the lobby.",
+      "options": [
+        "Rug",
+        "Floor",
+        "Window",
+        "Furniture"
+      ],
+      "answer": 0,
+      "explanation": "Rug = them nho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe restaurant added more tables to the _____.",
+      "options": [
+        "Patio",
+        "Kitchen",
+        "Bedroom",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Patio = san hien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nTurn left at the next _____.",
+      "options": [
+        "Intersection",
+        "Straight road",
+        "Curved road",
+        "Small road"
+      ],
+      "answer": 0,
+      "explanation": "Intersection = nga tu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nWater leaked from the _____ after the storm.",
+      "options": [
+        "Ceiling",
+        "Floor",
+        "Wall",
+        "Roof"
+      ],
+      "answer": 0,
+      "explanation": "Ceiling = tran nha."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nWorkers began to _____ the truck at dawn.",
+      "options": [
+        "Unload",
+        "Load",
+        "Carry",
+        "Store"
+      ],
+      "answer": 0,
+      "explanation": "Unload = do hang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nShe completed the _____ ahead of schedule.",
+      "options": [
+        "Assignment",
+        "Rest",
+        "Retirement",
+        "Promotion"
+      ],
+      "answer": 0,
+      "explanation": "Assignment = nhiem vu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nWe had a very _____ meeting this afternoon.",
+      "options": [
+        "Productive",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Productive = hieu qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe samples were tested in the _____.",
+      "options": [
+        "Laboratory",
+        "Factory",
+        "Office",
+        "Warehouse"
+      ],
+      "answer": 0,
+      "explanation": "Laboratory = phong thi nghiem."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nWe need to _____ energy usage more closely.",
+      "options": [
+        "Monitor",
+        "Ignore",
+        "Replace",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Monitor = theo doi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe evidence was _____ to support the claim.",
+      "options": [
+        "Insufficient",
+        "Enough",
+        "Plentiful",
+        "Abundant"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient = khong đu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nSuch delays are _____ in our company.",
+      "options": [
+        "Rare",
+        "Common",
+        "Frequent",
+        "Usual"
+      ],
+      "answer": 0,
+      "explanation": "Rare = hiem."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe campaign received a lot of _____ online.",
+      "options": [
+        "Publicity",
+        "Privacy",
+        "Secrecy",
+        "Denial"
+      ],
+      "answer": 0,
+      "explanation": "Publicity = su quang ba."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nRoad _____ caused heavy traffic this morning.",
+      "options": [
+        "Construction",
+        "Demolition",
+        "Renovation",
+        "Maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Construction = su xay dựng."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nChildren are naturally _____ about animals.",
+      "options": [
+        "Curious",
+        "Bored",
+        "Indifferent",
+        "Apathetic"
+      ],
+      "answer": 0,
+      "explanation": "Curious = to mo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe farmer tested the _____ before planting.",
+      "options": [
+        "Soil",
+        "Water",
+        "Air",
+        "Sand"
+      ],
+      "answer": 0,
+      "explanation": "Soil = đat; đat trong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThe region depends heavily on _____.",
+      "options": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Technology"
+      ],
+      "answer": 0,
+      "explanation": "Agriculture = nong nghiep."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nI missed the last _____ of the program.",
+      "options": [
+        "Episode",
+        "Chapter",
+        "Section",
+        "Part"
+      ],
+      "answer": 0,
+      "explanation": "Episode = tap phim."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe hotel offers a _____ rate for weekend parking.",
+      "options": [
+        "Flat",
+        "High",
+        "Low",
+        "Changing"
+      ],
+      "answer": 0,
+      "explanation": "Flat rate = muc gia co đinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe factory imported new _____ last month.",
+      "options": [
+        "Machinery",
+        "Furniture",
+        "Stationery",
+        "Grocery"
+      ],
+      "answer": 0,
+      "explanation": "Machinery = may moc."
+    },
+    {
+      "type": "pos",
+      "question": "'Flowerpot' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Flowerpot la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Productive' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Productive la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Insufficient':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Rare' thuoc nhom nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Rare la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Unload' la:",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Unload la đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Monitor' co the la:",
+      "options": [
+        "Ca đong tu va danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Monitor co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Curious' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Curious la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Construction' la danh tu hay đong tu?",
+      "options": [
+        "Danh tu",
+        "Đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Construction la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Varied' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Varied la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Assignment' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Assignment la danh tu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'a container for growing flowers'?",
+      "options": [
+        "Flowerpot",
+        "Waterpot",
+        "Sandpot",
+        "Soilpot"
+      ],
+      "answer": 0,
+      "explanation": "Flowerpot = chau hoa"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a piece of thick material to cover part of a floor' mo ta tu nao?",
+      "options": [
+        "Rug",
+        "Floor",
+        "Window",
+        "Furniture"
+      ],
+      "answer": 0,
+      "explanation": "Rug = them nho"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'an outdoor area next to a building', tu đo la:",
+      "options": [
+        "Patio",
+        "Kitchen",
+        "Bedroom",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Patio = san hien"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'a place where two or more roads meet'?",
+      "options": [
+        "Intersection",
+        "Straight road",
+        "Curved road",
+        "Small road"
+      ],
+      "answer": 0,
+      "explanation": "Intersection = nga tu"
+    },
+    {
+      "type": "definition",
+      "question": "'to remove goods from a vehicle' chi tu:",
+      "options": [
+        "Unload",
+        "Load",
+        "Carry",
+        "Store"
+      ],
+      "answer": 0,
+      "explanation": "Unload = do hang"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'a task or piece of work given to someone'?",
+      "options": [
+        "Assignment",
+        "Rest",
+        "Retirement",
+        "Promotion"
+      ],
+      "answer": 0,
+      "explanation": "Assignment = nhiem vu"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'producing good results' chi tu:",
+      "options": [
+        "Productive",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Productive = hieu qua"
+    },
+    {
+      "type": "definition",
+      "question": "'a room used for scientific testing' mo ta tu:",
+      "options": [
+        "Laboratory",
+        "Factory",
+        "Office",
+        "Warehouse"
+      ],
+      "answer": 0,
+      "explanation": "Laboratory = phong thi nghiem"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'not enough'?",
+      "options": [
+        "Insufficient",
+        "Enough",
+        "Plentiful",
+        "Abundant"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient = khong đu"
+    },
+    {
+      "type": "definition",
+      "question": "'not common' mo ta tu nao?",
+      "options": [
+        "Rare",
+        "Common",
+        "Frequent",
+        "Usual"
+      ],
+      "answer": 0,
+      "explanation": "Rare = hiem"
+    },
+    {
+      "type": "definition",
+      "question": "'the process of building something' mo ta tu nao?",
+      "options": [
+        "Construction",
+        "Demolition",
+        "Renovation",
+        "Maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Construction = su xay dựng"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Unload' chinh xac nhat?",
+      "options": [
+        "do hang",
+        "xe hang",
+        "đem đi",
+        "chua hang"
+      ],
+      "answer": 0,
+      "explanation": "Unload = do hang; thao xuong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Rare' la:",
+      "options": [
+        "hiem",
+        "thuong gap",
+        "pho bien",
+        "binh thuong"
+      ],
+      "answer": 0,
+      "explanation": "Rare = hiem; it gap"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Productive' gan voi y nao nhat?",
+      "options": [
+        "hieu qua",
+        "kem hieu qua",
+        "cham chap",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Productive = hieu qua; nang suat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Insufficient' la gi?",
+      "options": [
+        "khong đu",
+        "đu",
+        "đay đu",
+        "dồi dao"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient = khong đu; thieu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Monitor' la:",
+      "options": [
+        "theo doi",
+        "bo qua",
+        "lam thay",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Monitor = theo doi; giam sat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Curious' co nghia gan voi:",
+      "options": [
+        "to mo",
+        "chan nan",
+        "thieu quan tam",
+        "vo cam"
+      ],
+      "answer": 0,
+      "explanation": "Curious = to mo; hieu ky"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Varied' la gi?",
+      "options": [
+        "đa dạng",
+        "mot loai",
+        "đon gian",
+        "binh thuong"
+      ],
+      "answer": 0,
+      "explanation": "Varied = đa dạng; phong phu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Publicity' mang y nao gan nhat?",
+      "options": [
+        "su quang ba",
+        "su an gia",
+        "su bi mat",
+        "su phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Publicity = su quang ba; su chu y cua cong chung"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Machinery' mang y nao gan nhat?",
+      "options": [
+        "may moc",
+        "noi thất",
+        "văn phòng phẩm",
+        "thực phẩm"
+      ],
+      "answer": 0,
+      "explanation": "Machinery = may moc"
+    },
+    {
+      "type": "collocation",
+      "question": "''Productive' thuong ket hop voi tu nao?",
+      "options": [
+        "Productive meeting",
+        "Tasty meeting",
+        "Cold meeting",
+        "Dark meeting"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: productive meeting, productive day"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Laboratory'?",
+      "options": [
+        "Research laboratory",
+        "Tasty laboratory",
+        "Cold laboratory",
+        "Dark laboratory"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: research laboratory, laboratory test"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Intersection' thuong đi cung cum nao?",
+      "options": [
+        "Major intersection",
+        "Tasty intersection",
+        "Cold intersection",
+        "Dark intersection"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: major intersection, traffic intersection"
+    },
+    {
+      "type": "collocation",
+      "question": "''Construction' thuong xuat hien trong cum nao?",
+      "options": [
+        "Road construction",
+        "Tasty construction",
+        "Cold construction",
+        "Dark construction"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: road construction, construction site"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Publicity':",
+      "options": [
+        "Receive publicity",
+        "Tasty publicity",
+        "Cold publicity",
+        "Dark publicity"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: receive publicity, generate publicity"
+    },
+    {
+      "type": "collocation",
+      "question": "''Machinery' đi cung voi tu nao?",
+      "options": [
+        "Heavy machinery",
+        "Tasty machinery",
+        "Cold machinery",
+        "Dark machinery"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: heavy machinery, industrial machinery"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Soil'?",
+      "options": [
+        "Test the soil",
+        "Tasty soil",
+        "Cold soil",
+        "Dark soil"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: test the soil, fertile soil"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Laboratory' lien quan đên ngucanh nao?",
+      "options": [
+        "Khoa học, nghien cuu",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Laboratory = phong thi nghiem"
+    },
+    {
+      "type": "context",
+      "question": "''Agriculture' thuoc linh vuc nao?",
+      "options": [
+        "Nong nghiep",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Agriculture = nong nghiep"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Machinery' lien quan chinh đên gi?",
+      "options": [
+        "San xuat, cong nghiep",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Machinery = may moc"
+    },
+    {
+      "type": "context",
+      "question": "''Patio' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Nha cửa, ngoai that",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Patio = san hien"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Intersection' lien quan đên linhvuc nao?",
+      "options": [
+        "Giao thong",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Intersection = nga tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Unload",
+        "Monitor",
+        "Construct",
+        "Flowerpot"
+      ],
+      "answer": 3,
+      "explanation": "Flowerpot la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Productive",
+        "Insufficient",
+        "Rare",
+        "Unload"
+      ],
+      "answer": 3,
+      "explanation": "Unload la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Flowerpot",
+        "Laboratory",
+        "Assignment",
+        "Curious"
+      ],
+      "answer": 3,
+      "explanation": "Curious la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Flowerpot",
+        "Laboratory",
+        "Machinery",
+        "Productive"
+      ],
+      "answer": 3,
+      "explanation": "Productive la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Productive",
+        "Insufficient",
+        "Rare",
+        "Construction"
+      ],
+      "answer": 3,
+      "explanation": "Construction la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Unload' đung?",
+      "options": [
+        "Workers began to unload the truck at dawn.",
+        "She unload very beautiful today.",
+        "They unload sunny weather.",
+        "He unload the red color."
+      ],
+      "answer": 0,
+      "explanation": "Unload = do hang, đung voi xe tai, thung hang"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Monitor' đung?",
+      "options": [
+        "We need to monitor energy usage more closely.",
+        "She monitor very tired today.",
+        "They monitor sunny weather.",
+        "He monitor the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Monitor = theo doi, đung voi nang luong, su dung"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Rare':",
+      "options": [
+        "Such delays are rare in our company.",
+        "The weather rare warm tomorrow.",
+        "She rare very tired today.",
+        "They rare the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Rare = hiem, đung voi cham tre, su co"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Productive' phu hop?",
+      "options": [
+        "We had a very productive meeting this afternoon.",
+        "She productive very beautiful dress.",
+        "They productive sunny weather today.",
+        "He productive the red color."
+      ],
+      "answer": 0,
+      "explanation": "Productive = hieu qua, đung voi cuoc hop, ngay lam"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Compliment':",
+      "options": [
+        "The manager complimented the team for its effort.",
+        "She compliment very beautiful today.",
+        "They compliment the sweet taste.",
+        "He compliment quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Compliment = khen ngợi, đung voi nỗ lực, thanh tich"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Insufficient'?",
+      "options": [
+        "Sufficient",
+        "Inadequate",
+        "Lacking",
+        "Deficient"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient (khong đu) trai nghia voi Sufficient (đu). Notes ghi: Opposite: sufficient"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Rare'?",
+      "options": [
+        "Common",
+        "Uncommon",
+        "Scarce",
+        "Unusual"
+      ],
+      "answer": 0,
+      "explanation": "Rare (hiem) trai nghia voi Common (thuong gap). Notes ghi: Opposite: common"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Productive'?",
+      "options": [
+        "Efficient",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Productive ~ Efficient"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'We had a very productive meeting', tu 'productive' gan nghia voi?",
+      "options": [
+        "Effective",
+        "Useless",
+        "Wasteful",
+        "Idle"
+      ],
+      "answer": 0,
+      "explanation": "Productive ~ Effective (hieu qua)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Workers began to unload the truck', tu nao thay đuoc 'unload'?",
+      "options": [
+        "Empty",
+        "Fill",
+        "Load",
+        "Pack"
+      ],
+      "answer": 0,
+      "explanation": "Unload ~ Empty (do hang; lam trong)"
+    }
+  ]
+}

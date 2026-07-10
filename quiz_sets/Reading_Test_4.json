@@ -1,0 +1,1263 @@
+{
+  "skill": "reading",
+  "test": "Test 4",
+  "title": "ETS Reading 2026 - Test 4",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Retire' co nghia la gi?",
+      "options": [
+        "nghi huu",
+        "bat dau",
+        "thang chuc",
+        "chuyen cong tac"
+      ],
+      "answer": 0,
+      "explanation": "Retire = nghi huu (ngung lam viec vinh vien)"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Contract' (danh tu) la:",
+      "options": [
+        "hop đong",
+        "hoa đơn",
+        "biên lai",
+        "phiếu"
+      ],
+      "answer": 0,
+      "explanation": "Contract = hop đong (thoa thuan phap lý)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Maintain' mang y nghia nao?",
+      "options": [
+        "duy tri; bao tri",
+        "huy bo",
+        "ban đi",
+        "thay đoi"
+      ],
+      "answer": 0,
+      "explanation": "Maintain = duy tri; bao tri"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Prestigious':",
+      "options": [
+        "danh gia; uy tin",
+        "khong danh tieng",
+        "re tien",
+        "binh thuong"
+      ],
+      "answer": 0,
+      "explanation": "Prestigious = danh gia; uy tin"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Enhance' đuoc hieu la:",
+      "options": [
+        "nang cao; cai thien",
+        "giam xuong",
+        "phá hủy",
+        "bo đi"
+      ],
+      "answer": 0,
+      "explanation": "Enhance = nang cao; cai thien"
+    },
+    {
+      "type": "meaning",
+      "question": "'Validate' co nghia la gi?",
+      "options": [
+        "xac nhan; chung thuc",
+        "phu nhan",
+        "huy bo",
+        "an gia"
+      ],
+      "answer": 0,
+      "explanation": "Validate = xac nhan; chung thuc"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Competitive'?",
+      "options": [
+        "co tinh canh tranh",
+        "thieu canh tranh",
+        "khong canh tranh",
+        "vo dich"
+      ],
+      "answer": 0,
+      "explanation": "Competitive = co tinh canh tranh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Commitment' mang y nghia:",
+      "options": [
+        "su cam ket; tan tuy",
+        "su tu choi",
+        "su huy bo",
+        "su phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Commitment = su cam ket; tan tuy"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Tremendous' la:",
+      "options": [
+        "to lon; rat lon",
+        "nho be",
+        "binh thuong",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Tremendous = to lon; rat lon"
+    },
+    {
+      "type": "meaning",
+      "question": "'Refurbish' đuoc hieu nhu the nao?",
+      "options": [
+        "tan trang; sua sang lai",
+        "phá hủy",
+        "bo đi",
+        "ban đi"
+      ],
+      "answer": 0,
+      "explanation": "Refurbish = tan trang; sua sang lai"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Verify' co nghia la:",
+      "options": [
+        "xac minh; kiem tra",
+        "an gia",
+        "phu nhan",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Verify = xac minh; kiem tra"
+    },
+    {
+      "type": "meaning",
+      "question": "'Convenient' mang y nghia nao?",
+      "options": [
+        "thuan tien",
+        "bat tien",
+        "kho khan",
+        "phuc tap"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Versatile' la:",
+      "options": [
+        "da nang; linh hoat",
+        "co đinh",
+        "cung ngac",
+        "it dung"
+      ],
+      "answer": 0,
+      "explanation": "Versatile = đa năng; linh hoat"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Engaging':",
+      "options": [
+        "cuon hut; hap dan",
+        "chan ngan",
+        "nhạt nheo",
+        "đon điệu"
+      ],
+      "answer": 0,
+      "explanation": "Engaging = cuon hut; hap dan"
+    },
+    {
+      "type": "meaning",
+      "question": "'Prompt' (tinh tu) co nghia la gi?",
+      "options": [
+        "nhanh chong; kip thoi",
+        "cham chap",
+        "tre hen",
+        "đe"
+      ],
+      "answer": 0,
+      "explanation": "Prompt = nhanh chong; kip thoi"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'hợp đồng'?",
+      "options": [
+        "Contract",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Contract = hop đong"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'cải tạo; tân trang'?",
+      "options": [
+        "Refurbish",
+        "Destroy",
+        "Demolish",
+        "Abandon"
+      ],
+      "answer": 0,
+      "explanation": "Refurbish = tan trang; sua sang lai"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'nâng cao':",
+      "options": [
+        "Enhance",
+        "Reduce",
+        "Lower",
+        "Decrease"
+      ],
+      "answer": 0,
+      "explanation": "Enhance = nang cao; cai thien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'danh giá; uy tín'?",
+      "options": [
+        "Prestigious",
+        "Unknown",
+        "Ordinary",
+        "Cheap"
+      ],
+      "answer": 0,
+      "explanation": "Prestigious = danh gia; uy tin"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'kiểm tra; xác minh':",
+      "options": [
+        "Verify",
+        "Ignore",
+        "Hide",
+        "Conceal"
+      ],
+      "answer": 0,
+      "explanation": "Verify = xac minh; kiem tra"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'cam kết'?",
+      "options": [
+        "Commitment",
+        "Refusal",
+        "Rejection",
+        "Denial"
+      ],
+      "answer": 0,
+      "explanation": "Commitment = su cam ket"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'to lớn; rất lớn':",
+      "options": [
+        "Tremendous",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Tremendous = to lon; rat lon"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'thuận tiện'?",
+      "options": [
+        "Convenient",
+        "Difficult",
+        "Awkward",
+        "Complex"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đa năng; linh hoạt' tuong ung voi tu nao?",
+      "options": [
+        "Versatile",
+        "Rigid",
+        "Fixed",
+        "Inflexible"
+      ],
+      "answer": 0,
+      "explanation": "Versatile = đa năng; linh hoat"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'cuốn hút; hấp dẫn' la:",
+      "options": [
+        "Engaging",
+        "Boring",
+        "Dull",
+        "Tedious"
+      ],
+      "answer": 0,
+      "explanation": "Engaging = cuon hut; hap dan"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'ngoạn mục; ấn tượng'?",
+      "options": [
+        "Spectacular",
+        "Ordinary",
+        "Average",
+        "Plain"
+      ],
+      "answer": 0,
+      "explanation": "Spectacular = ngoan muc; rat an tuong"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'độ bền':",
+      "options": [
+        "Durability",
+        "Weakness",
+        "Fragility",
+        "Softness"
+      ],
+      "answer": 0,
+      "explanation": "Durability = đo ben"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'thẩm mỹ'?",
+      "options": [
+        "Aesthetic",
+        "Technical",
+        "Practical",
+        "Functional"
+      ],
+      "answer": 0,
+      "explanation": "Aesthetic = co tinh tham my"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'công thái học; phù hợp cơ thể' tuong ung tu nao?",
+      "options": [
+        "Ergonomic",
+        "Rigid",
+        "Uncomfortable",
+        "Clunky"
+      ],
+      "answer": 0,
+      "explanation": "Ergonomic = cong thai hoc; phu hop co the nguoi"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'khởi xướng; bắt đầu'?",
+      "options": [
+        "Initiate",
+        "Stop",
+        "End",
+        "Finish"
+      ],
+      "answer": 0,
+      "explanation": "Initiate = bat đau; khoi xuat"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nAfter thirty years with the company, Mr. Han decided to _____ this spring.",
+      "options": [
+        "Retire",
+        "Start",
+        "Begin",
+        "Join"
+      ],
+      "answer": 0,
+      "explanation": "Retire = nghi huu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nBoth sides signed the _____ after reviewing the final terms.",
+      "options": [
+        "Contract",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Contract = hop đong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nRegular checks help _____ the machinery in good condition.",
+      "options": [
+        "Maintain",
+        "Break",
+        "Ignore",
+        "Damage"
+      ],
+      "answer": 0,
+      "explanation": "Maintain = duy tri; bao tri."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nIt is a _____ award in the field of design.",
+      "options": [
+        "Prestigious",
+        "Unknown",
+        "Cheap",
+        "Ordinary"
+      ],
+      "answer": 0,
+      "explanation": "Prestigious = danh gia."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nNew lighting will _____ the appearance of the showroom.",
+      "options": [
+        "Enhance",
+        "Reduce",
+        "Damage",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Enhance = nang cao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe test results _____ our earlier findings.",
+      "options": [
+        "Validate",
+        "Contradict",
+        "Deny",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Validate = xac nhan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe company offers _____ salaries to attract skilled workers.",
+      "options": [
+        "Competitive",
+        "Low",
+        "Poor",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Competitive = co tinh canh tranh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company's _____ to quality is clear in its products.",
+      "options": [
+        "Commitment",
+        "Refusal",
+        "Rejection",
+        "Denial"
+      ],
+      "answer": 0,
+      "explanation": "Commitment = su cam ket."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe new campaign generated _____ interest online.",
+      "options": [
+        "Tremendous",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Tremendous = to lon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nThe hotel plans to _____ all guest rooms this year.",
+      "options": [
+        "Refurbish",
+        "Demolish",
+        "Abandon",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Refurbish = tan trang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nPlease _____ your email address before submitting the form.",
+      "options": [
+        "Verify",
+        "Ignore",
+        "Hide",
+        "Conceal"
+      ],
+      "answer": 0,
+      "explanation": "Verify = xac minh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe hotel is in a _____ location near the station.",
+      "options": [
+        "Convenient",
+        "Remote",
+        "Distant",
+        "Awkward"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThis _____ software works for both small and large businesses.",
+      "options": [
+        "Versatile",
+        "Rigid",
+        "Fixed",
+        "Limited"
+      ],
+      "answer": 0,
+      "explanation": "Versatile = đa năng."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe speaker gave an _____ presentation on workplace innovation.",
+      "options": [
+        "Engaging",
+        "Boring",
+        "Dull",
+        "Tedious"
+      ],
+      "answer": 0,
+      "explanation": "Engaging = cuon hut."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe hotel offers _____ views of the coastline.",
+      "options": [
+        "Spectacular",
+        "Ordinary",
+        "Average",
+        "Plain"
+      ],
+      "answer": 0,
+      "explanation": "Spectacular = ngoan muc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nCustomers consider _____ when choosing office furniture.",
+      "options": [
+        "Durability",
+        "Weakness",
+        "Fragility",
+        "Softness"
+      ],
+      "answer": 0,
+      "explanation": "Durability = đo ben."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThe company will _____ a review of its hiring process.",
+      "options": [
+        "Initiate",
+        "Stop",
+        "Cancel",
+        "End"
+      ],
+      "answer": 0,
+      "explanation": "Initiate = bat đau; khoi xuat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe designer focused on both practical and _____ features.",
+      "options": [
+        "Aesthetic",
+        "Technical",
+        "Random",
+        "Irrelevant"
+      ],
+      "answer": 0,
+      "explanation": "Aesthetic = co tinh tham my."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe office purchased _____ chairs for all employees.",
+      "options": [
+        "Ergonomic",
+        "Uncomfortable",
+        "Rigid",
+        "Clunky"
+      ],
+      "answer": 0,
+      "explanation": "Ergonomic = cong thai hoc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThank you for your _____ reply to our inquiry.",
+      "options": [
+        "Prompt",
+        "Late",
+        "Slow",
+        "Delayed"
+      ],
+      "answer": 0,
+      "explanation": "Prompt = nhanh chong; kip thoi."
+    },
+    {
+      "type": "pos",
+      "question": "'Retire' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Retire la đong tu (nghi huu)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Contract' (khi la danh tu) la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Contract la danh tu (hop đong)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Competitive':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Đai tu"
+      ],
+      "answer": 0,
+      "explanation": "Competitive la tinh tu (co tinh canh tranh)"
+    },
+    {
+      "type": "pos",
+      "question": "'Commitment' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Commitment la danh tu (su cam ket)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Enhance' la:",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Enhance la đong tu (nang cao)"
+    },
+    {
+      "type": "pos",
+      "question": "'Prestigious' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Prestigious la tinh tu (danh gia)"
+    },
+    {
+      "type": "pos",
+      "question": "'Tremendous' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Tremendous la tinh tu (to lon)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Durability' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Durability la danh tu (đo ben)"
+    },
+    {
+      "type": "pos",
+      "question": "'Prompt' (tinh tu) thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Prompt la tinh tu (nhanh chong)"
+    },
+    {
+      "type": "pos",
+      "question": "'Convenient' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Convenient la tinh tu (thuan tien)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to stop working permanently, usually because of age'?",
+      "options": [
+        "Retire",
+        "Start",
+        "Begin",
+        "Join"
+      ],
+      "answer": 0,
+      "explanation": "Retire = nghi huu"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a legal written agreement between two or more parties' mo ta tu nao?",
+      "options": [
+        "Contract",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Contract = hop đong"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'having a high reputation and being respected', tu đo la:",
+      "options": [
+        "Prestigious",
+        "Unknown",
+        "Cheap",
+        "Ordinary"
+      ],
+      "answer": 0,
+      "explanation": "Prestigious = danh gia"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'to improve the quality or effectiveness of something'?",
+      "options": [
+        "Enhance",
+        "Reduce",
+        "Damage",
+        "Lower"
+      ],
+      "answer": 0,
+      "explanation": "Enhance = nang cao"
+    },
+    {
+      "type": "definition",
+      "question": "'to prove that something is correct or officially recognized' chi tu:",
+      "options": [
+        "Validate",
+        "Deny",
+        "Hide",
+        "Conceal"
+      ],
+      "answer": 0,
+      "explanation": "Validate = xac nhan"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'strong enough to compete effectively'?",
+      "options": [
+        "Competitive",
+        "Weak",
+        "Poor",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Competitive = co tinh canh tranh"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'extremely great in amount, size, or degree' chi tu:",
+      "options": [
+        "Tremendous",
+        "Tiny",
+        "Small",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Tremendous = to lon"
+    },
+    {
+      "type": "definition",
+      "question": "'to clean, repair, and improve something' mo ta tu:",
+      "options": [
+        "Refurbish",
+        "Destroy",
+        "Demolish",
+        "Abandon"
+      ],
+      "answer": 0,
+      "explanation": "Refurbish = tan trang"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'easy to use, reach, or do'?",
+      "options": [
+        "Convenient",
+        "Difficult",
+        "Awkward",
+        "Complex"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "definition",
+      "question": "'able to be used in many different ways' mo ta tu nao?",
+      "options": [
+        "Versatile",
+        "Rigid",
+        "Fixed",
+        "Limited"
+      ],
+      "answer": 0,
+      "explanation": "Versatile = đa năng"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Enclose' chinh xac nhat?",
+      "options": [
+        "đinh kem",
+        "bo đi",
+        "an gia",
+        "xoa đi"
+      ],
+      "answer": 0,
+      "explanation": "Enclose = đinh kem; cho vao cung"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Commence' la:",
+      "options": [
+        "bat đau",
+        "ket thuc",
+        "dung lai",
+        "hoan lai"
+      ],
+      "answer": 0,
+      "explanation": "Commence = bat đau (chinh thuc)"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Excel' gan voi y nao nhat?",
+      "options": [
+        "xuat sac",
+        "that bai",
+        "cham tre",
+        "bo cuoc"
+      ],
+      "answer": 0,
+      "explanation": "Excel = xuat sac; vuot troi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Admire' la gi?",
+      "options": [
+        "nguong mo",
+        "khinh thường",
+        "bỏ qua",
+        "ghet bỏ"
+      ],
+      "answer": 0,
+      "explanation": "Admire = nguong mo; kham phuc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Persist' la:",
+      "options": [
+        "keo dai",
+        "dung lai",
+        "ket thuc",
+        "bien mat"
+      ],
+      "answer": 0,
+      "explanation": "Persist = keo dai; tiep tuc ton tai"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Elaborate' (tinh tu) co nghia gan voi:",
+      "options": [
+        "cong phu",
+        "đon gian",
+        "ngắn gon",
+        "thô ráp"
+      ],
+      "answer": 0,
+      "explanation": "Elaborate = cong phu; tinh xao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Predecessor' la gi?",
+      "options": [
+        "nguoi tien nhiem",
+        "nguoi ke nhiem",
+        "đoi thu",
+        "đong nghi"
+      ],
+      "answer": 0,
+      "explanation": "Predecessor = nguoi tien nhiem; phien ban truoc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Inaugural' mang y nao gan nhat?",
+      "options": [
+        "khai mac",
+        "ket thuc",
+        "cuoi cung",
+        "tạm dừng"
+      ],
+      "answer": 0,
+      "explanation": "Inaugural = khai mac; đau tien"
+    },
+    {
+      "type": "collocation",
+      "question": "'Contract' thuong ket hop voi tu nao?",
+      "options": [
+        "Sign a contract",
+        "Eat a contract",
+        "Sleep a contract",
+        "Drive a contract"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sign a contract, contract terms"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Commitment'?",
+      "options": [
+        "Commitment to quality",
+        "Tasty commitment",
+        "Cold commitment",
+        "Dark commitment"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: commitment to quality, long-term commitment"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Equipment' thuong đi cung cum nao?",
+      "options": [
+        "Protective equipment",
+        "Tasty equipment",
+        "Cold equipment",
+        "Dark equipment"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: protective equipment, lab equipment"
+    },
+    {
+      "type": "collocation",
+      "question": "'Durability' thuong xuat hien trong cum nao?",
+      "options": [
+        "Product durability",
+        "Tasty durability",
+        "Cold durability",
+        "Dark durability"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: product durability, high durability"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Regulation':",
+      "options": [
+        "Safety regulations",
+        "Tasty regulations",
+        "Cold regulations",
+        "Dark regulations"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: safety regulations, government regulations"
+    },
+    {
+      "type": "collocation",
+      "question": "'Grant' đi cung voi tu nao?",
+      "options": [
+        "Government grant",
+        "Tasty grant",
+        "Cold grant",
+        "Dark grant"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: government grant, research grant"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Knowledge'?",
+      "options": [
+        "Practical knowledge",
+        "Tasty knowledge",
+        "Cold knowledge",
+        "Dark knowledge"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: practical knowledge, technical knowledge"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Pediatric' lien quan đên ngucanh nao?",
+      "options": [
+        "Y te, nhi khoa",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric = thuoc nhi khoa"
+    },
+    {
+      "type": "context",
+      "question": "'Biography' thuoc linh vuc nao?",
+      "options": [
+        "Van hoc, xuat ban",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Biography = tieu su, linh vuc van hoc"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Satellite' lien quan chinh đên gi?",
+      "options": [
+        "Khoa hoc, cong nghe",
+        "Y te",
+        "The thao",
+        "Am thuc"
+      ],
+      "answer": 0,
+      "explanation": "Satellite = ve tinh, ngucanh khoa hoc"
+    },
+    {
+      "type": "context",
+      "question": "'Architecture' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Thiet ke, xay dung",
+        "Y te",
+        "The thao",
+        "Am nhac"
+      ],
+      "answer": 0,
+      "explanation": "Architecture = kien truc, ngucanh xay dung"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Snowpack' lien quan đên linhvuc nao?",
+      "options": [
+        "Moi truong, khoa hoc",
+        "Tai chinh",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Snowpack = lop tuyet tich tu, ngucanh moi truong"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Retire",
+        "Maintain",
+        "Enhance",
+        "Contract"
+      ],
+      "answer": 3,
+      "explanation": "Contract la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Prestigious",
+        "Competitive",
+        "Convenient",
+        "Refurbish"
+      ],
+      "answer": 3,
+      "explanation": "Refurbish la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Initiate",
+        "Validate",
+        "Verify",
+        "Tremendous"
+      ],
+      "answer": 3,
+      "explanation": "Tremendous la tinh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Commitment",
+        "Durability",
+        "Knowledge",
+        "Maintain"
+      ],
+      "answer": 3,
+      "explanation": "Maintain la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Convenient",
+        "Engaging",
+        "Versatile",
+        "Grant"
+      ],
+      "answer": 3,
+      "explanation": "Grant la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Maintain' đung?",
+      "options": [
+        "Regular checks help maintain the machinery in good condition.",
+        "She maintain very beautiful today.",
+        "They maintain sunny weather.",
+        "He maintain the red color."
+      ],
+      "answer": 0,
+      "explanation": "Maintain = duy tri, đung voi trang thai, tinh trang"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Validate' đung?",
+      "options": [
+        "The test results validate our earlier findings.",
+        "She validate very tired today.",
+        "They validate sunny weather.",
+        "He validate the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Validate = xac nhan, đung voi ket qua, du lieu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Enhance':",
+      "options": [
+        "New lighting will enhance the appearance of the showroom.",
+        "The weather enhance warm tomorrow.",
+        "She enhance very tired today.",
+        "They enhance the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Enhance = nang cao, đung voi chat luong, bieu dien"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Initiate' phu hop?",
+      "options": [
+        "The company will initiate a review of its hiring process.",
+        "She initiate very beautiful dress.",
+        "They initiate sunny weather today.",
+        "He initiate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Initiate = khoi xuat, đung voi qua trinh, đanh giá"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Verify':",
+      "options": [
+        "Please verify your email address before submitting the form.",
+        "She verify very beautiful today.",
+        "They verify the sweet taste.",
+        "He verify quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Verify = xac minh, đung voi thong tin, tai lieu"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Prompt'?",
+      "options": [
+        "Delayed",
+        "Quick",
+        "Fast",
+        "Timely"
+      ],
+      "answer": 0,
+      "explanation": "Prompt (kip thoi) trai nghia voi Delayed (tre hen)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Convenient'?",
+      "options": [
+        "Handy",
+        "Awkward",
+        "Difficult",
+        "Complex"
+      ],
+      "answer": 0,
+      "explanation": "Convenient ~ Handy (tien dung)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Engaging'?",
+      "options": [
+        "Boring",
+        "Interesting",
+        "Exciting",
+        "Fascinating"
+      ],
+      "answer": 0,
+      "explanation": "Engaging (cuon hut) trai nghia voi Boring (chan ngan)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company made a bold decision', tu 'bold' gan nghia voi?",
+      "options": [
+        "Courageous",
+        "Cautious",
+        "Timid",
+        "Careful"
+      ],
+      "answer": 0,
+      "explanation": "Bold ~ Courageous (dung cam)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The hotel offers spectacular views', tu nao thay đuoc 'spectacular'?",
+      "options": [
+        "Breathtaking",
+        "Ordinary",
+        "Plain",
+        "Dull"
+      ],
+      "answer": 0,
+      "explanation": "Spectacular ~ Breathtaking (ngoan muc)"
+    }
+  ]
+}

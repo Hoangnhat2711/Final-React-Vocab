@@ -1,0 +1,1289 @@
+{
+  "skill": "listening",
+  "test": "Test 6",
+  "title": "ETS Listening 2026 - Test 6",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Garage' co nghia la gi?",
+      "options": [
+        "ga-ra; cho đe xe",
+        "nha bep",
+        "phong khach",
+        "nha ve sinh"
+      ],
+      "answer": 0,
+      "explanation": "Garage = ga-ra; cho đe xe"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Liquid' la:",
+      "options": [
+        "chat long; o the long",
+        "chat ran",
+        "chat khi",
+        "chat deu"
+      ],
+      "answer": 0,
+      "explanation": "Liquid = chat long; o the long"
+    },
+    {
+      "type": "meaning",
+      "question": "'Bulletin board' mang y nghia nao?",
+      "options": [
+        "bang thong bao",
+        "bang đen",
+        "bang mau",
+        "bang tin tuc"
+      ],
+      "answer": 0,
+      "explanation": "Bulletin board = bang thong bao"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Occupied':",
+      "options": [
+        "đang co nguoi dung; bi chiem",
+        "con trong",
+        "trong rong",
+        "het cho"
+      ],
+      "answer": 0,
+      "explanation": "Occupied = đang co nguoi dung; bi chiem"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Committee' đuoc hieu la:",
+      "options": [
+        "uy ban; ban phu trach",
+        "nhan vien",
+        "khach hang",
+        "nha cung cap"
+      ],
+      "answer": 0,
+      "explanation": "Committee = uy ban; ban phu trach"
+    },
+    {
+      "type": "meaning",
+      "question": "'Layover' co nghia la gi?",
+      "options": [
+        "thoi gian cho giua chuyen đi",
+        "thoi gian nghi ngoi",
+        "thoi gian lam viec",
+        "thoi gian an uong"
+      ],
+      "answer": 0,
+      "explanation": "Layover = thoi gian cho giua cac chuyen đi"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Astronomy'?",
+      "options": [
+        "thien van hoc",
+        "hoa học",
+        "vat ly",
+        "sinh học"
+      ],
+      "answer": 0,
+      "explanation": "Astronomy = thien van học"
+    },
+    {
+      "type": "meaning",
+      "question": "'Astronaut' mang y nghia:",
+      "options": [
+        "phi hanh gia",
+        "bac si",
+        "ky su",
+        "nha bao"
+      ],
+      "answer": 0,
+      "explanation": "Astronaut = phi hanh gia"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Cookware' la:",
+      "options": [
+        "dung cu nau an",
+        "dung cu ve sinh",
+        "dung cu van phong",
+        "dung cu the thao"
+      ],
+      "answer": 0,
+      "explanation": "Cookware = dung cu nau an"
+    },
+    {
+      "type": "meaning",
+      "question": "'Supervise' đuoc hieu nhu the nao?",
+      "options": [
+        "giam sat",
+        "bo qua",
+        "lam thay",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Forecast' co nghia la:",
+      "options": [
+        "du bao",
+        "qua khu",
+        "hien tai",
+        "su that"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "meaning",
+      "question": "'Depart' mang y nghia nao?",
+      "options": [
+        "khoi hanh; roi đi",
+        "đen noi",
+        "nghi ngoi",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Depart = khoi hanh; roi đi"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Short-staffed' la:",
+      "options": [
+        "thieu nhan su",
+        "đu nhan su",
+        "thua nhan su",
+        "khong co nhan su"
+      ],
+      "answer": 0,
+      "explanation": "Short-staffed = thieu nhan su"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Storefront':",
+      "options": [
+        "mat tien cua hang",
+        "mat sau",
+        "mat ben",
+        "nha kho"
+      ],
+      "answer": 0,
+      "explanation": "Storefront = mat tien cua hang"
+    },
+    {
+      "type": "meaning",
+      "question": "'Vacant' co nghia la gi?",
+      "options": [
+        "con trong; bo trong",
+        "đang dung",
+        "đay đu",
+        "co nguoi"
+      ],
+      "answer": 0,
+      "explanation": "Vacant = con trong; bo trong"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'ga-ra; chỗ để xe'?",
+      "options": [
+        "Garage",
+        "Kitchen",
+        "Living room",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Garage = ga-ra"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'chất lỏng'?",
+      "options": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Steam"
+      ],
+      "answer": 0,
+      "explanation": "Liquid = chat long"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'bảng thông báo':",
+      "options": [
+        "Bulletin board",
+        "Blackboard",
+        "Color board",
+        "News board"
+      ],
+      "answer": 0,
+      "explanation": "Bulletin board = bang thong bao"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'đang có người dùng; bị chiếm'?",
+      "options": [
+        "Occupied",
+        "Vacant",
+        "Empty",
+        "Free"
+      ],
+      "answer": 0,
+      "explanation": "Occupied = đang co nguoi dung"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'phi hành gia':",
+      "options": [
+        "Astronaut",
+        "Doctor",
+        "Engineer",
+        "Journalist"
+      ],
+      "answer": 0,
+      "explanation": "Astronaut = phi hanh gia"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'thiên văn học'?",
+      "options": [
+        "Astronomy",
+        "Chemistry",
+        "Physics",
+        "Biology"
+      ],
+      "answer": 0,
+      "explanation": "Astronomy = thien van học"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'dụng cụ nấu ăn':",
+      "options": [
+        "Cookware",
+        "Cleaning tools",
+        "Office supplies",
+        "Sports gear"
+      ],
+      "answer": 0,
+      "explanation": "Cookware = dung cu nau an"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'giám sát'?",
+      "options": [
+        "Supervise",
+        "Ignore",
+        "Replace",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'dự báo' tuong ung voi tu nao?",
+      "options": [
+        "Forecast",
+        "History",
+        "Present",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'khởi hành; rời đi' la:",
+      "options": [
+        "Depart",
+        "Arrive",
+        "Rest",
+        "Stop"
+      ],
+      "answer": 0,
+      "explanation": "Depart = khoi hanh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'thiếu nhân sự'?",
+      "options": [
+        "Short-staffed",
+        "Fully staffed",
+        "Overstaffed",
+        "Unstaffed"
+      ],
+      "answer": 0,
+      "explanation": "Short-staffed = thieu nhan su"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'mặt tiền cửa hàng':",
+      "options": [
+        "Storefront",
+        "Backyard",
+        "Sidewalk",
+        "Warehouse"
+      ],
+      "answer": 0,
+      "explanation": "Storefront = mat tien cua hang"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'còn trống; bỏ trống'?",
+      "options": [
+        "Vacant",
+        "Occupied",
+        "Full",
+        "Taken"
+      ],
+      "answer": 0,
+      "explanation": "Vacant = con trong"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'ủy ban' tuong ung tu nao?",
+      "options": [
+        "Committee",
+        "Employee",
+        "Customer",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Committee = uy ban"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'thời gian chờ giữa chuyến đi'?",
+      "options": [
+        "Layover",
+        "Break",
+        "Work time",
+        "Meal time"
+      ],
+      "answer": 0,
+      "explanation": "Layover = thoi gian cho giua chuyen"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe car is parked in the _____.",
+      "options": [
+        "Garage",
+        "Kitchen",
+        "Living room",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Garage = ga-ra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nDo not place any _____ near the computer.",
+      "options": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Steam"
+      ],
+      "answer": 0,
+      "explanation": "Liquid = chat long."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe schedule is posted on the _____ _____.",
+      "options": [
+        "Bulletin board",
+        "Blackboard",
+        "Color board",
+        "News board"
+      ],
+      "answer": 0,
+      "explanation": "Bulletin board = bang thong bao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThis seat is already _____.",
+      "options": [
+        "Occupied",
+        "Vacant",
+        "Empty",
+        "Free"
+      ],
+      "answer": 0,
+      "explanation": "Occupied = đang co nguoi dung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe planning _____ met on Monday.",
+      "options": [
+        "Committee",
+        "Employee",
+        "Customer",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Committee = uy ban."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nWe had a three-hour _____ in Singapore.",
+      "options": [
+        "Layover",
+        "Break",
+        "Work time",
+        "Meal time"
+      ],
+      "answer": 0,
+      "explanation": "Layover = thoi gian cho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nShe studied _____ in college.",
+      "options": [
+        "Astronomy",
+        "Chemistry",
+        "Physics",
+        "Biology"
+      ],
+      "answer": 0,
+      "explanation": "Astronomy = thien van học."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe museum displayed a suit worn by an _____.",
+      "options": [
+        "Astronaut",
+        "Doctor",
+        "Engineer",
+        "Journalist"
+      ],
+      "answer": 0,
+      "explanation": "Astronaut = phi hanh gia."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe store sells stainless steel _____.",
+      "options": [
+        "Cookware",
+        "Cleaning tools",
+        "Office supplies",
+        "Sports gear"
+      ],
+      "answer": 0,
+      "explanation": "Cookware = dung cu nau an."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nA manager will _____ the training session.",
+      "options": [
+        "Supervise",
+        "Ignore",
+        "Replace",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe sales _____ looks promising for next quarter.",
+      "options": [
+        "Forecast",
+        "History",
+        "Present",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe train will _____ at 8:15.",
+      "options": [
+        "Depart",
+        "Arrive",
+        "Rest",
+        "Stop"
+      ],
+      "answer": 0,
+      "explanation": "Depart = khoi hanh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe clinic is _____ this week.",
+      "options": [
+        "Short-staffed",
+        "Fully staffed",
+        "Overstaffed",
+        "Unstaffed"
+      ],
+      "answer": 0,
+      "explanation": "Short-staffed = thieu nhan su."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nWorkers cleaned the _____ before opening.",
+      "options": [
+        "Storefront",
+        "Backyard",
+        "Sidewalk",
+        "Warehouse"
+      ],
+      "answer": 0,
+      "explanation": "Storefront = mat tien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe apartment has been _____ for two months.",
+      "options": [
+        "Vacant",
+        "Occupied",
+        "Full",
+        "Taken"
+      ],
+      "answer": 0,
+      "explanation": "Vacant = con trong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nPlease check the _____ for updates.",
+      "options": [
+        "Bulletin board",
+        "Kitchen",
+        "Garage",
+        "Garden"
+      ],
+      "answer": 0,
+      "explanation": "Bulletin board = bang thong bao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThe medicine is available in _____ form.",
+      "options": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Steam"
+      ],
+      "answer": 0,
+      "explanation": "Liquid = chat long."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThey turned the old _____ into a storage room.",
+      "options": [
+        "Garage",
+        "Kitchen",
+        "Living room",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Garage = ga-ra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nIs this seat _____?",
+      "options": [
+        "Vacant",
+        "Occupied",
+        "Full",
+        "Taken"
+      ],
+      "answer": 0,
+      "explanation": "Vacant = con trong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe train will _____ from platform 3.",
+      "options": [
+        "Depart",
+        "Arrive",
+        "Rest",
+        "Stop"
+      ],
+      "answer": 0,
+      "explanation": "Depart = khoi hanh."
+    },
+    {
+      "type": "pos",
+      "question": "'Garage' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Garage la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Liquid' la gi ve tu loai?",
+      "options": [
+        "Co the la danh tu hoac tinh tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Liquid co the la ca danh tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Occupied':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Occupied la tinh tu (đang co nguoi dung)"
+    },
+    {
+      "type": "pos",
+      "question": "'Committee' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Committee la danh tu (uy ban)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Supervise' la:",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Supervise la đong tu (giam sat)"
+    },
+    {
+      "type": "pos",
+      "question": "'Depart' la đong tu hay danh tu?",
+      "options": [
+        "Đong tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Depart la đong tu (khoi hanh)"
+    },
+    {
+      "type": "pos",
+      "question": "'Vacant' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Vacant la tinh tu (con trong)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Forecast' co the la:",
+      "options": [
+        "Ca đong tu va danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Forecast co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Short-staffed' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Short-staffed la tinh tu (thieu nhan su)"
+    },
+    {
+      "type": "pos",
+      "question": "'Storefront' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Storefront la danh tu (mat tien)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'a building where vehicles are kept'?",
+      "options": [
+        "Garage",
+        "Kitchen",
+        "Living room",
+        "Bathroom"
+      ],
+      "answer": 0,
+      "explanation": "Garage = ga-ra"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a substance that flows freely' mo ta tu nao?",
+      "options": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Steam"
+      ],
+      "answer": 0,
+      "explanation": "Liquid = chat long"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'a board where notices are posted', tu đo la:",
+      "options": [
+        "Bulletin board",
+        "Blackboard",
+        "Color board",
+        "News board"
+      ],
+      "answer": 0,
+      "explanation": "Bulletin board = bang thong bao"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'being used or filled'?",
+      "options": [
+        "Occupied",
+        "Vacant",
+        "Empty",
+        "Free"
+      ],
+      "answer": 0,
+      "explanation": "Occupied = đang co nguoi dung"
+    },
+    {
+      "type": "definition",
+      "question": "'a group of people chosen to make decisions' chi tu:",
+      "options": [
+        "Committee",
+        "Employee",
+        "Customer",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Committee = uy ban"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'a short stay between parts of a journey'?",
+      "options": [
+        "Layover",
+        "Break",
+        "Work time",
+        "Meal time"
+      ],
+      "answer": 0,
+      "explanation": "Layover = thoi gian cho"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'the scientific study of stars and space' chi tu:",
+      "options": [
+        "Astronomy",
+        "Chemistry",
+        "Physics",
+        "Biology"
+      ],
+      "answer": 0,
+      "explanation": "Astronomy = thien van học"
+    },
+    {
+      "type": "definition",
+      "question": "'a person trained to travel in space' mo ta tu:",
+      "options": [
+        "Astronaut",
+        "Doctor",
+        "Engineer",
+        "Journalist"
+      ],
+      "answer": 0,
+      "explanation": "Astronaut = phi hanh gia"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'pots, pans, and equipment for cooking'?",
+      "options": [
+        "Cookware",
+        "Cleaning tools",
+        "Office supplies",
+        "Sports gear"
+      ],
+      "answer": 0,
+      "explanation": "Cookware = dung cu nau an"
+    },
+    {
+      "type": "definition",
+      "question": "'to watch over and direct work' mo ta tu nao?",
+      "options": [
+        "Supervise",
+        "Ignore",
+        "Replace",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat"
+    },
+    {
+      "type": "definition",
+      "question": "'a statement about what will happen in the future' mo ta tu nao?",
+      "options": [
+        "Forecast",
+        "History",
+        "Present",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Depart' chinh xac nhat?",
+      "options": [
+        "khoi hanh",
+        "đen noi",
+        "nghi ngoi",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Depart = khoi hanh; roi đi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Vacant' la:",
+      "options": [
+        "con trong",
+        "đang dung",
+        "đay đu",
+        "co nguoi"
+      ],
+      "answer": 0,
+      "explanation": "Vacant = con trong; bo trong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Short-staffed' gan voi y nao nhat?",
+      "options": [
+        "thieu nhan su",
+        "đu nhan su",
+        "thua nhan su",
+        "khong co nhan su"
+      ],
+      "answer": 0,
+      "explanation": "Short-staffed = thieu nhan su"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Supervise' la gi?",
+      "options": [
+        "giam sat",
+        "bo qua",
+        "lam thay",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat; trông nom"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Occupied' la:",
+      "options": [
+        "đang co nguoi dung",
+        "con trong",
+        "trong rong",
+        "het cho"
+      ],
+      "answer": 0,
+      "explanation": "Occupied = đang co nguoi dung; bi chiem"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Forecast' co nghia gan voi:",
+      "options": [
+        "du bao",
+        "qua khu",
+        "hien tai",
+        "su that"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Storefront' la gi?",
+      "options": [
+        "mat tien cua hang",
+        "mat sau",
+        "mat ben",
+        "nha kho"
+      ],
+      "answer": 0,
+      "explanation": "Storefront = mat tien cua hang"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Layover' mang y nao gan nhat?",
+      "options": [
+        "thoi gian cho giua chuyen đi",
+        "thoi gian nghi ngoi",
+        "thoi gian lam viec",
+        "thoi gian an uong"
+      ],
+      "answer": 0,
+      "explanation": "Layover = thoi gian cho giua cac chuyen"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Astronomy' mang y nao gan nhat?",
+      "options": [
+        "thien van học",
+        "hoa học",
+        "vat lý",
+        "sinh học"
+      ],
+      "answer": 0,
+      "explanation": "Astronomy = thien van học"
+    },
+    {
+      "type": "collocation",
+      "question": "''Committee' thuong ket hop voi tu nao?",
+      "options": [
+        "Committee meeting",
+        "Tasty meeting",
+        "Cold meeting",
+        "Dark meeting"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: committee meeting, committee member"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Forecast'?",
+      "options": [
+        "Sales forecast",
+        "Tasty forecast",
+        "Cold forecast",
+        "Dark forecast"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sales forecast, weather forecast"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Bulletin board' thuong đi cung cum nao?",
+      "options": [
+        "Check the bulletin board",
+        "Tasty board",
+        "Cold board",
+        "Dark board"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: check the bulletin board, post on bulletin board"
+    },
+    {
+      "type": "collocation",
+      "question": "''Storefront' thuong xuat hien trong cum nao?",
+      "options": [
+        "Storefront window",
+        "Tasty storefront",
+        "Cold storefront",
+        "Dark storefront"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: storefront window, clean the storefront"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Liquid':",
+      "options": [
+        "Liquid form",
+        "Tasty liquid",
+        "Cold liquid",
+        "Dark liquid"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: liquid form, liquid container"
+    },
+    {
+      "type": "collocation",
+      "question": "''Cookware' đi cung voi tu nao?",
+      "options": [
+        "Stainless steel cookware",
+        "Tasty cookware",
+        "Cold cookware",
+        "Dark cookware"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: stainless steel cookware, kitchen cookware"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Garage'?",
+      "options": [
+        "Parking garage",
+        "Tasty garage",
+        "Cold garage",
+        "Dark garage"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: parking garage, garage door"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Astronomy' lien quan đên ngucanh nao?",
+      "options": [
+        "Khoa học",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Astronomy = thien van học"
+    },
+    {
+      "type": "context",
+      "question": "''Cookware' thuoc linh vuc nao?",
+      "options": [
+        "Nha bep, am thuc",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Cookware = dung cu nau an"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Storefront' lien quan chinh đên gi?",
+      "options": [
+        "Ban le, cua hang",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Storefront = mat tien cua hang"
+    },
+    {
+      "type": "context",
+      "question": "''Bulletin board' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Van phong, truong học",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Bulletin board = bang thong bao"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Layover' lien quan đên linhvuc nao?",
+      "options": [
+        "Du lich, van chuyen",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Layover = thoi gian cho giua chuyen"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Supervise",
+        "Depart",
+        "Forecast",
+        "Garage"
+      ],
+      "answer": 3,
+      "explanation": "Garage la danh tu; 3 tu con lai co the la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Occupied",
+        "Vacant",
+        "Short-staffed",
+        "Supervise"
+      ],
+      "answer": 3,
+      "explanation": "Supervise la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Garage",
+        "Committee",
+        "Storefront",
+        "Occupied"
+      ],
+      "answer": 3,
+      "explanation": "Occupied la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Garage",
+        "Committee",
+        "Storefront",
+        "Depart"
+      ],
+      "answer": 3,
+      "explanation": "Depart la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Occupied",
+        "Vacant",
+        "Short-staffed",
+        "Cookware"
+      ],
+      "answer": 3,
+      "explanation": "Cookware la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Depart' đung?",
+      "options": [
+        "The train will depart at 8:15.",
+        "She depart very beautiful today.",
+        "They depart sunny weather.",
+        "He depart the red color."
+      ],
+      "answer": 0,
+      "explanation": "Depart = khoi hanh, đung voi tau, may bay"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Supervise' đung?",
+      "options": [
+        "A manager will supervise the training session.",
+        "She supervise very tired today.",
+        "They supervise sunny weather.",
+        "He supervise the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat, đung voi buoi dao tao"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Vacant':",
+      "options": [
+        "The apartment has been vacant for two months.",
+        "The weather vacant warm tomorrow.",
+        "She vacant very tired today.",
+        "They vacant the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Vacant = con trong, đung voi can ho, ghe"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Forecast' phu hop?",
+      "options": [
+        "The sales forecast looks promising for next quarter.",
+        "She forecast very beautiful dress.",
+        "They forecast sunny weather today.",
+        "He forecast the red color."
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao, đung voi doanh so, thoi tiet"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Demonstrate':",
+      "options": [
+        "The technician will demonstrate how to use the software.",
+        "She demonstrate very beautiful today.",
+        "They demonstrate the sweet taste.",
+        "He demonstrate quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Demonstrate = trinh bay; minh hoa, đung voi phan mem, san pham"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Depart'?",
+      "options": [
+        "Arrive",
+        "Leave",
+        "Go",
+        "Exit"
+      ],
+      "answer": 0,
+      "explanation": "Depart (khoi hanh) trai nghia voi Arrive (đen noi). Notes ghi: Opposite: arrive"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Vacant'?",
+      "options": [
+        "Occupied",
+        "Empty",
+        "Free",
+        "Available"
+      ],
+      "answer": 0,
+      "explanation": "Vacant (con trong) trai nghia voi Occupied (đang co nguoi dung). Notes ghi: Opposite: occupied"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Short-staffed'?",
+      "options": [
+        "Fully staffed",
+        "Understaffed",
+        "Undermanned",
+        "Short-handed"
+      ],
+      "answer": 0,
+      "explanation": "Short-staffed (thieu nhan su) trai nghia voi Fully staffed (đu nhan su). Notes ghi: Opposite: fully staffed"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'A manager will supervise the training session', tu 'supervise' gan nghia voi?",
+      "options": [
+        "Oversee",
+        "Ignore",
+        "Replace",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Supervise ~ Oversee (giam sat)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The train will depart at 8:15', tu nao thay đuoc 'depart'?",
+      "options": [
+        "Leave",
+        "Arrive",
+        "Stay",
+        "Wait"
+      ],
+      "answer": 0,
+      "explanation": "Depart ~ Leave (khoi hanh; roi đi)"
+    }
+  ]
+}

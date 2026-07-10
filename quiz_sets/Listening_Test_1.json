@@ -1,0 +1,1287 @@
+{
+  "skill": "listening",
+  "test": "Test 1",
+  "title": "ETS Listening 2026 - Test 1",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Beverage' co nghia la gi?",
+      "options": [
+        "đo uong; nuoc giai khat",
+        "đo ăn",
+        "quần áo",
+        "đồ dùng"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong; nuoc giai khat"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Light fixture' la:",
+      "options": [
+        "thiet bi chieu sang",
+        "đo nội thất",
+        "quần áo",
+        "đồ ăn"
+      ],
+      "answer": 0,
+      "explanation": "Light fixture = thiet bi chieu sang"
+    },
+    {
+      "type": "meaning",
+      "question": "'Competent' mang y nghia nao?",
+      "options": [
+        "co nang luc",
+        "thieu nang luc",
+        "yeu đuoi",
+        "bat tu"
+      ],
+      "answer": 0,
+      "explanation": "Competent = co nang luc"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Catalog':",
+      "options": [
+        "danh muc san pham",
+        "hoa đơn",
+        "biên lai",
+        "hợp đồng"
+      ],
+      "answer": 0,
+      "explanation": "Catalog = danh muc san pham"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Reliable' đuoc hieu la:",
+      "options": [
+        "đang tin cay",
+        "khong đang tin",
+        "bat on",
+        "nguy hiem"
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay"
+    },
+    {
+      "type": "meaning",
+      "question": "'Vending machine' co nghia la gi?",
+      "options": [
+        "may ban tu đong",
+        "may atm",
+        "may in",
+        "may quet"
+      ],
+      "answer": 0,
+      "explanation": "Vending machine = may ban tu đong"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Receipt'?",
+      "options": [
+        "bien lai",
+        "hop đong",
+        "hoa đơn",
+        "danh muc"
+      ],
+      "answer": 0,
+      "explanation": "Receipt = bien lai"
+    },
+    {
+      "type": "meaning",
+      "question": "'Convenient' mang y nghia:",
+      "options": [
+        "thuan tien",
+        "bat tien",
+        "kho khan",
+        "phuc tap"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Invoice' la:",
+      "options": [
+        "hoa đơn",
+        "bien lai",
+        "danh muc",
+        "phieu giam gia"
+      ],
+      "answer": 0,
+      "explanation": "Invoice = hoa đơn"
+    },
+    {
+      "type": "meaning",
+      "question": "'Refreshment' đuoc hieu nhu the nao?",
+      "options": [
+        "đo an nhe; thuc uong",
+        "buoi hop",
+        "chuyen đi",
+        "cuoc goi"
+      ],
+      "answer": 0,
+      "explanation": "Refreshment = đo an nhe; thuc uong (phuc vu su kien)"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Maintenance' co nghia la:",
+      "options": [
+        "bao tri",
+        "xay dung",
+        "phá dỡ",
+        "thue"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance = bao tri; duy tu"
+    },
+    {
+      "type": "meaning",
+      "question": "'Discount' mang y nghia nao?",
+      "options": [
+        "giam gia",
+        "tang gia",
+        "gia day",
+        "khong giam"
+      ],
+      "answer": 0,
+      "explanation": "Discount = giam gia"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Facility' la:",
+      "options": [
+        "co so; tien ich",
+        "nhan vien",
+        "khach hang",
+        "san pham"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so; tien ich"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Cozy':",
+      "options": [
+        "am cung; giao cat",
+        "lạnh lẽo",
+        "rộng rãi",
+        "to lớn"
+      ],
+      "answer": 0,
+      "explanation": "Cozy = am cung; giao cat"
+    },
+    {
+      "type": "meaning",
+      "question": "'Reservation' co nghia la gi?",
+      "options": [
+        "đat cho; đat truoc",
+        "huy bo",
+        "hoan lai",
+        "tu choi"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho; đat truoc"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'đồ uống'?",
+      "options": [
+        "Beverage",
+        "Apparel",
+        "Grocery",
+        "Stationery"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'thiết bị chiếu sáng'?",
+      "options": [
+        "Light fixture",
+        "Air conditioner",
+        "Heater",
+        "Ventilator"
+      ],
+      "answer": 0,
+      "explanation": "Light fixture = thiet bi chieu sang"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'có năng lực':",
+      "options": [
+        "Competent",
+        "Incompetent",
+        "Unskilled",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Competent = co nang luc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'đáng tin cậy'?",
+      "options": [
+        "Reliable",
+        "Unreliable",
+        "Risky",
+        "Unstable"
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'máy bán tự động':",
+      "options": [
+        "Vending machine",
+        "ATM",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0,
+      "explanation": "Vending machine = may ban tu đong"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'biên lai'?",
+      "options": [
+        "Receipt",
+        "Contract",
+        "Invoice",
+        "Catalog"
+      ],
+      "answer": 0,
+      "explanation": "Receipt = bien lai"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'thuận tiện':",
+      "options": [
+        "Convenient",
+        "Difficult",
+        "Awkward",
+        "Complex"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'hóa đơn'?",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Catalog",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Invoice = hoa đơn"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đồ ăn nhẹ' tuong ung voi tu nao?",
+      "options": [
+        "Refreshment",
+        "Meeting",
+        "Trip",
+        "Call"
+      ],
+      "answer": 0,
+      "explanation": "Refreshment = đo an nhe"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'bảo trì' la:",
+      "options": [
+        "Maintenance",
+        "Construction",
+        "Demolition",
+        "Lease"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance = bao tri"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'giảm giá'?",
+      "options": [
+        "Discount",
+        "Surcharge",
+        "Premium",
+        "Full price"
+      ],
+      "answer": 0,
+      "explanation": "Discount = giam gia"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'cơ sở; tiện ích':",
+      "options": [
+        "Facility",
+        "Employee",
+        "Customer",
+        "Product"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'ấm cúng; gjao gát'?",
+      "options": [
+        "Cozy",
+        "Spacious",
+        "Cold",
+        "Massive"
+      ],
+      "answer": 0,
+      "explanation": "Cozy = am cung"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đặt chỗ; đặt trước' tuong ung tu nao?",
+      "options": [
+        "Reservation",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'danh mục sản phẩm'?",
+      "options": [
+        "Catalog",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Catalog = danh muc san pham"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe restaurant serves many _____ to its guests.",
+      "options": [
+        "Beverages",
+        "Catalogs",
+        "Receipts",
+        "Invoices"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe _____ in the office needs replacement.",
+      "options": [
+        "Light fixture",
+        "Vending machine",
+        "Receipt",
+        "Catalog"
+      ],
+      "answer": 0,
+      "explanation": "Light fixture = thiet bi chieu sang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe technician is _____ at solving problems.",
+      "options": [
+        "Competent",
+        "Incompetent",
+        "Unskilled",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Competent = co nang luc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nPlease browse our latest product _____.",
+      "options": [
+        "Catalog",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Catalog = danh muc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nCustomers value _____ more than low prices.",
+      "options": [
+        "Reliability",
+        "Instability",
+        "Risk",
+        "Danger"
+      ],
+      "answer": 0,
+      "explanation": "Reliability = đo tin cay."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe _____ is out of order. Please use the one on the second floor.",
+      "options": [
+        "Vending machine",
+        "Light fixture",
+        "Receipt",
+        "Catalog"
+      ],
+      "answer": 0,
+      "explanation": "Vending machine = may ban tu đong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nPlease keep your _____ for warranty purposes.",
+      "options": [
+        "Receipt",
+        "Catalog",
+        "Voucher",
+        "Invoice"
+      ],
+      "answer": 0,
+      "explanation": "Receipt = bien lai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe hotel is in a _____ location near the station.",
+      "options": [
+        "Convenient",
+        "Remote",
+        "Distant",
+        "Awkward"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nPlease pay the _____ by the end of the month.",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Catalog",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Invoice = hoa đơn."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\n_____ will be served during the break.",
+      "options": [
+        "Refreshments",
+        "Meetings",
+        "Trips",
+        "Calls"
+      ],
+      "answer": 0,
+      "explanation": "Refreshment = đo an nhe."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe elevator is out of service for scheduled _____.",
+      "options": [
+        "Maintenance",
+        "Construction",
+        "Demolition",
+        "Lease"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance = bao tri."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nMembers receive a 20% _____ on all purchases.",
+      "options": [
+        "Discount",
+        "Surcharge",
+        "Premium",
+        "Penalty"
+      ],
+      "answer": 0,
+      "explanation": "Discount = giam gia."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe sports _____ is available to all residents.",
+      "options": [
+        "Facility",
+        "Employee",
+        "Customer",
+        "Product"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe cafe has a _____ atmosphere with warm lighting.",
+      "options": [
+        "Cozy",
+        "Spacious",
+        "Cold",
+        "Massive"
+      ],
+      "answer": 0,
+      "explanation": "Cozy = am cung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nI made a hotel _____ for next weekend.",
+      "options": [
+        "Reservation",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe new product was featured in the latest _____.",
+      "options": [
+        "Catalog",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Catalog = danh muc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nComplimentary _____ are provided on the flight.",
+      "options": [
+        "Beverages",
+        "Catalogs",
+        "Receipts",
+        "Invoices"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nModern _____ fixtures improve the room's appearance.",
+      "options": [
+        "Light",
+        "Vending",
+        "Receipt",
+        "Catalog"
+      ],
+      "answer": 0,
+      "explanation": "Light fixture = thiet bi chieu sang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nShe is a _____ engineer with years of experience.",
+      "options": [
+        "Competent",
+        "Incompetent",
+        "Unskilled",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Competent = co nang luc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe brand is known for the _____ of its products.",
+      "options": [
+        "Reliability",
+        "Instability",
+        "Risk",
+        "Danger"
+      ],
+      "answer": 0,
+      "explanation": "Reliability = đo tin cay."
+    },
+    {
+      "type": "pos",
+      "question": "'Beverage' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Beverage la danh tu (đo uong)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Competent' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Competent la tinh tu (co nang luc)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Reliable':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Reliable la tinh tu (đang tin cay)"
+    },
+    {
+      "type": "pos",
+      "question": "'Discount' thuoc nhom nao?",
+      "options": [
+        "Co the la danh tu hoac đong tu",
+        "Chi la danh tu",
+        "Chi la đong tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Discount co the la ca danh tu va đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Convenient' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Convenient la tinh tu (thuan tien)"
+    },
+    {
+      "type": "pos",
+      "question": "'Maintenance' la danh tu hay đong tu?",
+      "options": [
+        "Danh tu",
+        "Đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance la danh tu (bao tri)"
+    },
+    {
+      "type": "pos",
+      "question": "'Cozy' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Cozy la tinh tu (am cung)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Reservation' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Reservation la danh tu (đat cho)"
+    },
+    {
+      "type": "pos",
+      "question": "'Facility' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Facility la danh tu (co so)"
+    },
+    {
+      "type": "pos",
+      "question": "'Refreshment' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Refreshment la danh tu (đo an nhe)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'a drink such as water, coffee, or juice'?",
+      "options": [
+        "Beverage",
+        "Apparel",
+        "Grocery",
+        "Stationery"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'an electric device that holds a light bulb' mo ta tu nao?",
+      "options": [
+        "Light fixture",
+        "Air conditioner",
+        "Heater",
+        "Ventilator"
+      ],
+      "answer": 0,
+      "explanation": "Light fixture = thiet bi chieu sang"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'having the necessary ability or skills', tu đo la:",
+      "options": [
+        "Competent",
+        "Incompetent",
+        "Unskilled",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Competent = co nang luc"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'the quality of being dependable'?",
+      "options": [
+        "Reliability",
+        "Instability",
+        "Risk",
+        "Danger"
+      ],
+      "answer": 0,
+      "explanation": "Reliability = đo tin cay"
+    },
+    {
+      "type": "definition",
+      "question": "'a machine that sells drinks and snacks automatically' chi tu:",
+      "options": [
+        "Vending machine",
+        "ATM",
+        "Printer",
+        "Scanner"
+      ],
+      "answer": 0,
+      "explanation": "Vending machine = may ban tu đong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'a document that confirms a payment was made'?",
+      "options": [
+        "Receipt",
+        "Contract",
+        "Invoice",
+        "Catalog"
+      ],
+      "answer": 0,
+      "explanation": "Receipt = bien lai"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'easy to use, reach, or do' chi tu:",
+      "options": [
+        "Convenient",
+        "Difficult",
+        "Awkward",
+        "Complex"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "definition",
+      "question": "'a bill listing goods or services and their prices' mo ta tu:",
+      "options": [
+        "Invoice",
+        "Receipt",
+        "Catalog",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Invoice = hoa đơn"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'a small amount of food and drink'?",
+      "options": [
+        "Refreshment",
+        "Meeting",
+        "Trip",
+        "Call"
+      ],
+      "answer": 0,
+      "explanation": "Refreshment = đo an nhe"
+    },
+    {
+      "type": "definition",
+      "question": "'work done to keep something in good condition' mo ta tu nao?",
+      "options": [
+        "Maintenance",
+        "Construction",
+        "Demolition",
+        "Lease"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance = bao tri"
+    },
+    {
+      "type": "definition",
+      "question": "'a reduction in price' mo ta tu nao?",
+      "options": [
+        "Discount",
+        "Surcharge",
+        "Premium",
+        "Penalty"
+      ],
+      "answer": 0,
+      "explanation": "Discount = giam gia"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Cozy' chinh xac nhat?",
+      "options": [
+        "am cung",
+        "lạnh lẽo",
+        "rộng rãi",
+        "to lớn"
+      ],
+      "answer": 0,
+      "explanation": "Cozy = am cung; giao cat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Competent' la:",
+      "options": [
+        "co nang luc",
+        "thieu nang luc",
+        "yeu đuoi",
+        "bat tu"
+      ],
+      "answer": 0,
+      "explanation": "Competent = co nang luc; đu kha nang"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Reliable gan voi y nao nhat?",
+      "options": [
+        "đang tin cay",
+        "bat on",
+        "nguy hiem",
+        "khong đang tin"
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Reservation' la gi?",
+      "options": [
+        "đat cho",
+        "huy bo",
+        "hoan lai",
+        "tu choi"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho; đat truoc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Convenient' la:",
+      "options": [
+        "thuan tien",
+        "bat tien",
+        "kho khan",
+        "phuc tap"
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Discount' co nghia gan voi:",
+      "options": [
+        "giam gia",
+        "tang gia",
+        "gia day",
+        "khong giam"
+      ],
+      "answer": 0,
+      "explanation": "Discount = giam gia"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Facility' la gi?",
+      "options": [
+        "co so",
+        "nhan vien",
+        "khach hang",
+        "san pham"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so; tien ich"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Maintenance' mang y nao gan nhat?",
+      "options": [
+        "bao tri",
+        "xay dựng",
+        "phá dỡ",
+        "thuê"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance = bao tri; duy tu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Beverage' mang y nao gan nhat?",
+      "options": [
+        "đo uong",
+        "đo ăn",
+        "quần áo",
+        "đồ dùng"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong; nuoc giai khat"
+    },
+    {
+      "type": "collocation",
+      "question": "''Beverage' thuong ket hop voi tu nao?",
+      "options": [
+        "Soft beverage",
+        "Tasty beverage",
+        "Cold beverage",
+        "Dark beverage"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: soft beverage, cold beverage"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Reservation'?",
+      "options": [
+        "Make a reservation",
+        "Tasty reservation",
+        "Cold reservation",
+        "Dark reservation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: make a reservation, confirm reservation"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Discount' thuong đi cung cum nao?",
+      "options": [
+        "Offer a discount",
+        "Tasty discount",
+        "Cold discount",
+        "Dark discount"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: offer a discount, get a discount"
+    },
+    {
+      "type": "collocation",
+      "question": "''Maintenance' thuong xuat hien trong cum nao?",
+      "options": [
+        "Routine maintenance",
+        "Tasty maintenance",
+        "Cold maintenance",
+        "Dark maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: routine maintenance, scheduled maintenance"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Facility':",
+      "options": [
+        "Sports facility",
+        "Tasty facility",
+        "Cold facility",
+        "Dark facility"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sports facility, medical facility"
+    },
+    {
+      "type": "collocation",
+      "question": "''Receipt' đi cung voi tu nao?",
+      "options": [
+        "Keep the receipt",
+        "Tasty receipt",
+        "Cold receipt",
+        "Dark receipt"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: keep the receipt, show the receipt"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Invoice'?",
+      "options": [
+        "Pay the invoice",
+        "Tasty invoice",
+        "Cold invoice",
+        "Dark invoice"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: pay the invoice, send the invoice"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Beverage' lien quan đên ngucanh nao?",
+      "options": [
+        "Nha hang, khach san",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Beverage = đo uong, ngucanh nha hang"
+    },
+    {
+      "type": "context",
+      "question": "''Light fixture' thuoc linh vuc nao?",
+      "options": [
+        "Noi that, xay dung",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Light fixture = thiet bi chieu sang, ngucanh noi that"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Vending machine' lien quan chinh đên gi?",
+      "options": [
+        "Ban le, tien ich",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Vending machine = may ban tu đong"
+    },
+    {
+      "type": "context",
+      "question": "''Refreshment' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Su kien, buoi hop",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Refreshment = đo an nhe phuc vu su kien"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Receipt' lien quan đên linhvuc nao?",
+      "options": [
+        "Ban hang, mua sam",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Receipt = bien lai, ngucanh ban hang"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Beverage",
+        "Catalog",
+        "Invoice",
+        "Competent"
+      ],
+      "answer": 3,
+      "explanation": "Competent la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Reliable",
+        "Convenient",
+        "Cozy",
+        "Reservation"
+      ],
+      "answer": 3,
+      "explanation": "Reservation la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Beverage",
+        "Facility",
+        "Discount",
+        "Convenient"
+      ],
+      "answer": 3,
+      "explanation": "Convenient la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Receipt",
+        "Invoice",
+        "Catalog",
+        "Reliable"
+      ],
+      "answer": 3,
+      "explanation": "Reliable la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Cozy",
+        "Convenient",
+        "Competent",
+        "Maintenance"
+      ],
+      "answer": 3,
+      "explanation": "Maintenance la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Reservation' đung?",
+      "options": [
+        "I made a hotel reservation for next weekend.",
+        "She reservation very beautiful today.",
+        "They reservation sunny weather.",
+        "He reservation the red color."
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho, đung voi phong, ban, ve"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Discount' đung?",
+      "options": [
+        "Members receive a 20% discount on all purchases.",
+        "She discount very tired today.",
+        "They discount sunny weather.",
+        "He discount the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Discount = giam gia, đung voi muc giam phan tram"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Maintenance':",
+      "options": [
+        "The elevator is out of service for scheduled maintenance.",
+        "The weather maintenance warm tomorrow.",
+        "She maintenance very tired today.",
+        "They maintenance the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Maintenance = bao tri, đung voi thiet bi, he thong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Reliable' phu hop?",
+      "options": [
+        "Customers value reliability more than low prices.",
+        "She reliable very beautiful dress.",
+        "They reliable sunny weather today.",
+        "He reliable the red color."
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay, đung voi san pham, dich vu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Convenient':",
+      "options": [
+        "The hotel is in a convenient location near the station.",
+        "She convenient very beautiful today.",
+        "They convenient the sweet taste.",
+        "He convenient quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Convenient = thuan tien, đung voi vi tri, thoi gian"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Competent'?",
+      "options": [
+        "Capable",
+        "Incompetent",
+        "Unskilled",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Competent ~ Capable (co nang luc). Notes ghi: Synonym: capable"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Convenient'?",
+      "options": [
+        "Inconvenient",
+        "Easy",
+        "Handy",
+        "Accessible"
+      ],
+      "answer": 0,
+      "explanation": "Convenient (thuan tien) trai nghia voi Inconvenient (bat tien)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Reliable'?",
+      "options": [
+        "Dependable",
+        "Unreliable",
+        "Risky",
+        "Unstable"
+      ],
+      "answer": 0,
+      "explanation": "Reliable ~ Dependable (đang tin cay)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The restaurant serves many beverages', tu 'beverages' gan nghia voi?",
+      "options": [
+        "Drinks",
+        "Foods",
+        "Clothes",
+        "Tools"
+      ],
+      "answer": 0,
+      "explanation": "Beverages ~ Drinks (đo uong)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Members receive a discount', tu nao thay đuoc 'discount'?",
+      "options": [
+        "Reduction",
+        "Increase",
+        "Surcharge",
+        "Penalty"
+      ],
+      "answer": 0,
+      "explanation": "Discount ~ Reduction (giam gia)"
+    }
+  ]
+}

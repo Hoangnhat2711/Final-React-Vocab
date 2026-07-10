@@ -1,0 +1,1289 @@
+{
+  "skill": "listening",
+  "test": "Test 5",
+  "title": "ETS Listening 2026 - Test 5",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Doorway' co nghia la gi?",
+      "options": [
+        "o cua; loi ra vao",
+        "cua so",
+        "ban cong",
+        "mai nha"
+      ],
+      "answer": 0,
+      "explanation": "Doorway = o cua; loi ra vao"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Thorough' la:",
+      "options": [
+        "ky luong; can than",
+        "thieu sot",
+        "bo qua",
+        "nhanh chan"
+      ],
+      "answer": 0,
+      "explanation": "Thorough = ky luong; can than"
+    },
+    {
+      "type": "meaning",
+      "question": "'Lease' mang y nghia nao?",
+      "options": [
+        "hop đong thue; cho thue",
+        "ban đat",
+        "mua nha",
+        "đoi nha"
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue; cho thue"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Elect':",
+      "options": [
+        "bau chon",
+        "tu choi",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Elect = bau chon"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Mayor' đuoc hieu la:",
+      "options": [
+        "thi truong",
+        "giam đoc",
+        "quan ly",
+        "truong phong"
+      ],
+      "answer": 0,
+      "explanation": "Mayor = thi truong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Protocol' co nghia la gi?",
+      "options": [
+        "quy trinh; nghi thuc",
+        "loi ich",
+        "quyen loi",
+        "trách nhiem"
+      ],
+      "answer": 0,
+      "explanation": "Protocol = quy trinh; nghi thuc"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Commercial'?",
+      "options": [
+        "mang tinh thuong mai",
+        "mang tinh ca nhan",
+        "mang tinh cong cong",
+        "mang tinh bi mat"
+      ],
+      "answer": 0,
+      "explanation": "Commercial = mang tinh thuong mai; thuoc kinh doanh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Approve' mang y nghia:",
+      "options": [
+        "chap thuan; phe duyet",
+        "tu choi",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Approve = chap thuan; phe duyet"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Reminder' la:",
+      "options": [
+        "loi nhac; thong bao nhac",
+        "loi khen",
+        "loi cam on",
+        "loi xin loi"
+      ],
+      "answer": 0,
+      "explanation": "Reminder = loi nhac; thong bao nhac"
+    },
+    {
+      "type": "meaning",
+      "question": "'Deserve' đuoc hieu nhu the nao?",
+      "options": [
+        "xung đang",
+        "khong đang",
+        "nhan đuoc",
+        "mat đi"
+      ],
+      "answer": 0,
+      "explanation": "Deserve = xung đang"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Honor' co nghia la:",
+      "options": [
+        "vinh du; ton vinh",
+        "nhuc nha",
+        "khiem nhuong",
+        "xuc pham"
+      ],
+      "answer": 0,
+      "explanation": "Honor = vinh du; ton vinh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Facility' mang y nghia nao?",
+      "options": [
+        "co so; tien nghi",
+        "nhan vien",
+        "khach hang",
+        "san pham"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so; tien nghi"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Coworker' la:",
+      "options": [
+        "đong nghiep",
+        "khach hang",
+        "nha cung cap",
+        "đoi thu"
+      ],
+      "answer": 0,
+      "explanation": "Coworker = đong nghiep"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Resident':",
+      "options": [
+        "cu dan; nguoi dan đia phuong",
+        "khach du lich",
+        "nguoi nuoc ngoai",
+        "nhan vien"
+      ],
+      "answer": 0,
+      "explanation": "Resident = cu dan; nguoi dan đia phuong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Expansion' co nghia la gi?",
+      "options": [
+        "su mo rong",
+        "su thu hep",
+        "su giam bot",
+        "su dong cua"
+      ],
+      "answer": 0,
+      "explanation": "Expansion = su mo rong"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'ô cửa; lối ra vào'?",
+      "options": [
+        "Doorway",
+        "Window",
+        "Balcony",
+        "Roof"
+      ],
+      "answer": 0,
+      "explanation": "Doorway = o cua"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'kỹ lưỡng; cẩn thận'?",
+      "options": [
+        "Thorough",
+        "Careless",
+        "Rushed",
+        "Superficial"
+      ],
+      "answer": 0,
+      "explanation": "Thorough = ky luong"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'hợp đồng thuê':",
+      "options": [
+        "Lease",
+        "Sale",
+        "Purchase",
+        "Trade"
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'bầu chọn'?",
+      "options": [
+        "Elect",
+        "Refuse",
+        "Cancel",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Elect = bau chon"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'thị trưởng':",
+      "options": [
+        "Mayor",
+        "Director",
+        "Manager",
+        "Supervisor"
+      ],
+      "answer": 0,
+      "explanation": "Mayor = thi truong"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'quy trình; nghi thức'?",
+      "options": [
+        "Protocol",
+        "Benefit",
+        "Privilege",
+        "Duty"
+      ],
+      "answer": 0,
+      "explanation": "Protocol = quy trinh"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'phê duyệt; chấp thuận':",
+      "options": [
+        "Approve",
+        "Reject",
+        "Deny",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Approve = phe duyet"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'lời nhắc'?",
+      "options": [
+        "Reminder",
+        "Praise",
+        "Thanks",
+        "Apology"
+      ],
+      "answer": 0,
+      "explanation": "Reminder = loi nhac"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'xứng đáng' tuong ung voi tu nao?",
+      "options": [
+        "Deserve",
+        "Undeserve",
+        "Receive",
+        "Lose"
+      ],
+      "answer": 0,
+      "explanation": "Deserve = xung đang"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'vinh dự; tôn vinh' la:",
+      "options": [
+        "Honor",
+        "Shame",
+        "Humility",
+        "Insult"
+      ],
+      "answer": 0,
+      "explanation": "Honor = vinh du"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'cơ sở; tiện nghi'?",
+      "options": [
+        "Facility",
+        "Employee",
+        "Customer",
+        "Product"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'đồng nghiệp':",
+      "options": [
+        "Coworker",
+        "Customer",
+        "Vendor",
+        "Rival"
+      ],
+      "answer": 0,
+      "explanation": "Coworker = đong nghiep"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'cư dân'?",
+      "options": [
+        "Resident",
+        "Tourist",
+        "Foreigner",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Resident = cu dan"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'sự mở rộng' tuong ung tu nao?",
+      "options": [
+        "Expansion",
+        "Reduction",
+        "Decrease",
+        "Closure"
+      ],
+      "answer": 0,
+      "explanation": "Expansion = su mo rong"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'sáng kiến; tính chủ động'?",
+      "options": [
+        "Initiative",
+        "Reluctance",
+        "Hesitation",
+        "Passivity"
+      ],
+      "answer": 0,
+      "explanation": "Initiative = sang kien; tinh chu đong"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nA delivery box was left in the _____.",
+      "options": [
+        "Doorway",
+        "Window",
+        "Balcony",
+        "Roof"
+      ],
+      "answer": 0,
+      "explanation": "Doorway = o cua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe manager gave the report a _____ review.",
+      "options": [
+        "Thorough",
+        "Careless",
+        "Rushed",
+        "Superficial"
+      ],
+      "answer": 0,
+      "explanation": "Thorough = ky luong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThey signed a one-year _____ for the office.",
+      "options": [
+        "Lease",
+        "Sale",
+        "Purchase",
+        "Trade"
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe committee will _____ a new chairperson next week.",
+      "options": [
+        "Elect",
+        "Refuse",
+        "Cancel",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Elect = bau chon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe _____ attended the opening ceremony.",
+      "options": [
+        "Mayor",
+        "Director",
+        "Manager",
+        "Supervisor"
+      ],
+      "answer": 0,
+      "explanation": "Mayor = thi truong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nStaff must follow safety _____ at all times.",
+      "options": [
+        "Protocol",
+        "Benefit",
+        "Privilege",
+        "Duty"
+      ],
+      "answer": 0,
+      "explanation": "Protocol = quy trinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe director will _____ the budget tomorrow.",
+      "options": [
+        "Approve",
+        "Reject",
+        "Deny",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Approve = phe duyet."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nI received a meeting _____ by email.",
+      "options": [
+        "Reminder",
+        "Praise",
+        "Thanks",
+        "Apology"
+      ],
+      "answer": 0,
+      "explanation": "Reminder = loi nhac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nShe _____ a promotion for her hard work.",
+      "options": [
+        "Deserves",
+        "Undeserves",
+        "Receives",
+        "Loses"
+      ],
+      "answer": 0,
+      "explanation": "Deserve = xung đang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nIt is an _____ to work with this organization.",
+      "options": [
+        "Honor",
+        "Shame",
+        "Humility",
+        "Insult"
+      ],
+      "answer": 0,
+      "explanation": "Honor = vinh du."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe sports _____ opens at 6 a.m.",
+      "options": [
+        "Facility",
+        "Employee",
+        "Customer",
+        "Product"
+      ],
+      "answer": 0,
+      "explanation": "Facility = co so."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nMy _____ helped me prepare the presentation.",
+      "options": [
+        "Coworker",
+        "Customer",
+        "Vendor",
+        "Rival"
+      ],
+      "answer": 0,
+      "explanation": "Coworker = đong nghiep."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nLocal _____ complained about the construction noise.",
+      "options": [
+        "Residents",
+        "Tourists",
+        "Foreigners",
+        "Employees"
+      ],
+      "answer": 0,
+      "explanation": "Resident = cu dan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe company announced an _____ into Asia.",
+      "options": [
+        "Expansion",
+        "Reduction",
+        "Decrease",
+        "Closure"
+      ],
+      "answer": 0,
+      "explanation": "Expansion = su mo rong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe manager introduced a recycling _____.",
+      "options": [
+        "Initiative",
+        "Reluctance",
+        "Hesitation",
+        "Passivity"
+      ],
+      "answer": 0,
+      "explanation": "Initiative = sang kien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nI called to _____ about the job opening.",
+      "options": [
+        "Inquire",
+        "Ignore",
+        "Avoid",
+        "Leave"
+      ],
+      "answer": 0,
+      "explanation": "Inquire = hoi; tham mac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nPlease review the product _____ before ordering.",
+      "options": [
+        "Specifications",
+        "Tasty",
+        "Cold",
+        "Dark"
+      ],
+      "answer": 0,
+      "explanation": "Specification = thong so ky thuat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe _____ fixed the delivery truck this morning.",
+      "options": [
+        "Mechanic",
+        "Chef",
+        "Athlete",
+        "Driver"
+      ],
+      "answer": 0,
+      "explanation": "Mechanic = tho may."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe delivery _____ has been changed due to construction.",
+      "options": [
+        "Route",
+        "Meal",
+        "Song",
+        "Game"
+      ],
+      "answer": 0,
+      "explanation": "Route = tuyen đuong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe event _____ sent the final schedule.",
+      "options": [
+        "Coordinator",
+        "Chef",
+        "Athlete",
+        "Driver"
+      ],
+      "answer": 0,
+      "explanation": "Coordinator = đieu phoi vien."
+    },
+    {
+      "type": "pos",
+      "question": "'Doorway' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Doorway la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Thorough' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Thorough la tinh tu (ky luong)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Lease':",
+      "options": [
+        "Co the la danh tu hoac đong tu",
+        "Chi la danh tu",
+        "Chi la đong tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Lease co the la ca danh tu va đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Elect' thuoc nhom nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Elect la đong tu (bau chon)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Commercial' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Commercial la tinh tu (thuong mai)"
+    },
+    {
+      "type": "pos",
+      "question": "'Reminder' la danh tu hay đong tu?",
+      "options": [
+        "Danh tu",
+        "Đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Reminder la danh tu (loi nhac)"
+    },
+    {
+      "type": "pos",
+      "question": "'Deserve' thuoc loai tu nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Deserve la đong tu (xung đang)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Honor' co the la:",
+      "options": [
+        "Ca danh tu va đong tu",
+        "Chi la danh tu",
+        "Chi la đong tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Honor co the la ca danh tu va đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Expansion' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Expansion la danh tu (su mo rong)"
+    },
+    {
+      "type": "pos",
+      "question": "'Initiative' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Initiative la danh tu (sang kien)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'an opening used to enter or leave a room'?",
+      "options": [
+        "Doorway",
+        "Window",
+        "Balcony",
+        "Roof"
+      ],
+      "answer": 0,
+      "explanation": "Doorway = o cua"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'done with great care and attention' mo ta tu nao?",
+      "options": [
+        "Thorough",
+        "Careless",
+        "Rushed",
+        "Superficial"
+      ],
+      "answer": 0,
+      "explanation": "Thorough = ky luong"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'a legal agreement to use property for payment', tu đo la:",
+      "options": [
+        "Lease",
+        "Sale",
+        "Purchase",
+        "Trade"
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'to choose someone by voting'?",
+      "options": [
+        "Elect",
+        "Refuse",
+        "Cancel",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Elect = bau chon"
+    },
+    {
+      "type": "definition",
+      "question": "'the head of a city government' chi tu:",
+      "options": [
+        "Mayor",
+        "Director",
+        "Manager",
+        "Supervisor"
+      ],
+      "answer": 0,
+      "explanation": "Mayor = thi truong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'the official rules for doing something'?",
+      "options": [
+        "Protocol",
+        "Benefit",
+        "Privilege",
+        "Duty"
+      ],
+      "answer": 0,
+      "explanation": "Protocol = quy trinh"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to officially accept or allow' chi tu:",
+      "options": [
+        "Approve",
+        "Reject",
+        "Deny",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Approve = phe duyet"
+    },
+    {
+      "type": "definition",
+      "question": "'something that helps you remember' mo ta tu:",
+      "options": [
+        "Reminder",
+        "Praise",
+        "Thanks",
+        "Apology"
+      ],
+      "answer": 0,
+      "explanation": "Reminder = loi nhac"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'to be worthy of something'?",
+      "options": [
+        "Deserve",
+        "Undeserve",
+        "Receive",
+        "Lose"
+      ],
+      "answer": 0,
+      "explanation": "Deserve = xung đang"
+    },
+    {
+      "type": "definition",
+      "question": "'an increase in size or business' mo ta tu nao?",
+      "options": [
+        "Expansion",
+        "Reduction",
+        "Decrease",
+        "Closure"
+      ],
+      "answer": 0,
+      "explanation": "Expansion = su mo rong"
+    },
+    {
+      "type": "definition",
+      "question": "'a new plan or the ability to act without being told' mo ta tu nao?",
+      "options": [
+        "Initiative",
+        "Reluctance",
+        "Hesitation",
+        "Passivity"
+      ],
+      "answer": 0,
+      "explanation": "Initiative = sang kien"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Thorough' chinh xac nhat?",
+      "options": [
+        "ky luong",
+        "thieu sot",
+        "bo qua",
+        "nhanh chan"
+      ],
+      "answer": 0,
+      "explanation": "Thorough = ky luong; can than"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Deserve' la:",
+      "options": [
+        "xung đang",
+        "khong đang",
+        "nhan đuoc",
+        "mat đi"
+      ],
+      "answer": 0,
+      "explanation": "Deserve = xung đang; đang đuoc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Initiative' gan voi y nao nhat?",
+      "options": [
+        "sang kien",
+        "thu đong",
+        "luc luong",
+        "bat can"
+      ],
+      "answer": 0,
+      "explanation": "Initiative = sang kien; tinh chu đong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Expansion' la gi?",
+      "options": [
+        "su mo rong",
+        "su thu hep",
+        "su giam bot",
+        "su dong cua"
+      ],
+      "answer": 0,
+      "explanation": "Expansion = su mo rong; mo mang"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Protocol' la:",
+      "options": [
+        "quy trinh",
+        "loi ich",
+        "quyen loi",
+        "trách nhiem"
+      ],
+      "answer": 0,
+      "explanation": "Protocol = quy trinh; nghi thuc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Approve' co nghia gan voi:",
+      "options": [
+        "phe duyet",
+        "tu choi",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Approve = chap thuan; phe duyet"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Lease' la gi?",
+      "options": [
+        "hop đong thue",
+        "ban đat",
+        "mua nha",
+        "đoi nha"
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue; cho thue"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Reminder' mang y nao gan nhat?",
+      "options": [
+        "loi nhac",
+        "loi khen",
+        "loi cam on",
+        "loi xin loi"
+      ],
+      "answer": 0,
+      "explanation": "Reminder = loi nhac; thong bao nhac"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Honor' mang y nao gan nhat?",
+      "options": [
+        "vinh du",
+        "nhuc nha",
+        "khiem nhuong",
+        "xuc pham"
+      ],
+      "answer": 0,
+      "explanation": "Honor = vinh du; ton vinh"
+    },
+    {
+      "type": "collocation",
+      "question": "''Thorough' thuong ket hop voi tu nao?",
+      "options": [
+        "Thorough review",
+        "Tasty review",
+        "Cold review",
+        "Dark review"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: thorough review, thorough inspection"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Lease'?",
+      "options": [
+        "Sign a lease",
+        "Tasty lease",
+        "Cold lease",
+        "Dark lease"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sign a lease, lease agreement"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Approve' thuong đi cung cum nao?",
+      "options": [
+        "Approve a budget",
+        "Tasty approve",
+        "Cold approve",
+        "Dark approve"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: approve a budget, approve a plan"
+    },
+    {
+      "type": "collocation",
+      "question": "''Reminder' thuong xuat hien trong cum nao?",
+      "options": [
+        "Friendly reminder",
+        "Tasty reminder",
+        "Cold reminder",
+        "Dark reminder"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: friendly reminder, send a reminder"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Facility':",
+      "options": [
+        "Sports facility",
+        "Tasty facility",
+        "Cold facility",
+        "Dark facility"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sports facility, storage facility"
+    },
+    {
+      "type": "collocation",
+      "question": "''Expansion' đi cung voi tu nao?",
+      "options": [
+        "Business expansion",
+        "Tasty expansion",
+        "Cold expansion",
+        "Dark expansion"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: business expansion, market expansion"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Initiative'?",
+      "options": [
+        "Launch an initiative",
+        "Tasty initiative",
+        "Cold initiative",
+        "Dark initiative"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: launch an initiative, take initiative"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Protocol' lien quan đên ngucanh nao?",
+      "options": [
+        "Quy trinh, an toan",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Protocol = quy trinh, ngucanh an toan"
+    },
+    {
+      "type": "context",
+      "question": "''Lease' thuoc linh vuc nao?",
+      "options": [
+        "Bat đong san, thue",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Mayor' lien quan chinh đên gi?",
+      "options": [
+        "Chinh quyen, thanh pho",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Mayor = thi truong"
+    },
+    {
+      "type": "context",
+      "question": "''Initiative' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Quan ly, sang kien",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Initiative = sang kien, ngucanh quan ly"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Route' lien quan đên linhvuc nao?",
+      "options": [
+        "Giao thong, van chuyen",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Route = tuyen đuong"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Elect",
+        "Approve",
+        "Deserve",
+        "Doorway"
+      ],
+      "answer": 3,
+      "explanation": "Doorway la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Thorough",
+        "Commercial",
+        "Thorough",
+        "Reminder"
+      ],
+      "answer": 3,
+      "explanation": "Reminder la danh tu; cac tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Doorway",
+        "Facility",
+        "Expansion",
+        "Thorough"
+      ],
+      "answer": 3,
+      "explanation": "Thorough la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Reminder",
+        "Initiative",
+        "Expansion",
+        "Elect"
+      ],
+      "answer": 3,
+      "explanation": "Elect la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Thorough",
+        "Commercial",
+        "Deserve",
+        "Facility"
+      ],
+      "answer": 3,
+      "explanation": "Facility la danh tu; 3 tu con lai la tinh tu/đong tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Approve' đung?",
+      "options": [
+        "The director will approve the budget tomorrow.",
+        "She approve very beautiful today.",
+        "They approve sunny weather.",
+        "He approve the red color."
+      ],
+      "answer": 0,
+      "explanation": "Approve = phe duyet, đung voi ngan sach, ke hoach"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Deserve' đung?",
+      "options": [
+        "She deserves a promotion for her hard work.",
+        "She deserve very tired today.",
+        "They deserve sunny weather.",
+        "He deserve the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Deserve = xung đang, đung voi thang chuc, phan thuong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Inquire':",
+      "options": [
+        "I called to inquire about the job opening.",
+        "The weather inquire warm tomorrow.",
+        "She inquire very tired today.",
+        "They inquire the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Inquire = hoi thong tin, đung voi viec lam, san pham"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Initiative' phu hop?",
+      "options": [
+        "The manager introduced a recycling initiative.",
+        "She initiative very beautiful dress.",
+        "They initiative sunny weather today.",
+        "He initiative the red color."
+      ],
+      "answer": 0,
+      "explanation": "Initiative = sang kien, đung voi tai che, moi truong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Lease':",
+      "options": [
+        "They signed a one-year lease for the office.",
+        "She lease very beautiful today.",
+        "They lease the sweet taste.",
+        "He lease quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Lease = hop đong thue, đung voi van phong, nha"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Thorough'?",
+      "options": [
+        "Careful",
+        "Careless",
+        "Rushed",
+        "Brief"
+      ],
+      "answer": 0,
+      "explanation": "Thorough ~ Careful (ky luong)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Approve'?",
+      "options": [
+        "Reject",
+        "Accept",
+        "Allow",
+        "Endorse"
+      ],
+      "answer": 0,
+      "explanation": "Approve (phe duyet) trai nghia voi Reject (tu choi)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Coworker'?",
+      "options": [
+        "Colleague",
+        "Customer",
+        "Rival",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Coworker ~ Colleague (đong nghiep)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The manager introduced a recycling initiative', tu 'initiative' gan nghia voi?",
+      "options": [
+        "Program",
+        "Delay",
+        "Obstacle",
+        "Problem"
+      ],
+      "answer": 0,
+      "explanation": "Initiative ~ Program (chuong trinh; sang kien)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'She deserves a promotion', tu nao thay đuoc 'deserves'?",
+      "options": [
+        "Earns",
+        "Loses",
+        "Misses",
+        "Avoids"
+      ],
+      "answer": 0,
+      "explanation": "Deserves ~ Earns (xung đang; đat đuoc)"
+    }
+  ]
+}

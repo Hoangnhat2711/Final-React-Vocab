@@ -1,0 +1,1261 @@
+{
+  "skill": "reading",
+  "test": "Test 2",
+  "title": "ETS Reading 2026 - Test 2",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Reimbursement' co nghia la gi?",
+      "options": [
+        "su hoan tra; boi hoan",
+        "su giam gia",
+        "su tang luong",
+        "su khuyen mai"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra; boi hoan"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Postpone' la:",
+      "options": [
+        "hoan lai",
+        "tiep tuc",
+        "huy bo",
+        "bat dau"
+      ],
+      "answer": 0,
+      "explanation": "Postpone = hoan lai (đe dang muon hon)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Effective' mang y nghia nao?",
+      "options": [
+        "hieu qua",
+        "vo dung",
+        "cham chap",
+        "phuc tap"
+      ],
+      "answer": 0,
+      "explanation": "Effective = hieu qua"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Valid':",
+      "options": [
+        "co hieu luc; hop le",
+        "het han",
+        "khong hop le",
+        "bi huy"
+      ],
+      "answer": 0,
+      "explanation": "Valid = co hieu luc; hop le"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Sustainable' đuoc hieu la:",
+      "options": [
+        "ben vung",
+        "tam thoi",
+        "mong manh",
+        "ngan han"
+      ],
+      "answer": 0,
+      "explanation": "Sustainable = ben vung (khong gay hai tai ngien)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Expire' co nghia la gi?",
+      "options": [
+        "het han",
+        "bat dau",
+        "gia han",
+        "lam moi"
+      ],
+      "answer": 0,
+      "explanation": "Expire = het han (khong con hieu luc)"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Reveal'?",
+      "options": [
+        "tiet lo; cho thay",
+        "an gia",
+        "phu nhan",
+        "lam mo"
+      ],
+      "answer": 0,
+      "explanation": "Reveal = tiet lo; cho thay (đieu bi an)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Thrilled' mang y nghia:",
+      "options": [
+        "vo cung phan khich",
+        "vuc vat",
+        "that vong",
+        "gian du"
+      ],
+      "answer": 0,
+      "explanation": "Thrilled = vo cung phan khich"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Complimentary' la:",
+      "options": [
+        "mien phi",
+        "đat tien",
+        "giam gia",
+        "đoi tien"
+      ],
+      "answer": 0,
+      "explanation": "Complimentary = mien phi (nhu mot su hao long)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Ultimately' đuoc hieu nhu the nao?",
+      "options": [
+        "cuoi cung; rot cuoc",
+        "luc dau",
+        "đang le",
+        "bat ngo"
+      ],
+      "answer": 0,
+      "explanation": "Ultimately = cuoi cung; rot cuoc"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Freight' co nghia la:",
+      "options": [
+        "hang hoa van chuyen",
+        "hang ton kho",
+        "hang giam gia",
+        "hang huy"
+      ],
+      "answer": 0,
+      "explanation": "Freight = hang hoa van chuyen (so luong lon)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Navigate' mang y nghia nao?",
+      "options": [
+        "đieu huong; tim đuong",
+        "đung yen",
+        "quay lai",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Navigate = đieu huong; tim đuong"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Approximately' la:",
+      "options": [
+        "xap xi; khoang",
+        "chinh xac",
+        "hoan toan",
+        "khong đung"
+      ],
+      "answer": 0,
+      "explanation": "Approximately = xap xi; khoang"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Substance':",
+      "options": [
+        "chat; vat chat",
+        "hinh anh",
+        "tieng on",
+        "muon sac"
+      ],
+      "answer": 0,
+      "explanation": "Substance = chat; vat chat (loai vat lieu)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Address' (đong tu) co nghia la gi?",
+      "options": [
+        "giai quyet",
+        "gui thu",
+        "nhan thu",
+        "đoc thu"
+      ],
+      "answer": 0,
+      "explanation": "Address = giai quyet (van đe, su co)"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'chiến luoc'?",
+      "options": [
+        "Strategy",
+        "Budget",
+        "Schedule",
+        "Invoice"
+      ],
+      "answer": 0,
+      "explanation": "Strategy = chien luoc"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'hoan tra; boi hoan'?",
+      "options": [
+        "Reimbursement",
+        "Discount",
+        "Refund",
+        "Salary"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'phân phôi':",
+      "options": [
+        "Distribute",
+        "Collect",
+        "Return",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Distribute = phân phôi; phat"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'su hoan tra; tich cuc'?",
+      "options": [
+        "Enthusiasm",
+        "Boredom",
+        "Anger",
+        "Fear"
+      ],
+      "answer": 0,
+      "explanation": "Enthusiasm = su nhet tinh"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'kích hoạt':",
+      "options": [
+        "Activate",
+        "Cancel",
+        "Disable",
+        "Remove"
+      ],
+      "answer": 0,
+      "explanation": "Activate = kích hoạt"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'noi lam viec'?",
+      "options": [
+        "Workplace",
+        "Warehouse",
+        "Workshop",
+        "Workspace"
+      ],
+      "answer": 0,
+      "explanation": "Workplace = noi lam viec"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'sự bảo hành':",
+      "options": [
+        "Warranty",
+        "Invoice",
+        "Receipt",
+        "Contract"
+      ],
+      "answer": 0,
+      "explanation": "Warranty = giay bao hanh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'chinh goc; đich thực'?",
+      "options": [
+        "Authentic",
+        "Fake",
+        "Artificial",
+        "Counterfeit"
+      ],
+      "answer": 0,
+      "explanation": "Authentic = chinh goc; đich thực"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'on đinh hoa' tuong ung voi tu nao?",
+      "options": [
+        "Stabilization",
+        "Reduction",
+        "Expansion",
+        "Elimination"
+      ],
+      "answer": 0,
+      "explanation": "Stabilization = su on đinh hoa"
+    },
+    {
+      "type": "word",
+      "question": "Tu Anh nao đuoc hieu la 'đong bo;.sap xep thang hàng'?",
+      "options": [
+        "Align",
+        "Scatter",
+        "Spread",
+        "Divide"
+      ],
+      "answer": 0,
+      "explanation": "Align = sap xep thang hàng; đong bo"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'giam bot; cat giam' la:",
+      "options": [
+        "Reduction",
+        "Increase",
+        "Addition",
+        "Growth"
+      ],
+      "answer": 0,
+      "explanation": "Reduction = su giam bot; cat giam"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'da nang; linh hoat'?",
+      "options": [
+        "Versatile",
+        "Rigid",
+        "Inflexible",
+        "Fixed"
+      ],
+      "answer": 0,
+      "explanation": "Versatile = đa năng; linh hoat"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'chinh xác':",
+      "options": [
+        "Accurate",
+        "Wrong",
+        "Rough",
+        "Vague"
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'xuat sắc; vuot troi'?",
+      "options": [
+        "Excel",
+        "Fail",
+        "Struggle",
+        "Decline"
+      ],
+      "answer": 0,
+      "explanation": "Excel = xuat sac; vuot troi"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đap lai; đap tra' tuong ung tu nao?",
+      "options": [
+        "Reciprocate",
+        "Ignore",
+        "Refuse",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Reciprocate = đap lai; đap tra"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nEmployees can request _____ for travel expenses.",
+      "options": [
+        "Reimbursement",
+        "Strategy",
+        "Warranty",
+        "Subscription"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra. request reimbursement = yeu cau hoan tra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nWe had to _____ the meeting because of the storm.",
+      "options": [
+        "Postpone",
+        "Start",
+        "Finish",
+        "Continue"
+      ],
+      "answer": 0,
+      "explanation": "Postpone = hoan lai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe training program was highly _____ in improving productivity.",
+      "options": [
+        "Effective",
+        "Useless",
+        "Harmful",
+        "Slow"
+      ],
+      "answer": 0,
+      "explanation": "Effective = hieu qua. highly effective = rat hieu qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThis coupon is _____ until the end of the month.",
+      "options": [
+        "Valid",
+        "Expired",
+        "Invalid",
+        "Cancelled"
+      ],
+      "answer": 0,
+      "explanation": "Valid = co hieu luc. valid until = co hieu luc đen."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe company is investing in _____ packaging.",
+      "options": [
+        "Sustainable",
+        "Disposable",
+        "Wasteful",
+        "Harmful"
+      ],
+      "answer": 0,
+      "explanation": "Sustainable = ben vung. sustainable packaging = bao bi ben vung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nMy passport will _____ next year.",
+      "options": [
+        "Expire",
+        "Start",
+        "Begin",
+        "Renew"
+      ],
+      "answer": 0,
+      "explanation": "Expire = het han. passport expire = ho chieu het han."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe survey _____ a decline in customer satisfaction.",
+      "options": [
+        "Revealed",
+        "Hid",
+        "Concealed",
+        "Denied"
+      ],
+      "answer": 0,
+      "explanation": "Reveal = tiet lo. revealed a decline = cho thay su sut giam."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nPlease _____ your account by clicking the link in the email.",
+      "options": [
+        "Activate",
+        "Delete",
+        "Cancel",
+        "Close"
+      ],
+      "answer": 0,
+      "explanation": "Activate = kích hoạt. activate account = kích hoạt tai khoan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe company will _____ the new catalog next week.",
+      "options": [
+        "Distribute",
+        "Collect",
+        "Return",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Distribute = phân phôi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nA local company will _____ the awards banquet.",
+      "options": [
+        "Cater",
+        "Ignore",
+        "Skip",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Cater = cung cap đo an. cater the banquet = phuc vu tiec."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe store has _____ closed due to rising costs.",
+      "options": [
+        "Permanently",
+        "Temporarily",
+        "Recently",
+        "Suddenly"
+      ],
+      "answer": 0,
+      "explanation": "Permanently = vinh vien. permanently closed = đóng cua vinh vien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe campaign will be launched _____ next month.",
+      "options": [
+        "Nationwide",
+        "Locally",
+        "Privately",
+        "Secretly"
+      ],
+      "answer": 0,
+      "explanation": "Nationwide = tren toan quoc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nPlease _____ the report in one page.",
+      "options": [
+        "Summarize",
+        "Expand",
+        "Lengthen",
+        "Copy"
+      ],
+      "answer": 0,
+      "explanation": "Summarize = tom tat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nWe will _____ applicants of the results by email.",
+      "options": [
+        "Notify",
+        "Hide",
+        "Ignore",
+        "Conceal"
+      ],
+      "answer": 0,
+      "explanation": "Notify = thong bao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe company plans to _____ the old warehouse into office space.",
+      "options": [
+        "Convert",
+        "Destroy",
+        "Abandon",
+        "Demolish"
+      ],
+      "answer": 0,
+      "explanation": "Convert = chuyen đoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nPlease book your tickets _____ to get a discount.",
+      "options": [
+        "In advance",
+        "Late",
+        "Never",
+        "Afterwards"
+      ],
+      "answer": 0,
+      "explanation": "In advance = truoc. book in advance = đat truoc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nGuests receive _____ drinks upon arrival.",
+      "options": [
+        "Complimentary",
+        "Expensive",
+        "Charged",
+        "Paid"
+      ],
+      "answer": 0,
+      "explanation": "Complimentary = mien phi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe speaker _____ the need for better communication.",
+      "options": [
+        "Emphasized",
+        "Ignored",
+        "Hid",
+        "Downplayed"
+      ],
+      "answer": 0,
+      "explanation": "Emphasize = nhan manh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nWe need to _____ our website for mobile users.",
+      "options": [
+        "Optimize",
+        "Ignore",
+        "Disable",
+        "Remove"
+      ],
+      "answer": 0,
+      "explanation": "Optimize = toi uu hoa."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe company will _____ its new app next month.",
+      "options": [
+        "Launch",
+        "Close",
+        "Cancel",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Launch = ra mat."
+    },
+    {
+      "type": "pos",
+      "question": "'Accept' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Accept la đong tu (chap nhan)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Property' la gi ve tu loai?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Property la danh tu (bat đong san; tai san)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Effective':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Đai tu"
+      ],
+      "answer": 0,
+      "explanation": "Effective la tinh tu (hieu qua)"
+    },
+    {
+      "type": "pos",
+      "question": "'Substance' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Lien tu"
+      ],
+      "answer": 0,
+      "explanation": "Substance la danh tu (chat; vat chat)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Postpone' la:",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Postpone la đong tu (hoan lai)"
+    },
+    {
+      "type": "pos",
+      "question": "'Sleek' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Sleek la tinh tu (bong bay; gon đep)"
+    },
+    {
+      "type": "pos",
+      "question": "'Rough' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Rough la tinh tu (go ghe; tho rap)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Maintenance' la danh tu hay đong tu?",
+      "options": [
+        "Danh tu",
+        "Đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Maintenance la danh tu (bao tri)"
+    },
+    {
+      "type": "pos",
+      "question": "'Nationwide' la gi?",
+      "options": [
+        "Trang tu",
+        "Đong tu",
+        "Gioi tu",
+        "Đai tu"
+      ],
+      "answer": 0,
+      "explanation": "Nationwide la trang tu (tren toan quoc)"
+    },
+    {
+      "type": "pos",
+      "question": "'Ultimately' la trang tu hay tinh tu?",
+      "options": [
+        "Trang tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Ultimately la trang tu (cuoi cung)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'money paid back to someone for expenses they have already paid'?",
+      "options": [
+        "Reimbursement",
+        "Salary",
+        "Bonus",
+        "Invoice"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'successful in producing the intended result' mo ta tu nao?",
+      "options": [
+        "Effective",
+        "Useless",
+        "Harmful",
+        "Slow"
+      ],
+      "answer": 0,
+      "explanation": "Effective = hieu qua"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'legally or officially acceptable', tu đo la:",
+      "options": [
+        "Valid",
+        "Expired",
+        "Invalid",
+        "Illegal"
+      ],
+      "answer": 0,
+      "explanation": "Valid = co hieu luc; hop le"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'to delay something until a later time'?",
+      "options": [
+        "Postpone",
+        "Start",
+        "Continue",
+        "Finish"
+      ],
+      "answer": 0,
+      "explanation": "Postpone = hoan lai"
+    },
+    {
+      "type": "definition",
+      "question": "'able to continue over a long period without harming resources' chi tu:",
+      "options": [
+        "Sustainable",
+        "Temporary",
+        "Fragile",
+        "Short-term"
+      ],
+      "answer": 0,
+      "explanation": "Sustainable = ben vung"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'given free of charge as a courtesy'?",
+      "options": [
+        "Complimentary",
+        "Expensive",
+        "Paid",
+        "Charged"
+      ],
+      "answer": 0,
+      "explanation": "Complimentary = mien phi"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to make something known that was hidden' chi tu:",
+      "options": [
+        "Reveal",
+        "Hide",
+        "Conceal",
+        "Cover"
+      ],
+      "answer": 0,
+      "explanation": "Reveal = tiet lo"
+    },
+    {
+      "type": "definition",
+      "question": "'to give out or deliver something to many people' mo ta tu:",
+      "options": [
+        "Distribute",
+        "Collect",
+        "Return",
+        "Keep"
+      ],
+      "answer": 0,
+      "explanation": "Distribute = phân phôi"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'very excited and pleased'?",
+      "options": [
+        "Thrilled",
+        "Bored",
+        "Angry",
+        "Sad"
+      ],
+      "answer": 0,
+      "explanation": "Thrilled = vo cung phan khich"
+    },
+    {
+      "type": "definition",
+      "question": "'in the end, after everything has been considered' mo ta tu:",
+      "options": [
+        "Ultimately",
+        "Initially",
+        "Currently",
+        "Rarely"
+      ],
+      "answer": 0,
+      "explanation": "Ultimately = cuoi cung"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Convert' chinh xac nhat?",
+      "options": [
+        "chuyen đoi",
+        "giu nguyen",
+        "phá hủy",
+        "ban đi"
+      ],
+      "answer": 0,
+      "explanation": "Convert = chuyen đoi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Accommodate' la:",
+      "options": [
+        "đap ung; chua đung",
+        "tu choi",
+        "huy bo",
+        "giam bot"
+      ],
+      "answer": 0,
+      "explanation": "Accommodate = đap ung; thich nghi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Highlight' gan voi y nao nhat?",
+      "options": [
+        "nhan manh",
+        "an gia",
+        "giam xuong",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Highlight = nhan manh; lam noi bat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Preserve' la gi?",
+      "options": [
+        "bao ton",
+        "phá hủy",
+        "bo đi",
+        "ban đi"
+      ],
+      "answer": 0,
+      "explanation": "Preserve = bao ton; giu gin"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Discontinue' la:",
+      "options": [
+        "ngung",
+        "bat đau",
+        "tiep tuc",
+        "tang len"
+      ],
+      "answer": 0,
+      "explanation": "Discontinue = ngung; cham dut"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Refurbish' co nghia gan voi:",
+      "options": [
+        "tan trang",
+        "phá hủy",
+        "loai bo",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Refurbish = tan trang; sua sang lai"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Enhance' la gi?",
+      "options": [
+        "nang cao",
+        "giam xuong",
+        "giu nguyen",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Enhance = nang cao; cai thien"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Address' (đong tu) mang y nao gan nhat?",
+      "options": [
+        "giai quyet",
+        "gui đi",
+        "nhan ve",
+        "đoc len"
+      ],
+      "answer": 0,
+      "explanation": "Address = giai quyet (van đe)"
+    },
+    {
+      "type": "collocation",
+      "question": "'Reimbursement' thuong ket hop voi tu nao?",
+      "options": [
+        "Expense reimbursement",
+        "Food reimbursement",
+        "Sleep reimbursement",
+        "Road reimbursement"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: expense reimbursement, request reimbursement"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Property'?",
+      "options": [
+        "Commercial property",
+        "Food property",
+        "Sleep property",
+        "Weather property"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: commercial property, personal property"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Warranty' thuong đi cung cum nao?",
+      "options": [
+        "Product warranty",
+        "Food warranty",
+        "Sleep warranty",
+        "Weather warranty"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: product warranty, extended warranty"
+    },
+    {
+      "type": "collocation",
+      "question": "'Complaint' thuong xuat hien trong cum nao?",
+      "options": [
+        "File a complaint",
+        "Eat a complaint",
+        "Sleep a complaint",
+        "Drive a complaint"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: file a complaint, customer complaint"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Maintenance':",
+      "options": [
+        "Routine maintenance",
+        "Sweet maintenance",
+        "Cold maintenance",
+        "Dark maintenance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: routine maintenance, maintenance work"
+    },
+    {
+      "type": "collocation",
+      "question": "'Subscription' đi cung voi tu nao thuong gap?",
+      "options": [
+        "Annual subscription",
+        "Tasty subscription",
+        "Cold subscription",
+        "Dark subscription"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: annual subscription, subscription fee"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Demand'?",
+      "options": [
+        "Customer demand",
+        "Tasty demand",
+        "Cold demand",
+        "Dark demand"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: customer demand, strong demand"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Power failure' lien quan đên ngucanh nao?",
+      "options": [
+        "Nha cua, van hanh",
+        "Thoi trang",
+        "The thao",
+        "Am thuc"
+      ],
+      "answer": 0,
+      "explanation": "Power failure = su mat đien, ngucanh nha cua, van hanh"
+    },
+    {
+      "type": "context",
+      "question": "'Ingredient' thuoc linh vuc nao?",
+      "options": [
+        "Thuc pham, san xuat",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Ingredient = nguyen lieu, linh vuc thuc pham, san xuat"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Freight' lien quan chinh đên gi?",
+      "options": [
+        "Van chuyen, logistic",
+        "Y te",
+        "Giao duc",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Freight = hang hoa van chuyen, ngucanh logistic"
+    },
+    {
+      "type": "context",
+      "question": "'Porous' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Vat lieu, ky thuat",
+        "Tai chinh",
+        "The thao",
+        "Am nhac"
+      ],
+      "answer": 0,
+      "explanation": "Porous = xop; thấm nuoc, ngucanh vat lieu"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Visualization' lien quan đên linhvuc nao?",
+      "options": [
+        "Cong nghe, phan tich du lieu",
+        "The thao",
+        "Nong nghiep",
+        "Am thuc"
+      ],
+      "answer": 0,
+      "explanation": "Visualization = su truc quan hoa, linh vuc cong nghe, phan tich"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom? (3 tu la danh tu)",
+      "options": [
+        "Reliability",
+        "Strategy",
+        "Accept",
+        "Property"
+      ],
+      "answer": 2,
+      "explanation": "Accept la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Effective",
+        "Sustainable",
+        "Valid",
+        "Convert"
+      ],
+      "answer": 3,
+      "explanation": "Convert la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Postpone",
+        "Distribute",
+        "Activate",
+        "Rough"
+      ],
+      "answer": 3,
+      "explanation": "Rough la tinh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Nationwide",
+        "Approximately",
+        "Typically",
+        "Ingredient"
+      ],
+      "answer": 3,
+      "explanation": "Ingredient la danh tu; 3 tu con lai la trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Sleek",
+        "Handy",
+        "Rough",
+        "Fluctuation"
+      ],
+      "answer": 3,
+      "explanation": "Fluctuation la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Postpone' đung?",
+      "options": [
+        "We had to postpone the meeting because of the storm.",
+        "She postpone very beautiful today.",
+        "They postpone happy at the news.",
+        "He postpone quickly to the store."
+      ],
+      "answer": 0,
+      "explanation": "Postpone = hoan lai, đung voi su kien/cuoc hop"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Notify' đung?",
+      "options": [
+        "We will notify applicants of the results by email.",
+        "She notify very tired today.",
+        "They notify sunny weather.",
+        "He notify the red color."
+      ],
+      "answer": 0,
+      "explanation": "Notify = thong bao, đung voi thong tin cho nguoi khac"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Donate':",
+      "options": [
+        "The company donated computers to a local charity.",
+        "The weather donated warm today.",
+        "She donated very tired today.",
+        "They donated the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Donate = quyen gop, đung voi tien/vat dung cho toi chuc"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Accommodate' phu hop?",
+      "options": [
+        "The venue can accommodate up to 300 guests.",
+        "She accommodate very beautiful dress.",
+        "They accommodate sunny weather today.",
+        "He accommodate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Accommodate = đap ung/chua đung, đung voi suc chua"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Navigate':",
+      "options": [
+        "The app helps users navigate public transportation routes.",
+        "She navigate very beautiful today.",
+        "They navigate the sweet taste.",
+        "He navigate quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Navigate = đieu huong/tim đuong"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Accept'?",
+      "options": [
+        "Reject",
+        "Receive",
+        "Take",
+        "Agree"
+      ],
+      "answer": 0,
+      "explanation": "Accept (chap nhan) trai nghia voi Reject (tu choi). Notes ghi: Opposite: reject"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Postpone' trong ngucanh thoi gian?",
+      "options": [
+        "Advance",
+        "Delay",
+        "Postpone",
+        "Defer"
+      ],
+      "answer": 0,
+      "explanation": "Postpone (hoan lai) trai nghia voi Advance (đay len som). Notes ghi: Opposite: advance"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Approximately'?",
+      "options": [
+        "About",
+        "Exactly",
+        "Precisely",
+        "Never"
+      ],
+      "answer": 0,
+      "explanation": "Approximately ~ About (khoang, xap xi). Notes ghi: Similar: about, around"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The brand is known for the reliability of its products', tu 'reliability' gan nghia voi?",
+      "options": [
+        "Dependability",
+        "Unreliability",
+        "Weakness",
+        "Fault"
+      ],
+      "answer": 0,
+      "explanation": "Reliability (đo tin cay) ~ Dependability (su đang tin cay)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company made a bold decision to enter a new market', tu nao thay đuoc 'bold'?",
+      "options": [
+        "Courageous",
+        "Cautious",
+        "Timid",
+        "Careful"
+      ],
+      "answer": 0,
+      "explanation": "Bold (tao bao; man đan) ~ Courageous (dung cam)"
+    }
+  ]
+}

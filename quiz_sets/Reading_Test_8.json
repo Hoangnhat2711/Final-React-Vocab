@@ -1,0 +1,1263 @@
+{
+  "skill": "reading",
+  "test": "Test 8",
+  "title": "ETS Reading 2026 - Test 8",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Sturdy' co nghia la gi?",
+      "options": [
+        "chac chan; ben",
+        "mong manh",
+        "yeu đuoi",
+        "đe vo"
+      ],
+      "answer": 0,
+      "explanation": "Sturdy = chac chan; ben"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Generate' la:",
+      "options": [
+        "tao ra; san sinh",
+        "huy bo",
+        "xoa đi",
+        "an gia"
+      ],
+      "answer": 0,
+      "explanation": "Generate = tao ra; san sinh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Proceed' mang y nghia nao?",
+      "options": [
+        "tiep tuc; tien hanh",
+        "dung lai",
+        "huy bo",
+        "quay lai"
+      ],
+      "answer": 0,
+      "explanation": "Proceed = tiep tuc; tien hanh"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Brief':",
+      "options": [
+        "ngan gon",
+        "dai dong",
+        "phuc tap",
+        "chua bat đau"
+      ],
+      "answer": 0,
+      "explanation": "Brief = ngan gon"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Functional' đuoc hieu la:",
+      "options": [
+        "co chuc nang; hoat đong tot",
+        "vo dung",
+        "hong",
+        "khong hoat đong"
+      ],
+      "answer": 0,
+      "explanation": "Functional = co chuc nang; hoat đong tot"
+    },
+    {
+      "type": "meaning",
+      "question": "'Extensively' co nghia la gi?",
+      "options": [
+        "rong rai; nhieu",
+        "it oi",
+        "mot phan",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Extensively = rong rai; nhieu"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Territory'?",
+      "options": [
+        "lanh tho; khu vuc",
+        "bien gioi",
+        "đai duong",
+        "thanh pho"
+      ],
+      "answer": 0,
+      "explanation": "Territory = lanh tho; khu vuc"
+    },
+    {
+      "type": "meaning",
+      "question": "'Compensate' mang y nghia:",
+      "options": [
+        "boi thuong",
+        "phat tien",
+        "giam luong",
+        "khong tra"
+      ],
+      "answer": 0,
+      "explanation": "Compensate = boi thuong"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Forecast' la:",
+      "options": [
+        "du bao",
+        "quá khứ",
+        "hiện tại",
+        "sự thật"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "meaning",
+      "question": "'Assemble' đuoc hieu nhu the nao?",
+      "options": [
+        "lap rap; tap hop",
+        "thao ra",
+        "phan tan",
+        "dem đi"
+      ],
+      "answer": 0,
+      "explanation": "Assemble = lap rap; tap hop"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Supervise' co nghia la:",
+      "options": [
+        "giam sat",
+        "bo qua",
+        "phu nhan",
+        "lam thay"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat"
+    },
+    {
+      "type": "meaning",
+      "question": "'Decline' mang y nghia nao?",
+      "options": [
+        "giam xuong; tu choi",
+        "tang len",
+        "giu nguyen",
+        "bat dau"
+      ],
+      "answer": 0,
+      "explanation": "Decline = giam xuong; tu choi"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Comprise' la:",
+      "options": [
+        "bao gom; cau thanh",
+        "loai bo",
+        "an gia",
+        "dem đi"
+      ],
+      "answer": 0,
+      "explanation": "Comprise = bao gom; cau thanh"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Substitute':",
+      "options": [
+        "thay the",
+        "giu nguyen",
+        "them vao",
+        "loai bo"
+      ],
+      "answer": 0,
+      "explanation": "Substitute = thay the"
+    },
+    {
+      "type": "meaning",
+      "question": "'Coordinate' co nghia la gi?",
+      "options": [
+        "đieu phoi; phoi hop",
+        "lam lech",
+        "bo qua",
+        "huy bo"
+      ],
+      "answer": 0,
+      "explanation": "Coordinate = đieu phoi; phoi hop"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'chắc chắn; bền'?",
+      "options": [
+        "Sturdy",
+        "Fragile",
+        "Weak",
+        "Delicate"
+      ],
+      "answer": 0,
+      "explanation": "Sturdy = chac chan; ben"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'tạo ra; sản sinh'?",
+      "options": [
+        "Generate",
+        "Destroy",
+        "Remove",
+        "Delete"
+      ],
+      "answer": 0,
+      "explanation": "Generate = tao ra"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'tiếp tục':",
+      "options": [
+        "Proceed",
+        "Stop",
+        "Halt",
+        "End"
+      ],
+      "answer": 0,
+      "explanation": "Proceed = tiep tuc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'ngắn gọn'?",
+      "options": [
+        "Brief",
+        "Lengthy",
+        "Long",
+        "Detailed"
+      ],
+      "answer": 0,
+      "explanation": "Brief = ngan gon"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'dự báo':",
+      "options": [
+        "Forecast",
+        "History",
+        "Past",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'lắp ráp; tập hợp'?",
+      "options": [
+        "Assemble",
+        "Disassemble",
+        "Scatter",
+        "Disperse"
+      ],
+      "answer": 0,
+      "explanation": "Assemble = lap rap"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'giám sát':",
+      "options": [
+        "Supervise",
+        "Ignore",
+        "Avoid",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'giảm xuống'?",
+      "options": [
+        "Decline",
+        "Increase",
+        "Rise",
+        "Grow"
+      ],
+      "answer": 0,
+      "explanation": "Decline = giam xuong"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'bao gồm; cấu thành' tuong ung voi tu nao?",
+      "options": [
+        "Comprise",
+        "Exclude",
+        "Remove",
+        "Delete"
+      ],
+      "answer": 0,
+      "explanation": "Comprise = bao gom"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'thay thế' la:",
+      "options": [
+        "Substitute",
+        "Keep",
+        "Retain",
+        "Hold"
+      ],
+      "answer": 0,
+      "explanation": "Substitute = thay the"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'bồi thường'?",
+      "options": [
+        "Compensate",
+        "Fine",
+        "Penalize",
+        "Charge"
+      ],
+      "answer": 0,
+      "explanation": "Compensate = boi thuong"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'điều phối':",
+      "options": [
+        "Coordinate",
+        "Disrupt",
+        "Ignore",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Coordinate = đieu phoi"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'chức năng; hoạt động tốt'?",
+      "options": [
+        "Functional",
+        "Broken",
+        "Useless",
+        "Defective"
+      ],
+      "answer": 0,
+      "explanation": "Functional = co chuc nang"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'rộng rãi; nhiều' tuong ung tu nao?",
+      "options": [
+        "Extensively",
+        "Rarely",
+        "Slightly",
+        "Barely"
+      ],
+      "answer": 0,
+      "explanation": "Extensively = rong rai"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'phục hồi; sửa chữa'?",
+      "options": [
+        "Restore",
+        "Destroy",
+        "Break",
+        "Damage"
+      ],
+      "answer": 0,
+      "explanation": "Restore = phuc hoi"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThis table is made of _____ wood and should last for years.",
+      "options": [
+        "Sturdy",
+        "Fragile",
+        "Weak",
+        "Delicate"
+      ],
+      "answer": 0,
+      "explanation": "Sturdy = chac chan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe new website helped _____ more customer inquiries.",
+      "options": [
+        "Generate",
+        "Destroy",
+        "Remove",
+        "Delete"
+      ],
+      "answer": 0,
+      "explanation": "Generate = tao ra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe conference will _____ as scheduled despite the rain.",
+      "options": [
+        "Proceed",
+        "Stop",
+        "Halt",
+        "End"
+      ],
+      "answer": 0,
+      "explanation": "Proceed = tiep tuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nPlease give a _____ summary of the meeting.",
+      "options": [
+        "Brief",
+        "Lengthy",
+        "Long",
+        "Detailed"
+      ],
+      "answer": 0,
+      "explanation": "Brief = ngan gon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe kitchen is small but highly _____.",
+      "options": [
+        "Functional",
+        "Broken",
+        "Useless",
+        "Defective"
+      ],
+      "answer": 0,
+      "explanation": "Functional = co chuc nang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe product was _____ tested before release.",
+      "options": [
+        "Extensively",
+        "Rarely",
+        "Slightly",
+        "Barely"
+      ],
+      "answer": 0,
+      "explanation": "Extensively = rong rai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe sales team is divided by geographic _____.",
+      "options": [
+        "Territory",
+        "Weather",
+        "Season",
+        "Time"
+      ],
+      "answer": 0,
+      "explanation": "Territory = khu vuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company will _____ affected customers for the delay.",
+      "options": [
+        "Compensate",
+        "Fine",
+        "Penalize",
+        "Charge"
+      ],
+      "answer": 0,
+      "explanation": "Compensate = boi thuong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe sales _____ looks promising for next quarter.",
+      "options": [
+        "Forecast",
+        "History",
+        "Past",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nWorkers _____ the new desks in the office.",
+      "options": [
+        "Assembled",
+        "Disassembled",
+        "Scattered",
+        "Dispersed"
+      ],
+      "answer": 0,
+      "explanation": "Assemble = lap rap."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nA manager will _____ the training session.",
+      "options": [
+        "Supervise",
+        "Ignore",
+        "Avoid",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nSales _____ after the new website launched.",
+      "options": [
+        "Declined",
+        "Increased",
+        "Rose",
+        "Grew"
+      ],
+      "answer": 0,
+      "explanation": "Decline = giam xuong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nOnline sales now _____ over half of the company's revenue.",
+      "options": [
+        "Comprise",
+        "Exclude",
+        "Remove",
+        "Delete"
+      ],
+      "answer": 0,
+      "explanation": "Comprise = bao gom."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nYou can _____ yogurt for cream in this recipe.",
+      "options": [
+        "Substitute",
+        "Keep",
+        "Retain",
+        "Hold"
+      ],
+      "answer": 0,
+      "explanation": "Substitute = thay the."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nSeveral departments will _____ on the project.",
+      "options": [
+        "Coordinate",
+        "Disrupt",
+        "Ignore",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Coordinate = đieu phoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe IT team worked to _____ the system.",
+      "options": [
+        "Restore",
+        "Destroy",
+        "Break",
+        "Damage"
+      ],
+      "answer": 0,
+      "explanation": "Restore = phuc hoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThe product is praised for its _____ in extreme conditions.",
+      "options": [
+        "Durability",
+        "Weakness",
+        "Fragility",
+        "Softness"
+      ],
+      "answer": 0,
+      "explanation": "Durability = đo ben."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThis design is more modern than _____ office layouts.",
+      "options": [
+        "Conventional",
+        "Innovative",
+        "Modern",
+        "New"
+      ],
+      "answer": 0,
+      "explanation": "Conventional = thong thuong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe museum is famous for its modern _____.",
+      "options": [
+        "Architecture",
+        "Cooking",
+        "Sports",
+        "Music"
+      ],
+      "answer": 0,
+      "explanation": "Architecture = kien truc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe product is sent to another plant for final _____.",
+      "options": [
+        "Assembly",
+        "Disassembly",
+        "Scattering",
+        "Dispersal"
+      ],
+      "answer": 0,
+      "explanation": "Assembly = su lap rap."
+    },
+    {
+      "type": "pos",
+      "question": "'Generate' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Generate la đong tu (tao ra)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Sturdy' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Sturdy la tinh tu (chac chan)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Brief':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Brief la tinh tu (ngan gon)"
+    },
+    {
+      "type": "pos",
+      "question": "'Territory' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Territory la danh tu (lanh tho)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Functional' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Functional la tinh tu (co chuc nang)"
+    },
+    {
+      "type": "pos",
+      "question": "'Extensively' la trang tu hay tinh tu?",
+      "options": [
+        "Trang tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Extensively la trang tu (rong rai)"
+    },
+    {
+      "type": "pos",
+      "question": "'Forecast' thuoc loai tu nao?",
+      "options": [
+        "Co the la đong tu hoac danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Forecast co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Assembly' la danh tu hay đong tu?",
+      "options": [
+        "Danh tu",
+        "Đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Assembly la danh tu (su lap rap)"
+    },
+    {
+      "type": "pos",
+      "question": "'Decline' thuoc tu loai nao?",
+      "options": [
+        "Co the la đong tu hoac danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Decline co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Conventional' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Conventional la tinh tu (thong thuong)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'strong and not easily damaged'?",
+      "options": [
+        "Sturdy",
+        "Fragile",
+        "Weak",
+        "Delicate"
+      ],
+      "answer": 0,
+      "explanation": "Sturdy = chac chan; ben"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to produce or create something' mo ta tu nao?",
+      "options": [
+        "Generate",
+        "Destroy",
+        "Remove",
+        "Delete"
+      ],
+      "answer": 0,
+      "explanation": "Generate = tao ra"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'to continue doing something or move forward', tu đo la:",
+      "options": [
+        "Proceed",
+        "Stop",
+        "Halt",
+        "End"
+      ],
+      "answer": 0,
+      "explanation": "Proceed = tiep tuc"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'lasting a short time or using few words'?",
+      "options": [
+        "Brief",
+        "Lengthy",
+        "Long",
+        "Detailed"
+      ],
+      "answer": 0,
+      "explanation": "Brief = ngan gon"
+    },
+    {
+      "type": "definition",
+      "question": "'designed to work well and be useful' chi tu:",
+      "options": [
+        "Functional",
+        "Broken",
+        "Useless",
+        "Defective"
+      ],
+      "answer": 0,
+      "explanation": "Functional = co chuc nang"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'an area controlled or used by someone'?",
+      "options": [
+        "Territory",
+        "Weather",
+        "Season",
+        "Time"
+      ],
+      "answer": 0,
+      "explanation": "Territory = lanh tho"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to put parts together' chi tu:",
+      "options": [
+        "Assemble",
+        "Disassemble",
+        "Scatter",
+        "Disperse"
+      ],
+      "answer": 0,
+      "explanation": "Assemble = lap rap"
+    },
+    {
+      "type": "definition",
+      "question": "'to watch over and direct work' mo ta tu:",
+      "options": [
+        "Supervise",
+        "Ignore",
+        "Avoid",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'to go down or refuse'?",
+      "options": [
+        "Decline",
+        "Increase",
+        "Rise",
+        "Grow"
+      ],
+      "answer": 0,
+      "explanation": "Decline = giam xuong; tu choi"
+    },
+    {
+      "type": "definition",
+      "question": "'a statement about what will happen in the future' mo ta tu nao?",
+      "options": [
+        "Forecast",
+        "History",
+        "Past",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Forecast = du bao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Compensate' chinh xac nhat?",
+      "options": [
+        "boi thuong",
+        "phạt",
+        "trừ",
+        "không trả"
+      ],
+      "answer": 0,
+      "explanation": "Compensate = boi thuong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Comprise' la:",
+      "options": [
+        "bao gom",
+        "loại bỏ",
+        "ẩn giấu",
+        "xóa đi"
+      ],
+      "answer": 0,
+      "explanation": "Comprise = bao gom; cau thanh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Coordinate' gan voi y nao nhat?",
+      "options": [
+        "đieu phoi",
+        "phân tán",
+        "chia rẽ",
+        "bỏ qua"
+      ],
+      "answer": 0,
+      "explanation": "Coordinate = đieu phoi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Restore' la gi?",
+      "options": [
+        "phuc hoi",
+        "phá hủy",
+        "loại bỏ",
+        "bỏ qua"
+      ],
+      "answer": 0,
+      "explanation": "Restore = phuc hoi; sửa chua"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Conventional' la:",
+      "options": [
+        "thong thuong",
+        "mới lạ",
+        "độc đáo",
+        "hiện đại"
+      ],
+      "answer": 0,
+      "explanation": "Conventional = thong thuong; truyen thong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Substitute' co nghia gan voi:",
+      "options": [
+        "thay the",
+        "giữ lại",
+        "thêm vào",
+        "loại bỏ"
+      ],
+      "answer": 0,
+      "explanation": "Substitute = thay the"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Decorate' la gi?",
+      "options": [
+        "trang tri",
+        "phá hủy",
+        "làm sạch",
+        "sơn lại"
+      ],
+      "answer": 0,
+      "explanation": "Decorate = trang tri"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Utilize' mang y nao gan nhat?",
+      "options": [
+        "su dung",
+        "bỏ qua",
+        "phá hủy",
+        "an giấu"
+      ],
+      "answer": 0,
+      "explanation": "Utilize = su dung; tan dung"
+    },
+    {
+      "type": "collocation",
+      "question": "'Generate' thuong ket hop voi tu nao?",
+      "options": [
+        "Generate income",
+        "Tasty income",
+        "Cold income",
+        "Dark income"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: generate income, generate interest"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Forecast'?",
+      "options": [
+        "Sales forecast",
+        "Tasty forecast",
+        "Cold forecast",
+        "Dark forecast"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sales forecast, weather forecast"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Assembly' thuong đi cung cum nao?",
+      "options": [
+        "Assembly process",
+        "Tasty assembly",
+        "Cold assembly",
+        "Dark assembly"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: assembly process, assembly line"
+    },
+    {
+      "type": "collocation",
+      "question": "'Territory' thuong xuat hien trong cum nao?",
+      "options": [
+        "Geographic territory",
+        "Tasty territory",
+        "Cold territory",
+        "Dark territory"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: geographic territory, sales territory"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Compensate':",
+      "options": [
+        "Compensate for",
+        "Tasty compensate",
+        "Cold compensate",
+        "Dark compensate"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: compensate for (boi thuong cho)"
+    },
+    {
+      "type": "collocation",
+      "question": "'Durability' đi cung voi tu nao?",
+      "options": [
+        "Product durability",
+        "Tasty durability",
+        "Cold durability",
+        "Dark durability"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: product durability, high durability"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Architecture'?",
+      "options": [
+        "Modern architecture",
+        "Tasty architecture",
+        "Cold architecture",
+        "Dark architecture"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: modern architecture, historical architecture"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Architecture' lien quan đên ngucanh nao?",
+      "options": [
+        "Thiet ke, xay dung",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Architecture = kien truc"
+    },
+    {
+      "type": "context",
+      "question": "'Fluctuation' thuoc linh vuc nao?",
+      "options": [
+        "Tai chinh, thi truong",
+        "Y te",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Fluctuation = su bien đong, ngucanh tai chinh"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Domestic' lien quan chinh đên gi?",
+      "options": [
+        "Trong nuoc",
+        "Quoc te",
+        "Ngoai nhap",
+        "Xuat khau"
+      ],
+      "answer": 0,
+      "explanation": "Domestic = trong nuoc; noi đia"
+    },
+    {
+      "type": "context",
+      "question": "'Satellite' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Khoa hoc, cong nghe",
+        "Y te",
+        "The thao",
+        "Am nhac"
+      ],
+      "answer": 0,
+      "explanation": "Satellite = ve tinh"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Prototype' lien quan đên linhvuc nao?",
+      "options": [
+        "Phat trien san pham",
+        "Y te",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Prototype = nguyen mau, ngucanh phat trien san pham"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Generate",
+        "Proceed",
+        "Assemble",
+        "Sturdy"
+      ],
+      "answer": 3,
+      "explanation": "Sturdy la tinh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Brief",
+        "Functional",
+        "Sturdy",
+        "Generate"
+      ],
+      "answer": 3,
+      "explanation": "Generate la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Extensively",
+        "Significantly",
+        "Briefly",
+        "Territory"
+      ],
+      "answer": 3,
+      "explanation": "Territory la danh tu; 3 tu con lai la trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Territory",
+        "Architecture",
+        "Prototype",
+        "Supervise"
+      ],
+      "answer": 3,
+      "explanation": "Supervise la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Conventional",
+        "Functional",
+        "Brief",
+        "Assembly"
+      ],
+      "answer": 3,
+      "explanation": "Assembly la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Generate' đung?",
+      "options": [
+        "The new website helped generate more customer inquiries.",
+        "She generate very beautiful today.",
+        "They generate sunny weather.",
+        "He generate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Generate = tao ra, đung voi thu nhap, yeu cau"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Supervise' đung?",
+      "options": [
+        "A manager will supervise the training session.",
+        "She supervise very tired today.",
+        "They supervise sunny weather.",
+        "He supervise the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Supervise = giam sat, đung voi buoi dao tao, hoat đong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Restore':",
+      "options": [
+        "The IT team worked to restore the system.",
+        "The weather restore warm tomorrow.",
+        "She restore very tired today.",
+        "They restore the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Restore = phuc hoi, đung voi he thong, đich luc"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Assemble' phu hop?",
+      "options": [
+        "Workers assembled the new desks in the office.",
+        "She assemble very beautiful dress.",
+        "They assemble sunny weather today.",
+        "He assemble the red color."
+      ],
+      "answer": 0,
+      "explanation": "Assemble = lap rap, đung voi bàn, thiet bi"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Coordinate':",
+      "options": [
+        "Several departments will coordinate on the project.",
+        "She coordinate very beautiful today.",
+        "They coordinate the sweet taste.",
+        "He coordinate quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Coordinate = đieu phoi, đung voi phong ban, du an"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Domestic'?",
+      "options": [
+        "International",
+        "Local",
+        "Internal",
+        "National"
+      ],
+      "answer": 0,
+      "explanation": "Domestic (trong nuoc) trai nghia voi International (quoc te)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Sturdy'?",
+      "options": [
+        "Strong",
+        "Weak",
+        "Fragile",
+        "Delicate"
+      ],
+      "answer": 0,
+      "explanation": "Sturdy ~ Strong (chac chan)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Conventional'?",
+      "options": [
+        "Innovative",
+        "Traditional",
+        "Standard",
+        "Usual"
+      ],
+      "answer": 0,
+      "explanation": "Conventional (thong thuong) trai nghia voi Innovative (đoi moi)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The new website helped generate interest', tu 'generate' gan nghia voi?",
+      "options": [
+        "Create",
+        "Destroy",
+        "Remove",
+        "Delete"
+      ],
+      "answer": 0,
+      "explanation": "Generate ~ Create (tao ra)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The IT team worked to restore the system', tu nao thay đuoc 'restore'?",
+      "options": [
+        "Recover",
+        "Break",
+        "Damage",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Restore ~ Recover (phuc hoi)"
+    }
+  ]
+}

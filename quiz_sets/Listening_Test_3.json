@@ -1,0 +1,1289 @@
+{
+  "skill": "listening",
+  "test": "Test 3",
+  "title": "ETS Listening 2026 - Test 3",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Cross' (đong tu) co nghia la gi?",
+      "options": [
+        "bang qua; giao nhau",
+        "đung yen",
+        "quay lai",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Cross = bang qua; giao nhau"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Reservation' la:",
+      "options": [
+        "đat cho; đat truoc",
+        "huy bo",
+        "hoan lai",
+        "tu choi"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho; đat truoc"
+    },
+    {
+      "type": "meaning",
+      "question": "'Commute' mang y nghia nao?",
+      "options": [
+        "đi lam xa; di chuyen đi lam",
+        "nghi ngoi",
+        "đi choi",
+        "đi du lich"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam xa; di chuyen đi lam hang ngay"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Tenant':",
+      "options": [
+        "nguoi thue",
+        "chu nha",
+        "khach hang",
+        "nhan vien"
+      ],
+      "answer": 0,
+      "explanation": "Tenant = nguoi thue"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Congested' đuoc hieu la:",
+      "options": [
+        "đong đuc; tac nghen",
+        "trong rong",
+        "vang ve",
+        "de chiu"
+      ],
+      "answer": 0,
+      "explanation": "Congested = đong đuc; tac nghen"
+    },
+    {
+      "type": "meaning",
+      "question": "'Temporarily' co nghia la gi?",
+      "options": [
+        "tam thoi",
+        "vinh vien",
+        "hoan toan",
+        "mot phan"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily = tam thoi"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Ingredient'?",
+      "options": [
+        "nguyen lieu; thanh phan",
+        "san pham",
+        "hang ton kho",
+        "hang ban"
+      ],
+      "answer": 0,
+      "explanation": "Ingredient = nguyen lieu; thanh phan"
+    },
+    {
+      "type": "meaning",
+      "question": "'Guarantee' mang y nghia:",
+      "options": [
+        "bao đam; bao hanh",
+        "tu choi",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Guarantee = bao đam; bao hanh"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Household' la:",
+      "options": [
+        "ho gia đinh; đo gia dung",
+        "van phong",
+        "cong ty",
+        "truong hoc"
+      ],
+      "answer": 0,
+      "explanation": "Household = ho gia đinh; đo gia dung"
+    },
+    {
+      "type": "meaning",
+      "question": "'Industrial' đuoc hieu nhu the nao?",
+      "options": [
+        "thuoc cong nghiep",
+        "thuoc nong nghiep",
+        "thuoc dich vu",
+        "thuoc y te"
+      ],
+      "answer": 0,
+      "explanation": "Industrial = thuoc cong nghiep"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Overseas' co nghia la:",
+      "options": [
+        "o nuoc ngoai",
+        "trong nuoc",
+        "đia phuong",
+        "noi đia"
+      ],
+      "answer": 0,
+      "explanation": "Overseas = o nuoc ngoai"
+    },
+    {
+      "type": "meaning",
+      "question": "'Vendor' mang y nghia nao?",
+      "options": [
+        "nguoi ban; nha cung cap",
+        "nguoi mua",
+        "khach hang",
+        "nhan vien"
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nguoi ban; nha cung cap"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Priority' la:",
+      "options": [
+        "uu tien",
+        "it quan trong",
+        "phu gian",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Priority = uu tien"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Accurate':",
+      "options": [
+        "chinh xac",
+        "sai lam",
+        "khong chinh xac",
+        "đoan mo"
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac"
+    },
+    {
+      "type": "meaning",
+      "question": "'Outcome' co nghia la gi?",
+      "options": [
+        "ket qua",
+        "nguyen nhan",
+        "bat đau",
+        "ket thuc"
+      ],
+      "answer": 0,
+      "explanation": "Outcome = ket qua"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'băng qua; giao nhau'?",
+      "options": [
+        "Cross",
+        "Stop",
+        "Stay",
+        "Wait"
+      ],
+      "answer": 0,
+      "explanation": "Cross = bang qua"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'người thuê'?",
+      "options": [
+        "Tenant",
+        "Landlord",
+        "Customer",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Tenant = nguoi thue"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'đông đúc; tắc nghẽn':",
+      "options": [
+        "Congested",
+        "Empty",
+        "Spacious",
+        "Clear"
+      ],
+      "answer": 0,
+      "explanation": "Congested = đong đuc; tac nghen"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'tạm thời'?",
+      "options": [
+        "Temporarily",
+        "Permanently",
+        "Forever",
+        "Always"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily = tam thoi"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phuhop voi y 'nguyên liệu; thành phần':",
+      "options": [
+        "Ingredient",
+        "Product",
+        "Inventory",
+        "Merchandise"
+      ],
+      "answer": 0,
+      "explanation": "Ingredient = nguyen lieu"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đảm bảo; bảo hành'?",
+      "options": [
+        "Guarantee",
+        "Refuse",
+        "Cancel",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Guarantee = bao đam"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'thuộc công nghiệp':",
+      "options": [
+        "Industrial",
+        "Agricultural",
+        "Residential",
+        "Medical"
+      ],
+      "answer": 0,
+      "explanation": "Industrial = thuoc cong nghiep"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'ở nước ngoài'?",
+      "options": [
+        "Overseas",
+        "Domestic",
+        "Local",
+        "Internal"
+      ],
+      "answer": 0,
+      "explanation": "Overseas = o nuoc ngoai"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'người bán; nhà cung cấp' tuong ung voi tu nao?",
+      "options": [
+        "Vendor",
+        "Buyer",
+        "Customer",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nguoi ban"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'ưu tiên' la:",
+      "options": [
+        "Priority",
+        "Trivial",
+        "Minor",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Priority = uu tien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'chính xác'?",
+      "options": [
+        "Accurate",
+        "Wrong",
+        "False",
+        "Incorrect"
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'kết quả':",
+      "options": [
+        "Outcome",
+        "Cause",
+        "Beginning",
+        "Start"
+      ],
+      "answer": 0,
+      "explanation": "Outcome = ket qua"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'hộ gia đình; đồ gia dụng'?",
+      "options": [
+        "Household",
+        "Office",
+        "Company",
+        "School"
+      ],
+      "answer": 0,
+      "explanation": "Household = ho gia đinh"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đặt chỗ' tuong ung tu nao?",
+      "options": [
+        "Reservation",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đi làm xa'?",
+      "options": [
+        "Commute",
+        "Rest",
+        "Play",
+        "Travel"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam xa"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nPlease _____ the street at the traffic light.",
+      "options": [
+        "Cross",
+        "Stop",
+        "Stay",
+        "Wait"
+      ],
+      "answer": 0,
+      "explanation": "Cross = bang qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe _____ signed a one-year lease for the apartment.",
+      "options": [
+        "Tenant",
+        "Landlord",
+        "Customer",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Tenant = nguoi thue."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe roads are heavily _____ during rush hour.",
+      "options": [
+        "Congested",
+        "Empty",
+        "Spacious",
+        "Clear"
+      ],
+      "answer": 0,
+      "explanation": "Congested = đong đuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe store is _____ closed for repairs.",
+      "options": [
+        "Temporarily",
+        "Permanently",
+        "Forever",
+        "Always"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily = tam thoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nFlour is the main _____ in this bread.",
+      "options": [
+        "Ingredient",
+        "Product",
+        "Inventory",
+        "Merchandise"
+      ],
+      "answer": 0,
+      "explanation": "Ingredient = nguyen lieu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThis printer comes with a two-year _____.",
+      "options": [
+        "Guarantee",
+        "Refusal",
+        "Cancellation",
+        "Denial"
+      ],
+      "answer": 0,
+      "explanation": "Guarantee = bao hanh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nMany _____ cut costs during inflation.",
+      "options": [
+        "Households",
+        "Offices",
+        "Companies",
+        "Schools"
+      ],
+      "answer": 0,
+      "explanation": "Household = ho gia đinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company rents an _____ warehouse.",
+      "options": [
+        "Industrial",
+        "Agricultural",
+        "Residential",
+        "Medical"
+      ],
+      "answer": 0,
+      "explanation": "Industrial = thuoc cong nghiep."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nThe firm plans to expand _____ next year.",
+      "options": [
+        "Overseas",
+        "Domestically",
+        "Locally",
+        "Internally"
+      ],
+      "answer": 0,
+      "explanation": "Overseas = o nuoc ngoai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nWe contacted a new office supply _____.",
+      "options": [
+        "Vendor",
+        "Buyer",
+        "Customer",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nha cung cap."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nCustomer safety is our top _____.",
+      "options": [
+        "Priority",
+        "Trivial",
+        "Minor",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Priority = uu tien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe report must be _____ and complete.",
+      "options": [
+        "Accurate",
+        "Wrong",
+        "False",
+        "Incorrect"
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nWe were pleased with the _____ of the campaign.",
+      "options": [
+        "Outcome",
+        "Cause",
+        "Beginning",
+        "Start"
+      ],
+      "answer": 0,
+      "explanation": "Outcome = ket qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe store sells common _____ items.",
+      "options": [
+        "Household",
+        "Office",
+        "Company",
+        "School"
+      ],
+      "answer": 0,
+      "explanation": "Household = đo gia dung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nI made a hotel _____ for next weekend.",
+      "options": [
+        "Reservation",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nHe _____ by train every morning.",
+      "options": [
+        "Commutes",
+        "Rests",
+        "Plays",
+        "Travels"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nPlease show your _____ at the front desk.",
+      "options": [
+        "Identification",
+        "Money",
+        "Food",
+        "Clothes"
+      ],
+      "answer": 0,
+      "explanation": "Identification = giay to tuy than."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nIs there any _____ reason for the delay?",
+      "options": [
+        "Particular",
+        "Random",
+        "General",
+        "Vague"
+      ],
+      "answer": 0,
+      "explanation": "Particular = cu the; đac biet."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe office is located in the business _____.",
+      "options": [
+        "District",
+        "Kitchen",
+        "Garage",
+        "Garden"
+      ],
+      "answer": 0,
+      "explanation": "District = quan; khu vuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nWe arrived _____ for the presentation.",
+      "options": [
+        "In time",
+        "Late",
+        "After",
+        "Never"
+      ],
+      "answer": 0,
+      "explanation": "In time = kip luc."
+    },
+    {
+      "type": "pos",
+      "question": "'Cross' (đong tu) thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Cross la đong tu (bang qua)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Tenant' la gi ve tu loai?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Tenant la danh tu (nguoi thue)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Congested':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Congested la tinh tu (đong đuc)"
+    },
+    {
+      "type": "pos",
+      "question": "'Temporarily' thuoc nhom nao?",
+      "options": [
+        "Trang tu",
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily la trang tu (tam thoi)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Industrial' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Industrial la tinh tu (thuoc cong nghiep)"
+    },
+    {
+      "type": "pos",
+      "question": "'Overseas' la trang tu hay tinh tu?",
+      "options": [
+        "Co the la ca hai",
+        "Chi la trang tu",
+        "Chi la tinh tu",
+        "Chi la danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Overseas co the la ca trang tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Vendor' thuoc loai tu nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Vendor la danh tu (nguoi ban)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Priority' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Priority la danh tu (uu tien)"
+    },
+    {
+      "type": "pos",
+      "question": "'Accurate' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Accurate la tinh tu (chinh xac)"
+    },
+    {
+      "type": "pos",
+      "question": "'Outcome' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Outcome la danh tu (ket qua)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to go from one side to the other'?",
+      "options": [
+        "Cross",
+        "Stop",
+        "Stay",
+        "Wait"
+      ],
+      "answer": 0,
+      "explanation": "Cross = bang qua"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a person who pays to live in or use a property' mo ta tu nao?",
+      "options": [
+        "Tenant",
+        "Landlord",
+        "Customer",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Tenant = nguoi thue"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'crowded or blocked with traffic', tu đo la:",
+      "options": [
+        "Congested",
+        "Empty",
+        "Spacious",
+        "Clear"
+      ],
+      "answer": 0,
+      "explanation": "Congested = đong đuc"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'for a limited period of time'?",
+      "options": [
+        "Temporarily",
+        "Permanently",
+        "Forever",
+        "Always"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily = tam thoi"
+    },
+    {
+      "type": "definition",
+      "question": "'one of the parts used to make food' chi tu:",
+      "options": [
+        "Ingredient",
+        "Product",
+        "Inventory",
+        "Merchandise"
+      ],
+      "answer": 0,
+      "explanation": "Ingredient = nguyen lieu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'a promise that something will work'?",
+      "options": [
+        "Guarantee",
+        "Refusal",
+        "Cancellation",
+        "Denial"
+      ],
+      "answer": 0,
+      "explanation": "Guarantee = bao đam"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'related to manufacturing' chi tu:",
+      "options": [
+        "Industrial",
+        "Agricultural",
+        "Residential",
+        "Medical"
+      ],
+      "answer": 0,
+      "explanation": "Industrial = thuoc cong nghiep"
+    },
+    {
+      "type": "definition",
+      "question": "'a person or company that sells something' mo ta tu:",
+      "options": [
+        "Vendor",
+        "Buyer",
+        "Customer",
+        "Employee"
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nguoi ban"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'something more important than others'?",
+      "options": [
+        "Priority",
+        "Trivial",
+        "Minor",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Priority = uu tien"
+    },
+    {
+      "type": "definition",
+      "question": "'correct and free from mistakes' mo ta tu nao?",
+      "options": [
+        "Accurate",
+        "Wrong",
+        "False",
+        "Incorrect"
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac"
+    },
+    {
+      "type": "definition",
+      "question": "'the final result' mo ta tu nao?",
+      "options": [
+        "Outcome",
+        "Cause",
+        "Beginning",
+        "Start"
+      ],
+      "answer": 0,
+      "explanation": "Outcome = ket qua"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Commute' chinh xac nhat?",
+      "options": [
+        "đi lam xa",
+        "nghi ngoi",
+        "đi choi",
+        "đi du lich"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam xa; di chuyen đi lam"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Congested' la:",
+      "options": [
+        "đong đuc",
+        "trong rong",
+        "vang ve",
+        "de chiu"
+      ],
+      "answer": 0,
+      "explanation": "Congested = đong đuc; tac nghen"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Guarantee' gan voi y nao nhat?",
+      "options": [
+        "bao đam",
+        "tu choi",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Guarantee = bao đam; bao hanh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Priority' la gi?",
+      "options": [
+        "uu tien",
+        "it quan trong",
+        "phu gian",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Priority = uu tien; đieu quan trong nhat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Outcome' la:",
+      "options": [
+        "ket qua",
+        "nguyen nhan",
+        "bat đau",
+        "ket thuc"
+      ],
+      "answer": 0,
+      "explanation": "Outcome = ket qua; pham chat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Accurate' co nghia gan voi:",
+      "options": [
+        "chinh xac",
+        "sai lam",
+        "khong chinh xac",
+        "đoan mo"
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Vendor' la gi?",
+      "options": [
+        "nguoi ban",
+        "nguoi mua",
+        "khach hang",
+        "nhan vien"
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nguoi ban; nha cung cap"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Overseas' mang y nao gan nhat?",
+      "options": [
+        "o nuoc ngoai",
+        "trong nuoc",
+        "đia phuong",
+        "noi đia"
+      ],
+      "answer": 0,
+      "explanation": "Overseas = o nuoc ngoai; ben ngoai"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Temporarily' mang y nao gan nhat?",
+      "options": [
+        "tam thoi",
+        "vinh vien",
+        "hoan toan",
+        "mot phan"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily = tam thoi; trong thoi gian ngan"
+    },
+    {
+      "type": "collocation",
+      "question": "''Commute' thuong ket hop voi tu nao?",
+      "options": [
+        "Daily commute",
+        "Tasty commute",
+        "Cold commute",
+        "Dark commute"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: daily commute, long commute"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Priority'?",
+      "options": [
+        "Top priority",
+        "Tasty priority",
+        "Cold priority",
+        "Dark priority"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: top priority, give priority"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Reservation' thuong đi cung cum nao?",
+      "options": [
+        "Make a reservation",
+        "Tasty reservation",
+        "Cold reservation",
+        "Dark reservation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: make a reservation, confirm a reservation"
+    },
+    {
+      "type": "collocation",
+      "question": "''Accurate' thuong xuat hien trong cum nao?",
+      "options": [
+        "Highly accurate",
+        "Tasty accurate",
+        "Cold accurate",
+        "Dark accurate"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: highly accurate, accurate data"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Ingredient':",
+      "options": [
+        "Main ingredient",
+        "Tasty ingredient",
+        "Cold ingredient",
+        "Dark ingredient"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: main ingredient, natural ingredient"
+    },
+    {
+      "type": "collocation",
+      "question": "''Household' đi cung voi tu nao?",
+      "options": [
+        "Household goods",
+        "Tasty household",
+        "Cold household",
+        "Dark household"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: household goods, household expenses"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'District'?",
+      "options": [
+        "Business district",
+        "Tasty district",
+        "Cold district",
+        "Dark district"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: business district, school district"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Commute' lien quan đên ngucanh nao?",
+      "options": [
+        "Đi lai, giao thong",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam, ngucanh giao thong"
+    },
+    {
+      "type": "context",
+      "question": "''Ingredient' thuoc linh vuc nao?",
+      "options": [
+        "Am thuc, san xuat",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Ingredient = nguyen lieu, ngucanh am thuc"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Vendor' lien quan chinh đên gi?",
+      "options": [
+        "Ban hang, cung cap",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nguoi ban, ngucanh ban hang"
+    },
+    {
+      "type": "context",
+      "question": "''Industrial' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "San xuat, cong nghiep",
+        "Y te",
+        "The thao",
+        "Am thuc"
+      ],
+      "answer": 0,
+      "explanation": "Industrial = thuoc cong nghiep"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'District' lien quan đên linhvuc nao?",
+      "options": [
+        "Đia ly, hanh chinh",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "District = quan; khu vuc"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Cross",
+        "Commute",
+        "Confirm",
+        "Tenant"
+      ],
+      "answer": 3,
+      "explanation": "Tenant la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Congested",
+        "Industrial",
+        "Accurate",
+        "Cross"
+      ],
+      "answer": 3,
+      "explanation": "Cross la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Temporarily",
+        "Overseas",
+        "Definitely",
+        "Tenant"
+      ],
+      "answer": 3,
+      "explanation": "Tenant la danh tu; 3 tu con lai la trang tu/tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Tenant",
+        "Vendor",
+        "Priority",
+        "Accurate"
+      ],
+      "answer": 3,
+      "explanation": "Accurate la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Congested",
+        "Industrial",
+        "Accurate",
+        "Outcome"
+      ],
+      "answer": 3,
+      "explanation": "Outcome la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Commute' đung?",
+      "options": [
+        "He commutes by train every morning.",
+        "She commute very beautiful today.",
+        "They commute sunny weather.",
+        "He commute the red color."
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam, đung voi tau, xe"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Guarantee' đung?",
+      "options": [
+        "This printer comes with a two-year guarantee.",
+        "She guarantee very tired today.",
+        "They guarantee sunny weather.",
+        "He guarantee the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Guarantee = bao hanh, đung voi san pham, thiet bi"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Priority':",
+      "options": [
+        "Customer safety is our top priority.",
+        "The weather priority warm tomorrow.",
+        "She priority very tired today.",
+        "They priority the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Priority = uu tien, đung voi an toan, dich vu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Accurate' phu hop?",
+      "options": [
+        "The report must be accurate and complete.",
+        "She accurate very beautiful dress.",
+        "They accurate sunny weather today.",
+        "He accurate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Accurate = chinh xac, đung voi bao cao, du lieu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Vendor':",
+      "options": [
+        "We contacted a new office supply vendor.",
+        "She vendor very beautiful today.",
+        "They vendor the sweet taste.",
+        "He vendor quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Vendor = nha cung cap, đung voi van phong pham"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Congested'?",
+      "options": [
+        "Clear",
+        "Crowded",
+        "Blocked",
+        "Packed"
+      ],
+      "answer": 0,
+      "explanation": "Congested (đong đuc) trai nghia voi Clear (thong thoang)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Accurate'?",
+      "options": [
+        "Correct",
+        "Wrong",
+        "False",
+        "Incorrect"
+      ],
+      "answer": 0,
+      "explanation": "Accurate ~ Correct (chinh xac)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Temporarily'?",
+      "options": [
+        "Permanently",
+        "Briefly",
+        "Shortly",
+        "For now"
+      ],
+      "answer": 0,
+      "explanation": "Temporarily (tam thoi) trai nghia voi Permanently (vinh vien)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'He commutes by train every morning', tu 'commutes' gan nghia voi?",
+      "options": [
+        "Travels",
+        "Stays",
+        "Rests",
+        "Sleeps"
+      ],
+      "answer": 0,
+      "explanation": "Commutes ~ Travels (đi lai)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Customer safety is our top priority', tu nao thay đuoc 'priority'?",
+      "options": [
+        "Concern",
+        "Trivial",
+        "Minor",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Priority ~ Concern (mối quan tâm hàng đầu)"
+    }
+  ]
+}

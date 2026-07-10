@@ -1,0 +1,1263 @@
+{
+  "skill": "reading",
+  "test": "Test 6",
+  "title": "ETS Reading 2026 - Test 6",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Practical' co nghia la gi?",
+      "options": [
+        "thuc te; huu ich",
+        "ly thuyet",
+        "vo dung",
+        "phuc tap"
+      ],
+      "answer": 0,
+      "explanation": "Practical = thuc te; huu ich"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Ensure' la:",
+      "options": [
+        "bao đam",
+        "huy bo",
+        "tu choi",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Ensure = bao đam (cho chac chan)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Innovative' mang y nghia nao?",
+      "options": [
+        "đoi moi; sang tao",
+        "cu xu",
+        "truyen thong",
+        "bao thu"
+      ],
+      "answer": 0,
+      "explanation": "Innovative = đoi moi; sang tao"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Distinctive':",
+      "options": [
+        "đac trung; noi bat",
+        "binh thuong",
+        "đon điệu",
+        "nhạt nheo"
+      ],
+      "answer": 0,
+      "explanation": "Distinctive = đac trung; noi bat"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Streamline' đuoc hieu la:",
+      "options": [
+        "đon gian hoa; tinh gon",
+        "lam phuc tap",
+        "them buoc",
+        "keo dai"
+      ],
+      "answer": 0,
+      "explanation": "Streamline = đon gian hoa; tinh gon"
+    },
+    {
+      "type": "meaning",
+      "question": "'Eliminate' co nghia la gi?",
+      "options": [
+        "loai bo",
+        "them vao",
+        "giu lai",
+        "tang len"
+      ],
+      "answer": 0,
+      "explanation": "Eliminate = loai bo (hoan toan)"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Fundamental'?",
+      "options": [
+        "co ban; cot loi",
+        "phu gian",
+        "it quan trong",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Fundamental = co ban; cot loi"
+    },
+    {
+      "type": "meaning",
+      "question": "'Confident' mang y nghia:",
+      "options": [
+        "tu tin; chac chan",
+        "tự ti",
+        "ngần ngại",
+        "lo lang"
+      ],
+      "answer": 0,
+      "explanation": "Confident = tu tin; chac chan"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Integral' la:",
+      "options": [
+        "khong the thieu; thiet yeu",
+        "phu gian",
+        "it quan trong",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Integral = khong the thieu; thiet yeu"
+    },
+    {
+      "type": "meaning",
+      "question": "'Profitable' đuoc hieu nhu the nao?",
+      "options": [
+        "co loi nhuan",
+        "thua lo",
+        "hoa von",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Profitable = co loi nhuan"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Abundant' co nghia la:",
+      "options": [
+        "đoi dao; phong phu",
+        "thieu hut",
+        "it oi",
+        "het han"
+      ],
+      "answer": 0,
+      "explanation": "Abundant = đoi dao; phong phu"
+    },
+    {
+      "type": "meaning",
+      "question": "'Reliable' mang y nghia nao?",
+      "options": [
+        "đang tin cay",
+        "khong đang tin",
+        "bat on",
+        "nguy hiem"
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Stunning' la:",
+      "options": [
+        "tuyet đep; gay an tuong",
+        "xau xi",
+        "binh thuong",
+        "nhat nheo"
+      ],
+      "answer": 0,
+      "explanation": "Stunning = tuyet đep; gay an tuong manh"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Adequate':",
+      "options": [
+        "đu; thoa đang",
+        "thieu hut",
+        "qua it",
+        "khong đu"
+      ],
+      "answer": 0,
+      "explanation": "Adequate = đu; thoa đang"
+    },
+    {
+      "type": "meaning",
+      "question": "'Harmful' co nghia la gi?",
+      "options": [
+        "co hai",
+        "vo hại",
+        "tốt lành",
+        "an toan"
+      ],
+      "answer": 0,
+      "explanation": "Harmful = co hai"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'đổi mới; sáng tạo'?",
+      "options": [
+        "Innovative",
+        "Traditional",
+        "Old-fashioned",
+        "Outdated"
+      ],
+      "answer": 0,
+      "explanation": "Innovative = đoi moi; sang tao"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'đảm bảo'?",
+      "options": [
+        "Ensure",
+        "Cancel",
+        "Deny",
+        "Refuse"
+      ],
+      "answer": 0,
+      "explanation": "Ensure = bao đam"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'loại bỏ':",
+      "options": [
+        "Eliminate",
+        "Add",
+        "Keep",
+        "Include"
+      ],
+      "answer": 0,
+      "explanation": "Eliminate = loai bo"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'đáng tin cậy'?",
+      "options": [
+        "Reliable",
+        "Unreliable",
+        "Risky",
+        "Dangerous"
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'tối ưu':",
+      "options": [
+        "Optimal",
+        "Worst",
+        "Poor",
+        "Subpar"
+      ],
+      "answer": 0,
+      "explanation": "Optimal = toi uu"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đặc trưng; nổi bật'?",
+      "options": [
+        "Distinctive",
+        "Ordinary",
+        "Common",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Distinctive = đac trung; noi bat"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'thiết yếu; không thể thiếu':",
+      "options": [
+        "Integral",
+        "Optional",
+        "Extra",
+        "Unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "Integral = khong the thieu"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'có lợi nhuận'?",
+      "options": [
+        "Profitable",
+        "Bankrupt",
+        "Broke",
+        "Loss-making"
+      ],
+      "answer": 0,
+      "explanation": "Profitable = co loi nhuan"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'tuyệt đẹp; ấn tượng' tuong ung voi tu nao?",
+      "options": [
+        "Stunning",
+        "Ugly",
+        "Plain",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Stunning = tuyet đep"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'cơ bản; cốt lõi' la:",
+      "options": [
+        "Fundamental",
+        "Minor",
+        "Trivial",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Fundamental = co ban; cot loi"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đơn giản hóa; tinh gọn'?",
+      "options": [
+        "Streamline",
+        "Complicate",
+        "Expand",
+        "Add"
+      ],
+      "answer": 0,
+      "explanation": "Streamline = đon gian hoa; tinh gon"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'đủ; thỏa đáng':",
+      "options": [
+        "Adequate",
+        "Insufficient",
+        "Lacking",
+        "Deficient"
+      ],
+      "answer": 0,
+      "explanation": "Adequate = đu; thoa đang"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'dồi dào; phong phú'?",
+      "options": [
+        "Abundant",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "answer": 0,
+      "explanation": "Abundant = đoi dao; phong phu"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'có hại' tuong ung tu nao?",
+      "options": [
+        "Harmful",
+        "Safe",
+        "Beneficial",
+        "Harmless"
+      ],
+      "answer": 0,
+      "explanation": "Harmful = co hai"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'thuộc doanh nghiệp'?",
+      "options": [
+        "Corporate",
+        "Personal",
+        "Public",
+        "Private"
+      ],
+      "answer": 0,
+      "explanation": "Corporate = thuoc doanh nghiep"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThis workshop offers _____ advice for small business owners.",
+      "options": [
+        "Practical",
+        "Useless",
+        "Impractical",
+        "Theoretical"
+      ],
+      "answer": 0,
+      "explanation": "Practical = thuc te."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nPlease double-check the figures to _____ accuracy.",
+      "options": [
+        "Ensure",
+        "Avoid",
+        "Ignore",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Ensure = bao đam."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe company is known for its _____ approach to design.",
+      "options": [
+        "Innovative",
+        "Traditional",
+        "Old-fashioned",
+        "Outdated"
+      ],
+      "answer": 0,
+      "explanation": "Innovative = đoi moi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe brand is known for its _____ logo and packaging.",
+      "options": [
+        "Distinctive",
+        "Ordinary",
+        "Common",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Distinctive = đac trung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe company is trying to _____ its hiring process.",
+      "options": [
+        "Streamline",
+        "Complicate",
+        "Expand",
+        "Lengthen"
+      ],
+      "answer": 0,
+      "explanation": "Streamline = tinh gon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe company is trying to _____ unnecessary steps in the process.",
+      "options": [
+        "Eliminate",
+        "Add",
+        "Keep",
+        "Include"
+      ],
+      "answer": 0,
+      "explanation": "Eliminate = loai bo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nTrust is _____ to a successful partnership.",
+      "options": [
+        "Fundamental",
+        "Trivial",
+        "Minor",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Fundamental = co ban."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nShe felt _____ about presenting to senior management.",
+      "options": [
+        "Confident",
+        "Nervous",
+        "Afraid",
+        "Worried"
+      ],
+      "answer": 0,
+      "explanation": "Confident = tu tin."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nTrust is an _____ part of any successful team.",
+      "options": [
+        "Integral",
+        "Optional",
+        "Extra",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Integral = khong the thieu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nThe new branch became _____ within its first year.",
+      "options": [
+        "Profitable",
+        "Bankrupt",
+        "Broke",
+        "Loss-making"
+      ],
+      "answer": 0,
+      "explanation": "Profitable = co loi nhuan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe region has _____ natural resources.",
+      "options": [
+        "Abundant",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "answer": 0,
+      "explanation": "Abundant = đoi dao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nWe need a _____ supplier for monthly deliveries.",
+      "options": [
+        "Reliable",
+        "Unreliable",
+        "Risky",
+        "Inconsistent"
+      ],
+      "answer": 0,
+      "explanation": "Reliable = đang tin cay."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe hotel offers _____ views of the coastline.",
+      "options": [
+        "Stunning",
+        "Ugly",
+        "Plain",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Stunning = tuyet đep."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe office has _____ space for the new team.",
+      "options": [
+        "Adequate",
+        "Insufficient",
+        "Lacking",
+        "Deficient"
+      ],
+      "answer": 0,
+      "explanation": "Adequate = đu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThese chemicals may be _____ if handled incorrectly.",
+      "options": [
+        "Harmful",
+        "Safe",
+        "Beneficial",
+        "Harmless"
+      ],
+      "answer": 0,
+      "explanation": "Harmful = co hai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe hotel often hosts _____ events and conferences.",
+      "options": [
+        "Corporate",
+        "Personal",
+        "Private",
+        "Casual"
+      ],
+      "answer": 0,
+      "explanation": "Corporate = thuoc doanh nghiep."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThis temperature range is _____ for storing the medicine.",
+      "options": [
+        "Optimal",
+        "Worst",
+        "Poor",
+        "Subpar"
+      ],
+      "answer": 0,
+      "explanation": "Optimal = toi uu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe company _____ its corporate image with a new brand identity.",
+      "options": [
+        "Updated",
+        "Destroyed",
+        "Removed",
+        "Deleted"
+      ],
+      "answer": 0,
+      "explanation": "Update = cap nhat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nEach employee has a fully equipped _____.",
+      "options": [
+        "Workstation",
+        "Kitchen",
+        "Garage",
+        "Garden"
+      ],
+      "answer": 0,
+      "explanation": "Workstation = tram lam viec."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe company publishes _____ earnings reports.",
+      "options": [
+        "Quarterly",
+        "Daily",
+        "Hourly",
+        "Never"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly = hàng quy."
+    },
+    {
+      "type": "pos",
+      "question": "'Ensure' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Ensure la đong tu (bao đam)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Practical' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Practical la tinh tu (thuc te)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Innovative':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Innovative la tinh tu (đoi moi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Eliminate' thuoc nhom nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Eliminate la đong tu (loai bo)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Fundamental' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Fundamental la tinh tu (co ban)"
+    },
+    {
+      "type": "pos",
+      "question": "'Reliable' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Reliable la tinh tu (đang tin cay)"
+    },
+    {
+      "type": "pos",
+      "question": "'Abundant' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Abundant la tinh tu (đoi dao)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Integral' la danh tu hay tinh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Integral la tinh tu (khong the thieu)"
+    },
+    {
+      "type": "pos",
+      "question": "'Profitable' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Profitable la tinh tu (co loi nhuan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Quarterly' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly la tinh tu (hàng quy)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'useful and suited to real situations'?",
+      "options": [
+        "Practical",
+        "Theoretical",
+        "Useless",
+        "Impractical"
+      ],
+      "answer": 0,
+      "explanation": "Practical = thuc te; huu ich"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to make certain that something will happen' mo ta tu nao?",
+      "options": [
+        "Ensure",
+        "Cancel",
+        "Deny",
+        "Refuse"
+      ],
+      "answer": 0,
+      "explanation": "Ensure = bao đam"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'introducing new ideas, methods, or products', tu đo la:",
+      "options": [
+        "Innovative",
+        "Traditional",
+        "Old",
+        "Outdated"
+      ],
+      "answer": 0,
+      "explanation": "Innovative = đoi moi"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'having a quality that makes something clearly different'?",
+      "options": [
+        "Distinctive",
+        "Ordinary",
+        "Common",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Distinctive = đac trung"
+    },
+    {
+      "type": "definition",
+      "question": "'to make a system or process simpler and more efficient' chi tu:",
+      "options": [
+        "Streamline",
+        "Complicate",
+        "Expand",
+        "Lengthen"
+      ],
+      "answer": 0,
+      "explanation": "Streamline = tinh gon"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'to remove something completely'?",
+      "options": [
+        "Eliminate",
+        "Add",
+        "Keep",
+        "Include"
+      ],
+      "answer": 0,
+      "explanation": "Eliminate = loai bo"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'forming the base or most important part' chi tu:",
+      "options": [
+        "Fundamental",
+        "Trivial",
+        "Minor",
+        "Insignificant"
+      ],
+      "answer": 0,
+      "explanation": "Fundamental = co ban"
+    },
+    {
+      "type": "definition",
+      "question": "'necessary and forming an important part of something' mo ta tu:",
+      "options": [
+        "Integral",
+        "Optional",
+        "Extra",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Integral = khong the thieu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'making a profit'?",
+      "options": [
+        "Profitable",
+        "Bankrupt",
+        "Broke",
+        "Loss-making"
+      ],
+      "answer": 0,
+      "explanation": "Profitable = co loi nhuan"
+    },
+    {
+      "type": "definition",
+      "question": "'existing in large quantities' mo ta tu nao?",
+      "options": [
+        "Abundant",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "answer": 0,
+      "explanation": "Abundant = đoi dao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Incorporate' chinh xac nhat?",
+      "options": [
+        "ket hop; đua vao",
+        "loai bo",
+        "an gia",
+        "xoa đi"
+      ],
+      "answer": 0,
+      "explanation": "Incorporate = ket hop; đua vao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Constitute' la:",
+      "options": [
+        "cau thanh",
+        "phá hủy",
+        "loai bo",
+        "bo đi"
+      ],
+      "answer": 0,
+      "explanation": "Constitute = cau thanh; tao thanh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Fulfill' gan voi y nao nhat?",
+      "options": [
+        "hoan thanh",
+        "bo cuoc",
+        "huy bo",
+        "hoan lai"
+      ],
+      "answer": 0,
+      "explanation": "Fulfill = hoan thanh; thuc hien"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Moderation' la gi?",
+      "options": [
+        "su đieu đỗ",
+        "su cuc đoan",
+        "sự thừa mứa",
+        "su thieu hut"
+      ],
+      "answer": 0,
+      "explanation": "Moderation = su đieu đỗ; muc vua phai"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Exploit' la:",
+      "options": [
+        "tan dung",
+        "bỏ qua",
+        "phá hủy",
+        "an gia"
+      ],
+      "answer": 0,
+      "explanation": "Exploit = tan dung; khai thac"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Conserve' co nghia gan voi:",
+      "options": [
+        "bao ton",
+        "phá hủy",
+        "lãng phí",
+        "bỏ đi"
+      ],
+      "answer": 0,
+      "explanation": "Conserve = bao ton; tiet kiem"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Cultivate' la gi?",
+      "options": [
+        "nuoi duong",
+        "phá hủy",
+        "cắt bỏ",
+        "bỏ qua"
+      ],
+      "answer": 0,
+      "explanation": "Cultivate = trong trot; nuoi duong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Nourish' mang y nao gan nhat?",
+      "options": [
+        "nuoi duong",
+        "bỏ đói",
+        "làm hại",
+        "phá hủy"
+      ],
+      "answer": 0,
+      "explanation": "Nourish = nuoi duong; cung cap duong chat"
+    },
+    {
+      "type": "collocation",
+      "question": "'Practical' thuong ket hop voi tu nao?",
+      "options": [
+        "Practical solution",
+        "Tasty solution",
+        "Cold solution",
+        "Dark solution"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: practical solution, practical skills"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Insurance'?",
+      "options": [
+        "Insurance policy",
+        "Tasty insurance",
+        "Cold insurance",
+        "Dark insurance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: insurance policy, insurance coverage"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Security' thuong đi cung cum nao?",
+      "options": [
+        "Building security",
+        "Tasty security",
+        "Cold security",
+        "Dark security"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: building security, security system"
+    },
+    {
+      "type": "collocation",
+      "question": "'Workstation' thuong xuat hien trong cum nao?",
+      "options": [
+        "Equipped workstation",
+        "Tasty workstation",
+        "Cold workstation",
+        "Dark workstation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: equipped workstation, computer workstation"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Specification':",
+      "options": [
+        "Technical specifications",
+        "Tasty specifications",
+        "Cold specifications",
+        "Dark specifications"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: technical specifications, product specifications"
+    },
+    {
+      "type": "collocation",
+      "question": "'Guidance' đi cung voi tu nao?",
+      "options": [
+        "Career guidance",
+        "Tasty guidance",
+        "Cold guidance",
+        "Dark guidance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: career guidance, expert guidance"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Reputation'?",
+      "options": [
+        "Strong reputation",
+        "Tasty reputation",
+        "Cold reputation",
+        "Dark reputation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: strong reputation, good reputation"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Amenity' lien quan đên ngucanh nao?",
+      "options": [
+        "Khach san, bat đong san",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Amenity = tien nghi, ngucanh khach san"
+    },
+    {
+      "type": "context",
+      "question": "'Botanical' thuoc linh vuc nao?",
+      "options": [
+        "Thuc vat, khoa hoc",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Botanical = thuoc thuc vat, ngucanh khoa hoc"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Wildlife' lien quan chinh đên gi?",
+      "options": [
+        "Moi truong, thien nhien",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Wildlife = đong vat hoang da, ngucanh moi truong"
+    },
+    {
+      "type": "context",
+      "question": "'Recreation' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Giai tri, the thao",
+        "Y te",
+        "Tai chinh",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Recreation = hoat đong giai tri"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Athletic' lien quan đên linhvuc nao?",
+      "options": [
+        "The thao",
+        "Tai chinh",
+        "Y te",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Athletic = thuoc the thao"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Ensure",
+        "Eliminate",
+        "Streamline",
+        "Abundant"
+      ],
+      "answer": 3,
+      "explanation": "Abundant la tinh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Practical",
+        "Innovative",
+        "Reliable",
+        "Eliminate"
+      ],
+      "answer": 3,
+      "explanation": "Eliminate la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Profitable",
+        "Stunning",
+        "Adequate",
+        "Ensure"
+      ],
+      "answer": 3,
+      "explanation": "Ensure la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Insurance",
+        "Guidance",
+        "Security",
+        "Innovative"
+      ],
+      "answer": 3,
+      "explanation": "Innovative la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Fundamental",
+        "Integral",
+        "Distinctive",
+        "Specification"
+      ],
+      "answer": 3,
+      "explanation": "Specification la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Ensure' đung?",
+      "options": [
+        "Please double-check the figures to ensure accuracy.",
+        "She ensure very beautiful today.",
+        "They ensure sunny weather.",
+        "He ensure the red color."
+      ],
+      "answer": 0,
+      "explanation": "Ensure = bao đam, đung voi ket qua, tinh chinh xac"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Eliminate' đung?",
+      "options": [
+        "The company is trying to eliminate unnecessary steps in the process.",
+        "She eliminate very tired today.",
+        "They eliminate sunny weather.",
+        "He eliminate the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Eliminate = loai bo, đung voi buoc, rui ro"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Streamline':",
+      "options": [
+        "The company is trying to streamline its hiring process.",
+        "The weather streamline warm tomorrow.",
+        "She streamline very tired today.",
+        "They streamline the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Streamline = tinh gon, đung voi qua trinh"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Incorporate' phu hop?",
+      "options": [
+        "The new policy incorporates feedback from employees.",
+        "She incorporate very beautiful dress.",
+        "They incorporate sunny weather today.",
+        "He incorporate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Incorporate = ket hợp, đung voi y kien, phan hoi"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Conserve':",
+      "options": [
+        "Please turn off unused lights to conserve energy.",
+        "She conserve very beautiful today.",
+        "They conserve the sweet taste.",
+        "He conserve quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Conserve = tiet kiem; bao ton, đung voi nang luong, tai ngien"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Harmful'?",
+      "options": [
+        "Safe",
+        "Dangerous",
+        "Toxic",
+        "Deadly"
+      ],
+      "answer": 0,
+      "explanation": "Harmful (co hai) trai nghia voi Safe (an toan). Notes ghi: Opposite: harmless"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Reliable'?",
+      "options": [
+        "Dependable",
+        "Unreliable",
+        "Risky",
+        "Inconsistent"
+      ],
+      "answer": 0,
+      "explanation": "Reliable ~ Dependable (đang tin cay)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Adequate'?",
+      "options": [
+        "Insufficient",
+        "Enough",
+        "Sufficient",
+        "Plenty"
+      ],
+      "answer": 0,
+      "explanation": "Adequate (đu) trai nghia voi Insufficient (khong đu). Notes ghi: Opposite: inadequate"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company is known for its innovative approach', tu 'innovative' gan nghia voi?",
+      "options": [
+        "Creative",
+        "Old",
+        "Traditional",
+        "Standard"
+      ],
+      "answer": 0,
+      "explanation": "Innovative ~ Creative"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The hotel offers abundant natural resources', tu nao thay đuoc 'abundant'?",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Rare",
+        "Limited"
+      ],
+      "answer": 0,
+      "explanation": "Abundant ~ Plentiful (đoi dao)"
+    }
+  ]
+}

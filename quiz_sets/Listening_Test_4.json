@@ -1,0 +1,1287 @@
+{
+  "skill": "listening",
+  "test": "Test 4",
+  "title": "ETS Listening 2026 - Test 4",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Container' co nghia la gi?",
+      "options": [
+        "thung chua; container",
+        "kho hang",
+        "van phong",
+        "nha xuong"
+      ],
+      "answer": 0,
+      "explanation": "Container = thung chua; container van chuyen"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Seal' la:",
+      "options": [
+        "niem phong; con dau",
+        "mo ra",
+        "đoc ra",
+        "đao vao"
+      ],
+      "answer": 0,
+      "explanation": "Seal = niem phong; con dau"
+    },
+    {
+      "type": "meaning",
+      "question": "'Inspector' mang y nghia nao?",
+      "options": [
+        "thanh tra; nguoi kiem tra",
+        "nhan vien",
+        "khach hang",
+        "nha cung cap"
+      ],
+      "answer": 0,
+      "explanation": "Inspector = thanh tra; nguoi kiem tra"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Exterior':",
+      "options": [
+        "ben ngoai; ngoai that",
+        "ben trong",
+        "noi that",
+        "trong nha"
+      ],
+      "answer": 0,
+      "explanation": "Exterior = ben ngoai; ngoai that"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Representative' đuoc hieu la:",
+      "options": [
+        "đai dien; nguoi phat ngon",
+        "khach hang",
+        "nha cung cap",
+        "đoi thu"
+      ],
+      "answer": 0,
+      "explanation": "Representative = đai dien; nguoi phat ngon"
+    },
+    {
+      "type": "meaning",
+      "question": "'Registration' co nghia la gi?",
+      "options": [
+        "đang ky",
+        "huy bo",
+        "tu choi",
+        "hoan lai"
+      ],
+      "answer": 0,
+      "explanation": "Registration = su đang ky"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Quarterly'?",
+      "options": [
+        "hàng quy",
+        "hàng tháng",
+        "hàng tuần",
+        "hàng ngày"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly = hàng quy (3 thang 1 lan)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Adjust' mang y nghia:",
+      "options": [
+        "đieu chinh",
+        "giu nguyen",
+        "huy bo",
+        "phá hủy"
+      ],
+      "answer": 0,
+      "explanation": "Adjust = đieu chinh"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Pitch' (danh tu kinh doanh) la:",
+      "options": [
+        "bai chao ban; thuyet trinh chao hang",
+        "bai hat",
+        "san bong",
+        "đo cao"
+      ],
+      "answer": 0,
+      "explanation": "Pitch = bai chao ban; thuyet trinh chao hang"
+    },
+    {
+      "type": "meaning",
+      "question": "'Greet' đuoc hieu nhu the nao?",
+      "options": [
+        "chao hoi",
+        "tu choi",
+        "bo đi",
+        "đuổi đi"
+      ],
+      "answer": 0,
+      "explanation": "Greet = chao hoi; đoan chao"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Onboarding' co nghia la:",
+      "options": [
+        "qua trinh tiep nhan nhan vien",
+        "qua trinh sa thai",
+        "qua trinh nghi huu",
+        "qua trinh thang chuc"
+      ],
+      "answer": 0,
+      "explanation": "Onboarding = qua trinh tiep nhan nhan vien moi"
+    },
+    {
+      "type": "meaning",
+      "question": "'Institution' mang y nghia nao?",
+      "options": [
+        "to chuc; co quan",
+        "nhan vien",
+        "khach hang",
+        "san pham"
+      ],
+      "answer": 0,
+      "explanation": "Institution = to chuc; co quan"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Target audience' la:",
+      "options": [
+        "đoi tuong muc tieu",
+        "khan gia chung",
+        "nhan vien",
+        "khach hang cu"
+      ],
+      "answer": 0,
+      "explanation": "Target audience = đoi tuong muc tieu"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Launch':",
+      "options": [
+        "ra mat; khoi đong",
+        "huy bo",
+        "ket thuc",
+        "đong cua"
+      ],
+      "answer": 0,
+      "explanation": "Launch = ra mat; khoi đong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Doubtful' co nghia la gi?",
+      "options": [
+        "đang nghi; khong chac",
+        "chac chan",
+        "tin tuong",
+        "hoan toan"
+      ],
+      "answer": 0,
+      "explanation": "Doubtful = đang nghi; khong chac"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'thùng chứa'?",
+      "options": [
+        "Container",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Container = thung chua"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'niêm phong; con dấu'?",
+      "options": [
+        "Seal",
+        "Open",
+        "Break",
+        "Tear"
+      ],
+      "answer": 0,
+      "explanation": "Seal = niem phong"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'thanh tra; người kiểm tra':",
+      "options": [
+        "Inspector",
+        "Employee",
+        "Customer",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Inspector = thanh tra"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'bên ngoài; ngoại thất'?",
+      "options": [
+        "Exterior",
+        "Interior",
+        "Inside",
+        "Indoor"
+      ],
+      "answer": 0,
+      "explanation": "Exterior = ben ngoai"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'đại diện; người phát ngôn':",
+      "options": [
+        "Representative",
+        "Customer",
+        "Vendor",
+        "Rival"
+      ],
+      "answer": 0,
+      "explanation": "Representative = đai dien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đăng ký'?",
+      "options": [
+        "Registration",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Registration = su đang ky"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'hàng quý':",
+      "options": [
+        "Quarterly",
+        "Monthly",
+        "Weekly",
+        "Daily"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly = hàng quy"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'điều chỉnh'?",
+      "options": [
+        "Adjust",
+        "Keep",
+        "Cancel",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Adjust = đieu chinh"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đối tượng mục tiêu' tuong ung voi tu nao?",
+      "options": [
+        "Target audience",
+        "General public",
+        "Employees",
+        "Old customers"
+      ],
+      "answer": 0,
+      "explanation": "Target audience = đoi tuong muc tieu"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'ra mắt; khởi động' la:",
+      "options": [
+        "Launch",
+        "Close",
+        "End",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Launch = ra mat"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'chào hỏi'?",
+      "options": [
+        "Greet",
+        "Ignore",
+        "Avoid",
+        "Leave"
+      ],
+      "answer": 0,
+      "explanation": "Greet = chao hoi"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'tổ chức; cơ quan':",
+      "options": [
+        "Institution",
+        "Employee",
+        "Customer",
+        "Product"
+      ],
+      "answer": 0,
+      "explanation": "Institution = to chuc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'đáng nghi; không chắc'?",
+      "options": [
+        "Doubtful",
+        "Certain",
+        "Sure",
+        "Confident"
+      ],
+      "answer": 0,
+      "explanation": "Doubtful = đang nghi"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'bài chào bán' tuong ung tu nao?",
+      "options": [
+        "Pitch",
+        "Song",
+        "Field",
+        "Height"
+      ],
+      "answer": 0,
+      "explanation": "Pitch = bai chao ban"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'quá trình tiếp nhận nhân viên'?",
+      "options": [
+        "Onboarding",
+        "Dismissal",
+        "Retirement",
+        "Promotion"
+      ],
+      "answer": 0,
+      "explanation": "Onboarding = qua trinh tiep nhan nhan vien"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe goods were packed in a large _____.",
+      "options": [
+        "Container",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Container = thung chua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nPlease _____ the package before mailing it.",
+      "options": [
+        "Seal",
+        "Open",
+        "Break",
+        "Tear"
+      ],
+      "answer": 0,
+      "explanation": "Seal = niem phong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe safety _____ examined the building carefully.",
+      "options": [
+        "Inspector",
+        "Employee",
+        "Customer",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Inspector = thanh tra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe _____ of the building was recently painted.",
+      "options": [
+        "Exterior",
+        "Interior",
+        "Inside",
+        "Indoor"
+      ],
+      "answer": 0,
+      "explanation": "Exterior = ben ngoai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nA sales _____ will contact you soon.",
+      "options": [
+        "Representative",
+        "Customer",
+        "Vendor",
+        "Rival"
+      ],
+      "answer": 0,
+      "explanation": "Representative = đai dien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nOnline _____ closes on Friday.",
+      "options": [
+        "Registration",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Registration = su đang ky."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe company publishes _____ earnings reports.",
+      "options": [
+        "Quarterly",
+        "Monthly",
+        "Weekly",
+        "Daily"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly = hàng quy."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nPlease _____ the chair to a comfortable height.",
+      "options": [
+        "Adjust",
+        "Keep",
+        "Cancel",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Adjust = đieu chinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nShe gave a strong sales _____ to the client.",
+      "options": [
+        "Pitch",
+        "Song",
+        "Field",
+        "Height"
+      ],
+      "answer": 0,
+      "explanation": "Pitch = bai chao ban."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nStaff members _____ visitors at the entrance.",
+      "options": [
+        "Greet",
+        "Ignore",
+        "Avoid",
+        "Leave"
+      ],
+      "answer": 0,
+      "explanation": "Greet = chao hoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe HR team improved the _____ process.",
+      "options": [
+        "Onboarding",
+        "Dismissal",
+        "Retirement",
+        "Promotion"
+      ],
+      "answer": 0,
+      "explanation": "Onboarding = tiep nhan nhan vien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe financial _____ approved the loan.",
+      "options": [
+        "Institution",
+        "Employee",
+        "Customer",
+        "Product"
+      ],
+      "answer": 0,
+      "explanation": "Institution = to chuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nYoung professionals are the _____ for this product.",
+      "options": [
+        "Target audience",
+        "General public",
+        "Employees",
+        "Old customers"
+      ],
+      "answer": 0,
+      "explanation": "Target audience = đoi tuong muc tieu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe company will _____ a new app next month.",
+      "options": [
+        "Launch",
+        "Close",
+        "End",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Launch = ra mat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nIt is _____ that the shipment will arrive today.",
+      "options": [
+        "Doubtful",
+        "Certain",
+        "Sure",
+        "Confident"
+      ],
+      "answer": 0,
+      "explanation": "Doubtful = khong chac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe company published _____ reports every three months.",
+      "options": [
+        "Quarterly",
+        "Monthly",
+        "Weekly",
+        "Daily"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly = hàng quy."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nMany people _____ this brand with quality.",
+      "options": [
+        "Associate",
+        "Confuse",
+        "Disconnect",
+        "Separate"
+      ],
+      "answer": 0,
+      "explanation": "Associate = lien ket; gan lien voi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nWe need to _____ on the latest sales figures.",
+      "options": [
+        "Catch up",
+        "Give up",
+        "Drop out",
+        "Fall behind"
+      ],
+      "answer": 0,
+      "explanation": "Catch up = bat kip; cap nhat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company submitted a _____ for the construction project.",
+      "options": [
+        "Bid",
+        "Song",
+        "Game",
+        "Meal"
+      ],
+      "answer": 0,
+      "explanation": "Bid = dau thau; gia chao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThey plan to _____ the office lobby next month.",
+      "options": [
+        "Renovate",
+        "Destroy",
+        "Abandon",
+        "Demolish"
+      ],
+      "answer": 0,
+      "explanation": "Renovate = cai tao."
+    },
+    {
+      "type": "pos",
+      "question": "'Container' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Container la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Exterior' la gi ve tu loai?",
+      "options": [
+        "Co the la danh tu hoac tinh tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Exterior co the la ca danh tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Quarterly':",
+      "options": [
+        "Co the la tinh tu hoac trang tu",
+        "Chi la danh tu",
+        "Chi la đong tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly co the la tinh tu hoac trang tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Adjust' thuoc nhom nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Adjust la đong tu (đieu chinh)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Doubtful' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Doubtful la tinh tu (đang nghi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Registration' la danh tu hay đong tu?",
+      "options": [
+        "Danh tu",
+        "Đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Registration la danh tu (su đang ky)"
+    },
+    {
+      "type": "pos",
+      "question": "'Launch' thuoc loai tu nao?",
+      "options": [
+        "Co the la đong tu hoac danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Launch co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Inspector' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Inspector la danh tu (thanh tra)"
+    },
+    {
+      "type": "pos",
+      "question": "'Representative' thuoc tu loai nao?",
+      "options": [
+        "Co the la danh tu hoac tinh tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Representative co the la ca danh tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Greet' la gi?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Greet la đong tu (chao hoi)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'a box or large unit used to hold things'?",
+      "options": [
+        "Container",
+        "Invoice",
+        "Receipt",
+        "Voucher"
+      ],
+      "answer": 0,
+      "explanation": "Container = thung chua"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to close something tightly' mo ta tu nao?",
+      "options": [
+        "Seal",
+        "Open",
+        "Break",
+        "Tear"
+      ],
+      "answer": 0,
+      "explanation": "Seal = niem phong"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'a person whose job is to check standards', tu đo la:",
+      "options": [
+        "Inspector",
+        "Employee",
+        "Customer",
+        "Vendor"
+      ],
+      "answer": 0,
+      "explanation": "Inspector = thanh tra"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'the outside part of something'?",
+      "options": [
+        "Exterior",
+        "Interior",
+        "Inside",
+        "Indoor"
+      ],
+      "answer": 0,
+      "explanation": "Exterior = ben ngoai"
+    },
+    {
+      "type": "definition",
+      "question": "'a person chosen to speak or act for others' chi tu:",
+      "options": [
+        "Representative",
+        "Customer",
+        "Vendor",
+        "Rival"
+      ],
+      "answer": 0,
+      "explanation": "Representative = đai dien"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'the act of officially recording information'?",
+      "options": [
+        "Registration",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Registration = su đang ky"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'happening once every three months' chi tu:",
+      "options": [
+        "Quarterly",
+        "Monthly",
+        "Weekly",
+        "Daily"
+      ],
+      "answer": 0,
+      "explanation": "Quarterly = hàng quy"
+    },
+    {
+      "type": "definition",
+      "question": "'to change something slightly to improve it' mo ta tu:",
+      "options": [
+        "Adjust",
+        "Keep",
+        "Cancel",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Adjust = đieu chinh"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'to introduce something new'?",
+      "options": [
+        "Launch",
+        "Close",
+        "End",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Launch = ra mat"
+    },
+    {
+      "type": "definition",
+      "question": "'uncertain or unlikely' mo ta tu nao?",
+      "options": [
+        "Doubtful",
+        "Certain",
+        "Sure",
+        "Confident"
+      ],
+      "answer": 0,
+      "explanation": "Doubtful = đang nghi"
+    },
+    {
+      "type": "definition",
+      "question": "'the specific group a product is intended for' mo ta tu nao?",
+      "options": [
+        "Target audience",
+        "General public",
+        "Employees",
+        "Old customers"
+      ],
+      "answer": 0,
+      "explanation": "Target audience = đoi tuong muc tieu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Renovate' chinh xac nhat?",
+      "options": [
+        "cai tao",
+        "phá dỡ",
+        "bo đi",
+        "ban đi"
+      ],
+      "answer": 0,
+      "explanation": "Renovate = cai tao; sửa chua"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Bid' la:",
+      "options": [
+        "dau thau",
+        "tu bo",
+        "huy bo",
+        "chap nhan"
+      ],
+      "answer": 0,
+      "explanation": "Bid = dau thau; gia chao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Compile' gan voi y nao nhat?",
+      "options": [
+        "tong hop",
+        "phan tan",
+        "chia nho",
+        "bo đi"
+      ],
+      "answer": 0,
+      "explanation": "Compile = tong hop; bien soan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Recurring' la gi?",
+      "options": [
+        "lap lai",
+        "xay ra mot lan",
+        "bat ngo",
+        "ngau nhien"
+      ],
+      "answer": 0,
+      "explanation": "Recurring = lap lai; đinh ky"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Enlarge' la:",
+      "options": [
+        "phong to",
+        "thu nho",
+        "giu nguyen",
+        "giam xuong"
+      ],
+      "answer": 0,
+      "explanation": "Enlarge = mo rong; phong to"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Attempt' co nghia gan voi:",
+      "options": [
+        "no luc",
+        "bo cuoc",
+        "huy bo",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Attempt = no luc; co gang"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Designated' la gi?",
+      "options": [
+        "đuoc chi đinh",
+        "ngau nhien",
+        "tuy y",
+        "khong xac đinh"
+      ],
+      "answer": 0,
+      "explanation": "Designated = đuoc chi đinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Lack' mang y nao gan nhat?",
+      "options": [
+        "thieu",
+        "đu",
+        "co san",
+        "dồi dào"
+      ],
+      "answer": 0,
+      "explanation": "Lack = thieu; su thieu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Trim' mang y nao gan nhat?",
+      "options": [
+        "cat giam",
+        "tang len",
+        "giu nguyen",
+        "them vao"
+      ],
+      "answer": 0,
+      "explanation": "Trim = cat tia; giam bot"
+    },
+    {
+      "type": "collocation",
+      "question": "''Container' thuong ket hop voi tu nao?",
+      "options": [
+        "Shipping container",
+        "Tasty container",
+        "Cold container",
+        "Dark container"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: shipping container, storage container"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Inspector'?",
+      "options": [
+        "Safety inspector",
+        "Tasty inspector",
+        "Cold inspector",
+        "Dark inspector"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: safety inspector, building inspector"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Registration' thuong đi cung cum nao?",
+      "options": [
+        "Online registration",
+        "Tasty registration",
+        "Cold registration",
+        "Dark registration"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: online registration, registration form"
+    },
+    {
+      "type": "collocation",
+      "question": "''Target audience' thuong xuat hien trong cum nao?",
+      "options": [
+        "Identify target audience",
+        "Tasty target",
+        "Cold target",
+        "Dark target"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: identify target audience, reach target audience"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Pitch':",
+      "options": [
+        "Sales pitch",
+        "Tasty pitch",
+        "Cold pitch",
+        "Dark pitch"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: sales pitch, pitch an idea"
+    },
+    {
+      "type": "collocation",
+      "question": "''Renovate' đi cung voi tu nao?",
+      "options": [
+        "Renovate office",
+        "Tasty renovate",
+        "Cold renovate",
+        "Dark renovate"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: renovate office, renovate building"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Bid'?",
+      "options": [
+        "Submit a bid",
+        "Tasty bid",
+        "Cold bid",
+        "Dark bid"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: submit a bid, win a bid"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Container' lien quan đên ngucanh nao?",
+      "options": [
+        "Van chuyen, kho",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Container = thung chua, ngucanh van chuyen"
+    },
+    {
+      "type": "context",
+      "question": "''Inspector' thuoc linh vuc nao?",
+      "options": [
+        "Kiem tra, an toan",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Inspector = thanh tra, ngucanh kiem tra"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Onboarding' lien quan chinh đên gi?",
+      "options": [
+        "Nhan su (HR)",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Onboarding = tiep nhan nhan vien, ngucanh nhan su"
+    },
+    {
+      "type": "context",
+      "question": "''Pitch' (kinh doanh) thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Ban hang, marketing",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Pitch = bai chao ban, ngucanh ban hang"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Bid' lien quan đên linhvuc nao?",
+      "options": [
+        "Dau thau, xay dung",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Bid = dau thau"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Container",
+        "Inspector",
+        "Institution",
+        "Adjust"
+      ],
+      "answer": 3,
+      "explanation": "Adjust la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Exterior",
+        "Quarterly",
+        "Doubtful",
+        "Launch"
+      ],
+      "answer": 3,
+      "explanation": "Launch la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Container",
+        "Inspector",
+        "Institution",
+        "Greet"
+      ],
+      "answer": 3,
+      "explanation": "Greet la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Registration",
+        "Onboarding",
+        "Pitch",
+        "Doubtful"
+      ],
+      "answer": 3,
+      "explanation": "Doubtful la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Exterior",
+        "Quarterly",
+        "Doubtful",
+        "Representative"
+      ],
+      "answer": 3,
+      "explanation": "Representative la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Adjust' đung?",
+      "options": [
+        "Please adjust the chair to a comfortable height.",
+        "She adjust very beautiful today.",
+        "They adjust sunny weather.",
+        "He adjust the red color."
+      ],
+      "answer": 0,
+      "explanation": "Adjust = đieu chinh, đung voi đo cao, vi tri"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Launch' đung?",
+      "options": [
+        "The company will launch a new app next month.",
+        "She launch very tired today.",
+        "They launch sunny weather.",
+        "He launch the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Launch = ra mat, đung voi san pham, ung dung"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Greet':",
+      "options": [
+        "Staff members greet visitors at the entrance.",
+        "The weather greet warm tomorrow.",
+        "She greet very tired today.",
+        "They greet the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Greet = chao hoi, đung voi khach, nguoi tham quan"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Renovate' phu hop?",
+      "options": [
+        "They plan to renovate the office lobby next month.",
+        "She renovate very beautiful dress.",
+        "They renovate sunny weather today.",
+        "He renovate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Renovate = cai tao, đung voi van phong, phong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Compile':",
+      "options": [
+        "She compiled the customer data into a spreadsheet.",
+        "She compile very beautiful today.",
+        "They compile the sweet taste.",
+        "He compile quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Compile = tong hop, đung voi du lieu, bao cao"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Doubtful'?",
+      "options": [
+        "Certain",
+        "Unsure",
+        "Uncertain",
+        "Hesitant"
+      ],
+      "answer": 0,
+      "explanation": "Doubtful (đang nghi) trai nghia voi Certain (chac chan)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Renovate'?",
+      "options": [
+        "Remodel",
+        "Destroy",
+        "Abandon",
+        "Demolish"
+      ],
+      "answer": 0,
+      "explanation": "Renovate ~ Remodel (cai tao)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Enlarge'?",
+      "options": [
+        "Reduce",
+        "Grow",
+        "Expand",
+        "Increase"
+      ],
+      "answer": 0,
+      "explanation": "Enlarge (phong to) trai nghia voi Reduce (giam)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company will launch a new app', tu 'launch' gan nghia voi?",
+      "options": [
+        "Introduce",
+        "Close",
+        "Cancel",
+        "End"
+      ],
+      "answer": 0,
+      "explanation": "Launch ~ Introduce (ra mat)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'They plan to renovate the office', tu nao thay đuoc 'renovate'?",
+      "options": [
+        "Remodel",
+        "Destroy",
+        "Abandon",
+        "Demolish"
+      ],
+      "answer": 0,
+      "explanation": "Renovate ~ Remodel (cai tao)"
+    }
+  ]
+}

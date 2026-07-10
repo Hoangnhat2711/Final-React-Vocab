@@ -11,6 +11,7 @@ import {
   toggleWordExcluded as toggleWordExcludedLocal,
   updateModeBalance as updateModeBalanceLocal,
 } from './lib/srsStore'
+import QuizScreen from './components/QuizScreen'
 import './App.css'
 
 const STATS_META = [
@@ -330,7 +331,7 @@ function EmptyState({ message }) {
   )
 }
 
-function CatalogScreen({ catalogData, onStartStudy, busyName, collectionTitle }) {
+function CatalogScreen({ catalogData, onStartStudy, onStartQuiz, busyName, collectionTitle }) {
   const items = catalogData?.items || []
   const collectionGroups = Object.values(items.reduce((groups, item) => {
     const title = item.collection_title || collectionTitle
@@ -376,6 +377,7 @@ function CatalogScreen({ catalogData, onStartStudy, busyName, collectionTitle })
 
         <div className="catalog-hero-actions">
           <div className="catalog-hero-note">Mỗi bộ gồm nhiều test. Chọn test phù hợp để bắt đầu hoặc tiếp tục học.</div>
+          <button className="btn btn-primary" onClick={onStartQuiz}>Trắc nghiệm từ vựng →</button>
         </div>
       </div>
 
@@ -969,9 +971,14 @@ function App() {
         <CatalogScreen
           catalogData={catalogData}
           onStartStudy={startStudyFromCatalog}
+          onStartQuiz={() => setScreen('quiz')}
           busyName={busyCatalogName}
           collectionTitle={collectionTitle}
         />
+      ) : null}
+
+      {screen === 'quiz' ? (
+        <QuizScreen onExit={() => setScreen('catalog')} />
       ) : null}
 
       {screen === 'study' ? <section className={`overview ${overviewCollapsed ? 'collapsed' : ''}`}>

@@ -1,0 +1,1275 @@
+{
+  "skill": "reading",
+  "test": "Test 10",
+  "title": "ETS Reading 2026 - Test 10",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Commend' co nghia la gi?",
+      "options": [
+        "khen ngợi; bieu duong",
+        "chi tran",
+        "phat",
+        "giam luong"
+      ],
+      "answer": 0,
+      "explanation": "Commend = khen ngợi; bieu duong"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Garment' la:",
+      "options": [
+        "quan ao; trang phuc",
+        "đo ăn",
+        "đo uong",
+        "đo dung"
+      ],
+      "answer": 0,
+      "explanation": "Garment = quan ao; trang phuc"
+    },
+    {
+      "type": "meaning",
+      "question": "'Patron' mang y nghia nao?",
+      "options": [
+        "khach hang; nguoi thuong xuyen lui toi",
+        "nguoi la",
+        "nguoi moi",
+        "đoi thu"
+      ],
+      "answer": 0,
+      "explanation": "Patron = khach hang; nguoi thuong xuyen lui toi"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Diplomat':",
+      "options": [
+        "nha ngoai giao",
+        "nha bao",
+        "nha van",
+        "nha khoa hoc"
+      ],
+      "answer": 0,
+      "explanation": "Diplomat = nha ngoai giao"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Sound' (tinh tu) đuoc hieu la:",
+      "options": [
+        "vung chac; đang tin cay",
+        "om ah",
+        "suy yeu",
+        "bat on"
+      ],
+      "answer": 0,
+      "explanation": "Sound (tinh tu) = vung chac; đang tin cay"
+    },
+    {
+      "type": "meaning",
+      "question": "'Aspiring' co nghia la gi?",
+      "options": [
+        "khao khat tro thanh; đay hoai bao",
+        "vong dai",
+        "that vong",
+        "bo cuoc"
+      ],
+      "answer": 0,
+      "explanation": "Aspiring = khao khat tro thanh; đay hoai bao"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Flourishing'?",
+      "options": [
+        "phat trien manh; thinh vuong",
+        "suy thoa",
+        "ngung đong",
+        "phet tat"
+      ],
+      "answer": 0,
+      "explanation": "Flourishing = phat trien manh; thinh vuong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Finalize' mang y nghia:",
+      "options": [
+        "hoan tat; chot lai",
+        "bat đau",
+        "hoan lai",
+        "huy bo"
+      ],
+      "answer": 0,
+      "explanation": "Finalize = hoan tat; chot lai"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Inferior' la:",
+      "options": [
+        "kem hon; chat luong thap hon",
+        "tot hon",
+        "vuot troi",
+        "danh gia cao"
+      ],
+      "answer": 0,
+      "explanation": "Inferior = kem hon; chat luong thap hon"
+    },
+    {
+      "type": "meaning",
+      "question": "'Adjustable' đuoc hieu nhu the nao?",
+      "options": [
+        "co the đieu chinh",
+        "co đinh",
+        "khong the đoi",
+        "vong cuong"
+      ],
+      "answer": 0,
+      "explanation": "Adjustable = co the đieu chinh"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Collapsible' co nghia la:",
+      "options": [
+        "co the gap lai",
+        "co đinh",
+        "khong gap đuoc",
+        "rat nang"
+      ],
+      "answer": 0,
+      "explanation": "Collapsible = co the gap lai"
+    },
+    {
+      "type": "meaning",
+      "question": "'Durable' mang y nghia nao?",
+      "options": [
+        "ben; lau hong",
+        "đe vo",
+        "mong manh",
+        "yeu đuoi"
+      ],
+      "answer": 0,
+      "explanation": "Durable = ben; lau hong"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Wholesaler' la:",
+      "options": [
+        "nha ban buon",
+        "nha ban le",
+        "khach hang",
+        "nha san xuat"
+      ],
+      "answer": 0,
+      "explanation": "Wholesaler = nha ban buon"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Illusion':",
+      "options": [
+        "ao giác; cam giác sai lech",
+        "su that",
+        "thuc te",
+        "hinh anh"
+      ],
+      "answer": 0,
+      "explanation": "Illusion = ao giác; cam giác sai lech"
+    },
+    {
+      "type": "meaning",
+      "question": "'Abundance' co nghia la gi?",
+      "options": [
+        "su phong phu; đoi dao",
+        "su thieu hut",
+        "su eo hep",
+        "su het han"
+      ],
+      "answer": 0,
+      "explanation": "Abundance = su phong phu; đoi dao"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'khen ngợi; biểu dương'?",
+      "options": [
+        "Commend",
+        "Criticize",
+        "Blame",
+        "Punish"
+      ],
+      "answer": 0,
+      "explanation": "Commend = khen ngợi"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'quần áo; trang phục'?",
+      "options": [
+        "Garment",
+        "Food",
+        "Beverage",
+        "Furniture"
+      ],
+      "answer": 0,
+      "explanation": "Garment = quan ao"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'nhà ngoại giao':",
+      "options": [
+        "Diplomat",
+        "Journalist",
+        "Writer",
+        "Scientist"
+      ],
+      "answer": 0,
+      "explanation": "Diplomat = nha ngoai giao"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'hoàn tất; chốt lại'?",
+      "options": [
+        "Finalize",
+        "Start",
+        "Begin",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Finalize = hoan tat"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'kém hơn; chất lượng thấp hơn':",
+      "options": [
+        "Inferior",
+        "Superior",
+        "Excellent",
+        "Premium"
+      ],
+      "answer": 0,
+      "explanation": "Inferior = kem hon"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'phát triển mạnh; thịnh vượng'?",
+      "options": [
+        "Flourishing",
+        "Declining",
+        "Failing",
+        "Deteriorating"
+      ],
+      "answer": 0,
+      "explanation": "Flourishing = phat trien manh"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'có thể điều chỉnh':",
+      "options": [
+        "Adjustable",
+        "Fixed",
+        "Rigid",
+        "Inflexible"
+      ],
+      "answer": 0,
+      "explanation": "Adjustable = co the đieu chinh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'bền; lâu hỏng'?",
+      "options": [
+        "Durable",
+        "Fragile",
+        "Delicate",
+        "Brittle"
+      ],
+      "answer": 0,
+      "explanation": "Durable = ben"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'nhà bán buôn' tuong ung voi tu nao?",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Customer",
+        "Manufacturer"
+      ],
+      "answer": 0,
+      "explanation": "Wholesaler = nha ban buon"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'ảo giác' la:",
+      "options": [
+        "Illusion",
+        "Reality",
+        "Truth",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Illusion = ao giác"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'sự phong phú; dồi dào'?",
+      "options": [
+        "Abundance",
+        "Scarcity",
+        "Shortage",
+        "Deficiency"
+      ],
+      "answer": 0,
+      "explanation": "Abundance = su phong phu"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'khách hàng thường xuyên':",
+      "options": [
+        "Patron",
+        "Stranger",
+        "Rival",
+        "Enemy"
+      ],
+      "answer": 0,
+      "explanation": "Patron = khach hang thuong xuyen"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'khó khăn; thử thách'?",
+      "options": [
+        "Challenging",
+        "Easy",
+        "Simple",
+        "Effortless"
+      ],
+      "answer": 0,
+      "explanation": "Challenging = đay thu thach"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'có thể gấp lại' tuong ung tu nao?",
+      "options": [
+        "Collapsible",
+        "Fixed",
+        "Rigid",
+        "Permanent"
+      ],
+      "answer": 0,
+      "explanation": "Collapsible = co the gap lai"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'kịp thời; đúng lúc'?",
+      "options": [
+        "Timely",
+        "Late",
+        "Delayed",
+        "Overdue"
+      ],
+      "answer": 0,
+      "explanation": "Timely = kip thoi; đung luc"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe manager _____ the team for their outstanding performance.",
+      "options": [
+        "Commended",
+        "Criticized",
+        "Blamed",
+        "Punished"
+      ],
+      "answer": 0,
+      "explanation": "Commend = khen ngợi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe factory produces high-quality _____ for export.",
+      "options": [
+        "Garments",
+        "Foods",
+        "Beverages",
+        "Furniture"
+      ],
+      "answer": 0,
+      "explanation": "Garment = quan ao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nRegular _____ of the restaurant praised the new menu.",
+      "options": [
+        "Patrons",
+        "Strangers",
+        "Rivals",
+        "Enemies"
+      ],
+      "answer": 0,
+      "explanation": "Patron = khach hang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe _____ spoke at the international conference.",
+      "options": [
+        "Diplomat",
+        "Chef",
+        "Athlete",
+        "Musician"
+      ],
+      "answer": 0,
+      "explanation": "Diplomat = nha ngoai giao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe decision was based on _____ judgment and careful analysis.",
+      "options": [
+        "Sound",
+        "Poor",
+        "Weak",
+        "Faulty"
+      ],
+      "answer": 0,
+      "explanation": "Sound = vung chac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nShe is an _____ writer who dreams of publishing a novel.",
+      "options": [
+        "Aspiring",
+        "Retired",
+        "Failed",
+        "Lazy"
+      ],
+      "answer": 0,
+      "explanation": "Aspiring = khao khat tro thanh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe business has been _____ despite the economic downturn.",
+      "options": [
+        "Flourishing",
+        "Declining",
+        "Failing",
+        "Deteriorating"
+      ],
+      "answer": 0,
+      "explanation": "Flourishing = phat trien manh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nWe need to _____ the contract before the deadline.",
+      "options": [
+        "Finalize",
+        "Start",
+        "Begin",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Finalize = hoan tat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nCustomers complained about the _____ quality of the product.",
+      "options": [
+        "Inferior",
+        "Superior",
+        "Excellent",
+        "Premium"
+      ],
+      "answer": 0,
+      "explanation": "Inferior = kem hon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nThe desk lamp has an _____ arm for better lighting control.",
+      "options": [
+        "Adjustable",
+        "Fixed",
+        "Rigid",
+        "Inflexible"
+      ],
+      "answer": 0,
+      "explanation": "Adjustable = co the đieu chinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe _____ chairs are perfect for small apartments.",
+      "options": [
+        "Collapsible",
+        "Fixed",
+        "Rigid",
+        "Permanent"
+      ],
+      "answer": 0,
+      "explanation": "Collapsible = co the gap."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThese boots are made of _____ leather.",
+      "options": [
+        "Durable",
+        "Fragile",
+        "Delicate",
+        "Brittle"
+      ],
+      "answer": 0,
+      "explanation": "Durable = ben."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe _____ buys products in bulk and sells to retailers.",
+      "options": [
+        "Wholesaler",
+        "Customer",
+        "Retailer",
+        "Manufacturer"
+      ],
+      "answer": 0,
+      "explanation": "Wholesaler = nha ban buon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe mirror creates an _____ of more space in the room.",
+      "options": [
+        "Illusion",
+        "Reality",
+        "Truth",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Illusion = ao giác."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe region is known for its _____ of natural resources.",
+      "options": [
+        "Abundance",
+        "Scarcity",
+        "Shortage",
+        "Deficiency"
+      ],
+      "answer": 0,
+      "explanation": "Abundance = su phong phu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe new project is _____ but rewarding.",
+      "options": [
+        "Challenging",
+        "Easy",
+        "Simple",
+        "Effortless"
+      ],
+      "answer": 0,
+      "explanation": "Challenging = đay thu thach."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThe delivery was _____ and arrived exactly when needed.",
+      "options": [
+        "Timely",
+        "Late",
+        "Delayed",
+        "Overdue"
+      ],
+      "answer": 0,
+      "explanation": "Timely = kip thoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe company will _____ its products to meet customer needs.",
+      "options": [
+        "Customize",
+        "Ignore",
+        "Standardize",
+        "Simplify"
+      ],
+      "answer": 0,
+      "explanation": "Customize = tuy chinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\n_____ is essential in professional environments.",
+      "options": [
+        "Punctuality",
+        "Tardiness",
+        "Laziness",
+        "Carelessness"
+      ],
+      "answer": 0,
+      "explanation": "Punctuality = đung gio."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe company reported strong _____ in the last quarter.",
+      "options": [
+        "Performance",
+        "Failure",
+        "Decline",
+        "Loss"
+      ],
+      "answer": 0,
+      "explanation": "Performance = hieu suat."
+    },
+    {
+      "type": "pos",
+      "question": "'Commend' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Commend la đong tu (khen ngợi)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Garment' la gi ve tu loai?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Garment la danh tu (quan ao)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Adjustable':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Adjustable la tinh tu (co the đieu chinh)"
+    },
+    {
+      "type": "pos",
+      "question": "'Diplomat' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Diplomat la danh tu (nha ngoai giao)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Flourishing' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Flourishing la tinh tu (phat trien manh)"
+    },
+    {
+      "type": "pos",
+      "question": "'Durable' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Durable la tinh tu (ben)"
+    },
+    {
+      "type": "pos",
+      "question": "'Inferior' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Inferior la tinh tu (kem hon)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Abundance' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Abundance la danh tu (su phong phu)"
+    },
+    {
+      "type": "pos",
+      "question": "'Wholesaler' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Wholesaler la danh tu (nha ban buon)"
+    },
+    {
+      "type": "pos",
+      "question": "'Timely' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Timely la tinh tu (kip thoi)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to praise someone officially'?",
+      "options": [
+        "Commend",
+        "Criticize",
+        "Blame",
+        "Punish"
+      ],
+      "answer": 0,
+      "explanation": "Commend = khen ngợi"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a piece of clothing' mo ta tu nao?",
+      "options": [
+        "Garment",
+        "Food",
+        "Beverage",
+        "Furniture"
+      ],
+      "answer": 0,
+      "explanation": "Garment = quan ao"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'an official who represents a country', tu đo la:",
+      "options": [
+        "Diplomat",
+        "Chef",
+        "Athlete",
+        "Musician"
+      ],
+      "answer": 0,
+      "explanation": "Diplomat = nha ngoai giao"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'to complete the last details'?",
+      "options": [
+        "Finalize",
+        "Start",
+        "Begin",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Finalize = hoan tat"
+    },
+    {
+      "type": "definition",
+      "question": "'lower in quality or value' chi tu:",
+      "options": [
+        "Inferior",
+        "Superior",
+        "Excellent",
+        "Premium"
+      ],
+      "answer": 0,
+      "explanation": "Inferior = kem hon"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'growing or developing successfully'?",
+      "options": [
+        "Flourishing",
+        "Declining",
+        "Failing",
+        "Deteriorating"
+      ],
+      "answer": 0,
+      "explanation": "Flourishing = phat trien manh"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'able to be changed to fit different needs' chi tu:",
+      "options": [
+        "Adjustable",
+        "Fixed",
+        "Rigid",
+        "Inflexible"
+      ],
+      "answer": 0,
+      "explanation": "Adjustable = co the đieu chinh"
+    },
+    {
+      "type": "definition",
+      "question": "'able to last a long time without damage' mo ta tu:",
+      "options": [
+        "Durable",
+        "Fragile",
+        "Delicate",
+        "Brittle"
+      ],
+      "answer": 0,
+      "explanation": "Durable = ben"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'a business that sells goods in large quantities'?",
+      "options": [
+        "Wholesaler",
+        "Customer",
+        "Retailer",
+        "Manufacturer"
+      ],
+      "answer": 0,
+      "explanation": "Wholesaler = nha ban buon"
+    },
+    {
+      "type": "definition",
+      "question": "'something that appears different from reality' mo ta tu nao?",
+      "options": [
+        "Illusion",
+        "Reality",
+        "Truth",
+        "Fact"
+      ],
+      "answer": 0,
+      "explanation": "Illusion = ao giác"
+    },
+    {
+      "type": "definition",
+      "question": "'a very large quantity of something' mo ta tu nao?",
+      "options": [
+        "Abundance",
+        "Scarcity",
+        "Shortage",
+        "Deficiency"
+      ],
+      "answer": 0,
+      "explanation": "Abundance = su phong phu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Customize' chinh xac nhat?",
+      "options": [
+        "tuy chinh",
+        "đong nhat",
+        "đon gian hoa",
+        "phan tan"
+      ],
+      "answer": 0,
+      "explanation": "Customize = tuy chinh; lam theo yeu cau"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Punctuality' la:",
+      "options": [
+        "đung gio",
+        "đi tre",
+        "quen quen",
+        "bat can"
+      ],
+      "answer": 0,
+      "explanation": "Punctuality = su đung gio"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Argue' gan voi y nao nhat?",
+      "options": [
+        "lap luan",
+        "im lang",
+        "đong y",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Argue = lap luan; cho rang"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Shrink' la gi?",
+      "options": [
+        "thu nho",
+        "phong to",
+        "giu nguyen",
+        "tang len"
+      ],
+      "answer": 0,
+      "explanation": "Shrink = thu nho; giam xuong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Whisper' la:",
+      "options": [
+        "thi tham",
+        "noi to",
+        "het len",
+        "hat len"
+      ],
+      "answer": 0,
+      "explanation": "Whisper = thi tham"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Caution' co nghia gan voi:",
+      "options": [
+        "canh bao",
+        "khuyen khich",
+        "thuc đay",
+        "chap nhan"
+      ],
+      "answer": 0,
+      "explanation": "Caution = canh bao; nac than trong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Plotline' la gi?",
+      "options": [
+        "cot truyen",
+        "diem manh",
+        "diem yeu",
+        "ket qua"
+      ],
+      "answer": 0,
+      "explanation": "Plotline = cot truyen"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Promotional' mang y nao gan nhat?",
+      "options": [
+        "mang tinh quang ba",
+        "mang tinh tran trong",
+        "ca nhan",
+        "bi mat"
+      ],
+      "answer": 0,
+      "explanation": "Promotional = mang tinh quang ba; khuyen mai"
+    },
+    {
+      "type": "collocation",
+      "question": "'Garment' thuong ket hop voi tu nao?",
+      "options": [
+        "Garment industry",
+        "Tasty garment",
+        "Cold garment",
+        "Dark garment"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: garment industry, garment factory"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Abundance'?",
+      "options": [
+        "In abundance",
+        "Tasty abundance",
+        "Cold abundance",
+        "Dark abundance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: in abundance, abundance of"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Durable' thuong đi cung cum nao?",
+      "options": [
+        "Durable goods",
+        "Tasty goods",
+        "Cold goods",
+        "Dark goods"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: durable goods, durable material"
+    },
+    {
+      "type": "collocation",
+      "question": "'Punctuality' thuong xuat hien trong cum nao?",
+      "options": [
+        "Value punctuality",
+        "Tasty punctuality",
+        "Cold punctuality",
+        "Dark punctuality"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: value punctuality, emphasize punctuality"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Promotional':",
+      "options": [
+        "Promotional materials",
+        "Tasty materials",
+        "Cold materials",
+        "Dark materials"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: promotional materials, promotional event"
+    },
+    {
+      "type": "collocation",
+      "question": "'Performance' đi cung voi tu nao?",
+      "options": [
+        "Strong performance",
+        "Tasty performance",
+        "Cold performance",
+        "Dark performance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: strong performance, business performance"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Customize'?",
+      "options": [
+        "Customize products",
+        "Tasty customize",
+        "Cold customize",
+        "Dark customize"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: customize products, customize options"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Apparel' lien quan đên ngucanh nao?",
+      "options": [
+        "Thoi trang, kinh doanh",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Apparel = quan ao; trang phuc, ngucanh thoi trang"
+    },
+    {
+      "type": "context",
+      "question": "'Diplomat' thuoc linh vuc nao?",
+      "options": [
+        "Ngoai giao",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Diplomat = nha ngoai giao"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Wholesaler' lien quan chinh đên gi?",
+      "options": [
+        "Kinh doanh, phan phoi",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Wholesaler = nha ban buon"
+    },
+    {
+      "type": "context",
+      "question": "'Plotline' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Van hoc, phim anh",
+        "Y te",
+        "Tai chinh",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Plotline = cot truyen"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Recipe' lien quan đên linhvuc nao?",
+      "options": [
+        "Am thuc",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Recipe = cong thuc nau an"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Commend",
+        "Finalize",
+        "Customize",
+        "Garment"
+      ],
+      "answer": 3,
+      "explanation": "Garment la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Adjustable",
+        "Durable",
+        "Flourishing",
+        "Commend"
+      ],
+      "answer": 3,
+      "explanation": "Commend la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Diplomat",
+        "Wholesaler",
+        "Patron",
+        "Inferior"
+      ],
+      "answer": 3,
+      "explanation": "Inferior la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Garment",
+        "Apparel",
+        "Recipe",
+        "Timely"
+      ],
+      "answer": 3,
+      "explanation": "Timely la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Adjustable",
+        "Collapsible",
+        "Durable",
+        "Abundance"
+      ],
+      "answer": 3,
+      "explanation": "Abundance la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Commend' đung?",
+      "options": [
+        "The manager commended the team for their outstanding performance.",
+        "She commend very beautiful today.",
+        "They commend sunny weather.",
+        "He commend the red color."
+      ],
+      "answer": 0,
+      "explanation": "Commend = khen ngợi, đung voi hieu suat, thanh tich"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Finalize' đung?",
+      "options": [
+        "We need to finalize the contract before the deadline.",
+        "She finalize very tired today.",
+        "They finalize sunny weather.",
+        "He finalize the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Finalize = hoan tat, đung voi hop đong, ke hoach"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Customize':",
+      "options": [
+        "The company will customize its products to meet customer needs.",
+        "The weather customize warm tomorrow.",
+        "She customize very tired today.",
+        "They customize the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Customize = tuy chinh, đung voi san pham, dich vu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Flourishing' phu hop?",
+      "options": [
+        "The business has been flourishing despite the economic downturn.",
+        "She flourishing very beautiful dress.",
+        "They flourishing sunny weather today.",
+        "He flourishing the red color."
+      ],
+      "answer": 0,
+      "explanation": "Flourishing = phat trien manh, đung voi kinh doanh"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Caution':",
+      "options": [
+        "The sign cautions drivers to slow down on the wet road.",
+        "She caution very beautiful today.",
+        "They caution the sweet taste.",
+        "He caution quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Caution = canh bao, đung voi tai xe, su an toan"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Inferior'?",
+      "options": [
+        "Superior",
+        "Worse",
+        "Lower",
+        "Poorer"
+      ],
+      "answer": 0,
+      "explanation": "Inferior (kem hon) trai nghia voi Superior (tot hon)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Commend'?",
+      "options": [
+        "Praise",
+        "Criticize",
+        "Blame",
+        "Condemn"
+      ],
+      "answer": 0,
+      "explanation": "Commend ~ Praise (khen ngợi)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Durable'?",
+      "options": [
+        "Fragile",
+        "Strong",
+        "Sturdy",
+        "Tough"
+      ],
+      "answer": 0,
+      "explanation": "Durable (ben) trai nghia voi Fragile (đe vo)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The business has been flourishing', tu 'flourishing' gan nghia voi?",
+      "options": [
+        "Thriving",
+        "Declining",
+        "Failing",
+        "Struggling"
+      ],
+      "answer": 0,
+      "explanation": "Flourishing ~ Thriving (phat trien manh)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The manager commended the team', tu nao thay đuoc 'commended'?",
+      "options": [
+        "Praised",
+        "Criticized",
+        "Blamed",
+        "Scolded"
+      ],
+      "answer": 0,
+      "explanation": "Commended ~ Praised (khen ngợi)"
+    }
+  ]
+}

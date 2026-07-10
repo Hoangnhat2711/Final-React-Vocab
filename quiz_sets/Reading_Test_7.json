@@ -1,0 +1,1263 @@
+{
+  "skill": "reading",
+  "test": "Test 7",
+  "title": "ETS Reading 2026 - Test 7",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Commute' co nghia la gi?",
+      "options": [
+        "đi lam/đi hoc hang ngay",
+        "nghi ngoi",
+        "đi choi",
+        "đi du lich"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam/đi hoc hang ngay (đi lai thuong xuyen)"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Evaluate' la:",
+      "options": [
+        "đanh gia",
+        "bo qua",
+        "phu nhan",
+        "an gia"
+      ],
+      "answer": 0,
+      "explanation": "Evaluate = đanh gia"
+    },
+    {
+      "type": "meaning",
+      "question": "'Milestone' mang y nghia nao?",
+      "options": [
+        "cot moc quan trong",
+        "điem yeu",
+        "van đe",
+        "rào can"
+      ],
+      "answer": 0,
+      "explanation": "Milestone = cot moc quan trong"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Responsive':",
+      "options": [
+        "phan hoi nhanh; đap ung tot",
+        "cham tre",
+        "khong phan hoi",
+        "vo cam"
+      ],
+      "answer": 0,
+      "explanation": "Responsive = phan hoi nhanh; đap ung tot"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Hospitality' đuoc hieu la:",
+      "options": [
+        "long hieu khach; nganh dich vu",
+        "su loan lác",
+        "su lanh lung",
+        "su ghét bỏ"
+      ],
+      "answer": 0,
+      "explanation": "Hospitality = long hieu khach; nganh dich vu luu tru/an uong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Persuade' co nghia la gi?",
+      "options": [
+        "thuyet phuc",
+        "phu nhan",
+        "bat ngo",
+        "ep buoc"
+      ],
+      "answer": 0,
+      "explanation": "Persuade = thuyet phuc"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Imminent'?",
+      "options": [
+        "sap xay ra; can ke",
+        "đa qua",
+        "đang dien ra",
+        "khong xac đinh"
+      ],
+      "answer": 0,
+      "explanation": "Imminent = sap xay ra; can ke"
+    },
+    {
+      "type": "meaning",
+      "question": "'Reputation' mang y nghia:",
+      "options": [
+        "danh tieng",
+        "su ghét",
+        "su khinh thường",
+        "sự vô danh"
+      ],
+      "answer": 0,
+      "explanation": "Reputation = danh tieng"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Expedite' la:",
+      "options": [
+        "đay nhanh; xu ly nhanh",
+        "hoan lai",
+        "huy bo",
+        "lam cham"
+      ],
+      "answer": 0,
+      "explanation": "Expedite = đay nhanh; xu ly nhanh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Demonstration' đuoc hieu nhu the nao?",
+      "options": [
+        "su trinh dien; minh hoa",
+        "su an gia",
+        "su phu nhan",
+        "su huy bo"
+      ],
+      "answer": 0,
+      "explanation": "Demonstration = su trinh dien; minh hoa"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Malfunction' co nghia la:",
+      "options": [
+        "bi truc trac; hoat đong sai",
+        "hoat đong tot",
+        "chay on đinh",
+        "hoan hao"
+      ],
+      "answer": 0,
+      "explanation": "Malfunction = bi truc trac; hoat đong sai"
+    },
+    {
+      "type": "meaning",
+      "question": "'Identify' mang y nghia nao?",
+      "options": [
+        "xac đinh; nhan ra",
+        "bo qua",
+        "an gia",
+        "nham lan"
+      ],
+      "answer": 0,
+      "explanation": "Identify = xac đinh; nhan ra"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Overdue' la:",
+      "options": [
+        "qua han; cham han",
+        "som hon",
+        "đung han",
+        "chua đen han"
+      ],
+      "answer": 0,
+      "explanation": "Overdue = qua han; cham han"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Lightweight':",
+      "options": [
+        "nhe",
+        "nang",
+        "lon",
+        "nho"
+      ],
+      "answer": 0,
+      "explanation": "Lightweight = nhe"
+    },
+    {
+      "type": "meaning",
+      "question": "'Bypass' co nghia la gi?",
+      "options": [
+        "bo qua; đi vòng tránh",
+        "đi qua",
+        "đung lai",
+        "quay lai"
+      ],
+      "answer": 0,
+      "explanation": "Bypass = bo qua; đi vòng tránh"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'đánh giá'?",
+      "options": [
+        "Evaluate",
+        "Ignore",
+        "Deny",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Evaluate = đanh gia"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'cột mốc quan trọng'?",
+      "options": [
+        "Milestone",
+        "Problem",
+        "Obstacle",
+        "Issue"
+      ],
+      "answer": 0,
+      "explanation": "Milestone = cot moc quan trong"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'danh tiếng':",
+      "options": [
+        "Reputation",
+        "Anonymity",
+        "Obscurity",
+        "Shame"
+      ],
+      "answer": 0,
+      "explanation": "Reputation = danh tieng"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'thuyết phục'?",
+      "options": [
+        "Persuade",
+        "Confuse",
+        "Force",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Persuade = thuyet phuc"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'đẩy nhanh':",
+      "options": [
+        "Expedite",
+        "Delay",
+        "Postpone",
+        "Slow"
+      ],
+      "answer": 0,
+      "explanation": "Expedite = đay nhanh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'xác định; nhận ra'?",
+      "options": [
+        "Identify",
+        "Ignore",
+        "Hide",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Identify = xac đinh; nhan ra"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'sắp xảy ra; cận kề':",
+      "options": [
+        "Imminent",
+        "Past",
+        "Distant",
+        "Remote"
+      ],
+      "answer": 0,
+      "explanation": "Imminent = sap xay ra"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'phản hồi nhanh'?",
+      "options": [
+        "Responsive",
+        "Slow",
+        "Delayed",
+        "Unresponsive"
+      ],
+      "answer": 0,
+      "explanation": "Responsive = phan hoi nhanh"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'trục trặc' tuong ung voi tu nao?",
+      "options": [
+        "Malfunction",
+        "Success",
+        "Perfection",
+        "Stability"
+      ],
+      "answer": 0,
+      "explanation": "Malfunction = bi truc trac"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'quá hạn' la:",
+      "options": [
+        "Overdue",
+        "Early",
+        "Timely",
+        "Prompt"
+      ],
+      "answer": 0,
+      "explanation": "Overdue = qua han"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'nhẹ'?",
+      "options": [
+        "Lightweight",
+        "Heavy",
+        "Bulky",
+        "Massive"
+      ],
+      "answer": 0,
+      "explanation": "Lightweight = nhe"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'sự trình diễn':",
+      "options": [
+        "Demonstration",
+        "Hiding",
+        "Concealment",
+        "Silence"
+      ],
+      "answer": 0,
+      "explanation": "Demonstration = su trinh dien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'bỏ qua; đi vòng tránh'?",
+      "options": [
+        "Bypass",
+        "Enter",
+        "Approach",
+        "Reach"
+      ],
+      "answer": 0,
+      "explanation": "Bypass = bo qua; đi vòng tránh"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'lòng hiếu khách' tuong ung tu nao?",
+      "options": [
+        "Hospitality",
+        "Hostility",
+        "Coldness",
+        "Rudeness"
+      ],
+      "answer": 0,
+      "explanation": "Hospitality = long hieu khach"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'vô tình; không chủ ý'?",
+      "options": [
+        "Unintentionally",
+        "Deliberately",
+        "Intentionally",
+        "On purpose"
+      ],
+      "answer": 0,
+      "explanation": "Unintentionally = vo tinh"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nShe _____ by train from the suburbs every morning.",
+      "options": [
+        "Commutes",
+        "Flies",
+        "Swims",
+        "Climbs"
+      ],
+      "answer": 0,
+      "explanation": "Commute = đi lam."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nThe manager will _____ each proposal before making a decision.",
+      "options": [
+        "Evaluate",
+        "Ignore",
+        "Skip",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Evaluate = đanh gia."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nReaching 10,000 users was a major _____ for the startup.",
+      "options": [
+        "Milestone",
+        "Problem",
+        "Obstacle",
+        "Failure"
+      ],
+      "answer": 0,
+      "explanation": "Milestone = cot moc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nOur support team is highly _____ to customer inquiries.",
+      "options": [
+        "Responsive",
+        "Slow",
+        "Delayed",
+        "Unresponsive"
+      ],
+      "answer": 0,
+      "explanation": "Responsive = phan hoi nhanh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nShe has worked in the _____ industry for over ten years.",
+      "options": [
+        "Hospitality",
+        "Technology",
+        "Manufacturing",
+        "Construction"
+      ],
+      "answer": 0,
+      "explanation": "Hospitality = nganh dich vu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nShe tried to _____ the client to extend the contract.",
+      "options": [
+        "Persuade",
+        "Confuse",
+        "Force",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Persuade = thuyet phuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe weather forecast warned of _____ storms.",
+      "options": [
+        "Imminent",
+        "Past",
+        "Distant",
+        "Remote"
+      ],
+      "answer": 0,
+      "explanation": "Imminent = sap xay ra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe hotel has a strong _____ for excellent service.",
+      "options": [
+        "Reputation",
+        "Anonymity",
+        "Shame",
+        "Obscurity"
+      ],
+      "answer": 0,
+      "explanation": "Reputation = danh tieng."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nWe need to _____ the shipment before the holiday rush.",
+      "options": [
+        "Expedite",
+        "Delay",
+        "Postpone",
+        "Slow"
+      ],
+      "answer": 0,
+      "explanation": "Expedite = đay nhanh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nThe store held a live _____ of the new coffee machine.",
+      "options": [
+        "Demonstration",
+        "Hiding",
+        "Silence",
+        "Concealment"
+      ],
+      "answer": 0,
+      "explanation": "Demonstration = su trinh dien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nIf the alarm system _____, contact maintenance immediately.",
+      "options": [
+        "Malfunctions",
+        "Works",
+        "Succeeds",
+        "Improves"
+      ],
+      "answer": 0,
+      "explanation": "Malfunction = bi truc trac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe technician was able to _____ the source of the problem quickly.",
+      "options": [
+        "Identify",
+        "Ignore",
+        "Hide",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Identify = xac đinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe library will charge a fee for _____ books.",
+      "options": [
+        "Overdue",
+        "Early",
+        "Timely",
+        "Prompt"
+      ],
+      "answer": 0,
+      "explanation": "Overdue = qua han."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThis _____ laptop is ideal for business travel.",
+      "options": [
+        "Lightweight",
+        "Heavy",
+        "Bulky",
+        "Massive"
+      ],
+      "answer": 0,
+      "explanation": "Lightweight = nhe."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe new road will _____ the congested downtown area.",
+      "options": [
+        "Bypass",
+        "Enter",
+        "Approach",
+        "Reach"
+      ],
+      "answer": 0,
+      "explanation": "Bypass = bo qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nHe _____ sent the email to the wrong department.",
+      "options": [
+        "Unintentionally",
+        "Deliberately",
+        "Intentionally",
+        "On purpose"
+      ],
+      "answer": 0,
+      "explanation": "Unintentionally = vo tinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nPlease _____ expired products immediately.",
+      "options": [
+        "Discard",
+        "Keep",
+        "Store",
+        "Save"
+      ],
+      "answer": 0,
+      "explanation": "Discard = loai bo; vet đi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nEach guest received a meal _____ at check-in.",
+      "options": [
+        "Voucher",
+        "Bill",
+        "Charge",
+        "Fee"
+      ],
+      "answer": 0,
+      "explanation": "Voucher = phieu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThis change will _____ improve efficiency.",
+      "options": [
+        "Undoubtedly",
+        "Never",
+        "Rarely",
+        "Slightly"
+      ],
+      "answer": 0,
+      "explanation": "Undoubtedly = chac chan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nA crack was clearly _____ on the glass panel.",
+      "options": [
+        "Visible",
+        "Hidden",
+        "Invisible",
+        "Concealed"
+      ],
+      "answer": 0,
+      "explanation": "Visible = co the nhin thay."
+    },
+    {
+      "type": "pos",
+      "question": "'Commute' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Commute la đong tu (đi lam)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Evaluate' la gi ve tu loai?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Evaluate la đong tu (đanh gia)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Responsive':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Responsive la tinh tu (phan hoi nhanh)"
+    },
+    {
+      "type": "pos",
+      "question": "'Milestone' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Milestone la danh tu (cot moc)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Imminent' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Imminent la tinh tu (sap xay ra)"
+    },
+    {
+      "type": "pos",
+      "question": "'Reputation' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Reputation la danh tu (danh tieng)"
+    },
+    {
+      "type": "pos",
+      "question": "'Lightweight' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Lightweight la tinh tu (nhe)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Overdue' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Overdue la tinh tu (qua han)"
+    },
+    {
+      "type": "pos",
+      "question": "'Undoubtedly' thuoc tu loai nao?",
+      "options": [
+        "Trang tu",
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Undoubtedly la trang tu (chac chan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Visible' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Visible la tinh tu (co the nhin thay)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to judge the quality or value of something'?",
+      "options": [
+        "Evaluate",
+        "Ignore",
+        "Hide",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Evaluate = đanh gia"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'an important stage or event in development' mo ta tu nao?",
+      "options": [
+        "Milestone",
+        "Problem",
+        "Obstacle",
+        "Failure"
+      ],
+      "answer": 0,
+      "explanation": "Milestone = cot moc quan trong"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'the opinion that people have based on past behavior', tu đo la:",
+      "options": [
+        "Reputation",
+        "Anonymity",
+        "Shame",
+        "Obscurity"
+      ],
+      "answer": 0,
+      "explanation": "Reputation = danh tieng"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'to make someone agree to do something by giving reasons'?",
+      "options": [
+        "Persuade",
+        "Confuse",
+        "Force",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Persuade = thuyet phuc"
+    },
+    {
+      "type": "definition",
+      "question": "'likely to happen very soon' chi tu:",
+      "options": [
+        "Imminent",
+        "Past",
+        "Distant",
+        "Remote"
+      ],
+      "answer": 0,
+      "explanation": "Imminent = sap xay ra"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'reacting quickly and positively'?",
+      "options": [
+        "Responsive",
+        "Slow",
+        "Delayed",
+        "Unresponsive"
+      ],
+      "answer": 0,
+      "explanation": "Responsive = phan hoi nhanh"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to fail to work properly' chi tu:",
+      "options": [
+        "Malfunction",
+        "Succeed",
+        "Improve",
+        "Work"
+      ],
+      "answer": 0,
+      "explanation": "Malfunction = bi truc trac"
+    },
+    {
+      "type": "definition",
+      "question": "'not done or paid by the expected time' mo ta tu:",
+      "options": [
+        "Overdue",
+        "Early",
+        "Timely",
+        "Prompt"
+      ],
+      "answer": 0,
+      "explanation": "Overdue = qua han"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'not heavy and easy to carry'?",
+      "options": [
+        "Lightweight",
+        "Heavy",
+        "Bulky",
+        "Massive"
+      ],
+      "answer": 0,
+      "explanation": "Lightweight = nhe"
+    },
+    {
+      "type": "definition",
+      "question": "'to avoid or go around something' mo ta tu nao?",
+      "options": [
+        "Bypass",
+        "Enter",
+        "Approach",
+        "Reach"
+      ],
+      "answer": 0,
+      "explanation": "Bypass = bo qua"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Spearhead' chinh xac nhat?",
+      "options": [
+        "dan đan",
+        "đi sau",
+        "đung giua",
+        "đi cuoi"
+      ],
+      "answer": 0,
+      "explanation": "Spearhead = dan đan; đi đau trien khai"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Assume' la:",
+      "options": [
+        "cho rang",
+        "bieu đat",
+        "phu nhan",
+        "xac nhan"
+      ],
+      "answer": 0,
+      "explanation": "Assume = cho rang; gia đinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Reserve' gan voi y nao nhat?",
+      "options": [
+        "đat truoc",
+        "huy bo",
+        "tu choi",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Reserve = đat truoc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Adjust' la gi?",
+      "options": [
+        "đieu chinh",
+        "giu nguyen",
+        "huy bo",
+        "phá hủy"
+      ],
+      "answer": 0,
+      "explanation": "Adjust = đieu chinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Alert' (danh tu) la:",
+      "options": [
+        "canh bao",
+        "su yen tinh",
+        "su an gia",
+        "su phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Alert = canh bao; thong bao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Flock to' co nghia gan voi:",
+      "options": [
+        "đo xo đên",
+        "đi xa",
+        "đung yen",
+        "quay lai"
+      ],
+      "answer": 0,
+      "explanation": "Flock to = đo xo đên (đong đao)"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Withhold' la gi?",
+      "options": [
+        "giu lai",
+        "tra lai",
+        "gui đi",
+        "nhan ve"
+      ],
+      "answer": 0,
+      "explanation": "Withhold = giu lai; khong cap"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Inquire' mang y nao gan nhat?",
+      "options": [
+        "hoi",
+        "đap",
+        "phu nhan",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Inquire = hoi; tham mac"
+    },
+    {
+      "type": "collocation",
+      "question": "'Commute' thuong ket hop voi tu nao?",
+      "options": [
+        "Daily commute",
+        "Tasty commute",
+        "Cold commute",
+        "Dark commute"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: daily commute, long commute"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Satisfaction'?",
+      "options": [
+        "Customer satisfaction",
+        "Tasty satisfaction",
+        "Cold satisfaction",
+        "Dark satisfaction"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: customer satisfaction, job satisfaction"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Reputation' thuong đi cung cum nao?",
+      "options": [
+        "Strong reputation",
+        "Tasty reputation",
+        "Cold reputation",
+        "Dark reputation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: strong reputation, good reputation"
+    },
+    {
+      "type": "collocation",
+      "question": "'Priority' thuong xuat hien trong cum nao?",
+      "options": [
+        "Top priority",
+        "Tasty priority",
+        "Cold priority",
+        "Dark priority"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: top priority, give priority"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Collaboration':",
+      "options": [
+        "Close collaboration",
+        "Tasty collaboration",
+        "Cold collaboration",
+        "Dark collaboration"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: close collaboration, international collaboration"
+    },
+    {
+      "type": "collocation",
+      "question": "'Rush' đi cung voi tu nao?",
+      "options": [
+        "Rush hour",
+        "Tasty rush",
+        "Cold rush",
+        "Dark rush"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: rush hour, rush order"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Participation'?",
+      "options": [
+        "Active participation",
+        "Tasty participation",
+        "Cold participation",
+        "Dark participation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: active participation, employee participation"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Hospitality' lien quan đên ngucanh nao?",
+      "options": [
+        "Khach san, nha hang",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Hospitality = nganh dich vu luu tru/an uong"
+    },
+    {
+      "type": "context",
+      "question": "'Tuition' thuoc linh vuc nao?",
+      "options": [
+        "Giao duc",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Tuition = hoc phi, ngucanh giao duc"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Payroll' lien quan chinh đên gi?",
+      "options": [
+        "Nhan su, ke toan",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Payroll = bang luong, ngucanh nhan su/ke toan"
+    },
+    {
+      "type": "context",
+      "question": "'Creamery' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "San pham tu sua",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Creamery = cua hang sua"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Peninsula' lien quan đên linhvuc nao?",
+      "options": [
+        "Đia ly",
+        "Tai chinh",
+        "Y te",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Peninsula = ban đo, ngucanh đia ly"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Evaluate",
+        "Commute",
+        "Persuade",
+        "Milestone"
+      ],
+      "answer": 3,
+      "explanation": "Milestone la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Responsive",
+        "Imminent",
+        "Visible",
+        "Expedite"
+      ],
+      "answer": 3,
+      "explanation": "Expedite la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Undoubtedly",
+        "Unintentionally",
+        "Immediately",
+        "Responsive"
+      ],
+      "answer": 3,
+      "explanation": "Responsive la tinh tu; 3 tu con lai la trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Reputation",
+        "Satisfaction",
+        "Hospitality",
+        "Expedite"
+      ],
+      "answer": 3,
+      "explanation": "Expedite la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Lightweight",
+        "Overdue",
+        "Visible",
+        "Voucher"
+      ],
+      "answer": 3,
+      "explanation": "Voucher la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Evaluate' đung?",
+      "options": [
+        "The manager will evaluate each proposal before making a decision.",
+        "She evaluate very beautiful today.",
+        "They evaluate sunny weather.",
+        "He evaluate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Evaluate = đanh gia, đung voi đe xuat, hieu qua"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Expedite' đung?",
+      "options": [
+        "We need to expedite the shipment before the holiday rush.",
+        "She expedite very tired today.",
+        "They expedite sunny weather.",
+        "He expedite the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Expedite = đay nhanh, đung với van chuyen, xu ly"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Identify':",
+      "options": [
+        "The technician was able to identify the source of the problem quickly.",
+        "The weather identify warm tomorrow.",
+        "She identify very tired today.",
+        "They identify the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Identify = xac đinh, đung voi nguyen nhan, nguon goc"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Discard' phu hop?",
+      "options": [
+        "The staff were instructed to discard expired products immediately.",
+        "She discard very beautiful dress.",
+        "They discard sunny weather today.",
+        "He discard the red color."
+      ],
+      "answer": 0,
+      "explanation": "Discard = vet đi, đung voi san pham het han"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Reserve':",
+      "options": [
+        "We should reserve a larger room for tomorrow's workshop.",
+        "She reserve very beautiful today.",
+        "They reserve the sweet taste.",
+        "He reserve quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Reserve = đat truoc, đung voi phong, ban"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Understaffed'?",
+      "options": [
+        "Fully staffed",
+        "Overstaffed",
+        "Short-staffed",
+        "Undermanned"
+      ],
+      "answer": 0,
+      "explanation": "Understaffed (thieu nhan su) trai nghia voi Fully staffed (đu nhan su)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Promptly'?",
+      "options": [
+        "Quickly",
+        "Slowly",
+        "Late",
+        "Delayed"
+      ],
+      "answer": 0,
+      "explanation": "Promptly ~ Quickly"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Visible'?",
+      "options": [
+        "Invisible",
+        "Clear",
+        "Obvious",
+        "Apparent"
+      ],
+      "answer": 0,
+      "explanation": "Visible (co the nhin thay) trai nghia voi Invisible (khong nhin thay). Notes ghi: Opposite: invisible"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'She gave a stunning presentation', tu 'stunning' gan nghia voi?",
+      "options": [
+        "Impressive",
+        "Boring",
+        "Dull",
+        "Average"
+      ],
+      "answer": 0,
+      "explanation": "Stunning ~ Impressive (an tuong manh)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company must expedite the process', tu nao thay đuoc 'expedite'?",
+      "options": [
+        "Accelerate",
+        "Delay",
+        "Slow",
+        "Postpone"
+      ],
+      "answer": 0,
+      "explanation": "Expedite ~ Accelerate (đay nhanh)"
+    }
+  ]
+}

@@ -1,0 +1,1289 @@
+{
+  "skill": "listening",
+  "test": "Test 9",
+  "title": "ETS Listening 2026 - Test 9",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Shade' co nghia la gi?",
+      "options": [
+        "bong ram; cho ram",
+        "anh nang",
+        "mua",
+        "gio"
+      ],
+      "answer": 0,
+      "explanation": "Shade = bong ram; cho ram"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Bin' la:",
+      "options": [
+        "thung; sot đung đo",
+        "ban ghe",
+        "cua so",
+        "tu quần"
+      ],
+      "answer": 0,
+      "explanation": "Bin = thung; sot đung đo"
+    },
+    {
+      "type": "meaning",
+      "question": "'Payroll' mang y nghia nao?",
+      "options": [
+        "bang luong; viec tra luong",
+        "hoa đơn",
+        "hợp đồng",
+        "biên lai"
+      ],
+      "answer": 0,
+      "explanation": "Payroll = bang luong; viec tra luong"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Athletic':",
+      "options": [
+        "khe manh; thuoc the thao",
+        "yeu đuoi",
+        "benh hoan",
+        "lười biếng"
+      ],
+      "answer": 0,
+      "explanation": "Athletic = khoe manh; thuoc the thao"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Treatment' đuoc hieu la:",
+      "options": [
+        "su đieu tri; cach xu ly",
+        "su phong ngua",
+        "su kham benh",
+        "su nghi ngoi"
+      ],
+      "answer": 0,
+      "explanation": "Treatment = su đieu tri; cach xu ly"
+    },
+    {
+      "type": "meaning",
+      "question": "'Nutrition' co nghia la gi?",
+      "options": [
+        "dinh duong",
+        "y te",
+        "the thao",
+        "cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Nutrition = dinh duong"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Sanitize'?",
+      "options": [
+        "khử trung; lam sach ve sinh",
+        "lam ban",
+        "bo đi",
+        "phá hủy"
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung; lam sach ve sinh"
+    },
+    {
+      "type": "meaning",
+      "question": "'Attendance' mang y nghia:",
+      "options": [
+        "su tham du; so nguoi tham du",
+        "su vang mat",
+        "su nghi phep",
+        "su nghi om"
+      ],
+      "answer": 0,
+      "explanation": "Attendance = su tham du; so nguoi tham du"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Inadequate' la:",
+      "options": [
+        "khong đay đu; khong đu",
+        "đu",
+        "đay đu",
+        "dồi dao"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate = khong đay đu; khong đu"
+    },
+    {
+      "type": "meaning",
+      "question": "'Reassign' đuoc hieu nhu the nao?",
+      "options": [
+        "phan cong lai; đieu chuyen",
+        "sa thai",
+        "nghi huu",
+        "thang chuc"
+      ],
+      "answer": 0,
+      "explanation": "Reassign = phan cong lai; đieu chuyen"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Intensive' co nghia la:",
+      "options": [
+        "chuyen sau; tap trung cao đo",
+        "nhe nhang",
+        "bình thuong",
+        "đon gian"
+      ],
+      "answer": 0,
+      "explanation": "Intensive = chuyen sau; tap trung cao đo"
+    },
+    {
+      "type": "meaning",
+      "question": "'Praise' mang y nghia nao?",
+      "options": [
+        "loi khen; khen ngợi",
+        "loi chi tran",
+        "loi phạt",
+        "loi khiem nhac"
+      ],
+      "answer": 0,
+      "explanation": "Praise = loi khen; khen ngợi"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Morale' la:",
+      "options": [
+        "tinh than; si khi",
+        "su met moi",
+        "sự tức giận",
+        "sự thất vọng"
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than; si khi"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Acquire':",
+      "options": [
+        "đat đuoc; co đuoc",
+        "mat đi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = đat đuoc; co đuoc"
+    },
+    {
+      "type": "meaning",
+      "question": "'Adopt' co nghia la gi?",
+      "options": [
+        "ap dung; chap nhan",
+        "tu bo",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Adopt = ap dung; chap nhan; nhan nuoi"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'bóng râm; chỗ râm'?",
+      "options": [
+        "Shade",
+        "Sunlight",
+        "Rain",
+        "Wind"
+      ],
+      "answer": 0,
+      "explanation": "Shade = bong ram"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'thùng; sọt đựng đồ'?",
+      "options": [
+        "Bin",
+        "Table",
+        "Window",
+        "Wardrobe"
+      ],
+      "answer": 0,
+      "explanation": "Bin = thung; sot đung đo"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'bảng lương':",
+      "options": [
+        "Payroll",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Payroll = bang luong"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'khỏe mạnh; thuộc thể thao'?",
+      "options": [
+        "Athletic",
+        "Weak",
+        "Sick",
+        "Lazy"
+      ],
+      "answer": 0,
+      "explanation": "Athletic = khoe manh"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'dinh dưỡng':",
+      "options": [
+        "Nutrition",
+        "Medicine",
+        "Sport",
+        "Technology"
+      ],
+      "answer": 0,
+      "explanation": "Nutrition = dinh duong"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'khử trùng; làm sạch vệ sinh'?",
+      "options": [
+        "Sanitize",
+        "Dirty",
+        "Discard",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'sự tham dự':",
+      "options": [
+        "Attendance",
+        "Absence",
+        "Leave",
+        "Sick leave"
+      ],
+      "answer": 0,
+      "explanation": "Attendance = su tham du"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'không đầy đủ'?",
+      "options": [
+        "Inadequate",
+        "Enough",
+        "Plentiful",
+        "Abundant"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate = khong đay đu"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'phân công lại; điều chuyển' tuong ung voi tu nao?",
+      "options": [
+        "Reassign",
+        "Fire",
+        "Retire",
+        "Promote"
+      ],
+      "answer": 0,
+      "explanation": "Reassign = phan cong lai"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'chuyên sâu; tập trung cao độ' la:",
+      "options": [
+        "Intensive",
+        "Light",
+        "Normal",
+        "Simple"
+      ],
+      "answer": 0,
+      "explanation": "Intensive = chuyen sau"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'lời khen; khen ngợi'?",
+      "options": [
+        "Praise",
+        "Criticism",
+        "Punishment",
+        "Scolding"
+      ],
+      "answer": 0,
+      "explanation": "Praise = loi khen"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'tinh thần; sĩ khí':",
+      "options": [
+        "Morale",
+        "Fatigue",
+        "Anger",
+        "Disappointment"
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'đạt được; có được'?",
+      "options": [
+        "Acquire",
+        "Lose",
+        "Sell",
+        "Give"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = đat đuoc"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'áp dụng; chấp nhận' tuong ung tu nao?",
+      "options": [
+        "Adopt",
+        "Abandon",
+        "Cancel",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Adopt = ap dụng"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'theo đuổi'?",
+      "options": [
+        "Pursue",
+        "Abandon",
+        "Quit",
+        "Give up"
+      ],
+      "answer": 0,
+      "explanation": "Pursue = theo đuoi"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nWe sat in the _____ to avoid the heat.",
+      "options": [
+        "Shade",
+        "Sunlight",
+        "Rain",
+        "Wind"
+      ],
+      "answer": 0,
+      "explanation": "Shade = bong ram."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nPlease put the paper in the recycling _____.",
+      "options": [
+        "Bin",
+        "Table",
+        "Window",
+        "Wardrobe"
+      ],
+      "answer": 0,
+      "explanation": "Bin = thung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe accounting team processes the _____ every Friday.",
+      "options": [
+        "Payroll",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Payroll = bang luong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe school offers several _____ programs.",
+      "options": [
+        "Athletic",
+        "Weak",
+        "Sick",
+        "Lazy"
+      ],
+      "answer": 0,
+      "explanation": "Athletic = thuoc the thao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nGood _____ is important for children.",
+      "options": [
+        "Nutrition",
+        "Medicine",
+        "Sport",
+        "Technology"
+      ],
+      "answer": 0,
+      "explanation": "Nutrition = dinh duong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nStaff must _____ the equipment after use.",
+      "options": [
+        "Sanitize",
+        "Dirty",
+        "Discard",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nEmployee _____ was excellent this month.",
+      "options": [
+        "Attendance",
+        "Absence",
+        "Leave",
+        "Sick leave"
+      ],
+      "answer": 0,
+      "explanation": "Attendance = su tham du."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nWe have _____ space for storage.",
+      "options": [
+        "Inadequate",
+        "Enough",
+        "Plentiful",
+        "Abundant"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate = khong đay đu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nShe was _____ to the marketing department.",
+      "options": [
+        "Reassigned",
+        "Fired",
+        "Retired",
+        "Promoted"
+      ],
+      "answer": 0,
+      "explanation": "Reassign = phan cong lai."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nThe new hires completed an _____ training program.",
+      "options": [
+        "Intensive",
+        "Light",
+        "Normal",
+        "Simple"
+      ],
+      "answer": 0,
+      "explanation": "Intensive = chuyen sau."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nHer idea received high _____ from the team.",
+      "options": [
+        "Praise",
+        "Criticism",
+        "Punishment",
+        "Scolding"
+      ],
+      "answer": 0,
+      "explanation": "Praise = loi khen."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nTeam _____ improved after the announcement.",
+      "options": [
+        "Morale",
+        "Fatigue",
+        "Anger",
+        "Disappointment"
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company plans to _____ a smaller firm.",
+      "options": [
+        "Acquire",
+        "Lose",
+        "Sell",
+        "Give"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = đat đuoc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe company decided to _____ a new policy.",
+      "options": [
+        "Adopt",
+        "Abandon",
+        "Cancel",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Adopt = ap dụng."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nShe plans to _____ a career in design.",
+      "options": [
+        "Pursue",
+        "Abandon",
+        "Quit",
+        "Give up"
+      ],
+      "answer": 0,
+      "explanation": "Pursue = theo đuoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nTrees _____ their leaves in autumn.",
+      "options": [
+        "Shed",
+        "Grow",
+        "Keep",
+        "Produce"
+      ],
+      "answer": 0,
+      "explanation": "Shed = rung (la)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nWe stored the _____ food in the refrigerator.",
+      "options": [
+        "Leftover",
+        "Fresh",
+        "New",
+        "Hot"
+      ],
+      "answer": 0,
+      "explanation": "Leftover = con thua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe issue was _____ resolved.",
+      "options": [
+        "Eventually",
+        "Never",
+        "Rarely",
+        "Slightly"
+      ],
+      "answer": 0,
+      "explanation": "Eventually = cuoi cung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company will _____ new business opportunities.",
+      "options": [
+        "Pursue",
+        "Ignore",
+        "Avoid",
+        "Reject"
+      ],
+      "answer": 0,
+      "explanation": "Pursue = theo đuoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nWe need a _____ training plan.",
+      "options": [
+        "Comprehensive",
+        "Partial",
+        "Brief",
+        "Short"
+      ],
+      "answer": 0,
+      "explanation": "Comprehensive = toan dien."
+    },
+    {
+      "type": "pos",
+      "question": "'Shade' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Shade la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Athletic' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Athletic la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Intensive':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Intensive la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Attendance' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Attendance la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Inadequate' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Reassign' la đong tu hay danh tu?",
+      "options": [
+        "Đong tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Reassign la đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Morale' thuoc loai tu nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Morale la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Praise' co the la:",
+      "options": [
+        "Ca danh tu va đong tu",
+        "Chi la danh tu",
+        "Chi la đong tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Praise co the la ca danh tu va đong tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Comprehensive' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Comprehensive la tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Eventually' la gi?",
+      "options": [
+        "Trang tu",
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Eventually la trang tu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'an area out of direct sunlight'?",
+      "options": [
+        "Shade",
+        "Sunlight",
+        "Rain",
+        "Wind"
+      ],
+      "answer": 0,
+      "explanation": "Shade = bong ram"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a container for storing or throwing away things' mo ta tu nao?",
+      "options": [
+        "Bin",
+        "Table",
+        "Window",
+        "Wardrobe"
+      ],
+      "answer": 0,
+      "explanation": "Bin = thung"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'the list of employees to be paid', tu đo la:",
+      "options": [
+        "Payroll",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Payroll = bang luong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'related to sports or physically strong'?",
+      "options": [
+        "Athletic",
+        "Weak",
+        "Sick",
+        "Lazy"
+      ],
+      "answer": 0,
+      "explanation": "Athletic = khoe manh"
+    },
+    {
+      "type": "definition",
+      "question": "'the process or science of food and health' chi tu:",
+      "options": [
+        "Nutrition",
+        "Medicine",
+        "Sport",
+        "Technology"
+      ],
+      "answer": 0,
+      "explanation": "Nutrition = dinh duong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'to make clean and safe by removing germs'?",
+      "options": [
+        "Sanitize",
+        "Dirty",
+        "Discard",
+        "Destroy"
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'not enough or not good enough' chi tu:",
+      "options": [
+        "Inadequate",
+        "Enough",
+        "Plentiful",
+        "Abundant"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate = khong đay đu"
+    },
+    {
+      "type": "definition",
+      "question": "'involving a lot of effort in a short time' mo ta tu:",
+      "options": [
+        "Intensive",
+        "Light",
+        "Normal",
+        "Simple"
+      ],
+      "answer": 0,
+      "explanation": "Intensive = chuyen sau"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'approval or admiration'?",
+      "options": [
+        "Praise",
+        "Criticism",
+        "Punishment",
+        "Scolding"
+      ],
+      "answer": 0,
+      "explanation": "Praise = loi khen"
+    },
+    {
+      "type": "definition",
+      "question": "'the level of confidence of a group' mo ta tu nao?",
+      "options": [
+        "Morale",
+        "Fatigue",
+        "Anger",
+        "Disappointment"
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than"
+    },
+    {
+      "type": "definition",
+      "question": "'complete and including everything' mo ta tu nao?",
+      "options": [
+        "Comprehensive",
+        "Partial",
+        "Brief",
+        "Short"
+      ],
+      "answer": 0,
+      "explanation": "Comprehensive = toan dien"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Sanitize' chinh xac nhat?",
+      "options": [
+        "khử trung",
+        "lam ban",
+        "bo đi",
+        "phá hủy"
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung; lam sach ve sinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Pursue' la:",
+      "options": [
+        "theo đuoi",
+        "bo cuoc",
+        "huy bo",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Pursue = theo đuoi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Morale' gan voi y nao nhat?",
+      "options": [
+        "tinh than",
+        "su met moi",
+        "sự tức giận",
+        "sự thất vọng"
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than; si khi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Adopt' la gi?",
+      "options": [
+        "ap dụng",
+        "tu bo",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Adopt = ap dụng; chap nhan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Intensive' la:",
+      "options": [
+        "chuyen sau",
+        "nhe nhang",
+        "bình thuong",
+        "đon giản"
+      ],
+      "answer": 0,
+      "explanation": "Intensive = chuyen sau; tap trung cao đo"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Acquire' co nghia gan voi:",
+      "options": [
+        "đat đuoc",
+        "mat đi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = đat đuoc; co đuoc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Attendance' la gi?",
+      "options": [
+        "su tham du",
+        "su vang mat",
+        "su nghi phep",
+        "su nghi om"
+      ],
+      "answer": 0,
+      "explanation": "Attendance = su tham du; so nguoi tham du"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Comprehensive' mang y nao gan nhat?",
+      "options": [
+        "toan dien",
+        "mot phan",
+        "ngan gon",
+        "đon gian"
+      ],
+      "answer": 0,
+      "explanation": "Comprehensive = toan dien; đay đu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Inadequate' mang y nao gan nhat?",
+      "options": [
+        "khong đu",
+        "đu",
+        "đay đu",
+        "dồi dao"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate = khong đay đu; khong đu"
+    },
+    {
+      "type": "collocation",
+      "question": "''Payroll' thuong ket hop voi tu nao?",
+      "options": [
+        "Process payroll",
+        "Tasty payroll",
+        "Cold payroll",
+        "Dark payroll"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: process payroll, payroll system"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Attendance'?",
+      "options": [
+        "Attendance record",
+        "Tasty attendance",
+        "Cold attendance",
+        "Dark attendance"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: attendance record, poor attendance"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Intensive' thuong đi cung cum nao?",
+      "options": [
+        "Intensive training",
+        "Tasty intensive",
+        "Cold intensive",
+        "Dark intensive"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: intensive training, intensive care"
+    },
+    {
+      "type": "collocation",
+      "question": "''Morale' thuong xuat hien trong cum nao?",
+      "options": [
+        "Boost morale",
+        "Tasty morale",
+        "Cold morale",
+        "Dark morale"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: boost morale, team morale"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Praise':",
+      "options": [
+        "Receive praise",
+        "Tasty praise",
+        "Cold praise",
+        "Dark praise"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: receive praise, earn praise"
+    },
+    {
+      "type": "collocation",
+      "question": "''Comprehensive' đi cung voi tu nao?",
+      "options": [
+        "Comprehensive plan",
+        "Tasty comprehensive",
+        "Cold comprehensive",
+        "Dark comprehensive"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: comprehensive plan, comprehensive review"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Procedure'?",
+      "options": [
+        "Standard procedure",
+        "Tasty procedure",
+        "Cold procedure",
+        "Dark procedure"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: standard procedure, follow procedure"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Nutrition' lien quan đên ngucanh nao?",
+      "options": [
+        "Suc khoe, thuc pham",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Nutrition = dinh duong"
+    },
+    {
+      "type": "context",
+      "question": "''Payroll' thuoc linh vuc nao?",
+      "options": [
+        "Nhan su, ke toan",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Payroll = bang luong"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Sanitize' lien quan chinh đên gi?",
+      "options": [
+        "Ve sinh, y te",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung"
+    },
+    {
+      "type": "context",
+      "question": "''Athletic' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "The thao, suc khoe",
+        "Y te",
+        "Tai chinh",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Athletic = khoe manh; thuoc the thao"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Morale' lien quan đên linhvuc nao?",
+      "options": [
+        "Quan ly nhan su",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than, ngucanh quan ly"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Reassign",
+        "Adopt",
+        "Pursue",
+        "Shade"
+      ],
+      "answer": 3,
+      "explanation": "Shade la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Athletic",
+        "Intensive",
+        "Inadequate",
+        "Reassign"
+      ],
+      "answer": 3,
+      "explanation": "Reassign la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Shade",
+        "Payroll",
+        "Attendance",
+        "Comprehensive"
+      ],
+      "answer": 3,
+      "explanation": "Comprehensive la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Morale",
+        "Praise",
+        "Attendance",
+        "Adopt"
+      ],
+      "answer": 3,
+      "explanation": "Adopt la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Athletic",
+        "Intensive",
+        "Inadequate",
+        "Procedure"
+      ],
+      "answer": 3,
+      "explanation": "Procedure la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Sanitize' đung?",
+      "options": [
+        "Staff must sanitize the equipment after use.",
+        "She sanitize very beautiful today.",
+        "They sanitize sunny weather.",
+        "He sanitize the red color."
+      ],
+      "answer": 0,
+      "explanation": "Sanitize = khử trung, đung voi thiet bi, be mat"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Pursue' đung?",
+      "options": [
+        "She plans to pursue a career in design.",
+        "She pursue very tired today.",
+        "They pursue sunny weather.",
+        "He pursue the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Pursue = theo đuoi, đung voi su nghiep, co hoi"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Adopt':",
+      "options": [
+        "The company decided to adopt a new policy.",
+        "The weather adopt warm tomorrow.",
+        "She adopt very tired today.",
+        "They adopt the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Adopt = ap dụng, đung voi chinh sach, phuong phap"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Morale' phu hop?",
+      "options": [
+        "Team morale improved after the announcement.",
+        "She morale very beautiful dress.",
+        "They morale sunny weather today.",
+        "He morale the red color."
+      ],
+      "answer": 0,
+      "explanation": "Morale = tinh than, đung voi đo ngu, phan"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Comprehensive':",
+      "options": [
+        "The report provides a comprehensive overview of the project.",
+        "She comprehensive very beautiful today.",
+        "They comprehensive the sweet taste.",
+        "He comprehensive quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Comprehensive = toan dien, đung voi bao cao, ke hoach"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Inadequate'?",
+      "options": [
+        "Adequate",
+        "Insufficient",
+        "Lacking",
+        "Deficient"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate (khong đu) trai nghia voi Adequate (đu). Notes ghi: Opposite: adequate"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Praise'?",
+      "options": [
+        "Compliment",
+        "Criticism",
+        "Blame",
+        "Condemn"
+      ],
+      "answer": 0,
+      "explanation": "Praise ~ Compliment (khen ngợi)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Attendance'?",
+      "options": [
+        "Absence",
+        "Presence",
+        "Participation",
+        "Appearance"
+      ],
+      "answer": 0,
+      "explanation": "Attendance (su tham du) trai nghia voi Absence (su vang mat)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company plans to acquire a smaller firm', tu 'acquire' gan nghia voi?",
+      "options": [
+        "Purchase",
+        "Lose",
+        "Sell",
+        "Give"
+      ],
+      "answer": 0,
+      "explanation": "Acquire ~ Purchase (mua lai)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'She plans to pursue a career in design', tu nao thay đuoc 'pursue'?",
+      "options": [
+        "Follow",
+        "Abandon",
+        "Quit",
+        "Give up"
+      ],
+      "answer": 0,
+      "explanation": "Pursue ~ Follow (theo đuoi)"
+    }
+  ]
+}

@@ -1,0 +1,1289 @@
+{
+  "skill": "listening",
+  "test": "Test 2",
+  "title": "ETS Listening 2026 - Test 2",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Delivery' co nghia la gi?",
+      "options": [
+        "su giao hang",
+        "su nhan hang",
+        "su mua hang",
+        "su ban hang"
+      ],
+      "answer": 0,
+      "explanation": "Delivery = su giao hang"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Apology' la:",
+      "options": [
+        "loi xin loi",
+        "loi khen",
+        "loi cam on",
+        "loi chuc mung"
+      ],
+      "answer": 0,
+      "explanation": "Apology = loi xin loi"
+    },
+    {
+      "type": "meaning",
+      "question": "'Efficient' mang y nghia nao?",
+      "options": [
+        "hieu qua",
+        "kem hieu qua",
+        "cham chap",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Efficient = hieu qua"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Schedule':",
+      "options": [
+        "lich trinh",
+        "hoa đơn",
+        "hợp đồng",
+        "biên lai"
+      ],
+      "answer": 0,
+      "explanation": "Schedule = lich trinh"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Available' đuoc hieu la:",
+      "options": [
+        "co san; kha dung",
+        "het hang",
+        "khong co",
+        "khong kha dung"
+      ],
+      "answer": 0,
+      "explanation": "Available = co san; kha dung"
+    },
+    {
+      "type": "meaning",
+      "question": "'Confirm' co nghia la gi?",
+      "options": [
+        "xac nhan",
+        "huy bo",
+        "tu choi",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Confirm = xac nhan"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Extension'?",
+      "options": [
+        "so may nhanh; phan mo rong",
+        "so dien thoai",
+        "so fax",
+        "so tai khoan"
+      ],
+      "answer": 0,
+      "explanation": "Extension = so may nhanh; phan mo rong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Promote' mang y nghia:",
+      "options": [
+        "quang ba; thang chuc",
+        "ha chuc",
+        "dua ra",
+        "giam xuong"
+      ],
+      "answer": 0,
+      "explanation": "Promote = quang ba; thang chuc"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Reservation' la:",
+      "options": [
+        "đat cho; đat truoc",
+        "huy bo",
+        "hoan lai",
+        "tu choi"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho; đat truoc"
+    },
+    {
+      "type": "meaning",
+      "question": "'Entirely' đuoc hieu nhu the nao?",
+      "options": [
+        "hoan toan",
+        "mot phan",
+        "khong hoan toan",
+        "mot it"
+      ],
+      "answer": 0,
+      "explanation": "Entirely = hoan toan; toan bo"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Individual' co nghia la:",
+      "options": [
+        "ca nhan; rieng le",
+        "tap the",
+        "nhom",
+        "đoàn the"
+      ],
+      "answer": 0,
+      "explanation": "Individual = ca nhan; rieng le"
+    },
+    {
+      "type": "meaning",
+      "question": "'Nutritional' mang y nghia nao?",
+      "options": [
+        "thuoc dinh duong",
+        "thuộc y te",
+        "thuoc the thao",
+        "thuoc cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Nutritional = thuoc dinh duong"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Investment' la:",
+      "options": [
+        "su đau tu",
+        "su chi tieu",
+        "su mat sat",
+        "su vay no"
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Charity':",
+      "options": [
+        "tu thien",
+        "kinh doanh",
+        "chinh phu",
+        "quân đoi"
+      ],
+      "answer": 0,
+      "explanation": "Charity = tu thien; to chuc tu thien"
+    },
+    {
+      "type": "meaning",
+      "question": "'Reimbursement' co nghia la gi?",
+      "options": [
+        "su hoan tra",
+        "su thu tien",
+        "su giam gia",
+        "su tang gia"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra; boi hoan"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'sự giao hàng'?",
+      "options": [
+        "Delivery",
+        "Receipt",
+        "Invoice",
+        "Order"
+      ],
+      "answer": 0,
+      "explanation": "Delivery = su giao hang"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'lời xin lỗi'?",
+      "options": [
+        "Apology",
+        "Praise",
+        "Thanks",
+        "Congratulations"
+      ],
+      "answer": 0,
+      "explanation": "Apology = loi xin loi"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'hiệu quả':",
+      "options": [
+        "Efficient",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Efficient = hieu qua"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'có sẵn; khả dụng'?",
+      "options": [
+        "Available",
+        "Unavailable",
+        "Absent",
+        "Missing"
+      ],
+      "answer": 0,
+      "explanation": "Available = co san"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'xác nhận':",
+      "options": [
+        "Confirm",
+        "Cancel",
+        "Deny",
+        "Refuse"
+      ],
+      "answer": 0,
+      "explanation": "Confirm = xac nhan"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'quảng bá; thăng chức'?",
+      "options": [
+        "Promote",
+        "Demote",
+        "Remove",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Promote = quang ba; thang chuc"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'cá nhân; riêng lẻ':",
+      "options": [
+        "Individual",
+        "Group",
+        "Collective",
+        "Team"
+      ],
+      "answer": 0,
+      "explanation": "Individual = ca nhan"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'sự đầu tư'?",
+      "options": [
+        "Investment",
+        "Expense",
+        "Loss",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'từ thiện' tuong ung voi tu nao?",
+      "options": [
+        "Charity",
+        "Business",
+        "Government",
+        "Military"
+      ],
+      "answer": 0,
+      "explanation": "Charity = tu thien"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'hoàn trả' la:",
+      "options": [
+        "Reimbursement",
+        "Charge",
+        "Fee",
+        "Tax"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'lịch trình'?",
+      "options": [
+        "Schedule",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Schedule = lich trinh"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'hoàn toàn':",
+      "options": [
+        "Entirely",
+        "Partly",
+        "Slightly",
+        "Barely"
+      ],
+      "answer": 0,
+      "explanation": "Entirely = hoan toan"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'thuộc dinh dưỡng'?",
+      "options": [
+        "Nutritional",
+        "Medical",
+        "Athletic",
+        "Technical"
+      ],
+      "answer": 0,
+      "explanation": "Nutritional = thuoc dinh duong"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'số máy nhánh' tuong ung tu nao?",
+      "options": [
+        "Extension",
+        "Hotline",
+        "Fax",
+        "Account"
+      ],
+      "answer": 0,
+      "explanation": "Extension = so may nhanh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đặt chỗ'?",
+      "options": [
+        "Reservation",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe _____ is scheduled for Tuesday morning.",
+      "options": [
+        "Delivery",
+        "Receipt",
+        "Invoice",
+        "Order"
+      ],
+      "answer": 0,
+      "explanation": "Delivery = su giao hang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nPlease accept our _____ for the inconvenience.",
+      "options": [
+        "Apology",
+        "Praise",
+        "Thanks",
+        "Congratulations"
+      ],
+      "answer": 0,
+      "explanation": "Apology = loi xin loi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe new system works more _____ than the old one.",
+      "options": [
+        "Efficiently",
+        "Slowly",
+        "Poorly",
+        "Badly"
+      ],
+      "answer": 0,
+      "explanation": "Efficiently = hieu qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nPlease check the meeting _____ for the exact time.",
+      "options": [
+        "Schedule",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Schedule = lich trinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe product is currently _____ in three colors.",
+      "options": [
+        "Available",
+        "Unavailable",
+        "Absent",
+        "Missing"
+      ],
+      "answer": 0,
+      "explanation": "Available = co san."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nPlease _____ your reservation by email.",
+      "options": [
+        "Confirm",
+        "Cancel",
+        "Deny",
+        "Refuse"
+      ],
+      "answer": 0,
+      "explanation": "Confirm = xac nhan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nPlease call _____ 204 for assistance.",
+      "options": [
+        "Extension",
+        "Hotline",
+        "Fax",
+        "Account"
+      ],
+      "answer": 0,
+      "explanation": "Extension = so may nhanh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company used social media to _____ its new product.",
+      "options": [
+        "Promote",
+        "Demote",
+        "Remove",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Promote = quang ba."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nI _____ agree with your suggestion.",
+      "options": [
+        "Entirely",
+        "Partly",
+        "Slightly",
+        "Barely"
+      ],
+      "answer": 0,
+      "explanation": "Entirely = hoan toan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nEach _____ employee received training.",
+      "options": [
+        "Individual",
+        "Group",
+        "Collective",
+        "Team"
+      ],
+      "answer": 0,
+      "explanation": "Individual = ca nhan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe label provides _____ information.",
+      "options": [
+        "Nutritional",
+        "Medical",
+        "Athletic",
+        "Technical"
+      ],
+      "answer": 0,
+      "explanation": "Nutritional = thuoc dinh duong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe company made a large _____ in new equipment.",
+      "options": [
+        "Investment",
+        "Expense",
+        "Loss",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nEmployees can request _____ for travel costs.",
+      "options": [
+        "Reimbursement",
+        "Charge",
+        "Fee",
+        "Tax"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nThe company donated money to a local _____.",
+      "options": [
+        "Charity",
+        "Business",
+        "Government",
+        "Military"
+      ],
+      "answer": 0,
+      "explanation": "Charity = tu thien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nI made a dinner _____ for 7 p.m.",
+      "options": [
+        "Reservation",
+        "Cancellation",
+        "Refund",
+        "Rejection"
+      ],
+      "answer": 0,
+      "explanation": "Reservation = đat cho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nPlease submit your receipts for _____ by Friday.",
+      "options": [
+        "Reimbursement",
+        "Charge",
+        "Fee",
+        "Tax"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nThe team completed the task _____.",
+      "options": [
+        "Efficiently",
+        "Slowly",
+        "Poorly",
+        "Badly"
+      ],
+      "answer": 0,
+      "explanation": "Efficiently = hieu qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nWe apologize for the delay and appreciate your _____.",
+      "options": [
+        "Patience",
+        "Anger",
+        "Frustration",
+        "Complaint"
+      ],
+      "answer": 0,
+      "explanation": "Patience = su kien nan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe clinic hired an experienced _____.",
+      "options": [
+        "Hygienist",
+        "Chef",
+        "Athlete",
+        "Driver"
+      ],
+      "answer": 0,
+      "explanation": "Hygienist = chuyen vien ve sinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThis snack has high _____ value.",
+      "options": [
+        "Nutritional",
+        "Medical",
+        "Athletic",
+        "Technical"
+      ],
+      "answer": 0,
+      "explanation": "Nutritional = thuoc dinh duong."
+    },
+    {
+      "type": "pos",
+      "question": "'Delivery' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Delivery la danh tu (su giao hang)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Efficient' la gi ve tu loai?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Efficient la tinh tu (hieu qua)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Available':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Available la tinh tu (co san)"
+    },
+    {
+      "type": "pos",
+      "question": "'Confirm' thuoc nhom nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Confirm la đong tu (xac nhan)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Promote' la:",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Promote la đong tu (quang ba)"
+    },
+    {
+      "type": "pos",
+      "question": "'Entirely' la trang tu hay tinh tu?",
+      "options": [
+        "Trang tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Entirely la trang tu (hoan toan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Investment' thuoc loai tu nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Investment la danh tu (su đau tu)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Individual' co the la:",
+      "options": [
+        "Ca danh tu va tinh tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Individual co the la ca danh tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Apology' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Apology la danh tu (loi xin loi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Reimbursement' la gi?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement la danh tu (su hoan tra)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'the act of bringing goods to a customer'?",
+      "options": [
+        "Delivery",
+        "Receipt",
+        "Invoice",
+        "Order"
+      ],
+      "answer": 0,
+      "explanation": "Delivery = su giao hang"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'a statement expressing regret' mo ta tu nao?",
+      "options": [
+        "Apology",
+        "Praise",
+        "Thanks",
+        "Congratulations"
+      ],
+      "answer": 0,
+      "explanation": "Apology = loi xin loi"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'working well without wasting time or energy', tu đo la:",
+      "options": [
+        "Efficient",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Efficient = hieu qua"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'ready to be used or obtained'?",
+      "options": [
+        "Available",
+        "Unavailable",
+        "Absent",
+        "Missing"
+      ],
+      "answer": 0,
+      "explanation": "Available = co san"
+    },
+    {
+      "type": "definition",
+      "question": "'to make certain that something is correct or true' chi tu:",
+      "options": [
+        "Confirm",
+        "Cancel",
+        "Deny",
+        "Refuse"
+      ],
+      "answer": 0,
+      "explanation": "Confirm = xac nhan"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'to help sell something by advertising'?",
+      "options": [
+        "Promote",
+        "Demote",
+        "Remove",
+        "Cancel"
+      ],
+      "answer": 0,
+      "explanation": "Promote = quang ba"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'money put into something to gain profit' chi tu:",
+      "options": [
+        "Investment",
+        "Expense",
+        "Loss",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu"
+    },
+    {
+      "type": "definition",
+      "question": "'help for people in need' mo ta tu:",
+      "options": [
+        "Charity",
+        "Business",
+        "Government",
+        "Military"
+      ],
+      "answer": 0,
+      "explanation": "Charity = tu thien"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'money paid back for expenses'?",
+      "options": [
+        "Reimbursement",
+        "Charge",
+        "Fee",
+        "Tax"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra"
+    },
+    {
+      "type": "definition",
+      "question": "'a plan that shows times and events' mo ta tu nao?",
+      "options": [
+        "Schedule",
+        "Invoice",
+        "Contract",
+        "Receipt"
+      ],
+      "answer": 0,
+      "explanation": "Schedule = lich trinh"
+    },
+    {
+      "type": "definition",
+      "question": "'completely or fully' mo ta tu nao?",
+      "options": [
+        "Entirely",
+        "Partly",
+        "Slightly",
+        "Barely"
+      ],
+      "answer": 0,
+      "explanation": "Entirely = hoan toan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Confirm' chinh xac nhat?",
+      "options": [
+        "xac nhan",
+        "huy bo",
+        "tu choi",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Confirm = xac nhan; kham chac"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Efficient' la:",
+      "options": [
+        "hieu qua",
+        "kem hieu qua",
+        "cham chap",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Efficient = hieu qua; nang suat"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Available' gan voi y nao nhat?",
+      "options": [
+        "co san",
+        "het hang",
+        "khong co",
+        "khong kha dung"
+      ],
+      "answer": 0,
+      "explanation": "Available = co san; kha dung"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Promote' la gi?",
+      "options": [
+        "quang ba",
+        "ha chuc",
+        "dua ra",
+        "giam xuong"
+      ],
+      "answer": 0,
+      "explanation": "Promote = quang ba; thang chuc"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Entirely' la:",
+      "options": [
+        "hoan toan",
+        "mot phan",
+        "khong hoan toan",
+        "mot it"
+      ],
+      "answer": 0,
+      "explanation": "Entirely = hoan toan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Apology' co nghia gan voi:",
+      "options": [
+        "loi xin loi",
+        "loi khen",
+        "loi cam on",
+        "loi chuc mung"
+      ],
+      "answer": 0,
+      "explanation": "Apology = loi xin loi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Investment' la gi?",
+      "options": [
+        "su đau tu",
+        "su chi tieu",
+        "su mat sat",
+        "su vay no"
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu; khoan đau tu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Reimbursement' mang y nao gan nhat?",
+      "options": [
+        "su hoan tra",
+        "su thu tien",
+        "su giam gia",
+        "su tang gia"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra; boi hoan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Charity' mang y nao gan nhat?",
+      "options": [
+        "tu thien",
+        "kinh doanh",
+        "chinh phu",
+        "quân đoi"
+      ],
+      "answer": 0,
+      "explanation": "Charity = tu thien"
+    },
+    {
+      "type": "collocation",
+      "question": "''Delivery' thuong ket hop voi tu nao?",
+      "options": [
+        "Free delivery",
+        "Tasty delivery",
+        "Cold delivery",
+        "Dark delivery"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: free delivery, fast delivery"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Apology'?",
+      "options": [
+        "Accept an apology",
+        "Tasty apology",
+        "Cold apology",
+        "Dark apology"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: accept an apology, make an apology"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Schedule' thuong đi cung cum nao?",
+      "options": [
+        "Meeting schedule",
+        "Tasty schedule",
+        "Cold schedule",
+        "Dark schedule"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: meeting schedule, busy schedule"
+    },
+    {
+      "type": "collocation",
+      "question": "''Investment' thuong xuat hien trong cum nao?",
+      "options": [
+        "Make an investment",
+        "Tasty investment",
+        "Cold investment",
+        "Dark investment"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: make an investment, investment plan"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Reimbursement':",
+      "options": [
+        "Request reimbursement",
+        "Tasty reimbursement",
+        "Cold reimbursement",
+        "Dark reimbursement"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: request reimbursement, expense reimbursement"
+    },
+    {
+      "type": "collocation",
+      "question": "''Reservation' đi cung voi tu nao?",
+      "options": [
+        "Confirm a reservation",
+        "Tasty reservation",
+        "Cold reservation",
+        "Dark reservation"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: confirm a reservation, make a reservation"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Charity'?",
+      "options": [
+        "Charity event",
+        "Tasty charity",
+        "Cold charity",
+        "Dark charity"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: charity event, charity organization"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Delivery' lien quan đên ngucanh nao?",
+      "options": [
+        "Van chuyen, ban le",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Delivery = su giao hang"
+    },
+    {
+      "type": "context",
+      "question": "''Apology' thuong đuoc dung trong tinh huong nao?",
+      "options": [
+        "Giao tiep, phuc vu khach hang",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Apology = loi xin loi, ngucanh giao tiep"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Reimbursement' lien quan chinh đên gi?",
+      "options": [
+        "Tai chinh, nhan su",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra, ngucanh tai chinh"
+    },
+    {
+      "type": "context",
+      "question": "''Nutritional' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Thuc pham, suc khoe",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Nutritional = thuoc dinh duong"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Hygienist' lien quan đên linhvuc nao?",
+      "options": [
+        "Y te, nha khoa",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Hygienist = chuyen vien ve sinh rang mieng"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Delivery",
+        "Schedule",
+        "Investment",
+        "Efficient"
+      ],
+      "answer": 3,
+      "explanation": "Efficient la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Efficient",
+        "Available",
+        "Individual",
+        "Confirm"
+      ],
+      "answer": 3,
+      "explanation": "Confirm la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Entirely",
+        "Efficiently",
+        "Definitely",
+        "Delivery"
+      ],
+      "answer": 3,
+      "explanation": "Delivery la danh tu; 3 tu con lai la trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Apology",
+        "Charity",
+        "Investment",
+        "Confirm"
+      ],
+      "answer": 3,
+      "explanation": "Confirm la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Efficient",
+        "Available",
+        "Nutritional",
+        "Reimbursement"
+      ],
+      "answer": 3,
+      "explanation": "Reimbursement la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Confirm' đung?",
+      "options": [
+        "Please confirm your reservation by email.",
+        "She confirm very beautiful today.",
+        "They confirm sunny weather.",
+        "He confirm the red color."
+      ],
+      "answer": 0,
+      "explanation": "Confirm = xac nhan, đung voi đat phong, lenh"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Available' đung?",
+      "options": [
+        "The product is currently available in three colors.",
+        "She available very tired today.",
+        "They available sunny weather.",
+        "He available the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Available = co san, đung voi san pham, thoi gian"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Investment':",
+      "options": [
+        "The company made a large investment in new equipment.",
+        "The weather investment warm tomorrow.",
+        "She investment very tired today.",
+        "They investment the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu, đung voi thiet bi, cong ty"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Reimbursement' phu hop?",
+      "options": [
+        "Employees can request reimbursement for travel costs.",
+        "She reimbursement very beautiful dress.",
+        "They reimbursement sunny weather today.",
+        "He reimbursement the red color."
+      ],
+      "answer": 0,
+      "explanation": "Reimbursement = su hoan tra, đung voi chi phi đi lai"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Promote':",
+      "options": [
+        "The company used social media to promote its new product.",
+        "She promote very beautiful today.",
+        "They promote the sweet taste.",
+        "He promote quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Promote = quang ba, đung voi san pham, dich vu"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Efficient'?",
+      "options": [
+        "Productive",
+        "Inefficient",
+        "Slow",
+        "Useless"
+      ],
+      "answer": 0,
+      "explanation": "Efficient ~ Productive (hieu qua)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Available'?",
+      "options": [
+        "Unavailable",
+        "Ready",
+        "Accessible",
+        "Obtainable"
+      ],
+      "answer": 0,
+      "explanation": "Available (co san) trai nghia voi Unavailable (khong co)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Confirm'?",
+      "options": [
+        "Verify",
+        "Cancel",
+        "Deny",
+        "Refuse"
+      ],
+      "answer": 0,
+      "explanation": "Confirm ~ Verify (xac nhan)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Please accept our apology', tu 'apology' gan nghia voi?",
+      "options": [
+        "Regret",
+        "Praise",
+        "Thanks",
+        "Congrats"
+      ],
+      "answer": 0,
+      "explanation": "Apology ~ Regret (loi xin loi; su tiec nuoi)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company made a large investment', tu nao thay đuoc 'investment'?",
+      "options": [
+        "Funding",
+        "Loss",
+        "Debt",
+        "Expense"
+      ],
+      "answer": 0,
+      "explanation": "Investment ~ Funding (su đau tu; von)"
+    }
+  ]
+}

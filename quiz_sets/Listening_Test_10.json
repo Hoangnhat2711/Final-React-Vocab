@@ -1,0 +1,1287 @@
+{
+  "skill": "listening",
+  "test": "Test 10",
+  "title": "ETS Listening 2026 - Test 10",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Bucket' co nghia la gi?",
+      "options": [
+        "cai xo; thung",
+        "chau hoa",
+        "thung rac",
+        "xo nuoc"
+      ],
+      "answer": 0,
+      "explanation": "Bucket = cai xo; thung"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Stroll' la:",
+      "options": [
+        "đi dao; cuoc đi dao",
+        "chay nhanh",
+        "nhay",
+        "leo trèo"
+      ],
+      "answer": 0,
+      "explanation": "Stroll = đi dao; cuoc đi dao (thu gian)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Tow' mang y nghia nao?",
+      "options": [
+        "keo; lai dat",
+        "đung yen",
+        "đay đi",
+        "nghi ngoi"
+      ],
+      "answer": 0,
+      "explanation": "Tow = keo; lai dat (phuong tien)"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Dock':",
+      "options": [
+        "ben tau; cap ben",
+        "san bay",
+        "nha ga",
+        "ben xe"
+      ],
+      "answer": 0,
+      "explanation": "Dock = ben tau; cap ben"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Shore' đuoc hieu la:",
+      "options": [
+        "bo bien; bo",
+        "nui",
+        "rừng",
+        "đồng bang"
+      ],
+      "answer": 0,
+      "explanation": "Shore = bo bien; bo (bien, ho, song)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Downtown' co nghia la gi?",
+      "options": [
+        "trung tam thanh pho",
+        "ngoai o",
+        "nong thon",
+        "vung nui"
+      ],
+      "answer": 0,
+      "explanation": "Downtown = trung tam thanh pho"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Cuisine'?",
+      "options": [
+        "am thuc; phong cach nau an",
+        "van hoa",
+        "lich su",
+        "dia ly"
+      ],
+      "answer": 0,
+      "explanation": "Cuisine = am thuc; phong cach nau an"
+    },
+    {
+      "type": "meaning",
+      "question": "'Keynote speech' mang y nghia:",
+      "options": [
+        "bai phat bieu chinh",
+        "bai hat",
+        "bai viet",
+        "bai thuyet trinh phu"
+      ],
+      "answer": 0,
+      "explanation": "Keynote speech = bai phat bieu chinh (cua su kien)"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Luncheon' la:",
+      "options": [
+        "tiec trua; bua trua trang trong",
+        "buoi sang",
+        "buoi toi",
+        "buoi chieu"
+      ],
+      "answer": 0,
+      "explanation": "Luncheon = tiec trua; bua trua trang trong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Retail' đuoc hieu nhu the nao?",
+      "options": [
+        "ban le; thuoc ban le",
+        "ban buon",
+        "san xuat",
+        "nhap khau"
+      ],
+      "answer": 0,
+      "explanation": "Retail = ban le; thuoc ban le"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Craft' co nghia la:",
+      "options": [
+        "đo thu cong; lam thu cong",
+        "san xuat hang loat",
+        "nhap khau",
+        "xuat khau"
+      ],
+      "answer": 0,
+      "explanation": "Craft = đo thu cong; lam thu cong"
+    },
+    {
+      "type": "meaning",
+      "question": "'Custom' mang y nghia nao?",
+      "options": [
+        "phong tuc; theo yeu cau",
+        "binh thuong",
+        "mac đinh",
+        "co đinh"
+      ],
+      "answer": 0,
+      "explanation": "Custom = phong tuc; theo yeu cau"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Boarding pass' la:",
+      "options": [
+        "the len may bay",
+        "ve tau",
+        "ve xe",
+        "ve xem phim"
+      ],
+      "answer": 0,
+      "explanation": "Boarding pass = the len may bay"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Locate':",
+      "options": [
+        "xac đinh vi tri; tim ra",
+        "an gia",
+        "phu nhan",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Locate = xac đinh vi tri; tim ra"
+    },
+    {
+      "type": "meaning",
+      "question": "'Anticipate' co nghia la gi?",
+      "options": [
+        "du đoan; mong đoi",
+        "bat ngo",
+        "khong ngo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate = du đoan; mong đoi"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'cái xô; thùng'?",
+      "options": [
+        "Bucket",
+        "Flowerpot",
+        "Trash can",
+        "Water bottle"
+      ],
+      "answer": 0,
+      "explanation": "Bucket = cai xo"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'đi dạo; cuộc đi dạo'?",
+      "options": [
+        "Stroll",
+        "Sprint",
+        "Jump",
+        "Climb"
+      ],
+      "answer": 0,
+      "explanation": "Stroll = đi dao"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'kéo; lai dắt':",
+      "options": [
+        "Tow",
+        "Push",
+        "Stop",
+        "Park"
+      ],
+      "answer": 0,
+      "explanation": "Tow = keo; lai dat"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'bến tàu; cập bến'?",
+      "options": [
+        "Dock",
+        "Airport",
+        "Station",
+        "Bus stop"
+      ],
+      "answer": 0,
+      "explanation": "Dock = ben tau"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'trung tâm thành phố':",
+      "options": [
+        "Downtown",
+        "Suburb",
+        "Countryside",
+        "Mountains"
+      ],
+      "answer": 0,
+      "explanation": "Downtown = trung tam thanh pho"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'ẩm thực; phong cach nau an'?",
+      "options": [
+        "Cuisine",
+        "Culture",
+        "History",
+        "Geography"
+      ],
+      "answer": 0,
+      "explanation": "Cuisine = am thuc"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'bán lẻ; thuộc bán lẻ':",
+      "options": [
+        "Retail",
+        "Wholesale",
+        "Manufacturing",
+        "Import"
+      ],
+      "answer": 0,
+      "explanation": "Retail = ban le"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'đồ thủ công; làm thủ công'?",
+      "options": [
+        "Craft",
+        "Mass produce",
+        "Import",
+        "Export"
+      ],
+      "answer": 0,
+      "explanation": "Craft = đo thu cong"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'thẻ lên máy bay' tuong ung voi tu nao?",
+      "options": [
+        "Boarding pass",
+        "Train ticket",
+        "Bus ticket",
+        "Movie ticket"
+      ],
+      "answer": 0,
+      "explanation": "Boarding pass = the len may bay"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'xác định vị trí; tìm ra' la:",
+      "options": [
+        "Locate",
+        "Hide",
+        "Miss",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Locate = xac đinh vi tri"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'dự đoán; mong đợi'?",
+      "options": [
+        "Anticipate",
+        "Surprise",
+        "Unexpect",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate = du đoan"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'bài phát biểu chính':",
+      "options": [
+        "Keynote speech",
+        "Background music",
+        "Side note",
+        "Footnote"
+      ],
+      "answer": 0,
+      "explanation": "Keynote speech = bai phat bieu chinh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'tiệc trưa; bữa trưa trang trọng'?",
+      "options": [
+        "Luncheon",
+        "Breakfast",
+        "Dinner",
+        "Snack"
+      ],
+      "answer": 0,
+      "explanation": "Luncheon = tiec trua"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'phong tục; theo yêu cầu' tuong ung tu nao?",
+      "options": [
+        "Custom",
+        "Standard",
+        "Default",
+        "Fixed"
+      ],
+      "answer": 0,
+      "explanation": "Custom = phong tuc; theo yeu cau"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'kéo; lai dắt xe'?",
+      "options": [
+        "Tow",
+        "Park",
+        "Stop",
+        "Wait"
+      ],
+      "answer": 0,
+      "explanation": "Tow = keo; lai dat"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nHe filled a _____ with water.",
+      "options": [
+        "Bucket",
+        "Flowerpot",
+        "Trash can",
+        "Water bottle"
+      ],
+      "answer": 0,
+      "explanation": "Bucket = cai xo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nWe _____ along the beach after dinner.",
+      "options": [
+        "Strolled",
+        "Sprinted",
+        "Jumped",
+        "Climbed"
+      ],
+      "answer": 0,
+      "explanation": "Stroll = đi dao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe truck was _____ to the repair shop.",
+      "options": [
+        "Towed",
+        "Pushed",
+        "Stopped",
+        "Parked"
+      ],
+      "answer": 0,
+      "explanation": "Tow = keo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe ship arrived at the _____ early this morning.",
+      "options": [
+        "Dock",
+        "Airport",
+        "Station",
+        "Bus stop"
+      ],
+      "answer": 0,
+      "explanation": "Dock = ben tau."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nTheir office is located _____.",
+      "options": [
+        "Downtown",
+        "Suburb",
+        "Countryside",
+        "Mountains"
+      ],
+      "answer": 0,
+      "explanation": "Downtown = trung tam thanh pho."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThis restaurant serves Italian _____.",
+      "options": [
+        "Cuisine",
+        "Culture",
+        "History",
+        "Geography"
+      ],
+      "answer": 0,
+      "explanation": "Cuisine = am thuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nShe works in _____ management.",
+      "options": [
+        "Retail",
+        "Wholesale",
+        "Manufacturing",
+        "Import"
+      ],
+      "answer": 0,
+      "explanation": "Retail = ban le."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nLocal artists sell handmade _____ at the market.",
+      "options": [
+        "Crafts",
+        "Mass products",
+        "Imports",
+        "Exports"
+      ],
+      "answer": 0,
+      "explanation": "Craft = đo thu cong."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nPlease show your _____ at the gate.",
+      "options": [
+        "Boarding pass",
+        "Train ticket",
+        "Bus ticket",
+        "Movie ticket"
+      ],
+      "answer": 0,
+      "explanation": "Boarding pass = the len may bay."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nWe need to _____ the missing file.",
+      "options": [
+        "Locate",
+        "Hide",
+        "Miss",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Locate = tim ra."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nWe _____ higher sales next month.",
+      "options": [
+        "Anticipate",
+        "Surprise",
+        "Unexpect",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate = du đoan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe CEO delivered the _____ at the conference.",
+      "options": [
+        "Keynote speech",
+        "Background music",
+        "Side note",
+        "Footnote"
+      ],
+      "answer": 0,
+      "explanation": "Keynote speech = bai phat bieu chinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nA business _____ will be held on Friday.",
+      "options": [
+        "Luncheon",
+        "Breakfast",
+        "Dinner",
+        "Snack"
+      ],
+      "answer": 0,
+      "explanation": "Luncheon = tiec trua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nIt is a local _____ to remove shoes indoors.",
+      "options": [
+        "Custom",
+        "Standard",
+        "Default",
+        "Fixed"
+      ],
+      "answer": 0,
+      "explanation": "Custom = phong tuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nWe walked along the _____ at sunset.",
+      "options": [
+        "Shore",
+        "Mountain",
+        "Forest",
+        "Plain"
+      ],
+      "answer": 0,
+      "explanation": "Shore = bo bien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe company makes _____ furniture.",
+      "options": [
+        "Custom",
+        "Standard",
+        "Default",
+        "Fixed"
+      ],
+      "answer": 0,
+      "explanation": "Custom = theo yeu cau."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nDrivers can _____ downtown traffic by using this road.",
+      "options": [
+        "Bypass",
+        "Enter",
+        "Approach",
+        "Reach"
+      ],
+      "answer": 0,
+      "explanation": "Bypass = đi vòng qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nWe need an _____ route to the venue.",
+      "options": [
+        "Alternate",
+        "Only",
+        "Single",
+        "Fixed"
+      ],
+      "answer": 0,
+      "explanation": "Alternate = thay the; luân phiên."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe medical tools must remain _____.",
+      "options": [
+        "Sterile",
+        "Dirty",
+        "Used",
+        "Contaminated"
+      ],
+      "answer": 0,
+      "explanation": "Sterile = vo trung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nA flight _____ served drinks to the passengers.",
+      "options": [
+        "Attendant",
+        "Driver",
+        "Chef",
+        "Guard"
+      ],
+      "answer": 0,
+      "explanation": "Attendant = nhan vien phuc vu."
+    },
+    {
+      "type": "pos",
+      "question": "'Bucket' thuoc tu loai nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Bucket la danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Stroll' la gi ve tu loai?",
+      "options": [
+        "Co the la đong tu hoac danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Stroll co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Tow':",
+      "options": [
+        "Co the la đong tu hoac danh tu",
+        "Chi la đong tu",
+        "Chi la danh tu",
+        "Chi la tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Tow co the la ca đong tu va danh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Retail' thuoc nhom nao?",
+      "options": [
+        "Co the la danh tu hoac tinh tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Retail co the la ca danh tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Custom' la:",
+      "options": [
+        "Co the la danh tu hoac tinh tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Custom co the la ca danh tu va tinh tu"
+    },
+    {
+      "type": "pos",
+      "question": "'Anticipate' la đong tu hay danh tu?",
+      "options": [
+        "Đong tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate la đong tu (du đoan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Downtown' thuoc loai tu nao?",
+      "options": [
+        "Co the la danh tu, tinh tu hoac trang tu",
+        "Chi la danh tu",
+        "Chi la tinh tu",
+        "Chi la đong tu"
+      ],
+      "answer": 0,
+      "explanation": "Downtown co the la danh tu, tinh tu, trang tu"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Locate' la danh tu hay đong tu?",
+      "options": [
+        "Đong tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Locate la đong tu (xac đinh vi tri)"
+    },
+    {
+      "type": "pos",
+      "question": "'Sterile' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Sterile la tinh tu (vo trung)"
+    },
+    {
+      "type": "pos",
+      "question": "'Alternate' la gi?",
+      "options": [
+        "Co the la tinh tu hoac đong tu",
+        "Chi la tinh tu",
+        "Chi la đong tu",
+        "Chi la danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Alternate co the la ca tinh tu va đong tu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'a round container for carrying liquids'?",
+      "options": [
+        "Bucket",
+        "Flowerpot",
+        "Trash can",
+        "Water bottle"
+      ],
+      "answer": 0,
+      "explanation": "Bucket = cai xo"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'to walk slowly in a relaxed way' mo ta tu nao?",
+      "options": [
+        "Stroll",
+        "Sprint",
+        "Jump",
+        "Climb"
+      ],
+      "answer": 0,
+      "explanation": "Stroll = đi dao"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'to pull a vehicle behind another', tu đo la:",
+      "options": [
+        "Tow",
+        "Push",
+        "Stop",
+        "Park"
+      ],
+      "answer": 0,
+      "explanation": "Tow = keo"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'a structure where boats stop'?",
+      "options": [
+        "Dock",
+        "Airport",
+        "Station",
+        "Bus stop"
+      ],
+      "answer": 0,
+      "explanation": "Dock = ben tau"
+    },
+    {
+      "type": "definition",
+      "question": "'the central area of a city' chi tu:",
+      "options": [
+        "Downtown",
+        "Suburb",
+        "Countryside",
+        "Mountains"
+      ],
+      "answer": 0,
+      "explanation": "Downtown = trung tam thanh pho"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'a style of cooking'?",
+      "options": [
+        "Cuisine",
+        "Culture",
+        "History",
+        "Geography"
+      ],
+      "answer": 0,
+      "explanation": "Cuisine = am thuc"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'the sale of goods to the public' chi tu:",
+      "options": [
+        "Retail",
+        "Wholesale",
+        "Manufacturing",
+        "Import"
+      ],
+      "answer": 0,
+      "explanation": "Retail = ban le"
+    },
+    {
+      "type": "definition",
+      "question": "'something made by hand' mo ta tu:",
+      "options": [
+        "Craft",
+        "Mass product",
+        "Import",
+        "Export"
+      ],
+      "answer": 0,
+      "explanation": "Craft = đo thu cong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'a document to board a plane'?",
+      "options": [
+        "Boarding pass",
+        "Train ticket",
+        "Bus ticket",
+        "Movie ticket"
+      ],
+      "answer": 0,
+      "explanation": "Boarding pass = the len may bay"
+    },
+    {
+      "type": "definition",
+      "question": "'to find or discover the position' mo ta tu nao?",
+      "options": [
+        "Locate",
+        "Hide",
+        "Miss",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Locate = xac đinh vi tri"
+    },
+    {
+      "type": "definition",
+      "question": "'to expect something to happen' mo ta tu nao?",
+      "options": [
+        "Anticipate",
+        "Surprise",
+        "Unexpect",
+        "Deny"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate = du đoan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Stroll' chinh xac nhat?",
+      "options": [
+        "đi dao",
+        "chay nhanh",
+        "nhay",
+        "leo trèo"
+      ],
+      "answer": 0,
+      "explanation": "Stroll = đi dao; cuoc đi dao (thu gian)"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Dock' la:",
+      "options": [
+        "ben tau",
+        "san bay",
+        "nha ga",
+        "ben xe"
+      ],
+      "answer": 0,
+      "explanation": "Dock = ben tau; cap ben"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Anticipate' gan voi y nao nhat?",
+      "options": [
+        "du đoan",
+        "bat ngo",
+        "khong ngo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate = du đoan; mong đoi"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Retail' la gi?",
+      "options": [
+        "ban le",
+        "ban buon",
+        "san xuat",
+        "nhap khau"
+      ],
+      "answer": 0,
+      "explanation": "Retail = ban le; thuoc ban le"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Custom' la:",
+      "options": [
+        "phong tuc",
+        "binh thuong",
+        "mac đinh",
+        "co đinh"
+      ],
+      "answer": 0,
+      "explanation": "Custom = phong tuc; theo yeu cau"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Locate' co nghia gan voi:",
+      "options": [
+        "tim ra",
+        "an gia",
+        "phu nhan",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Locate = xac đinh vi tri; tim ra"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Bypass' la gi?",
+      "options": [
+        "đi vòng qua",
+        "đi qua",
+        "đung lai",
+        "quay lai"
+      ],
+      "answer": 0,
+      "explanation": "Bypass = bo qua; đi vòng tránh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Sterile' mang y nao gan nhat?",
+      "options": [
+        "vo trung",
+        "ban",
+        "đoc hai",
+        "nhiem benh"
+      ],
+      "answer": 0,
+      "explanation": "Sterile = vo trung; sach khuan"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "''Alternate' mang y nao gan nhat?",
+      "options": [
+        "thay the",
+        "co đinh",
+        "mac đinh",
+        "binh thuong"
+      ],
+      "answer": 0,
+      "explanation": "Alternate = thay the; luân phiên"
+    },
+    {
+      "type": "collocation",
+      "question": "''Bucket' thuong ket hop voi tu nao?",
+      "options": [
+        "Bucket of water",
+        "Tasty bucket",
+        "Cold bucket",
+        "Dark bucket"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: bucket of water, plastic bucket"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Stroll'?",
+      "options": [
+        "Take a stroll",
+        "Tasty stroll",
+        "Cold stroll",
+        "Dark stroll"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: take a stroll, stroll around"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Tow' thuong đi cung cum nao?",
+      "options": [
+        "Tow truck",
+        "Tasty tow",
+        "Cold tow",
+        "Dark tow"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: tow truck, tow a car"
+    },
+    {
+      "type": "collocation",
+      "question": "''Boarding pass' thuong xuat hien trong cum nao?",
+      "options": [
+        "Show boarding pass",
+        "Tasty boarding",
+        "Cold boarding",
+        "Dark boarding"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: show boarding pass, print boarding pass"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Keynote':",
+      "options": [
+        "Keynote speech",
+        "Tasty keynote",
+        "Cold keynote",
+        "Dark keynote"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: keynote speech, keynote speaker"
+    },
+    {
+      "type": "collocation",
+      "question": "''Retail' đi cung voi tu nao?",
+      "options": [
+        "Retail store",
+        "Tasty retail",
+        "Cold retail",
+        "Dark retail"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: retail store, retail price"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Luncheon'?",
+      "options": [
+        "Business luncheon",
+        "Tasty luncheon",
+        "Cold luncheon",
+        "Dark luncheon"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: business luncheon, charity luncheon"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Boarding pass' lien quan đên ngucanh nao?",
+      "options": [
+        "Du lich, may bay",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Boarding pass = the len may bay"
+    },
+    {
+      "type": "context",
+      "question": "''Cuisine' thuoc linh vuc nao?",
+      "options": [
+        "Am thuc, van hoa",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Cuisine = am thuc"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Retail' lien quan chinh đên gi?",
+      "options": [
+        "Ban le, thuong mai",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Retail = ban le"
+    },
+    {
+      "type": "context",
+      "question": "''Dock' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Tau thuyen, van chuyen",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Dock = ben tau"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Sterile' lien quan đên linhvuc nao?",
+      "options": [
+        "Y te, ve sinh",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Sterile = vo trung, ngucanh y te"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Locate",
+        "Tow",
+        "Anticipate",
+        "Bucket"
+      ],
+      "answer": 3,
+      "explanation": "Bucket la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Sterile",
+        "Alternate",
+        "Downtown",
+        "Locate"
+      ],
+      "answer": 3,
+      "explanation": "Locate la đong tu; 3 tu con lai la tinh tu/trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Bucket",
+        "Dock",
+        "Shore",
+        "Sterile"
+      ],
+      "answer": 3,
+      "explanation": "Sterile la tinh tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Bucket",
+        "Dock",
+        "Cuisine",
+        "Anticipate"
+      ],
+      "answer": 3,
+      "explanation": "Anticipate la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Sterile",
+        "Alternate",
+        "Custom",
+        "Luncheon"
+      ],
+      "answer": 3,
+      "explanation": "Luncheon la danh tu; 3 tu con lai co the la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Locate' đung?",
+      "options": [
+        "We need to locate the missing file.",
+        "She locate very beautiful today.",
+        "They locate sunny weather.",
+        "He locate the red color."
+      ],
+      "answer": 0,
+      "explanation": "Locate = tim ra, đung voi tep tin, vi tri"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Anticipate' đung?",
+      "options": [
+        "We anticipate higher sales next month.",
+        "She anticipate very tired today.",
+        "They anticipate sunny weather.",
+        "He anticipate the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Anticipate = du đoan, đung voi doanh so, ket qua"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Stroll':",
+      "options": [
+        "We strolled along the beach after dinner.",
+        "The weather stroll warm tomorrow.",
+        "She stroll very tired today.",
+        "They stroll the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Stroll = đi dao, đung voi bien, cong vien"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Bypass' phu hop?",
+      "options": [
+        "Drivers can bypass downtown traffic by using this road.",
+        "She bypass very beautiful dress.",
+        "They bypass sunny weather today.",
+        "He bypass the red color."
+      ],
+      "answer": 0,
+      "explanation": "Bypass = đi vòng qua, đung voi giao thong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Craft':",
+      "options": [
+        "Local artists sell handmade crafts at the market.",
+        "She craft very beautiful today.",
+        "They craft the sweet taste.",
+        "He craft quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Craft = đo thu cong, đung voi nghe si, cho"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Stroll'?",
+      "options": [
+        "Walk",
+        "Sprint",
+        "Jump",
+        "Climb"
+      ],
+      "answer": 0,
+      "explanation": "Stroll ~ Walk (đi bo)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Anticipate'?",
+      "options": [
+        "Expect",
+        "Surprise",
+        "Ignore",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate ~ Expect (mong đoi; du đoan)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Sterile'?",
+      "options": [
+        "Contaminated",
+        "Clean",
+        "Pure",
+        "Germ-free"
+      ],
+      "answer": 0,
+      "explanation": "Sterile (vo trung) trai nghia voi Contaminated (nhiem"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'We anticipate higher sales next month', tu 'anticipate' gan nghia voi?",
+      "options": [
+        "Expect",
+        "Surprise",
+        "Ignore",
+        "Miss"
+      ],
+      "answer": 0,
+      "explanation": "Anticipate ~ Expect (mong đoi)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Drivers can bypass downtown traffic', tu nao thay đuoc 'bypass'?",
+      "options": [
+        "Avoid",
+        "Enter",
+        "Approach",
+        "Reach"
+      ],
+      "answer": 0,
+      "explanation": "Bypass ~ Avoid (tranh; đi vòng qua)"
+    }
+  ]
+}

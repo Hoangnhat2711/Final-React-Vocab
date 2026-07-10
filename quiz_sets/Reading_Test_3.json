@@ -1,0 +1,1263 @@
+{
+  "skill": "reading",
+  "test": "Test 3",
+  "title": "ETS Reading 2026 - Test 3",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Conduct' (đong tu) co nghia la gi?",
+      "options": [
+        "tien hanh; thuc hien",
+        "đung yen",
+        "dung lai",
+        "bo đi"
+      ],
+      "answer": 0,
+      "explanation": "Conduct = tien hanh; thuc hien (hoat đong, qua trinh)"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Submit' la:",
+      "options": [
+        "nop; trinh",
+        "nhan ve",
+        "đoc len",
+        "giu lai"
+      ],
+      "answer": 0,
+      "explanation": "Submit = nop; trinh (chinh thuc)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Revenue' mang y nghia nao?",
+      "options": [
+        "doanh thu",
+        "chi phi",
+        "loi nhuan",
+        "von"
+      ],
+      "answer": 0,
+      "explanation": "Revenue = doanh thu"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Dynamic':",
+      "options": [
+        "nang đong; đay bien chuyen",
+        "tinh đuc",
+        "mon đơ",
+        "cham chap"
+      ],
+      "answer": 0,
+      "explanation": "Dynamic = nang đong; đay bien chyen"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Insight' đuoc hieu la:",
+      "options": [
+        "su hieu biet sau sac",
+        "su ngo ngoai",
+        "su nghi ngo",
+        "su gian lan"
+      ],
+      "answer": 0,
+      "explanation": "Insight = su hieu biet sau sac; goc nhin thu đao"
+    },
+    {
+      "type": "meaning",
+      "question": "'Convince' co nghia la gi?",
+      "options": [
+        "thuyet phuc",
+        "phu nhan",
+        "bat ngo",
+        "phat hien"
+      ],
+      "answer": 0,
+      "explanation": "Convince = thuyet phuc (lam ai đo tin hoac đong y)"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Acquire'?",
+      "options": [
+        "co đuoc; đat đuoc",
+        "mat đi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = co đuoc; đat đuoc (qua no luc)"
+    },
+    {
+      "type": "meaning",
+      "question": "'Innovation' mang y nghia:",
+      "options": [
+        "su đoi moi; sang tao",
+        "su giu gin",
+        "su phuc che",
+        "su sao chep"
+      ],
+      "answer": 0,
+      "explanation": "Innovation = su đoi moi; sang tao"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Optimize' la:",
+      "options": [
+        "toi uu hoa",
+        "giam xuong",
+        "tang len",
+        "giu nguyen"
+      ],
+      "answer": 0,
+      "explanation": "Optimize = toi uu hoa"
+    },
+    {
+      "type": "meaning",
+      "question": "'Collaborate' đuoc hieu nhu the nao?",
+      "options": [
+        "hop tac",
+        "đoi đau",
+        "tranh nanh",
+        "bo đi"
+      ],
+      "answer": 0,
+      "explanation": "Collaborate = hop tac (cung lam viec)"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Essential' co nghia la:",
+      "options": [
+        "thiet yeu; can thiet",
+        "phu gian",
+        "khong can",
+        "it quan trong"
+      ],
+      "answer": 0,
+      "explanation": "Essential = thiet yeu; can thiet"
+    },
+    {
+      "type": "meaning",
+      "question": "'Relevant' mang y nghia nao?",
+      "options": [
+        "lien quan; thich hop",
+        "khong lien quan",
+        "lai xa",
+        "ngau nhien"
+      ],
+      "answer": 0,
+      "explanation": "Relevant = lien quan; thich hop"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Simultaneously' la:",
+      "options": [
+        "đong thoi",
+        "lien tiep",
+        "ngau nhien",
+        "đon le"
+      ],
+      "answer": 0,
+      "explanation": "Simultaneously = đong thoi"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Valuable':",
+      "options": [
+        "co gia tri; quy gia",
+        "vo dung",
+        "re tien",
+        "binh thuong"
+      ],
+      "answer": 0,
+      "explanation": "Valuable = co gia tri; quy gia"
+    },
+    {
+      "type": "meaning",
+      "question": "'Remote' (khi noi ve lam viec) co nghia la gi?",
+      "options": [
+        "tu xa; khong truc tiep",
+        "gan đây",
+        "tai cho",
+        "trong phong"
+      ],
+      "answer": 0,
+      "explanation": "Remote = tu xa (lam viec tu xa)"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'kết quả'?",
+      "options": [
+        "Result",
+        "Process",
+        "Method",
+        "Tool"
+      ],
+      "answer": 0,
+      "explanation": "Result = ket qua"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'cải thiện; nâng cao'?",
+      "options": [
+        "Improve",
+        "Worsen",
+        "Damage",
+        "Reduce"
+      ],
+      "answer": 0,
+      "explanation": "Improve = cai thien; nang cao"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'thuyết phục':",
+      "options": [
+        "Convince",
+        "Confuse",
+        "Ignore",
+        "Force"
+      ],
+      "answer": 0,
+      "explanation": "Convince = thuyet phuc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'sự hiểu biết sâu sắc'?",
+      "options": [
+        "Insight",
+        "Ignorance",
+        "Confusion",
+        "Doubt"
+      ],
+      "answer": 0,
+      "explanation": "Insight = su hieu biet sau sac"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'tiến hành; thực hiện':",
+      "options": [
+        "Conduct",
+        "Stop",
+        "Cancel",
+        "Delay"
+      ],
+      "answer": 0,
+      "explanation": "Conduct = tien hanh; thuc hien"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'đầu tư'?",
+      "options": [
+        "Investment",
+        "Expense",
+        "Loss",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Investment = su đau tu"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'tối ưu hóa':",
+      "options": [
+        "Optimize",
+        "Maximize",
+        "Minimize",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Optimize = toi uu hoa"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'thiết yếu'?",
+      "options": [
+        "Essential",
+        "Optional",
+        "Extra",
+        "Minor"
+      ],
+      "answer": 0,
+      "explanation": "Essential = thiet yeu"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'phối hợp; hợp tác' tuong ung voi tu nao?",
+      "options": [
+        "Collaborate",
+        "Compete",
+        "Conflict",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Collaborate = hop tac"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'đạt được; có được' la:",
+      "options": [
+        "Acquire",
+        "Lose",
+        "Drop",
+        "Release"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = đat đuoc; co đuoc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'năng động'?",
+      "options": [
+        "Dynamic",
+        "Static",
+        "Passive",
+        "Inactive"
+      ],
+      "answer": 0,
+      "explanation": "Dynamic = nang đong"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'nộp; trình':",
+      "options": [
+        "Submit",
+        "Receive",
+        "Keep",
+        "Return"
+      ],
+      "answer": 0,
+      "explanation": "Submit = nop; trinh"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'liên quan; thích hợp'?",
+      "options": [
+        "Relevant",
+        "Irrelevant",
+        "Random",
+        "Distant"
+      ],
+      "answer": 0,
+      "explanation": "Relevant = lien quan; thich hop"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'đổi mới; sáng tạo' tuong ung tu nao?",
+      "options": [
+        "Innovation",
+        "Tradition",
+        "Routine",
+        "Habit"
+      ],
+      "answer": 0,
+      "explanation": "Innovation = su đoi moi; sang tao"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'chính thức; trang trọng'?",
+      "options": [
+        "Formal",
+        "Casual",
+        "Informal",
+        "Relaxed"
+      ],
+      "answer": 0,
+      "explanation": "Formal = trang trong; chinh thuc"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe research team will _____ a customer survey next week.",
+      "options": [
+        "Conduct",
+        "Cancel",
+        "Ignore",
+        "Skip"
+      ],
+      "answer": 0,
+      "explanation": "Conduct = tien hanh. conduct a survey = tien hanh khao sat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nPlease _____ your expense report by Friday.",
+      "options": [
+        "Submit",
+        "Keep",
+        "Return",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Submit = nop. submit a report = nop bao cao."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nAnnual _____ increased by 15 percent last year.",
+      "options": [
+        "Revenue",
+        "Loss",
+        "Debt",
+        "Cost"
+      ],
+      "answer": 0,
+      "explanation": "Revenue = doanh thu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nThe survey gave us valuable _____ into customer behavior.",
+      "options": [
+        "Insight",
+        "Confusion",
+        "Doubt",
+        "Anger"
+      ],
+      "answer": 0,
+      "explanation": "Insight = su hieu biet sau sac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nShe tried to _____ the client to renew the contract.",
+      "options": [
+        "Convince",
+        "Confuse",
+        "Ignore",
+        "Force"
+      ],
+      "answer": 0,
+      "explanation": "Convince = thuyet phuc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nEmployees can _____ new skills through training programs.",
+      "options": [
+        "Acquire",
+        "Lose",
+        "Forget",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Acquire = co đuoc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nContinuous _____ is essential in the tech industry.",
+      "options": [
+        "Innovation",
+        "Tradition",
+        "Routine",
+        "Stagnation"
+      ],
+      "answer": 0,
+      "explanation": "Innovation = su đoi moi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe team is working to _____ the delivery route.",
+      "options": [
+        "Optimize",
+        "Ignore",
+        "Disable",
+        "Remove"
+      ],
+      "answer": 0,
+      "explanation": "Optimize = toi uu hoa."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nSeveral departments will _____ on the product launch.",
+      "options": [
+        "Collaborate",
+        "Compete",
+        "Conflict",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Collaborate = hop tac."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nStrong communication skills are _____ for this role.",
+      "options": [
+        "Essential",
+        "Optional",
+        "Minor",
+        "Unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "Essential = thiet yeu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nPlease include only _____ experience on your resume.",
+      "options": [
+        "Relevant",
+        "Irrelevant",
+        "Random",
+        "Distant"
+      ],
+      "answer": 0,
+      "explanation": "Relevant = lien quan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nThe two systems were updated _____.",
+      "options": [
+        "Simultaneously",
+        "Sequentially",
+        "Randomly",
+        "Separately"
+      ],
+      "answer": 0,
+      "explanation": "Simultaneously = đong thoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe workshop provided _____ advice for job seekers.",
+      "options": [
+        "Valuable",
+        "Worthless",
+        "Useless",
+        "Harmful"
+      ],
+      "answer": 0,
+      "explanation": "Valuable = co gia tri."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nWe need more data to _____ the cause of the decline.",
+      "options": [
+        "Determine",
+        "Ignore",
+        "Guess",
+        "Hide"
+      ],
+      "answer": 0,
+      "explanation": "Determine = xac đinh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThe building will _____ major renovation this summer.",
+      "options": [
+        "Undergo",
+        "Avoid",
+        "Skip",
+        "Finish"
+      ],
+      "answer": 0,
+      "explanation": "Undergo = trai qua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nThe company revised the plan in _____ meetings.",
+      "options": [
+        "Subsequent",
+        "Previous",
+        "Initial",
+        "First"
+      ],
+      "answer": 0,
+      "explanation": "Subsequent = tiep theo."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nMany employees now prefer _____ work options.",
+      "options": [
+        "Remote",
+        "Local",
+        "Indoor",
+        "Outdoor"
+      ],
+      "answer": 0,
+      "explanation": "Remote = tu xa."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nPlease _____ from using your phone during the seminar.",
+      "options": [
+        "Refrain",
+        "Continue",
+        "Start",
+        "Begin"
+      ],
+      "answer": 0,
+      "explanation": "Refrain = kiem che; tranh. refrain from = tranh."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nSmall businesses should _____ free online marketing tools.",
+      "options": [
+        "Take advantage of",
+        "Ignore",
+        "Avoid",
+        "Reject"
+      ],
+      "answer": 0,
+      "explanation": "Take advantage of = tan dung."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe company is _____ new opportunities in healthcare.",
+      "options": [
+        "Exploring",
+        "Ignoring",
+        "Avoiding",
+        "Rejecting"
+      ],
+      "answer": 0,
+      "explanation": "Explore = kham pha; tim hieu."
+    },
+    {
+      "type": "pos",
+      "question": "'Conduct' (khi la đong tu) thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Conduct la đong tu (tien hanh) - cung co the la danh tu (hành vi)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Revenue' la gi ve tu loai?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Revenue la danh tu (doanh thu)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Dynamic':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Dynamic la tinh tu (nang đong)"
+    },
+    {
+      "type": "pos",
+      "question": "'Submit' thuoc nhom nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Submit la đong tu (nop)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Essential' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Đai tu"
+      ],
+      "answer": 0,
+      "explanation": "Essential la tinh tu (thiet yeu)"
+    },
+    {
+      "type": "pos",
+      "question": "'Simultaneously' la trang tu hay tinh tu?",
+      "options": [
+        "Trang tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Simultaneously la trang tu (đong thoi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Innovation' thuoc loai tu nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Innovation la danh tu (su đoi moi)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Relevant' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Relevant la tinh tu (lien quan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Remote' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Remote la tinh tu (tu xa)"
+    },
+    {
+      "type": "pos",
+      "question": "'Formal' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Formal la tinh tu (trang trong)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to organize and carry out an activity'?",
+      "options": [
+        "Conduct",
+        "Cancel",
+        "Ignore",
+        "Stop"
+      ],
+      "answer": 0,
+      "explanation": "Conduct = tien hanh; thuc hien"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'income that a company receives from its business activities' mo ta tu nao?",
+      "options": [
+        "Revenue",
+        "Expense",
+        "Loss",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Revenue = doanh thu"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'full of energy, change, and new ideas', tu đo la:",
+      "options": [
+        "Dynamic",
+        "Static",
+        "Passive",
+        "Boring"
+      ],
+      "answer": 0,
+      "explanation": "Dynamic = nang đong"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'a clear and deep understanding of a situation'?",
+      "options": [
+        "Insight",
+        "Confusion",
+        "Doubt",
+        "Ignorance"
+      ],
+      "answer": 0,
+      "explanation": "Insight = su hieu biet sau sac"
+    },
+    {
+      "type": "definition",
+      "question": "'a new idea, method, or product' chi tu:",
+      "options": [
+        "Innovation",
+        "Tradition",
+        "Routine",
+        "Custom"
+      ],
+      "answer": 0,
+      "explanation": "Innovation = su đoi moi"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'to work together with others to achieve something'?",
+      "options": [
+        "Collaborate",
+        "Compete",
+        "Conflict",
+        "Avoid"
+      ],
+      "answer": 0,
+      "explanation": "Collaborate = hop tac"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'absolutely necessary or very important' chi tu:",
+      "options": [
+        "Essential",
+        "Optional",
+        "Minor",
+        "Unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "Essential = thiet yeu"
+    },
+    {
+      "type": "definition",
+      "question": "'directly connected with the subject being discussed' mo ta tu:",
+      "options": [
+        "Relevant",
+        "Irrelevant",
+        "Random",
+        "Distant"
+      ],
+      "answer": 0,
+      "explanation": "Relevant = lien quan"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'to make something as effective as possible'?",
+      "options": [
+        "Optimize",
+        "Minimize",
+        "Ignore",
+        "Disable"
+      ],
+      "answer": 0,
+      "explanation": "Optimize = toi uu hoa"
+    },
+    {
+      "type": "definition",
+      "question": "'done or operating from a distance' mo ta tu nao?",
+      "options": [
+        "Remote",
+        "Local",
+        "Direct",
+        "Nearby"
+      ],
+      "answer": 0,
+      "explanation": "Remote = tu xa"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Improve' chinh xac nhat?",
+      "options": [
+        "cai thien",
+        "lam hong",
+        "giu nguyen",
+        "giam xuong"
+      ],
+      "answer": 0,
+      "explanation": "Improve = cai thien; nang cao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Determine' la:",
+      "options": [
+        "xac đinh",
+        "bo qua",
+        "an gia",
+        "đoan"
+      ],
+      "answer": 0,
+      "explanation": "Determine = xac đinh; quyet đinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Undergo' gan voi y nao nhat?",
+      "options": [
+        "trai qua",
+        "bo đi",
+        "chon đi",
+        "ban đi"
+      ],
+      "answer": 0,
+      "explanation": "Undergo = trai qua; chiu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Occur' la gi?",
+      "options": [
+        "xay ra",
+        "an gia",
+        "dung lai",
+        "bat đau"
+      ],
+      "answer": 0,
+      "explanation": "Occur = xay ra (đong tu chinh thuc cua happen)"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Mingle' la:",
+      "options": [
+        "giao luu",
+        "đung yen",
+        "di ra",
+        "ngu đi"
+      ],
+      "answer": 0,
+      "explanation": "Mingle = giao luu; hoa vao"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Commission' (đong tu) co nghia gan voi:",
+      "options": [
+        "đat lam",
+        "huy bo",
+        "tu choi",
+        "giu lai"
+      ],
+      "answer": 0,
+      "explanation": "Commission = đat lam; uy nhiem"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Appreciate' la gi?",
+      "options": [
+        "đanh gia cao",
+        "khinh thường",
+        "bỏ qua",
+        "phê bình"
+      ],
+      "answer": 0,
+      "explanation": "Appreciate = đanh gia cao; tran trong"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Commensurate' mang y nao gan nhat?",
+      "options": [
+        "tuong xung",
+        "khac biet",
+        "lon hon",
+        "nho hon"
+      ],
+      "answer": 0,
+      "explanation": "Commensurate = tuong xung"
+    },
+    {
+      "type": "collocation",
+      "question": "'Conduct' thuong ket hop voi tu nao?",
+      "options": [
+        "Conduct a survey",
+        "Conduct food",
+        "Conduct sleep",
+        "Conduct weather"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: conduct a survey, conduct an interview"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Insight'?",
+      "options": [
+        "Valuable insight",
+        "Tasty insight",
+        "Cold insight",
+        "Dark insight"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: gain insight, valuable insight"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Investment' thuong đi cung cum nao?",
+      "options": [
+        "Long-term investment",
+        "Tasty investment",
+        "Cold investment",
+        "Dark investment"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: long-term investment, financial investment"
+    },
+    {
+      "type": "collocation",
+      "question": "'Audience' thuong xuat hien trong cum nao?",
+      "options": [
+        "Target audience",
+        "Tasty audience",
+        "Cold audience",
+        "Dark audience"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: target audience, live audience"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Productivity':",
+      "options": [
+        "Improve productivity",
+        "Tasty productivity",
+        "Cold productivity",
+        "Dark productivity"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: improve productivity, worker productivity"
+    },
+    {
+      "type": "collocation",
+      "question": "'Attention' đi cung voi tu nao?",
+      "options": [
+        "Pay attention",
+        "Eat attention",
+        "Sleep attention",
+        "Drive attention"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: pay attention"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Committee'?",
+      "options": [
+        "Committee meeting",
+        "Tasty committee",
+        "Cold committee",
+        "Dark committee"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: committee meeting, committee member"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Comply with' lien quan đên ngucanh nao?",
+      "options": [
+        "Phap ly, noi lam viec",
+        "Am thuc",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Comply with = tuan thuc, ngucanh phap ly, noi lam viec"
+    },
+    {
+      "type": "context",
+      "question": "'Municipal' thuoc linh vuc nao?",
+      "options": [
+        "Chinh quyen, đia phuong",
+        "Y te",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Municipal = thuoc thanh pho, ngucanh chinh quyen"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Pediatric' lien quan chinh đên gi?",
+      "options": [
+        "Y te, nhi khoa",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric = thuoc nhi khoa, ngucanh y te"
+    },
+    {
+      "type": "context",
+      "question": "'Commuter' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Di lai, giao thong",
+        "Am thuc",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Commuter = nguoi đi lam đi hoc, ngucanh giao thong"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Financial' lien quan đên linhvuc nao?",
+      "options": [
+        "Tai chinh",
+        "Y te",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Financial = thuoc tai chinh"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom? (3 tu la đong tu)",
+      "options": [
+        "Submit",
+        "Conduct",
+        "Improve",
+        "Revenue"
+      ],
+      "answer": 3,
+      "explanation": "Revenue la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Dynamic",
+        "Valuable",
+        "Essential",
+        "Result"
+      ],
+      "answer": 3,
+      "explanation": "Result la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Simultaneously",
+        "Approximately",
+        "Typically",
+        "Innovation"
+      ],
+      "answer": 3,
+      "explanation": "Innovation la danh tu; 3 tu con lai la trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Committee",
+        "Innovation",
+        "Productivity",
+        "Convince"
+      ],
+      "answer": 3,
+      "explanation": "Convince la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Remote",
+        "Formal",
+        "Relevant",
+        "Conduct"
+      ],
+      "answer": 3,
+      "explanation": "Conduct la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Conduct' đung?",
+      "options": [
+        "The research team will conduct a customer survey next week.",
+        "She conduct very beautiful today.",
+        "They conduct sunny weather.",
+        "He conduct the red color."
+      ],
+      "answer": 0,
+      "explanation": "Conduct = tien hanh, đung voi khao sat, phong van"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Collaborate' đung?",
+      "options": [
+        "Several departments will collaborate on the product launch.",
+        "She collaborate very tired today.",
+        "They collaborate sunny weather.",
+        "He collaborate the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Collaborate = hop tac, đung voi nguoi/tổ chuc"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Submit':",
+      "options": [
+        "All applicants must submit a resume and cover letter.",
+        "The weather submit warm tomorrow.",
+        "She submit very tired today.",
+        "They submit the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Submit = nop, đung voi tai lieu, đơn hang"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Optimize' phu hop?",
+      "options": [
+        "We need to optimize our website for mobile users.",
+        "She optimize very beautiful dress.",
+        "They optimize sunny weather today.",
+        "He optimize the red color."
+      ],
+      "answer": 0,
+      "explanation": "Optimize = toi uu hoa, đung voi he thong, qua trinh"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Undergo':",
+      "options": [
+        "The building will undergo major renovation this summer.",
+        "She undergo very beautiful today.",
+        "They undergo the sweet taste.",
+        "He undergo quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Undergo = trai qua, đung voi qua trinh, thay đoi"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Formal'?",
+      "options": [
+        "Informal",
+        "Official",
+        "Serious",
+        "Proper"
+      ],
+      "answer": 0,
+      "explanation": "Formal (trang trong) trai nghia voi Informal (tu nhien). Notes ghi: Opposite: informal"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Approximately'?",
+      "options": [
+        "About",
+        "Exactly",
+        "Precisely",
+        "Never"
+      ],
+      "answer": 0,
+      "explanation": "Approximately ~ About"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Conventional'?",
+      "options": [
+        "Innovative",
+        "Traditional",
+        "Standard",
+        "Usual"
+      ],
+      "answer": 0,
+      "explanation": "Conventional (thong thuong) trai nghia voi Innovative (đoi moi). Notes ghi: Opposite: innovative"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'The company is known for its innovative approach', tu 'innovative' gan nghia voi?",
+      "options": [
+        "Creative",
+        "Old-fashioned",
+        "Boring",
+        "Standard"
+      ],
+      "answer": 0,
+      "explanation": "Innovative (đoi moi) ~ Creative (sang tao)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Her guidance was invaluable during the transition', tu nao thay đuoc 'invaluable'?",
+      "options": [
+        "Invaluable ~ Priceless",
+        "Cheap",
+        "Worthless",
+        "Free"
+      ],
+      "answer": 0,
+      "explanation": "Invaluable (vo gia) ~ Priceless (khong đat bang tien)"
+    }
+  ]
+}

@@ -1,0 +1,1263 @@
+{
+  "skill": "reading",
+  "test": "Test 5",
+  "title": "ETS Reading 2026 - Test 5",
+  "questions": [
+    {
+      "type": "meaning",
+      "question": "Tu 'Implement' co nghia la gi?",
+      "options": [
+        "thuc hien; trien khai",
+        "huy bo",
+        "hoan lai",
+        "bo qua"
+      ],
+      "answer": 0,
+      "explanation": "Implement = thuc hien; trien khai (ke hoach, quyet đinh)"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Achievement' la:",
+      "options": [
+        "thanh tu",
+        "that bai",
+        "sai lam",
+        "van may"
+      ],
+      "answer": 0,
+      "explanation": "Achievement = thanh tuu"
+    },
+    {
+      "type": "meaning",
+      "question": "'Implement' vs 'Achievement' - 'Implement' mang y nghia nao?",
+      "options": [
+        "thuc hien",
+        "that bai",
+        "bo qua",
+        "hoan lai"
+      ],
+      "answer": 0,
+      "explanation": "Implement = thuc hien"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia phu hop cho 'Forthcoming':",
+      "options": [
+        "sap toi; sap dien ra",
+        "đa qua",
+        "đang dien ra",
+        "khong xac đinh"
+      ],
+      "answer": 0,
+      "explanation": "Forthcoming = sap toi; sap dien ra"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Consistently' đuoc hieu la:",
+      "options": [
+        "mot cach đeu đan; nhat quan",
+        "bat ngo",
+        "ngau nhien",
+        "thi thoang"
+      ],
+      "answer": 0,
+      "explanation": "Consistently = mot cach đeu đan; nhat quan"
+    },
+    {
+      "type": "meaning",
+      "question": "'Resource' co nghia la gi?",
+      "options": [
+        "nguon luc; tai ngien",
+        "thu nhap",
+        "chi phi",
+        "no vay"
+      ],
+      "answer": 0,
+      "explanation": "Resource = nguon luc; tai ngien"
+    },
+    {
+      "type": "meaning",
+      "question": "Dau la cach hieu đung cua 'Objective' (danh tu)?",
+      "options": [
+        "muc tieu",
+        "khuyết điểm",
+        "vấn đe",
+        "rào cản"
+      ],
+      "answer": 0,
+      "explanation": "Objective = muc tieu"
+    },
+    {
+      "type": "meaning",
+      "question": "'Informative' mang y nghia:",
+      "options": [
+        "giau thong tin; bo ich",
+        "thieu thong tin",
+        "nham chan",
+        "vo dung"
+      ],
+      "answer": 0,
+      "explanation": "Informative = giau thong tin; bo ich"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia tieng Viet cua 'Authorize' la:",
+      "options": [
+        "cho phep; uy quyen",
+        "tu choi",
+        "huy bo",
+        "phu nhan"
+      ],
+      "answer": 0,
+      "explanation": "Authorize = cho phep; uy quyen"
+    },
+    {
+      "type": "meaning",
+      "question": "'Capacity' đuoc hieu nhu the nao?",
+      "options": [
+        "suc chua; nang luc",
+        "suy yeu",
+        "thieu hut",
+        "gioi han"
+      ],
+      "answer": 0,
+      "explanation": "Capacity = suc chua; nang luc"
+    },
+    {
+      "type": "meaning",
+      "question": "Tu 'Personnel' co nghia la:",
+      "options": [
+        "nhan su; đo ngu nhan vien",
+        "khach hang",
+        "nha cung cap",
+        "đoi thu"
+      ],
+      "answer": 0,
+      "explanation": "Personnel = nhan su; đo ngu nhan vien"
+    },
+    {
+      "type": "meaning",
+      "question": "'Faulty' mang y nghia nao?",
+      "options": [
+        "bi loi; hong",
+        "hoan hao",
+        "moi",
+        "tot đep"
+      ],
+      "answer": 0,
+      "explanation": "Faulty = bi loi; hong"
+    },
+    {
+      "type": "meaning",
+      "question": "Nghia cua 'Certified' la:",
+      "options": [
+        "đuoc chung nhan",
+        "bi tu choi",
+        "chua kiem tra",
+        "khong hop le"
+      ],
+      "answer": 0,
+      "explanation": "Certified = đuoc chung nhan"
+    },
+    {
+      "type": "meaning",
+      "question": "Chon nghia cua 'Withdraw':",
+      "options": [
+        "rut; rut lui",
+        "nop vao",
+        "gui them",
+        "giu lai"
+      ],
+      "answer": 0,
+      "explanation": "Withdraw = rut; rut lui"
+    },
+    {
+      "type": "meaning",
+      "question": "'Confidential' co nghia la gi?",
+      "options": [
+        "bi mat; bao mat",
+        "cong khai",
+        "pho bien",
+        "ro rang"
+      ],
+      "answer": 0,
+      "explanation": "Confidential = bi mat; bao mat"
+    },
+    {
+      "type": "word",
+      "question": "Tu tieng Anh nao co nghia 'thực hiện; triển khai'?",
+      "options": [
+        "Implement",
+        "Cancel",
+        "Delay",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Implement = thuc hien; trien khai"
+    },
+    {
+      "type": "word",
+      "question": "Đap an nao mang nghia 'thành tựu'?",
+      "options": [
+        "Achievement",
+        "Failure",
+        "Mistake",
+        "Error"
+      ],
+      "answer": 0,
+      "explanation": "Achievement = thanh tuu"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu tuong ung voi 'mục tiêu':",
+      "options": [
+        "Objective",
+        "Obstacle",
+        "Problem",
+        "Issue"
+      ],
+      "answer": 0,
+      "explanation": "Objective = muc tieu"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao mang nghia 'nguồn lực; tài nguyên'?",
+      "options": [
+        "Resource",
+        "Expense",
+        "Loss",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Resource = nguon luc; tai ngien"
+    },
+    {
+      "type": "word",
+      "question": "Đien tu Anh phu hop voi y 'ủy quyền; cho phép':",
+      "options": [
+        "Authorize",
+        "Deny",
+        "Refuse",
+        "Reject"
+      ],
+      "answer": 0,
+      "explanation": "Authorize = cho phep; uy quyen"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'nhân sự; đội ngũ'?",
+      "options": [
+        "Personnel",
+        "Customers",
+        "Suppliers",
+        "Competitors"
+      ],
+      "answer": 0,
+      "explanation": "Personnel = nhan su; đo ngu nhan vien"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu mang nghia 'bí mật; bảo mật':",
+      "options": [
+        "Confidential",
+        "Public",
+        "Open",
+        "Shared"
+      ],
+      "answer": 0,
+      "explanation": "Confidential = bi mat; bao mat"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay co nghia 'được chứng nhận'?",
+      "options": [
+        "Certified",
+        "Unverified",
+        "Unqualified",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "Certified = đuoc chung nhan"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'rút; rút lui' tuong ung voi tu nao?",
+      "options": [
+        "Withdraw",
+        "Deposit",
+        "Add",
+        "Insert"
+      ],
+      "answer": 0,
+      "explanation": "Withdraw = rut; rut lui"
+    },
+    {
+      "type": "word",
+      "question": "Đap an mang nghia 'bị lỗi; hỏng' la:",
+      "options": [
+        "Faulty",
+        "Perfect",
+        "New",
+        "Flawless"
+      ],
+      "answer": 0,
+      "explanation": "Faulty = bi loi; hong"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'giàu thông tin; bổ ích'?",
+      "options": [
+        "Informative",
+        "Boring",
+        "Useless",
+        "Empty"
+      ],
+      "answer": 0,
+      "explanation": "Informative = giau thong tin; bo ich"
+    },
+    {
+      "type": "word",
+      "question": "Chon tu phu hop voi 'sức chứa; năng lực':",
+      "options": [
+        "Capacity",
+        "Weakness",
+        "Limit",
+        "Shortage"
+      ],
+      "answer": 0,
+      "explanation": "Capacity = suc chua; nang luc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao sau đay mang nghia 'cụ thể; rõ ràng'?",
+      "options": [
+        "Specific",
+        "Vague",
+        "General",
+        "Unclear"
+      ],
+      "answer": 0,
+      "explanation": "Specific = cu the; ro rang"
+    },
+    {
+      "type": "word",
+      "question": "Y nghia 'chấp nhận được' tuong ung tu nao?",
+      "options": [
+        "Acceptable",
+        "Impossible",
+        "Unacceptable",
+        "Wrong"
+      ],
+      "answer": 0,
+      "explanation": "Acceptable = chap nhan đuoc"
+    },
+    {
+      "type": "word",
+      "question": "Tu nao co nghia 'nhân viên cấp dưới'?",
+      "options": [
+        "Subordinate",
+        "Manager",
+        "Director",
+        "Executive"
+      ],
+      "answer": 0,
+      "explanation": "Subordinate = cap duoi; nhan vien duoi quyen"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company plans to _____ a new training program next month.",
+      "options": [
+        "Implement",
+        "Cancel",
+        "Ignore",
+        "Delay"
+      ],
+      "answer": 0,
+      "explanation": "Implement = thuc hien."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu hoan thanh cau:\n\nWinning the design award was a major _____ for the team.",
+      "options": [
+        "Achievement",
+        "Failure",
+        "Mistake",
+        "Loss"
+      ],
+      "answer": 0,
+      "explanation": "Achievement = thanh tuu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe main _____ of the campaign is to increase brand awareness.",
+      "options": [
+        "Objective",
+        "Obstacle",
+        "Problem",
+        "Issue"
+      ],
+      "answer": 0,
+      "explanation": "Objective = muc tieu."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Cau sau thieu mot tu. Chon tu phu hop:\n\nTime is one of our most limited _____.",
+      "options": [
+        "Resources",
+        "Problems",
+        "Issues",
+        "Obstacles"
+      ],
+      "answer": 0,
+      "explanation": "Resource = nguon luc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao o trong:\n\nThe workshop was short but very _____.",
+      "options": [
+        "Informative",
+        "Boring",
+        "Useless",
+        "Empty"
+      ],
+      "answer": 0,
+      "explanation": "Informative = giau thong tin."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu nao hoan thanh cau đung nhat?\n\nThe manager must _____ all large purchases.",
+      "options": [
+        "Authorize",
+        "Deny",
+        "Refuse",
+        "Reject"
+      ],
+      "answer": 0,
+      "explanation": "Authorize = cho phep."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền:\n\nThe venue has a seating _____ of 800 people.",
+      "options": [
+        "Capacity",
+        "Weakness",
+        "Limit",
+        "Shortage"
+      ],
+      "answer": 0,
+      "explanation": "Capacity = suc chua."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nAll _____ must wear identification badges.",
+      "options": [
+        "Personnel",
+        "Customers",
+        "Visitors",
+        "Guests"
+      ],
+      "answer": 0,
+      "explanation": "Personnel = nhan su."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau voi tu phu hop:\n\nA _____ sensor caused the alarm to go off.",
+      "options": [
+        "Faulty",
+        "Perfect",
+        "New",
+        "Flawless"
+      ],
+      "answer": 0,
+      "explanation": "Faulty = bi loi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien vao cho trong:\n\nOnly _____ technicians are allowed to repair this equipment.",
+      "options": [
+        "Certified",
+        "Unverified",
+        "Amateur",
+        "Unqualified"
+      ],
+      "answer": 0,
+      "explanation": "Certified = đuoc chung nhan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nPlease give _____ examples in your report.",
+      "options": [
+        "Specific",
+        "Vague",
+        "General",
+        "Unclear"
+      ],
+      "answer": 0,
+      "explanation": "Specific = cu the."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu điền vao o trong:\n\nYou can _____ cash from any ATM in the network.",
+      "options": [
+        "Withdraw",
+        "Deposit",
+        "Add",
+        "Insert"
+      ],
+      "answer": 0,
+      "explanation": "Withdraw = rut."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe document contains _____ financial information.",
+      "options": [
+        "Confidential",
+        "Public",
+        "Shared",
+        "Open"
+      ],
+      "answer": 0,
+      "explanation": "Confidential = bi mat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu phu hop:\n\nShe _____ meets deadlines and produces high-quality work.",
+      "options": [
+        "Consistently",
+        "Rarely",
+        "Sometimes",
+        "Never"
+      ],
+      "answer": 0,
+      "explanation": "Consistently = nhat quan."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu vao cho trong:\n\nThis level of risk is not _____ to the board.",
+      "options": [
+        "Acceptable",
+        "Impossible",
+        "Wrong",
+        "Unacceptable"
+      ],
+      "answer": 0,
+      "explanation": "Acceptable = chap nhan đuoc."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Tu-can-đien cho cau:\n\nA manager should give clear instructions to each _____.",
+      "options": [
+        "Subordinate",
+        "Director",
+        "Executive",
+        "Manager"
+      ],
+      "answer": 0,
+      "explanation": "Subordinate = cap duoi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Hoan thanh cau:\n\nDetails about the _____ product launch will be shared next week.",
+      "options": [
+        "Forthcoming",
+        "Previous",
+        "Past",
+        "Former"
+      ],
+      "answer": 0,
+      "explanation": "Forthcoming = sap toi."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Chon tu phu hop:\n\nThe bank agreed to _____ the service fee for new customers.",
+      "options": [
+        "Waive",
+        "Charge",
+        "Add",
+        "Increase"
+      ],
+      "answer": 0,
+      "explanation": "Waive = mien (phi)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Đien tu thich hop:\n\nThe company invited _____ clients to the product demonstration.",
+      "options": [
+        "Prospective",
+        "Former",
+        "Past",
+        "Previous"
+      ],
+      "answer": 0,
+      "explanation": "Prospective = tiem nang."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Xac đinh tu-can-đien:\n\nThe company reported _____ growth over the last three years.",
+      "options": [
+        "Steady",
+        "Erratic",
+        "Unstable",
+        "Fluctuating"
+      ],
+      "answer": 0,
+      "explanation": "Steady = on đinh."
+    },
+    {
+      "type": "pos",
+      "question": "'Implement' thuoc tu loai nao?",
+      "options": [
+        "Đong tu",
+        "Danh tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Implement la đong tu (thuc hien)"
+    },
+    {
+      "type": "pos",
+      "question": "Tu 'Achievement' la gi ve tu loai?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Achievement la danh tu (thanh tuu)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh tu loai cua 'Informative':",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Gioi tu"
+      ],
+      "answer": 0,
+      "explanation": "Informative la tinh tu (giau thong tin)"
+    },
+    {
+      "type": "pos",
+      "question": "'Capacity' thuoc nhom nao?",
+      "options": [
+        "Danh tu",
+        "Đong tu",
+        "Tinh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Capacity la danh tu (suc chua)"
+    },
+    {
+      "type": "pos",
+      "question": "Phan tu loai cua 'Certified' la:",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Certified la tinh tu (đuoc chung nhan)"
+    },
+    {
+      "type": "pos",
+      "question": "'Faulty' la tinh tu hay danh tu?",
+      "options": [
+        "Tinh tu",
+        "Danh tu"
+      ],
+      "answer": 0,
+      "explanation": "Faulty la tinh tu (bi loi)"
+    },
+    {
+      "type": "pos",
+      "question": "'Confidential' thuoc loai tu nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Confidential la tinh tu (bi mat)"
+    },
+    {
+      "type": "pos",
+      "question": "Xac đinh: 'Personnel' la danh tu hay tinh tu?",
+      "options": [
+        "Danh tu",
+        "Tinh tu"
+      ],
+      "answer": 0,
+      "explanation": "Personnel la danh tu (nhan su)"
+    },
+    {
+      "type": "pos",
+      "question": "'Specific' thuoc tu loai nao?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Specific la tinh tu (cu the)"
+    },
+    {
+      "type": "pos",
+      "question": "'Forthcoming' la gi?",
+      "options": [
+        "Tinh tu",
+        "Đong tu",
+        "Danh tu",
+        "Trang tu"
+      ],
+      "answer": 0,
+      "explanation": "Forthcoming la tinh tu (sap toi)"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia: 'to put a plan into action'?",
+      "options": [
+        "Implement",
+        "Cancel",
+        "Delay",
+        "Ignore"
+      ],
+      "answer": 0,
+      "explanation": "Implement = thuc hien; trien khai"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'something important that someone succeeds in doing' mo ta tu nao?",
+      "options": [
+        "Achievement",
+        "Failure",
+        "Mistake",
+        "Error"
+      ],
+      "answer": 0,
+      "explanation": "Achievement = thanh tuu"
+    },
+    {
+      "type": "definition",
+      "question": "Theo đinh nghia 'something that you are trying to achieve', tu đo la:",
+      "options": [
+        "Objective",
+        "Obstacle",
+        "Problem",
+        "Issue"
+      ],
+      "answer": 0,
+      "explanation": "Objective = muc tieu"
+    },
+    {
+      "type": "definition",
+      "question": "Tu tieng Anh nao đuoc đinh nghia: 'officially recognized as meeting a required standard'?",
+      "options": [
+        "Certified",
+        "Unverified",
+        "Amateur",
+        "Unqualified"
+      ],
+      "answer": 0,
+      "explanation": "Certified = đuoc chung nhan"
+    },
+    {
+      "type": "definition",
+      "question": "'the maximum amount something can contain' chi tu:",
+      "options": [
+        "Capacity",
+        "Weakness",
+        "Limit",
+        "Shortage"
+      ],
+      "answer": 0,
+      "explanation": "Capacity = suc chua"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao đuoc mo ta: 'meant to be kept private and not shared'?",
+      "options": [
+        "Confidential",
+        "Public",
+        "Open",
+        "Shared"
+      ],
+      "answer": 0,
+      "explanation": "Confidential = bi mat"
+    },
+    {
+      "type": "definition",
+      "question": "Đinh nghia 'not working properly or having a defect' chi tu:",
+      "options": [
+        "Faulty",
+        "Perfect",
+        "New",
+        "Flawless"
+      ],
+      "answer": 0,
+      "explanation": "Faulty = bi loi"
+    },
+    {
+      "type": "definition",
+      "question": "'providing useful or interesting information' mo ta tu:",
+      "options": [
+        "Informative",
+        "Boring",
+        "Useless",
+        "Empty"
+      ],
+      "answer": 0,
+      "explanation": "Informative = giau thong tin"
+    },
+    {
+      "type": "definition",
+      "question": "Tu nao co đinh nghia 'exact and particular, not general'?",
+      "options": [
+        "Specific",
+        "Vague",
+        "General",
+        "Unclear"
+      ],
+      "answer": 0,
+      "explanation": "Specific = cu the"
+    },
+    {
+      "type": "definition",
+      "question": "'the people who work for an organization' mo ta tu nao?",
+      "options": [
+        "Personnel",
+        "Customers",
+        "Suppliers",
+        "Visitors"
+      ],
+      "answer": 0,
+      "explanation": "Personnel = nhan su"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia nao mo ta 'Authorize' chinh xac nhat?",
+      "options": [
+        "cho phep",
+        "tu choi",
+        "huy bo",
+        "cam đoan"
+      ],
+      "answer": 0,
+      "explanation": "Authorize = cho phep; uy quyen"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Cach hieu gan nhat voi 'Align' la:",
+      "options": [
+        "đong bo",
+        "phan tan",
+        "chia re",
+        "mất mát"
+      ],
+      "answer": 0,
+      "explanation": "Align = sap xep thang hàng; đong bo"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Determine' gan voi y nao nhat?",
+      "options": [
+        "xac đinh",
+        "bo qua",
+        "an gia",
+        "đoan"
+      ],
+      "answer": 0,
+      "explanation": "Determine = xac đinh; quyet đinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Crucially' la gi?",
+      "options": [
+        "quyet đinh; cot yeu",
+        "binh thuong",
+        "phu gian",
+        "đe nho"
+      ],
+      "answer": 0,
+      "explanation": "Crucially = mot cach quyet đinh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Nghia ngan gon nhat cua 'Explore' la:",
+      "options": [
+        "kham pha",
+        "đung yen",
+        "quay lai",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Explore = kham pha; tim hieu"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Avoid' co nghia gan voi:",
+      "options": [
+        "tranh",
+        "đuổi theo",
+        "tìm kiếm",
+        "chạm vào"
+      ],
+      "answer": 0,
+      "explanation": "Avoid = tranh"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "Y nghia chinh cua 'Possess' la gi?",
+      "options": [
+        "so huu",
+        "mat đi",
+        "ban đi",
+        "cho đi"
+      ],
+      "answer": 0,
+      "explanation": "Possess = so huu; co"
+    },
+    {
+      "type": "closest_meaning",
+      "question": "'Thrive' mang y nao gan nhat?",
+      "options": [
+        "phat trien manh",
+        "suy yeu",
+        "chet đi",
+        "dung lai"
+      ],
+      "answer": 0,
+      "explanation": "Thrive = phat trien manh; thinh vuong"
+    },
+    {
+      "type": "collocation",
+      "question": "'Achievement' thuong ket hop voi tu nao?",
+      "options": [
+        "Major achievement",
+        "Tasty achievement",
+        "Cold achievement",
+        "Dark achievement"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: major achievement, personal achievement"
+    },
+    {
+      "type": "collocation",
+      "question": "Đau la collocation chua 'Resource'?",
+      "options": [
+        "Natural resources",
+        "Tasty resources",
+        "Cold resources",
+        "Dark resources"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: natural resources, human resources"
+    },
+    {
+      "type": "collocation",
+      "question": "Tu 'Objective' thuong đi cung cum nao?",
+      "options": [
+        "Project objectives",
+        "Tasty objectives",
+        "Cold objectives",
+        "Dark objectives"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: project objectives, main objective"
+    },
+    {
+      "type": "collocation",
+      "question": "'Description' thuong xuat hien trong cum nao?",
+      "options": [
+        "Job description",
+        "Tasty description",
+        "Cold description",
+        "Dark description"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: job description, product description"
+    },
+    {
+      "type": "collocation",
+      "question": "Chon collocation phu hop voi 'Personnel':",
+      "options": [
+        "Security personnel",
+        "Tasty personnel",
+        "Cold personnel",
+        "Dark personnel"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: security personnel, personnel department"
+    },
+    {
+      "type": "collocation",
+      "question": "'Shortage' đi cung voi tu nao?",
+      "options": [
+        "Staff shortage",
+        "Tasty shortage",
+        "Cold shortage",
+        "Dark shortage"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: staff shortage, supply shortage"
+    },
+    {
+      "type": "collocation",
+      "question": "Cum nao la collocation đung voi 'Coverage'?",
+      "options": [
+        "Insurance coverage",
+        "Tasty coverage",
+        "Cold coverage",
+        "Dark coverage"
+      ],
+      "answer": 0,
+      "explanation": "Collocation: insurance coverage, media coverage"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Physiotherapy' lien quan đên ngucanh nao?",
+      "options": [
+        "Y te",
+        "Tai chinh",
+        "The thao",
+        "Cong nghe"
+      ],
+      "answer": 0,
+      "explanation": "Physiotherapy = vat ly tri lieu, ngucanh y te"
+    },
+    {
+      "type": "context",
+      "question": "'Tardiness' thuoc linh vuc nao?",
+      "options": [
+        "Nhan su (HR)",
+        "Y te",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "Tardiness = su đi tre, ngucanh nhan su"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'Cover letter' lien quan chinh đên gi?",
+      "options": [
+        "Ung tuyen viec lam",
+        "Y te",
+        "The thao",
+        "Am thuc"
+      ],
+      "answer": 0,
+      "explanation": "Cover letter = thu xin viec, ngucanh ung tuyen"
+    },
+    {
+      "type": "context",
+      "question": "'Breach' thuong đuoc dung khi noi ve gi?",
+      "options": [
+        "Phap ly, bao mat",
+        "Y te",
+        "The thao",
+        "Am nhac"
+      ],
+      "answer": 0,
+      "explanation": "Breach = su vi pham, ngucanh phap ly, bao mat"
+    },
+    {
+      "type": "context",
+      "question": "Tu 'First aid' lien quan đên linhvuc nao?",
+      "options": [
+        "Y te, an toan",
+        "Tai chinh",
+        "The thao",
+        "Thoi trang"
+      ],
+      "answer": 0,
+      "explanation": "First aid = so cuu, ngucanh y te, an toan"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu nao KHAC nhom?",
+      "options": [
+        "Implement",
+        "Achieve",
+        "Avoid",
+        "Resource"
+      ],
+      "answer": 3,
+      "explanation": "Resource la danh tu; 3 tu con lai la đong tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tim tu khac loai:",
+      "options": [
+        "Informative",
+        "Certified",
+        "Confidential",
+        "Implement"
+      ],
+      "answer": 3,
+      "explanation": "Implement la đong tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "4 tu nay co 3 tu cung loai. Tu nao la ngoai le?",
+      "options": [
+        "Consistently",
+        "Previously",
+        "Forthcoming",
+        "Ultimately"
+      ],
+      "answer": 2,
+      "explanation": "Forthcoming la tinh tu; 3 tu con lai la trang tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Chon tu KHONG cung nhom:",
+      "options": [
+        "Capacity",
+        "Personnel",
+        "Achievement",
+        "Withdraw"
+      ],
+      "answer": 3,
+      "explanation": "Withdraw la đong tu; 3 tu con lai la danh tu"
+    },
+    {
+      "type": "odd_one_out",
+      "question": "Tu khac loai trong danh sach:",
+      "options": [
+        "Specific",
+        "Faulty",
+        "Acceptable",
+        "Achievement"
+      ],
+      "answer": 3,
+      "explanation": "Achievement la danh tu; 3 tu con lai la tinh tu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao sau đay dung tu 'Implement' đung?",
+      "options": [
+        "The company plans to implement a new training program next month.",
+        "She implement very beautiful today.",
+        "They implement sunny weather.",
+        "He implement the red color."
+      ],
+      "answer": 0,
+      "explanation": "Implement = thuc hien, đung voi ke hoach, chuong trinh"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung tu 'Authorize' đung?",
+      "options": [
+        "The manager must authorize all large purchases.",
+        "She authorize very tired today.",
+        "They authorize sunny weather.",
+        "He authorize the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Authorize = cho phep, đung voi mua sam, truy cap"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau dung voi 'Withdraw':",
+      "options": [
+        "You can withdraw cash from any ATM in the network.",
+        "The weather withdraw warm tomorrow.",
+        "She withdraw very tired today.",
+        "They withdraw the sweet taste."
+      ],
+      "answer": 0,
+      "explanation": "Withdraw = rut, đung voi tien, ung cu"
+    },
+    {
+      "type": "usage_check",
+      "question": "Cau nao dung 'Avoid' phu hop?",
+      "options": [
+        "Please avoid discussing confidential matters in public areas.",
+        "She avoid very beautiful dress.",
+        "They avoid sunny weather today.",
+        "He avoid the red color."
+      ],
+      "answer": 0,
+      "explanation": "Avoid = tranh, đung voi hanh đong, tinh huong"
+    },
+    {
+      "type": "usage_check",
+      "question": "Chon cau đung voi 'Explore':",
+      "options": [
+        "The company is exploring new opportunities in the healthcare sector.",
+        "She explore very beautiful today.",
+        "They explore the sweet taste.",
+        "He explore quickly home."
+      ],
+      "answer": 0,
+      "explanation": "Explore = kham pha, đung voi co hoi, phuong an"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Forthcoming'?",
+      "options": [
+        "Past",
+        "Future",
+        "Soon",
+        "Approaching"
+      ],
+      "answer": 0,
+      "explanation": "Forthcoming (sap toi) trai nghia voi Past (đa qua)"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao gan nghia voi 'Crucially'?",
+      "options": [
+        "Importantly",
+        "Trivially",
+        "Slightly",
+        "Barely"
+      ],
+      "answer": 0,
+      "explanation": "Crucially ~ Importantly"
+    },
+    {
+      "type": "synonym_antonym",
+      "question": "Tu nao trai nghia voi 'Specific'?",
+      "options": [
+        "General",
+        "Exact",
+        "Precise",
+        "Detailed"
+      ],
+      "answer": 0,
+      "explanation": "Specific (cu the) trai nghia voi General (chung). Notes ghi: Opposite: general"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Skilled employees are the company's greatest asset', tu 'asset' gan nghia voi?",
+      "options": [
+        "Resource",
+        "Liability",
+        "Burden",
+        "Debt"
+      ],
+      "answer": 0,
+      "explanation": "Asset (tai san; điem manh) ~ Resource (nguon luc)"
+    },
+    {
+      "type": "substitution",
+      "question": "Trong cau 'Small businesses can thrive with the right support', tu nao thay đuoc 'thrive'?",
+      "options": [
+        "Flourish",
+        "Decline",
+        "Fail",
+        "Struggle"
+      ],
+      "answer": 0,
+      "explanation": "Thrive (phat trien manh) ~ Flourish (thinh vuong)"
+    }
+  ]
+}
